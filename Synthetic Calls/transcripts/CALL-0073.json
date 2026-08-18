@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "call_id": "CALL-0073",
+    "customer_id": "CUST-1025",
+    "customer_name": "Christopher Ramirez",
+    "customer_type": "Consumer",
+    "phone": "555-567-3148",
+    "email": "christopher.ramirez@telecom-personal.com",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "duration_minutes": 6,
+    "total_turns": 35
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Enterprise Support. My name is Jessica. How can I help you today?"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "User",
+      "text": "Hi Jessica. I'm calling about our dedicated fiber line. We're experiencing what looks like high latency and some packet loss."
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "Agent",
+      "text": "I'm sorry to hear that. I understand how important a stable connection is for business. I can definitely look into that for you. To pull up your account, could I please get your Customer ID?"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "User",
+      "text": "Sure, it's CUST-1025."
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, could you please provide the four-digit PIN on the account?"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "User",
+      "text": "Yes, it's 2301."
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. I have your account pulled up. I see this is for Christopher Ramirez. Is that correct?"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "User",
+      "text": "Yes, this is Christopher."
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "Agent",
+      "text": "Great, thank you for verifying, Mr. Ramirez. So you mentioned latency and packet loss. Can you tell me a bit more about what you're seeing? When did this start?"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "User",
+      "text": "It started about an hour ago. Our internal monitoring system flagged it. Our VoIP phone system is the most affected\u2014calls are choppy and sometimes drop completely."
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "Agent",
+      "text": "Okay, that's definitely not the experience we want for you. And are other services impacted as well, like general web browsing or file transfers?"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "User",
+      "text": "Yes, everything is sluggish. I've been running a continuous ping to a public DNS server and I'm seeing about 5 to 10 percent packet loss and latency spikes up to 200 milliseconds."
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "Agent",
+      "text": "Thank you, that's very helpful information. It sounds like you've already done some good initial troubleshooting. Have you tried power cycling your router or our Optical Network Terminal?"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "User",
+      "text": "That was the first thing I did. I rebooted our firewall and then the Cymbal ONT. No change."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "Agent",
+      "text": "Understood. That rules out a simple equipment glitch on your end. I'm going to run a series of line tests from my side. This will check the signal integrity from our central office to your building. This process will take about sixty to ninety seconds. Is it alright if I place you on a brief hold?"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "User",
+      "text": "Yes, that's fine. Go ahead."
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "Agent",
+      "text": "Thank you. Please hold."
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Ramirez."
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "User",
+      "text": "No problem. What did you find?"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "Agent",
+      "text": "The remote diagnostic is complete. I'm seeing some clear indicators of a problem. My tests show stable light levels leaving our hub, but I'm detecting significant signal degradation and reflectance just before it reaches your ONT. This is consistent with the packet loss you're reporting."
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "User",
+      "text": "Reflectance? So, a physical issue with the fiber itself?"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "Agent",
+      "text": "That is the most likely cause. It could be a dirty connection, a micro-bend in the line, or a problem with the port at the local distribution point. I've attempted to remotely re-provision the port, but the error persists."
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "User",
+      "text": "Okay. So a remote fix isn't possible then. What's the next step?"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "Agent",
+      "text": "Correct. Since we can't resolve this remotely, we'll need to dispatch a field engineer to perform an on-site diagnosis with a light meter and inspect the physical line. They'll have the tools to clean the fiber ends or repair any line issues they find."
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "User",
+      "text": "That sounds right. How quickly can you get someone out here? This is impacting our entire office."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "Agent",
+      "text": "I completely understand the urgency. Because this is a dedicated enterprise line with a service level agreement, this gets priority dispatch. Let me check the schedule... I can get a technician out to you tomorrow morning. I have a two-hour arrival window between 8 AM and 10 AM. Would that work?"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "User",
+      "text": "Yes, tomorrow morning is good. The earlier the better, if possible."
+    },
+    {
+      "timestamp": "05:00",
+      "speaker": "Agent",
+      "text": "Okay, I've noted a preference for the early part of the window on the work order. I've just submitted the dispatch request. Your ticket reference number is 775-912. You'll also receive a text message to the primary contact number on file confirming the appointment."
+    },
+    {
+      "timestamp": "05:19",
+      "speaker": "User",
+      "text": "775-912. Got it. Thank you."
+    },
+    {
+      "timestamp": "05:23",
+      "speaker": "Agent",
+      "text": "You're welcome. The technician will call the same number about 30 minutes prior to their arrival tomorrow."
+    },
+    {
+      "timestamp": "05:31",
+      "speaker": "User",
+      "text": "Perfect. That works for us."
+    },
+    {
+      "timestamp": "05:34",
+      "speaker": "Agent",
+      "text": "Excellent. I've added detailed notes from our call to the ticket so the engineer will be fully aware of the situation and the tests we've already run. Is there anything else I can assist you with today, Mr. Ramirez?"
+    },
+    {
+      "timestamp": "05:49",
+      "speaker": "User",
+      "text": "No, that's everything for now. I appreciate your help in getting this scheduled so quickly."
+    },
+    {
+      "timestamp": "05:55",
+      "speaker": "Agent",
+      "text": "It's my pleasure. We'll work to get your service back to 100% as soon as possible. Thank you for calling Cymbal Telecom, and have a good rest of your day."
+    },
+    {
+      "timestamp": "06:06",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    }
+  ]
+}

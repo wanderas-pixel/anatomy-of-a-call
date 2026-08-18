@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "call_id": "CALL-0045",
+    "customer_id": "CUST-2003",
+    "customer_name": "Global Logistics LLC",
+    "customer_type": "Corporate",
+    "phone": "800-938-4890",
+    "email": "robert.chen@globallogistics.com",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "duration_minutes": 9,
+    "total_turns": 52
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Corporate Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hello, Alex. This is Robert Chen from Global Logistics. I need to add an authorized contact to our corporate account."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "Certainly, Mr. Chen. I can definitely assist you with that. To access the account, I'll need to verify your security credentials. Could you please provide me with your Customer ID?"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "User",
+      "text": "Yes, of course. The customer ID is CUST-2003."
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "Agent",
+      "text": "Thank you. And could you please provide the 6-digit account security PIN?"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "User",
+      "text": "Let's see... it should be 8-8-3-4-9-8."
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for that. Please give me just one moment to pull up the account for Global Logistics LLC."
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "Agent",
+      "text": "Alright, I have the account pulled up now. I can see you are the primary contact, Robert Chen. So you'd like to add a new authorized contact today?"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "User",
+      "text": "That's correct. We have a new office manager, and I need her to be able to call in for support or make changes if I'm not available."
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "Agent",
+      "text": "That's a very good idea. It makes managing the account much more efficient. I can certainly set that up. Now, as I'm reviewing the account details here, I am required to inform you that the account is currently showing a past-due balance from the last billing cycle."
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "User",
+      "text": "Past due? Are you sure? I thought our accounts payable department processed that payment last week."
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "Agent",
+      "text": "I can only see the information in our system, which indicates the invoice for the Business Dedicated Fiber 500 service, totaling three hundred forty-nine dollars, has not yet been paid. The due date was five days ago."
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "User",
+      "text": "Hold on, let me quickly check my email... I'm looking for the invoice... Ah, yes, I see it. It looks like it was approved but never sent. My apologies. I'll get on that right away."
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "Agent",
+      "text": "I understand completely, these things happen. Just so you're aware, to avoid any potential service interruption, we would need that payment processed as soon as possible. Would you like to make a payment now over the phone with a credit card?"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "No, no, our policy is for AP to handle all payments via ACH. I will personally walk this over to them as soon as we're off the phone. It will be paid today."
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "Agent",
+      "text": "Excellent. I will make a note of that on the account. Thank you for your prompt attention to it, Mr. Chen."
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "User",
+      "text": "Of course. So, can we still proceed with adding the authorized contact?"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "Agent",
+      "text": "Yes, absolutely. The pending payment does not prevent us from making administrative changes to the account. Now, for adding an authorized contact to a corporate account, we have a standard security procedure."
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "User",
+      "text": "Okay, what do I need to do?"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "Agent",
+      "text": "I will need to send a 'Change of Authorization' form to the primary email address we have on file. I must confirm, is that still robert.chen@globallogistics.com?"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "User",
+      "text": "Yes, that is correct."
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "Agent",
+      "text": "Great. You will need to fill out that form with the new contact's information, sign it, and email it back to our corporate support address, which will be listed in the email. This creates a paper trail and ensures the security of your account."
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "User",
+      "text": "That makes sense. A bit of paperwork, but I understand the security reason."
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "Agent",
+      "text": "We appreciate your understanding. It's for your protection. Now, could you give me the full name and title of the person you wish to add? I can pre-populate some of the information for you."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "Yes, her name is Sarah Jenkins. That's S-A-R-A-H, Jenkins, J-E-N-K-I-N-S. Her title is Office Manager."
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "Agent",
+      "text": "Thank you. Sarah Jenkins, Office Manager. Got it. And what level of authorization would you like to grant her?"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "User",
+      "text": "Level of authorization? What are the options?"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "Agent",
+      "text": "The standard level for an authorized contact allows them to discuss billing, make payments, request technical support, and make changes to services. However, they cannot close the account or change the primary account holder. Is that suitable?"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "User",
+      "text": "Yes, that's perfect. That's exactly what I need."
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "Agent",
+      "text": "Okay. I am generating the email with the form now. It will come from support@cymbaltelecom.com. Please be sure to check your spam or junk folder if you don't see it in the next few minutes."
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "User",
+      "text": "Will do. So I just fill it out, sign it, and scan it back?"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "Agent",
+      "text": "That's correct. You can scan it or even take a clear photo of the signed document with your phone and email it to the address provided. As long as the signature and information are legible."
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "User",
+      "text": "Okay, that's easy enough. About how long does it take to process once we send it back?"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "Agent",
+      "text": "Our corporate accounts team typically processes these requests within one to two business days. Once it's processed, Sarah will be fully authorized in our system."
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "User",
+      "text": "One to two business days. Got it."
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "Agent",
+      "text": "And the email has just been sent from my side. Can you confirm if you see it?"
+    },
+    {
+      "timestamp": "05:20",
+      "speaker": "User",
+      "text": "Let me refresh my inbox... one second..."
+    },
+    {
+      "timestamp": "05:35",
+      "speaker": "User",
+      "text": "Ah, yes. It just came through. 'Cymbal Telecom - Account Authorization Form'."
+    },
+    {
+      "timestamp": "05:42",
+      "speaker": "Agent",
+      "text": "Wonderful. So, just to recap the process: you'll complete that form for Sarah Jenkins, sign it, and email it back to us. Our team will process it within two business days, and she will then have standard authorization on the account."
+    },
+    {
+      "timestamp": "05:58",
+      "speaker": "User",
+      "text": "Perfect. That sounds great."
+    },
+    {
+      "timestamp": "06:01",
+      "speaker": "Agent",
+      "text": "And I've also added a note to the account regarding our conversation about the past-due balance, noting that your AP department will be submitting the payment today via ACH."
+    },
+    {
+      "timestamp": "06:12",
+      "speaker": "User",
+      "text": "Thank you, Alex. I appreciate you making a note of that. It will be taken care of."
+    },
+    {
+      "timestamp": "06:18",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Mr. Chen. We value your business with Cymbal Telecom. Was there anything else I could help you with today? Perhaps any questions about your service or any other account matters?"
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "User",
+      "text": "No, that was the main thing on my plate today. You've been very helpful."
+    },
+    {
+      "timestamp": "06:34",
+      "speaker": "Agent",
+      "text": "I'm very glad I could assist. Once the form is processed, you will receive a confirmation email letting you know the change has been completed."
+    },
+    {
+      "timestamp": "06:43",
+      "speaker": "User",
+      "text": "A confirmation email? That's great. Then I'll know it's done."
+    },
+    {
+      "timestamp": "06:48",
+      "speaker": "Agent",
+      "text": "Yes, we always like to close the loop."
+    },
+    {
+      "timestamp": "06:51",
+      "speaker": "User",
+      "text": "Okay, well thank you for your help."
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "Agent",
+      "text": "You are most welcome. Thank you for calling Cymbal Telecom Corporate Support, and have a wonderful rest of your day, Mr. Chen."
+    },
+    {
+      "timestamp": "07:03",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "07:05",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

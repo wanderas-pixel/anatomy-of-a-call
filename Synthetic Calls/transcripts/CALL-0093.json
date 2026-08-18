@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "call_id": "CALL-0093",
+    "customer_id": "CUST-1006",
+    "customer_name": "Margaret Harris",
+    "customer_type": "Consumer",
+    "phone": "555-744-6364",
+    "email": "margaret.harris@telecom-personal.com",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "duration_minutes": 13,
+    "total_turns": 66
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is David. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi David. I'm trying to sort out my accounts. I have my internet with you, and also my mobile phone, but they're on two separate bills and have two separate logins. I'd like to combine them if possible."
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "Agent",
+      "text": "Absolutely, we can definitely help with that. Merging accounts is a great way to simplify your billing. To get started, I'll need to pull up your primary account. Do you have your customer ID for the internet service handy?"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "User",
+      "text": "Yes, I do. It's CUST-1006."
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "Agent",
+      "text": "Thank you, Margaret. And for security purposes, can you please verify the 4-digit security PIN associated with this account?"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "User",
+      "text": "Oh, sure. It should be 8963."
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "Agent",
+      "text": "Perfect, that's a match. Thank you for verifying. I have your Double Play Bundle account pulled up here. Now, how can I best find the mobile account? The phone number for it would be great."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "User",
+      "text": "Yes, the number is 555-821-1234."
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "Agent",
+      "text": "Okay, 555-821-1234. Give me just one moment to locate that in our system."
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "User",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "Agent",
+      "text": "Alright, I see it. A single mobile line under Margaret Harris as well. So, the process will be to migrate this mobile service onto your primary broadband account. It's fairly straightforward."
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "User",
+      "text": "That sounds perfect. That's exactly what I want."
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "Agent",
+      "text": "Great. Before I can initiate the account merge, my system requires that all accounts involved are in good standing. I am seeing a flag here on the broadband account, CUST-1006, indicating a past-due balance."
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "User",
+      "text": "Past due? That's not right. I'm on automatic debit, it should have been paid."
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "Agent",
+      "text": "I can understand the confusion. Let me check the payment history for you... Yes, I see here that an automatic payment was attempted on the 5th of the month, but it was declined by the bank."
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "User",
+      "text": "Declined? Why would it be declined?"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "Agent",
+      "text": "Often this happens if the credit card on file has expired, or if there was a temporary issue with the card issuer. The outstanding balance is for one billing cycle, a total of $95.00."
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "Oh, for heaven's sake. You know what, I think I did get a new card from my bank last month. I must have forgotten to update it. I'm sorry about that."
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "Agent",
+      "text": "No problem at all, it's a very common thing. We can take care of that payment right now over the phone if you'd like, and then I can proceed with merging the accounts for you."
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "User",
+      "text": "Yes, let's do that. I have the new card right here."
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "Agent",
+      "text": "Okay. Whenever you're ready."
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "User",
+      "text": "It's a Visa. The number is 4277... 1109... 8845... 6001."
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "Agent",
+      "text": "Thank you. And the expiration date?"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "User",
+      "text": "It's 08/27."
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "Agent",
+      "text": "And the three-digit security code from the back?"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "User",
+      "text": "That is 391."
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "Agent",
+      "text": "Okay. So I am submitting a one-time payment of $95.00 on your Visa ending in 6001. Is that correct?"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "User",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "Agent",
+      "text": "Please hold one moment while this processes... "
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "Agent",
+      "text": "Alright, thank you for waiting. The payment has been approved. Your confirmation number is 75B-1A9-3C4. The account is now current."
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "User",
+      "text": "Wonderful. Thank you."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "You're welcome. Would you like me to update this new card as your default for automatic payments going forward?"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "User",
+      "text": "Oh, yes please. That would save me another call."
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "Agent",
+      "text": "Of course. I am updating the auto-pay information now... and... done. It's all set. Your next bill will be debited from this new card."
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "User",
+      "text": "Great. So, can we merge the accounts now?"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "Agent",
+      "text": "Yes, we can. I have all the authorization I need. What I'm going to do is make your broadband account the 'master' account, and then migrate your mobile service line to be a part of it."
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "User",
+      "text": "Okay, that sounds right."
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "Agent",
+      "text": "The process on my end will take about three to four minutes to complete. It involves releasing the mobile line from its old account structure and re-provisioning it under the new one. Is it alright if I place you on a brief hold while I complete this?"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "User",
+      "text": "Yes, that's fine. I'll wait."
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. I'll be back with you shortly."
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "Agent",
+      "text": "Thank you for holding, Margaret. I appreciate your patience."
+    },
+    {
+      "timestamp": "08:18",
+      "speaker": "User",
+      "text": "No problem. Did it work?"
+    },
+    {
+      "timestamp": "08:21",
+      "speaker": "Agent",
+      "text": "Yes, it did. I'm happy to report that the account merge was successful. Your mobile line, 555-821-1234, is now officially part of your CUST-1006 account. You'll receive a single, unified bill from now on."
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "User",
+      "text": "Oh, that's fantastic news! So much simpler."
+    },
+    {
+      "timestamp": "08:39",
+      "speaker": "Agent",
+      "text": "It is. Just as a heads-up, your first unified bill might look a little unusual. It will likely contain some pro-rated charges for the mobile service to align its billing date with your broadband's billing cycle. But after that, it will be a single, predictable monthly amount."
+    },
+    {
+      "timestamp": "08:56",
+      "speaker": "User",
+      "text": "That makes sense. I understand. As long as it's all on one bill."
+    },
+    {
+      "timestamp": "09:01",
+      "speaker": "Agent",
+      "text": "Perfect. Now, we have one final, very important step. Since we've created a new unified account structure, we also need to create a new, single security PIN for it. Your old PIN of 8963 is no longer active."
+    },
+    {
+      "timestamp": "09:16",
+      "speaker": "User",
+      "text": "Oh, okay. So I need to set a new one?"
+    },
+    {
+      "timestamp": "09:19",
+      "speaker": "Agent",
+      "text": "That's correct. This will be the master PIN for your entire Cymbal Telecom account. You can choose any 4-digit number that's easy for you to remember but hard for others to guess."
+    },
+    {
+      "timestamp": "09:31",
+      "speaker": "User",
+      "text": "Okay... let me think for a second..."
+    },
+    {
+      "timestamp": "09:40",
+      "speaker": "User",
+      "text": "Alright, I have one. Let's make it 2407."
+    },
+    {
+      "timestamp": "09:46",
+      "speaker": "Agent",
+      "text": "Okay, 2407. And just to confirm, can you repeat that for me one more time?"
+    },
+    {
+      "timestamp": "09:52",
+      "speaker": "User",
+      "text": "Yes, two-four-zero-seven."
+    },
+    {
+      "timestamp": "09:56",
+      "speaker": "Agent",
+      "text": "Excellent. I'm updating your account file now with the new master PIN. Please make a note of it for your records, as you will need it anytime you call us for support."
+    },
+    {
+      "timestamp": "10:08",
+      "speaker": "User",
+      "text": "I've written it down. 2407."
+    },
+    {
+      "timestamp": "10:12",
+      "speaker": "Agent",
+      "text": "The update is complete. Your new PIN is now active in our system."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "Thank you so much. You've been very helpful."
+    },
+    {
+      "timestamp": "10:22",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Margaret. So, just to recap our call: we successfully processed a payment to bring your account current, updated your card on file for auto-pay, merged your mobile and broadband accounts under a single customer ID, and set a new master security PIN for the unified account."
+    },
+    {
+      "timestamp": "10:45",
+      "speaker": "User",
+      "text": "That covers everything. You got it all done."
+    },
+    {
+      "timestamp": "10:49",
+      "speaker": "Agent",
+      "text": "Wonderful. Was there anything else at all I could assist you with today?"
+    },
+    {
+      "timestamp": "10:54",
+      "speaker": "User",
+      "text": "No, that was it. That was the big one on my to-do list."
+    },
+    {
+      "timestamp": "10:59",
+      "speaker": "Agent",
+      "text": "I'm glad I could help you cross it off. Well then, thank you for being a loyal Cymbal Telecom customer."
+    },
+    {
+      "timestamp": "11:06",
+      "speaker": "User",
+      "text": "Thank you, David."
+    },
+    {
+      "timestamp": "11:08",
+      "speaker": "Agent",
+      "text": "You're very welcome. Thank you for calling Cymbal Telecom. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "11:15",
+      "speaker": "User",
+      "text": "You too. Bye bye."
+    },
+    {
+      "timestamp": "11:17",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

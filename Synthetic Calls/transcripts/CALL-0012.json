@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "call_id": "CALL-0012",
+    "customer_id": "CUST-1015",
+    "customer_name": "Lisa Thompson",
+    "customer_type": "Consumer",
+    "phone": "555-534-4146",
+    "email": "lisa.thompson@telecom-personal.com",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "duration_minutes": 8,
+    "total_turns": 42
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is David. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi David. I'd like to set up automatic payments from my bank account. I believe I get a discount for that?"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Yes, that's correct! We offer a ten dollar monthly discount for enrolling in autopay with a direct debit from a checking or savings account. I can definitely help you set that up. For security, could I first get your Customer ID, please?"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "User",
+      "text": "Sure thing. It's CUST-1015."
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "Agent",
+      "text": "Thank you. And to fully verify the account, could you please provide the four-digit security PIN?"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "User",
+      "text": "Let's see... it should be 5063."
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "Agent",
+      "text": "Perfect, that's it. Thank you for verifying, Ms. Thompson. I have your account details here. So, let's get that direct debit configured for you."
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "User",
+      "text": "Great, thank you."
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "Agent",
+      "text": "Okay, so just to be clear, to receive the discount, the payment method does need to be a bank account using a routing and account number, not a debit or credit card. Is that what you were planning to use?"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "User",
+      "text": "Yes, that's exactly what I want. Direct from my checking account."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "Agent",
+      "text": "Excellent. I will need the bank's nine-digit routing number first, whenever you're ready."
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "User",
+      "text": "Okay, I have my checkbook here. The routing number is 122100248."
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "Agent",
+      "text": "Got it. That's one-two-two-one-zero-zero-two-four-eight. Correct?"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "User",
+      "text": "Yes, that is correct."
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "Agent",
+      "text": "Thank you. And now, the checking account number itself?"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "User",
+      "text": "The account number is 8055671234."
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "Agent",
+      "text": "Okay, let me read that back to you slowly. Eight-zero-five-five-six-seven-one-two-three-four."
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "User",
+      "text": "That's the one."
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "Agent",
+      "text": "Wonderful. Please give me just a moment to enter this into our secure billing system. I'm also going to set the preference for this to be your primary autopay method. This will only take about 30 seconds."
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "User",
+      "text": "No problem, take your time."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience, Ms. Thompson. The system has accepted the banking information and your account is now successfully enrolled in automatic payments via direct debit."
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "User",
+      "text": "Oh, fantastic! That was easy. So, the ten dollar discount will show up on my next bill?"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "Agent",
+      "text": "Let me check your billing cycle to give you a precise answer... one moment."
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "Agent",
+      "text": "Okay, I see your billing cycle closes on the 20th of each month, and your bill is generated on the 21st. Your payment due date is the 15th of the following month."
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "User",
+      "text": "Right, that sounds familiar."
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "Agent",
+      "text": "Since today is before the 20th, the bill that generates tomorrow will be the first one to reflect the ten dollar 'Autopay & Paperless Billing Discount'."
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "User",
+      "text": "Oh, perfect! I was worried I might have missed this month's cutoff."
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "Agent",
+      "text": "Nope, you caught it just in time. Your next invoice will show your normal $95 charge for the Double Play Bundle, and then a credit line item for -$10, bringing your total to $85 plus any applicable taxes."
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "User",
+      "text": "That's great. And when will the payment actually be withdrawn from my account?"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "The automatic withdrawal will happen on the payment due date, which for your upcoming bill will be the 15th of next month."
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "User",
+      "text": "Okay, the 15th. Got it. I'll make a note of that."
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "Agent",
+      "text": "You'll also receive an email notification from Cymbal Telecom about ten days before the due date, reminding you of the upcoming automatic payment amount and date."
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "User",
+      "text": "That's very helpful, thank you."
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "Agent",
+      "text": "You're most welcome. I'm just adding a note to your account documenting our conversation and the actions taken today."
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "Alright, the notes are saved. So, to quickly recap: we've successfully set up your checking account for direct debit, which has enrolled you in the ten dollar monthly discount starting with your very next bill."
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "User",
+      "text": "Perfect. That's everything I needed."
+    },
+    {
+      "timestamp": "05:17",
+      "speaker": "Agent",
+      "text": "Is there anything else at all I can assist you with today, Ms. Thompson? Any questions about your services or your account?"
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "User",
+      "text": "No, I think that's it. You've been very helpful, David."
+    },
+    {
+      "timestamp": "05:29",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help. Thank you for being a valued Cymbal Telecom customer. Have a wonderful day!"
+    },
+    {
+      "timestamp": "05:36",
+      "speaker": "User",
+      "text": "You too, bye!"
+    }
+  ]
+}

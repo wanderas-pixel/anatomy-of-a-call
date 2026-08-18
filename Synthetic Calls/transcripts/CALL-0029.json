@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "call_id": "CALL-0029",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-306-7405",
+    "email": "david.gonzalez@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 12,
+    "total_turns": 66
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Chloe. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi, yes, I need some help. I just got my bill and it's... it's over three thousand dollars! This has to be a mistake."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Oh, I can certainly understand your concern seeing a bill that high. I'll definitely look into this for you. To get started, could I please have your name?"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "User",
+      "text": "David Gonzalez."
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "Agent",
+      "text": "Thank you, David. And just to pull up your account securely, can you please confirm the phone number associated with the account?"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "User",
+      "text": "It's 555-306-7405."
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "Agent",
+      "text": "Perfect. And for security purposes, could you please provide me with the 4-digit security PIN on your account?"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "User",
+      "text": "Yeah, hold on... I think it's... 5-7-4-0."
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "Agent",
+      "text": "That's correct. Thank you for verifying your information, Mr. Gonzalez. Let me just pull up your latest billing statement now."
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "User",
+      "text": "Please do. I've never had a bill like this. My plan is supposed to be unlimited."
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "Agent",
+      "text": "Okay, I see the statement here. I do see a total amount due that is significantly higher than your usual $65 monthly charge. Let me open the detailed view... one moment."
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "User",
+      "text": "Take your time, just please tell me it's a computer glitch."
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "Agent",
+      "text": "Alright, looking at the itemized charges, it appears the majority of this total is from international roaming data usage. Did you recently travel outside of the country?"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "User",
+      "text": "Yes! I was in Portugal for about ten days. But my plan is unlimited! Why would I be charged for data?"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "Agent",
+      "text": "I understand the confusion. Your Cymbal Unlimited 5G Mobile Plan provides unlimited data, talk, and text within the United States, and also includes Canada and Mexico. However, for travel to other countries like Portugal, standard international roaming rates apply unless an international package is added."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Nobody told me that! That's completely misleading. Why call it 'unlimited' then?"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "Agent",
+      "text": "I can see why it would feel that way. The 'unlimited' refers to the quantity of data, not the geographic area. Our system shows that upon arrival in Portugal, we sent a standard welcome SMS to your device outlining the pay-per-use rates, which are $0.25 per minute for calls and $2.05 per megabyte for data."
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "User",
+      "text": "A text message? I get dozens of spam texts a day! I might have seen it, I don't know, I didn't think it would lead to a three-thousand-dollar bill! A megabyte? What even is that? That's nothing!"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "Agent",
+      "text": "You're right, a megabyte is a small amount of data on its own. However, modern smartphone apps, especially things like maps, social media, and video, can use hundreds of megabytes very quickly."
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "User",
+      "text": "So what am I supposed to do? Not use my phone when I travel?"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "Agent",
+      "text": "Let me look at the specific usage. I see a large block of data was used on June 12th... around 1.5 gigabytes. Do you recall what you might have been doing on your phone then?"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "User",
+      "text": "June 12th... we were driving from Lisbon to Algarve. I was using my phone for GPS navigation for a few hours. That's it!"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "Agent",
+      "text": "That would explain it. GPS navigation apps can consume a significant amount of data continuously. To give you some perspective, 1.5 gigabytes is equivalent to 1,536 megabytes."
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "User",
+      "text": "Okay... and?"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "Agent",
+      "text": "Well, at the standard rate of $2.05 per megabyte... just for that one period of usage, the charge would be over $3,100."
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "User",
+      "text": "What? That's... that's insane. That's more than my flight and hotel. I cannot pay that. I will not pay that. This is extortion."
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "Agent",
+      "text": "I truly do understand your shock, Mr. Gonzalez, and I want to help you with this. Let me review your account history. Please allow me to place you on a brief hold for about 60 seconds while I check for any available options."
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "User",
+      "text": "Fine. But if you come back and tell me I have to pay this, I'm switching carriers tomorrow. I swear."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "I understand. One moment please."
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Gonzalez."
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "User",
+      "text": "Yeah. What did you find?"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "Agent",
+      "text": "Okay, so I've reviewed your account details. I can see that you've been a loyal Cymbal Telecom customer for six years, and you've always had a perfect payment history. We really value you as a customer."
+    },
+    {
+      "timestamp": "05:03",
+      "speaker": "User",
+      "text": "Okay... so?"
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "Agent",
+      "text": "So, while the charges are technically valid based on the terms of service, I've spoken with my supervisor given the circumstances and your customer history. We want to work with you on this."
+    },
+    {
+      "timestamp": "05:16",
+      "speaker": "User",
+      "text": "I'm listening."
+    },
+    {
+      "timestamp": "05:18",
+      "speaker": "Agent",
+      "text": "Cymbal Telecom offers an International Day Pass, which is a feature customers can add for travel. It provides full use of your domestic plan's talk, text, and data allowances in over 200 countries for a flat fee of $10 per 24-hour period."
+    },
+    {
+      "timestamp": "05:34",
+      "speaker": "User",
+      "text": "So for ten bucks a day I could have used my phone normally?"
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "Agent",
+      "text": "Exactly. You only get charged for the days you actually use service abroad."
+    },
+    {
+      "timestamp": "05:44",
+      "speaker": "User",
+      "text": "Why wasn't I offered this before I left? Or when I called to say I was traveling?"
+    },
+    {
+      "timestamp": "05:50",
+      "speaker": "Agent",
+      "text": "That's a very fair question. I don't see any notes on your account of you notifying us of your travel dates beforehand. Typically, we advise customers on these options if they call in to let us know they'll be abroad."
+    },
+    {
+      "timestamp": "06:02",
+      "speaker": "User",
+      "text": "I didn't know I had to. I've traveled before and just used Wi-Fi. This time I needed navigation."
+    },
+    {
+      "timestamp": "06:08",
+      "speaker": "Agent",
+      "text": "I completely understand. Here is what I am able to do for you. As a one-time courtesy, I can retroactively apply the International Day Pass to your account for the days you incurred roaming charges in Portugal."
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "User",
+      "text": "You can do that? Backwards?"
+    },
+    {
+      "timestamp": "06:25",
+      "speaker": "Agent",
+      "text": "Yes. Let me check the exact dates of usage. It looks like your phone connected to our partner network in Portugal for a total of 9 days during your trip."
+    },
+    {
+      "timestamp": "06:36",
+      "speaker": "User",
+      "text": "Okay, so 9 days."
+    },
+    {
+      "timestamp": "06:38",
+      "speaker": "Agent",
+      "text": "That's right. So, instead of the pay-per-use data charges, your bill would be adjusted to reflect 9 days of the International Day Pass. That's 9 days times $10 per day."
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "User",
+      "text": "So... ninety dollars? Instead of over three thousand?"
+    },
+    {
+      "timestamp": "06:58",
+      "speaker": "Agent",
+      "text": "That is correct. We would remove the roaming data charge of $3,145.70 and replace it with a charge of $90 for the Day Passes."
+    },
+    {
+      "timestamp": "07:10",
+      "speaker": "User",
+      "text": "Yes! Oh my god, yes. Please, absolutely, do that. Thank you."
+    },
+    {
+      "timestamp": "07:16",
+      "speaker": "Agent",
+      "text": "You're very welcome. I'm happy we could find a solution for you. Let me go ahead and process that adjustment right now."
+    },
+    {
+      "timestamp": "07:24",
+      "speaker": "User",
+      "text": "Wow. Okay, thank you. I was really panicking there for a minute."
+    },
+    {
+      "timestamp": "07:29",
+      "speaker": "Agent",
+      "text": "I can only imagine. Just give me one moment while I apply this credit and adjustment to the billing system... it takes a few clicks to get it all confirmed."
+    },
+    {
+      "timestamp": "07:55",
+      "speaker": "Agent",
+      "text": "Alright, the adjustment has been submitted. I have a reference number for you for today's call and the changes made. It's 8-4-2-1-B."
+    },
+    {
+      "timestamp": "08:08",
+      "speaker": "User",
+      "text": "8-4-2-1-B. Got it. So what happens now with the bill I see online?"
+    },
+    {
+      "timestamp": "08:14",
+      "speaker": "Agent",
+      "text": "That's a great question. It can take 24 to 48 hours for the system to update the total amount due that you see in your online portal. However, I've placed a note on your account and confirmed the adjustment. The correct total for this billing cycle will be your standard $65 plan, plus the $90 for the Day Passes, plus your usual taxes and fees."
+    },
+    {
+      "timestamp": "08:32",
+      "speaker": "User",
+      "text": "So around one hundred and fifty-five dollars, plus tax."
+    },
+    {
+      "timestamp": "08:36",
+      "speaker": "Agent",
+      "text": "Exactly. You can disregard the previous total. When your automatic payment runs, it will draft the corrected, lower amount."
+    },
+    {
+      "timestamp": "08:44",
+      "speaker": "User",
+      "text": "That is such a relief. Chloe, thank you so much. You've been incredibly helpful."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Mr. Gonzalez. And for future reference, you can easily activate the International Day Pass yourself right from the Cymbal Telecom mobile app before you travel. It's under the 'International' section in 'Plan & Add-ons'."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "User",
+      "text": "Okay, I will definitely remember that for next time. The app, got it."
+    },
+    {
+      "timestamp": "09:10",
+      "speaker": "Agent",
+      "text": "Is there anything else I can assist you with today? Perhaps questions about your plan or any other services?"
+    },
+    {
+      "timestamp": "09:16",
+      "speaker": "User",
+      "text": "No, that was the only thing. You've solved my huge problem, and I really appreciate it."
+    },
+    {
+      "timestamp": "09:22",
+      "speaker": "Agent",
+      "text": "I'm very glad to hear that. We appreciate your business and thank you for being a Cymbal Telecom customer."
+    },
+    {
+      "timestamp": "09:28",
+      "speaker": "User",
+      "text": "Thanks again, Chloe."
+    },
+    {
+      "timestamp": "09:30",
+      "speaker": "Agent",
+      "text": "You're welcome. Thank you for calling Cymbal Telecom. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "09:36",
+      "speaker": "User",
+      "text": "You too. Bye."
+    }
+  ]
+}

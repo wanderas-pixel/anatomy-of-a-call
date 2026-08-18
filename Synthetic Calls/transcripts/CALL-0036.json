@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "call_id": "CALL-0036",
+    "customer_id": "CUST-2009",
+    "customer_name": "Pinnacle Real Estate",
+    "customer_type": "Corporate",
+    "phone": "800-510-2144",
+    "email": "thomas.anderson@pinnaclerealestate.com",
+    "services": "Business Fiber Gigabit Internet ($199/mo)",
+    "duration_minutes": 5,
+    "total_turns": 33
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Support. My name is Jessica. How can I help you today?"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "User",
+      "text": "Hi Jessica. This is Thomas Anderson from Pinnacle Real Estate. I got an email saying our automatic payment failed for our internet service."
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "Agent",
+      "text": "I can certainly look into that for you, Mr. Anderson. To access your account, could you please provide your Customer ID?"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "User",
+      "text": "Sure, it's CUST-2009."
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, could you please verify the 6-digit PIN associated with the account?"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "User",
+      "text": "Yes, it's 3-5-8-8-7-2."
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. Just give me one moment to pull up the billing details for Pinnacle Real Estate."
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "Agent",
+      "text": "Okay, Mr. Anderson, I have your account here. I can see the automatic payment attempt on the 15th for one hundred ninety-nine dollars for the Business Fiber Gigabit plan was indeed declined."
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "User",
+      "text": "Right. I figured it was our corporate card. It expired at the end of last month and I just got the new one. So I need to pay that balance and then update the card for future payments."
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "Agent",
+      "text": "Not a problem at all. We can certainly get that sorted out for you right now. The total outstanding balance is one hundred ninety-nine dollars. I can take the new card information over the phone if you're ready."
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "User",
+      "text": "Yes, let's do it."
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "Agent",
+      "text": "Great. I am now placing this call into our secure, encrypted payment system. Please tell me the full 16-digit card number when you're ready."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Okay, it is 4111 2233 4455 6677."
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "Agent",
+      "text": "Thank you. And the expiration date?"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "User",
+      "text": "It's... uh... August of 2028. So 08/28."
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "Agent",
+      "text": "08/28. Got it. And the three-digit C-V-V code from the back of the card?"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "User",
+      "text": "901."
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "Agent",
+      "text": "And is the billing address for this card the same as the service address we have on file for Pinnacle Real Estate?"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "User",
+      "text": "Yes, it is."
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "Agent",
+      "text": "Perfect. Okay, Mr. Anderson, I am submitting the payment now for one hundred ninety-nine dollars. This can take up to sixty seconds to communicate with the bank, so please bear with me for just a moment."
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "Agent",
+      "text": "...Still processing... almost there... Okay! Excellent. The payment was approved. Your account is now fully paid and in good standing. Your confirmation number for today's payment is 7-4-B-2-9-1-C."
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "User",
+      "text": "Great, glad that's done. So now for the autopay..."
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "Agent",
+      "text": "Exactly. Would you like me to enroll this same card, the one ending in 6677, as your new default payment method for automatic billing?"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "User",
+      "text": "Yes, absolutely. Please do."
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "Agent",
+      "text": "Okay. I'm accessing your autopay settings now... removing the old expired card from the profile... and now I am adding the new card. This will just take a moment."
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "Agent",
+      "text": "Alright, Mr. Anderson, thank you for your patience. It's all set. The new card is saved and you are now re-enrolled in automatic payments with Cymbal Telecom."
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "User",
+      "text": "Fantastic. That's a relief. So we're all good for next month's bill?"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "Agent",
+      "text": "Yes, you are all set. Your next scheduled payment will be automatically charged on or around the 15th of next month. No further action is needed from your side."
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "User",
+      "text": "Perfect. That was everything I needed. Thank you for your help, Jessica."
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "Agent",
+      "text": "It was my pleasure, Mr. Anderson. I'm happy we could get your account squared away. Was there anything else at all I could assist you with today?"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "User",
+      "text": "Nope, that's it for me. Thanks again."
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "Agent",
+      "text": "You're very welcome. Thank you for choosing Cymbal Telecom. We appreciate your business. Have a wonderful afternoon."
+    },
+    {
+      "timestamp": "05:02",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    }
+  ]
+}

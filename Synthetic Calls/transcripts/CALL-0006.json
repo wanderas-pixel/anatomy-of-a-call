@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "call_id": "CALL-0006",
+    "customer_id": "CUST-2013",
+    "customer_name": "Delta Legal Services",
+    "customer_type": "Corporate",
+    "phone": "800-726-4962",
+    "email": "michael.brown@deltalegalservices.com",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "duration_minutes": 20,
+    "total_turns": 107
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Support. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hello Sarah. My name is Michael Brown, I'm with the accounting department at Delta Legal Services. I'm calling about our most recent bill. It seems to be incorrect."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that, Michael. I just need to verify the account for security purposes. Could you please provide me with the account's Customer ID?"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "User",
+      "text": "Yes, of course. The customer ID is CUST-2013."
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "Agent",
+      "text": "Thank you. That's CUST-2013. And for the final verification step, could you please provide the 6-digit security PIN associated with the account?"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "User",
+      "text": "Let me see... yes, the PIN is 1-2-7-2-7-4."
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying that. I have the account for Delta Legal Services pulled up here. You mentioned there was an issue with the latest bill?"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "User",
+      "text": "That's right. For the past year, our bill has been a consistent amount, but this new invoice is about twenty dollars higher. Nothing has changed on our end, so I need to understand why the price went up."
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "Agent",
+      "text": "I understand completely. Unexpected bill increases are no fun. Let me just open the most recent invoice and compare it to the previous one. This will just take a moment."
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "User",
+      "text": "Please do. I have them both in front of me."
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "Agent",
+      "text": "Okay, I'm seeing it now. I see the invoice from last month, and the total was, let's see... three hundred and twenty-nine dollars, before taxes."
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "User",
+      "text": "Correct. And this month's is three hundred forty-nine dollars before taxes. A twenty dollar difference."
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "Agent",
+      "text": "Yes, that's exactly what I'm seeing on my end as well. Please allow me another moment to examine the line items on the account to see what caused that change."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "User",
+      "text": "Thank you."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "Agent",
+      "text": "Okay, thank you for your patience, Michael. I've found the reason for the change. It looks like when you signed up for the Business Dedicated Fiber 500Mbps plan, it came with a 12-month promotional discount of twenty dollars per month."
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "User",
+      "text": "A promotional discount... I see. I assumed that was the standard rate."
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "Agent",
+      "text": "It's a common point of confusion. The standard rate for the service is $349 per month, and that promotional credit brought it down to $329 for the first year. That 12-month period just ended, so the service has now reverted to its standard monthly rate."
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "User",
+      "text": "I see. Is that something that was outlined in the original agreement? I'd have to go back and look through our files."
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "Agent",
+      "text": "Yes, it would have been. I can see the note on the account from the initial setup. It specifies the 'New Customer Promotional Credit - $20.00 x 12 months'. I can email you a copy of that original service agreement if you'd like."
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "User",
+      "text": "No, that's okay for now. I believe you. It's just... we're a long-standing customer and we rely on predictable expenses. A sudden increase isn't ideal. Is there anything you can do for us? Any other promotions or loyalty discounts available?"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "Agent",
+      "text": "I completely understand your position, and I want to thank you for your loyalty to Cymbal Telecom. Let me check what offers are currently available for your account. Business accounts often have different options than residential ones. Can I place you on a brief hold for two to three minutes while I check with our retention department's offer list?"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "User",
+      "text": "Yes, a hold is fine. Thank you, Sarah."
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "Agent",
+      "text": "Thank you. Please hold."
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "Agent",
+      "text": "Thank you so much for your patience, Michael. I've reviewed the available offers for your account."
+    },
+    {
+      "timestamp": "05:50",
+      "speaker": "User",
+      "text": "No problem. What did you find?"
+    },
+    {
+      "timestamp": "05:53",
+      "speaker": "Agent",
+      "text": "Okay, so I have a couple of possibilities we can explore. The first and most straightforward option is a 'Business Loyalty Credit'. I can apply a ten dollar per month credit to your account for the next 12 months."
+    },
+    {
+      "timestamp": "06:08",
+      "speaker": "User",
+      "text": "So, that would make the bill three hundred thirty-nine dollars a month, instead of three forty-nine?"
+    },
+    {
+      "timestamp": "06:15",
+      "speaker": "Agent",
+      "text": "That's correct. It's not the full twenty dollars, but it's a ten dollar savings each month."
+    },
+    {
+      "timestamp": "06:21",
+      "speaker": "User",
+      "text": "Hmm. Okay. And does that require a new contract or extending our current one?"
+    },
+    {
+      "timestamp": "06:27",
+      "speaker": "Agent",
+      "text": "That's a great question. No, this particular credit does not require any contract extension. It's simply a thank you for your business."
+    },
+    {
+      "timestamp": "06:36",
+      "speaker": "User",
+      "text": "Okay. What was the other option you mentioned?"
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "Agent",
+      "text": "The other option is a bit different. We have a promotion right now for businesses to upgrade their service tier. I see you're on the 500 Megabit per second plan."
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "User",
+      "text": "Yes, that's what we have."
+    },
+    {
+      "timestamp": "06:53",
+      "speaker": "Agent",
+      "text": "We could upgrade you to our Business Dedicated Fiber 1 Gigabyte plan. That's double your current speed."
+    },
+    {
+      "timestamp": "07:01",
+      "speaker": "User",
+      "text": "And what would the cost for that be? I imagine it's more expensive."
+    },
+    {
+      "timestamp": "07:06",
+      "speaker": "Agent",
+      "text": "Normally, yes. The standard rate for the 1 Gig plan is $399 per month. However, there's a promotion that would give you a sixty dollar per month credit if you sign a new 24-month agreement."
+    },
+    {
+      "timestamp": "07:20",
+      "speaker": "User",
+      "text": "So let me get this straight. The price would be three hundred and thirty-nine dollars a month? For double the speed?"
+    },
+    {
+      "timestamp": "07:28",
+      "speaker": "Agent",
+      "text": "Yes, that's exactly right. Three hundred and ninety-nine minus sixty. So, the monthly rate would be the same as the first option, three hundred and thirty-nine dollars, but you'd get the upgraded 1 Gig service."
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "User",
+      "text": "But that would require a new two-year contract."
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "Agent",
+      "text": "Correct. A new 24-month term would start from the day of the upgrade."
+    },
+    {
+      "timestamp": "07:50",
+      "speaker": "User",
+      "text": "And what happens after those 24 months? Does the price jump to $399?"
+    },
+    {
+      "timestamp": "07:56",
+      "speaker": "Agent",
+      "text": "Yes, after the 24-month promotional period ends, the service would revert to the standard rate for the 1 Gig plan at that time."
+    },
+    {
+      "timestamp": "08:05",
+      "speaker": "User",
+      "text": "I see. I'm not authorized to sign a new two-year contract on the spot. That would require discussion with the partners here."
+    },
+    {
+      "timestamp": "08:14",
+      "speaker": "Agent",
+      "text": "I completely understand. It's a significant commitment."
+    },
+    {
+      "timestamp": "08:18",
+      "speaker": "User",
+      "text": "Let's go back to that first option. The ten dollar credit. You said that was for 12 months?"
+    },
+    {
+      "timestamp": "08:25",
+      "speaker": "Agent",
+      "text": "Yes, 12 months, with no contract extension."
+    },
+    {
+      "timestamp": "08:30",
+      "speaker": "User",
+      "text": "And after 12 months, the price goes back to $349?"
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "Agent",
+      "text": "That is correct. We could, of course, have this same conversation again in a year to see what new loyalty offers are available then."
+    },
+    {
+      "timestamp": "08:44",
+      "speaker": "User",
+      "text": "Okay. That seems like the most prudent option for now. It doesn't lock us into anything."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "Agent",
+      "text": "It certainly offers the most flexibility."
+    },
+    {
+      "timestamp": "08:54",
+      "speaker": "User",
+      "text": "Is there... any chance that credit could be a little higher? Maybe fifteen dollars? To split the difference of the original twenty?"
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "Agent",
+      "text": "That's a fair question, Michael. The system automatically generates these offers based on account tenure and service type. Ten dollars is what it presented me."
+    },
+    {
+      "timestamp": "09:16",
+      "speaker": "User",
+      "text": "So there's no way to adjust it?"
+    },
+    {
+      "timestamp": "09:20",
+      "speaker": "Agent",
+      "text": "Well... let me try something. Sometimes, there's a little leeway for long-term business accounts. Would you mind holding for just another minute or two? I want to see if I can get a supervisor to approve a slightly higher credit."
+    },
+    {
+      "timestamp": "09:35",
+      "speaker": "User",
+      "text": "Oh, yes, I would appreciate that very much. Thank you for being willing to try."
+    },
+    {
+      "timestamp": "09:41",
+      "speaker": "Agent",
+      "text": "Of course. I want to make sure we're doing everything we can. Please hold."
+    },
+    {
+      "timestamp": "12:15",
+      "speaker": "Agent",
+      "text": "Michael? Thank you again for holding. I appreciate your patience."
+    },
+    {
+      "timestamp": "12:19",
+      "speaker": "User",
+      "text": "Not a problem. Any luck?"
+    },
+    {
+      "timestamp": "12:22",
+      "speaker": "Agent",
+      "text": "Yes, I have some good news. I spoke with my supervisor, and given that Delta Legal Services has been a Cymbal Telecom customer for over five years with a perfect payment history, we were able to get an exception approved."
+    },
+    {
+      "timestamp": "12:36",
+      "speaker": "User",
+      "text": "That's great to hear."
+    },
+    {
+      "timestamp": "12:39",
+      "speaker": "Agent",
+      "text": "We can apply a 'Valued Business Partner' credit of fifteen dollars per month for the next 12 months."
+    },
+    {
+      "timestamp": "12:48",
+      "speaker": "User",
+      "text": "Fifteen dollars! That's excellent. Thank you, Sarah. I really appreciate you going the extra mile on that."
+    },
+    {
+      "timestamp": "12:56",
+      "speaker": "Agent",
+      "text": "It's my pleasure. We value your business. So, to confirm, you'd like me to apply the fifteen-dollar monthly credit for 12 months, with no contract extension?"
+    },
+    {
+      "timestamp": "13:08",
+      "speaker": "User",
+      "text": "Yes, that's exactly what I'd like. Please proceed."
+    },
+    {
+      "timestamp": "13:12",
+      "speaker": "Agent",
+      "text": "Okay. I'm adding the credit to your account right now. Just a few clicks... and... okay. It is now active."
+    },
+    {
+      "timestamp": "13:25",
+      "speaker": "User",
+      "text": "So, what does this mean for the current bill? The one that's for $349?"
+    },
+    {
+      "timestamp": "13:31",
+      "speaker": "Agent",
+      "text": "That is an excellent question. Since this billing cycle has already been generated, the invoice itself won't change. You will still need to pay the $349 plus tax for this current bill."
+    },
+    {
+      "timestamp": "13:43",
+      "speaker": "User",
+      "text": "Oh. I see."
+    },
+    {
+      "timestamp": "13:46",
+      "speaker": "Agent",
+      "text": "However, the fifteen dollar credit has been applied to the account starting today. This means on your next bill, you will see a credit for the pro-rated portion of this month, and the full fifteen dollar credit for the next billing cycle."
+    },
+    {
+      "timestamp": "14:00",
+      "speaker": "User",
+      "text": "Can you explain that a bit more clearly? What will my next bill look like?"
+    },
+    {
+      "timestamp": "14:06",
+      "speaker": "Agent",
+      "text": "Certainly. Let's look at the calendar. Your billing cycle runs from the 5th to the 4th of each month. We're about halfway through this cycle."
+    },
+    {
+      "timestamp": "14:16",
+      "speaker": "User",
+      "text": "Okay, yes."
+    },
+    {
+      "timestamp": "14:18",
+      "speaker": "Agent",
+      "text": "So for this current cycle, you'll get a credit for roughly half a month. A fifteen dollar credit for a full month is about fifty cents a day. So you'll get a pro-rated credit of approximately seven dollars and fifty cents on the next bill to cover the second half of this month."
+    },
+    {
+      "timestamp": "14:35",
+      "speaker": "User",
+      "text": "Okay, a pro-rated credit. Got it."
+    },
+    {
+      "timestamp": "14:39",
+      "speaker": "Agent",
+      "text": "Then, for the next full billing period, you'll see the full fifteen dollar credit. So your next invoice will show the standard $349 charge, then a line item for the $7.50 pro-rated credit, and another line item for the $15.00 monthly credit."
+    },
+    {
+      "timestamp": "14:58",
+      "speaker": "User",
+      "text": "So the total due, before taxes, will be three hundred forty-nine, minus seven-fifty, minus fifteen... which is... three hundred twenty-six dollars and fifty cents?"
+    },
+    {
+      "timestamp": "15:12",
+      "speaker": "Agent",
+      "text": "That's exactly right. Your next bill will be for $326.50 plus taxes."
+    },
+    {
+      "timestamp": "15:19",
+      "speaker": "User",
+      "text": "And the bill after that?"
+    },
+    {
+      "timestamp": "15:22",
+      "speaker": "Agent",
+      "text": "The bill after that, and for the following ten months, will be for the standard charge of $349 minus the $15 credit. So, it will be $334 plus tax."
+    },
+    {
+      "timestamp": "15:35",
+      "speaker": "User",
+      "text": "Okay. $334. That's a number I can work with. Thank you for clarifying all of that. It can get a bit confusing."
+    },
+    {
+      "timestamp": "15:43",
+      "speaker": "Agent",
+      "text": "Not at all, I'm happy to break it down. It's important that you understand exactly what to expect on your invoices."
+    },
+    {
+      "timestamp": "15:50",
+      "speaker": "User",
+      "text": "I agree. Can you send me an email confirming this change? Just something I can attach to my internal report on this."
+    },
+    {
+      "timestamp": "15:58",
+      "speaker": "Agent",
+      "text": "Absolutely. I am composing an email to you right now. I have the contact email on file as michael.brown@deltalegalservices.com. Is that still the correct address?"
+    },
+    {
+      "timestamp": "16:10",
+      "speaker": "User",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "16:12",
+      "speaker": "Agent",
+      "text": "Great. The email will summarize our conversation, confirm the application of the $15 'Valued Business Partner' credit for 12 months, and state the new effective monthly rate of $334 plus tax. I'll also add a reference number for this call. Is there anything else you'd like me to include?"
+    },
+    {
+      "timestamp": "16:30",
+      "speaker": "User",
+      "text": "No, that sounds perfect. That's everything I need."
+    },
+    {
+      "timestamp": "16:34",
+      "speaker": "Agent",
+      "text": "Okay... and... sent. You should receive that email within the next five to ten minutes. It will be coming from a Cymbal Telecom support address."
+    },
+    {
+      "timestamp": "16:45",
+      "speaker": "User",
+      "text": "Excellent. I'll keep an eye out for it."
+    },
+    {
+      "timestamp": "16:48",
+      "speaker": "Agent",
+      "text": "So, to recap, we've identified the reason for the bill increase was an expiring promotion, and we've applied a new $15 monthly credit for the next 12 months to bring the cost down."
+    },
+    {
+      "timestamp": "17:01",
+      "speaker": "User",
+      "text": "That's right. You've been very helpful, Sarah."
+    },
+    {
+      "timestamp": "17:05",
+      "speaker": "Agent",
+      "text": "It was my pleasure to assist you, Michael."
+    },
+    {
+      "timestamp": "17:09",
+      "speaker": "User",
+      "text": "The service itself has always been solid, we've never had an outage with your dedicated fiber. It's good to know the customer service is just as reliable."
+    },
+    {
+      "timestamp": "17:19",
+      "speaker": "Agent",
+      "text": "I love to hear that. We pride ourselves on the reliability of our network and our support team. The 'SLA Guarantees' on your business plan mean we take that very seriously."
+    },
+    {
+      "timestamp": "17:29",
+      "speaker": "User",
+      "text": "It shows. Well, that's all I needed today. You've resolved my issue completely."
+    },
+    {
+      "timestamp": "17:35",
+      "speaker": "Agent",
+      "text": "Wonderful. Was there anything else at all I could help you with? Any other questions about your Cymbal Telecom services?"
+    },
+    {
+      "timestamp": "17:43",
+      "speaker": "User",
+      "text": "No, that's it for me. Thank you again."
+    },
+    {
+      "timestamp": "17:47",
+      "speaker": "Agent",
+      "text": "You are very welcome. Thank you for calling Cymbal Telecom Business Support, and we appreciate you being a valued customer. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "17:58",
+      "speaker": "User",
+      "text": "You too, Sarah. Goodbye."
+    },
+    {
+      "timestamp": "18:01",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "18:05",
+      "speaker": "User",
+      "text": "Oh, wait, Sarah, are you still there?"
+    },
+    {
+      "timestamp": "18:08",
+      "speaker": "Agent",
+      "text": "Yes, I'm still here, Michael. Is everything okay?"
+    },
+    {
+      "timestamp": "18:12",
+      "speaker": "User",
+      "text": "Sorry, one last quick question just popped into my head. The email you sent, will it have a reference number for our call today?"
+    },
+    {
+      "timestamp": "18:20",
+      "speaker": "Agent",
+      "text": "Yes, it will. I included a call interaction ID in the body of the email for your records. It will be clearly labeled."
+    },
+    {
+      "timestamp": "18:28",
+      "speaker": "User",
+      "text": "Perfect, perfect. Sorry to keep you. That's really all now. Thanks again."
+    },
+    {
+      "timestamp": "18:34",
+      "speaker": "Agent",
+      "text": "It is absolutely no problem at all. I'm glad you asked to make sure you have everything you need. Have a great afternoon."
+    },
+    {
+      "timestamp": "18:42",
+      "speaker": "User",
+      "text": "You too. Bye now."
+    },
+    {
+      "timestamp": "18:45",
+      "speaker": "Agent",
+      "text": "Bye."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "call_id": "CALL-0069",
+    "customer_id": "CUST-1035",
+    "customer_name": "Thomas Taylor",
+    "customer_type": "Consumer",
+    "phone": "555-810-4930",
+    "email": "thomas.taylor@telecom-personal.com",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "duration_minutes": 7,
+    "total_turns": 39
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Jessica. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Jessica. My name is Thomas Taylor. I'm calling because I got an email saying my automatic payment didn't go through this month."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "Okay, Mr. Taylor, I can definitely help you with that. To access your account, can I please get the phone number associated with it?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Sure, it's 555-810-4930."
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "Agent",
+      "text": "Thank you. I'm pulling up your account now... I see Thomas Taylor. For security purposes, can you please verify the 4-digit security PIN on your account?"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "User",
+      "text": "Yes, it's 5-1-4-1."
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. You're all set. Now, you mentioned a notification about a failed payment?"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "User",
+      "text": "That's right. I'm pretty sure it's because my credit card on file expired. I got a new one in the mail a few weeks ago and forgot to update it."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "Agent",
+      "text": "That's a very common reason, not to worry. Let me check the billing system... Yes, I can confirm that. The automatic payment for your Triple Play Bundle, in the amount of one hundred and ten dollars, was declined on the 15th. The reason code is 'Expired Card'."
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "User",
+      "text": "Okay, that's what I thought. So, I need to pay that balance, and then I'd like to set up the new card for autopay going forward."
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "Agent",
+      "text": "Absolutely. We can take care of both of those things on this call. We can start by processing the one-time payment for the past-due balance of one hundred and ten dollars. Do you have the new card with you?"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "User",
+      "text": "Yes, I have it right here. I'm ready."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "Agent",
+      "text": "Great. Could you please provide me with the 16-digit card number?"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "User",
+      "text": "It's 4272... 5801... 8933... 6419."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "Agent",
+      "text": "Okay, I have four-two-seven-two, five-eight-zero-one, eight-nine-three-three, six-four-one-nine. Is that correct?"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "User",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "Agent",
+      "text": "And what is the expiration date?"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "User",
+      "text": "It's 08/27."
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "Agent",
+      "text": "August of 2027. Got it. And the three-digit CVV security code from the back of the card?"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "That is 7-3-4."
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "Agent",
+      "text": "Okay... 7-3-4. Thank you. Please hold on for just a moment while I securely submit this payment for you."
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Taylor. The payment has been approved. I have a confirmation number for your records, it is 9-8-C-B-5-5-1-2. Your account balance is now zero."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "User",
+      "text": "Excellent. Thank you. Now, for the autopay..."
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "Agent",
+      "text": "Yes, of course. Would you like to use the same card we just used for the payment to be your new card on file for recurring automatic payments?"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "User",
+      "text": "Yes, please. That's the one."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "Agent",
+      "text": "Perfect. One moment while I update your recurring payment profile. I'm first removing the old, expired card to avoid any future confusion."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "Sounds good."
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "Agent",
+      "text": "Okay, that's done. Now I'm adding the new card ending in 6419 to your autopay profile. So, just to formally confirm, you are authorizing Cymbal Telecom to automatically charge this card for your monthly service fees on your bill's due date?"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "User",
+      "text": "Yes, I authorize that."
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "Agent",
+      "text": "Excellent. I've saved the changes. Your autopay is now active with the new card. You'll continue to receive the five-dollar monthly discount for being enrolled in autopay and paperless billing."
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "User",
+      "text": "Oh, right, I forgot about that. That's great. Thank you."
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "Agent",
+      "text": "You're very welcome. So, to recap, we successfully processed a payment for one hundred and ten dollars, bringing your account balance current. We also updated your automatic payment method to your new card, so your next bill should be paid automatically without any issues."
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "User",
+      "text": "That's exactly what I needed. Everything is sorted."
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "Agent",
+      "text": "Wonderful. Was there anything else I could assist you with today, Mr. Taylor? Any questions about your services or account?"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "User",
+      "text": "No, that's it for me. You've been very helpful, Jessica."
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help. Thank you for being a Cymbal Telecom customer, and have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "05:04",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "05:06",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

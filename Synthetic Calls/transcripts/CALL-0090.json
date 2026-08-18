@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "call_id": "CALL-0090",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-306-7405",
+    "email": "david.gonzalez@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 6,
+    "total_turns": 36
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "User",
+      "text": "Hi Sarah, I'm calling about my bill. I think there's a mistake on it regarding my new plan."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "I can certainly look into that for you. To access your account, I'll need to verify your identity. Could you please provide your full name and Customer ID?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Sure. My name is David Gonzalez. My customer ID is CUST-1018."
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "Agent",
+      "text": "Thank you, David. And for security, could you please provide the 4-digit security PIN on the account?"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "User",
+      "text": "Yes, it's 5-7-4-0."
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. I have your account pulled up. How can I help you with the bill today?"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "User",
+      "text": "Okay, so about two weeks ago I upgraded my mobile plan to the Unlimited 5G plan. I got the new bill and it shows the higher price, which is fine, but my phone's data speed is still exactly the same as before. It feels like I'm paying for an upgrade I didn't get."
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "Agent",
+      "text": "I understand your concern, and I'm sorry to hear that. It's frustrating to pay for a service you're not receiving. Let me investigate this for you. Please allow me one to two minutes to review your billing and service provisioning."
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "User",
+      "text": "No problem, take your time."
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, David. I've reviewed your account, and I can confirm that you were correctly enrolled in the Unlimited 5G Mobile Plan for $65 per month, starting on your last billing cycle date."
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "User",
+      "text": "Right, that's what the bill says. But my phone is definitely not getting 5G speeds."
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "Agent",
+      "text": "Yes, I'm looking at the technical side now... and, ah. I see the issue. It appears there was a system synchronization error. While the billing system was updated correctly, the technical order to upgrade the speed profile on your line was not successfully processed. You are absolutely right; you were being billed for a service that hadn't been activated on the network side."
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "User",
+      "text": "So I've been paying for 5G but getting 4G speeds? That's not right."
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "Agent",
+      "text": "That is correct, and I sincerely apologize for this error on our part. It is definitely not the experience we want for our customers. I am going to resolve both parts of this for you right now."
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "User",
+      "text": "Okay, what do we do?"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "Agent",
+      "text": "First, let's get your service working as it should. I am manually pushing the correct 5G service profile to your device right now. To ensure it takes effect, could you please do a quick network reset on your phone for me?"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "User",
+      "text": "Sure, what do I need to do?"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "Agent",
+      "text": "Just go into your phone's settings and turn on Airplane Mode. We'll leave it on for about 20 seconds to completely disconnect it from the network."
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "User",
+      "text": "Okay, Airplane Mode is on."
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "Agent",
+      "text": "Okay, thank you. You can go ahead and turn Airplane Mode off now."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "Done. It's off."
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "Agent",
+      "text": "Perfect. Your phone will now re-register on the Cymbal Telecom network. Can you tell me if the network indicator at the top of your screen now shows '5G'?"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "User",
+      "text": "Let me see... yes! It just switched. It says 5G now. It was stuck on LTE before."
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "Agent",
+      "text": "Excellent. That confirms the technical issue is resolved. Now, for the most important part: addressing the billing error."
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "User",
+      "text": "Right, what about the money I paid?"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "Agent",
+      "text": "Of course. I see your billing cycle began 15 days ago, so you've paid the higher rate for half a month without the proper service. The difference between your old plan and the new one is $20 per month. I am applying a pro-rated credit of $10 to your account immediately."
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "User",
+      "text": "Okay, a ten dollar credit. That sounds fair."
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "Agent",
+      "text": "The credit has been successfully applied. You will see this on your next invoice under the line item 'Service Correction Credit', and your current balance due has been adjusted."
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "User",
+      "text": "That's great. So just to recap, my speed is fixed now and I've been credited for the error?"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "Agent",
+      "text": "That is exactly right. Your phone now has full access to our 5G network, and a $10 credit has been posted to your Cymbal Telecom account to correct the billing error."
+    },
+    {
+      "timestamp": "05:09",
+      "speaker": "User",
+      "text": "Perfect. That's all I needed. Thank you for sorting this out so efficiently."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "Agent",
+      "text": "You are most welcome, and once again, I apologize for the initial frustration this system glitch caused. Is there anything else at all I can assist you with today, Mr. Gonzalez?"
+    },
+    {
+      "timestamp": "05:28",
+      "speaker": "User",
+      "text": "No, that was everything. I'm all set."
+    },
+    {
+      "timestamp": "05:32",
+      "speaker": "Agent",
+      "text": "Wonderful. Well, thank you for your patience and for calling Cymbal Telecom. We appreciate your business. Have a wonderful rest of your day!"
+    },
+    {
+      "timestamp": "05:41",
+      "speaker": "User",
+      "text": "You too. Bye."
+    }
+  ]
+}

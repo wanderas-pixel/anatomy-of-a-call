@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "call_id": "CALL-0064",
+    "customer_id": "CUST-2012",
+    "customer_name": "Quantum Innovations",
+    "customer_type": "Corporate",
+    "phone": "800-951-1838",
+    "email": "nancy.moore@quantuminnovations.com",
+    "services": "Enterprise SIP Trunking - 30 Channels ($350/mo)",
+    "duration_minutes": 10,
+    "total_turns": 54
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Enterprise Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Alex, this is Nancy Moore from Quantum Innovations. We have a complete internet outage here. It's been down for about an hour."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "I'm very sorry to hear that, Nancy. I understand how critical connectivity is for your business. I'll do everything I can to get this resolved for you quickly. To access your account, could you please provide your Customer ID?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Yes, our Customer ID is CUST-2012."
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, could you please verify the 6-digit account security PIN?"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "User",
+      "text": "The PIN is 2-9-3-6-7-9."
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. I have the Quantum Innovations account pulled up now. I see you have our Enterprise SIP Trunking and a dedicated fiber broadband line. You're saying the internet is completely down?"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "User",
+      "text": "Completely. No connection at all. I've already tried rebooting our main office router twice, but nothing changed. I'm working from the office today and have a critical data upload that needs to go out."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "Agent",
+      "text": "I understand the urgency. Let's start with the equipment that brings the Cymbal service into your building. Can you locate the Optical Network Terminal, or ONT? It's a small box, usually white or black, that the fiber optic cable plugs into."
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "User",
+      "text": "Yes, I'm in the network closet now. I see it. It's a black Cymbal Telecom box."
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "Agent",
+      "text": "Excellent. Could you please tell me what the lights on the front of that ONT are doing? There should be lights for Power, PON or Fiber, and LAN."
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "User",
+      "text": "Okay, let me see... The Power light is solid green. The LAN light is off. And... there's a red light next to an icon that looks like a signal, labeled 'Alarm'."
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "Agent",
+      "text": "A red alarm light, okay. That's very helpful, thank you. That light indicates that the ONT is powered on but isn't detecting a stable light signal from our network. This points to an issue with the fiber line itself."
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "User",
+      "text": "So it's not our equipment?"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "Agent",
+      "text": "It appears that way, but I'd like to try one more step just to be certain. I know you rebooted your router, but have you rebooted the ONT itself?"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "User",
+      "text": "No, I didn't touch that box. I just rebooted our Cisco router."
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "Agent",
+      "text": "Understood. Let's try that now. Please unplug the power cord from the back of the ONT. Don't worry about the fiber cable, just the power."
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "User",
+      "text": "Okay, it's unplugged. All the lights are off now."
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "Agent",
+      "text": "Great. We need to leave it unplugged for a full 60 seconds to allow the internal components to completely reset. While we wait, I'm going to run a line test from my end to see what the network is reporting."
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "Okay, standing by."
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "Agent",
+      "text": "Just checking the connection status for your circuit ID... one moment..."
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "Agent",
+      "text": "Okay, my diagnostics are confirming what your ONT is showing. I'm getting a 'Loss of Signal' alarm on your circuit. It seems the connection is broken somewhere between our local hub and your building."
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "User",
+      "text": "So what does that mean? Is it broken?"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "Agent",
+      "text": "It often points to a physical issue with the line. Okay, it's been about a minute. Could you please plug the power cord back into the ONT for me?"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "User",
+      "text": "Alright, plugging it back in now."
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "Agent",
+      "text": "Thank you. The ONT will now go through its startup sequence. This can take two to three minutes. You'll see the lights blink and change color. Please let me know what the 'Alarm' or 'PON' light does after a few minutes."
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "User",
+      "text": "Okay, the power light is green again. The other lights are blinking... now they've stopped... and... yes, the red 'Alarm' light is back on. Solid red."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "Agent",
+      "text": "Thank you for confirming that, Nancy. That confirms the issue is not with your equipment but with the connection to your building. Let me check the network status for your area. Can you confirm the address is on Corporate Drive?"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "User",
+      "text": "Yes, 1550 Corporate Drive."
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "Agent",
+      "text": "Thank you. Let me just cross-reference that with our network operations center dashboard... one moment please."
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "Agent",
+      "text": "Okay, I've found it. It looks like we had a severe thunderstorm in your area last night, and our system is reporting a physical fiber cut impacting a small section of the Corporate Drive business park."
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "User",
+      "text": "A fiber cut? You mean the line is actually broken? That storm was pretty bad, I heard a lot of thunder."
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "Agent",
+      "text": "Yes, that's what the diagnostics indicate. It could be damage to an aerial line from a fallen tree branch or an issue in one of the subterranean conduits. The good news is that we are aware of it."
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "User",
+      "text": "So is someone fixing it?"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "Agent",
+      "text": "Absolutely. A field technician crew was automatically dispatched when the alarm was triggered this morning. They are already on site in the area working to locate the exact point of the break and perform a splice to repair it."
+    },
+    {
+      "timestamp": "05:03",
+      "speaker": "User",
+      "text": "Okay, that's good to hear. How long is that going to take? I really need to get this data uploaded."
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "Agent",
+      "text": "I completely understand. The current Estimated Time of Restoration, or ETR, is four hours from now, which would be approximately 2:00 PM your time. Please know this is an estimate; fiber splicing can be complex, but our crews are experts."
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "User",
+      "text": "Four hours... wow. Okay. I guess there's nothing I can do."
+    },
+    {
+      "timestamp": "05:30",
+      "speaker": "Agent",
+      "text": "I'm truly sorry for the impact this is having on your work. While I have you, I can set up an automatic SMS notification to be sent to your mobile phone the moment our system detects that your service has been restored. Would you like me to do that?"
+    },
+    {
+      "timestamp": "05:42",
+      "speaker": "User",
+      "text": "Yes, please. That would be very helpful."
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "Agent",
+      "text": "Certainly. What is the best mobile number for the notification?"
+    },
+    {
+      "timestamp": "05:49",
+      "speaker": "User",
+      "text": "It's 800-951-1838."
+    },
+    {
+      "timestamp": "05:54",
+      "speaker": "Agent",
+      "text": "Okay, I've just configured an alert for... 800-951-1838. You'll get a text message as soon as the line is active again."
+    },
+    {
+      "timestamp": "06:04",
+      "speaker": "User",
+      "text": "Thank you. With the service being out for this long, will we receive a credit on our bill?"
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "Agent",
+      "text": "Yes, of course. Our system automatically logs the start and end time of qualified outages. Once service is restored, a pro-rated credit for the downtime will be automatically calculated and applied to your next invoice. You don't need to call back for that."
+    },
+    {
+      "timestamp": "06:24",
+      "speaker": "User",
+      "text": "Okay, that's good. Thank you."
+    },
+    {
+      "timestamp": "06:27",
+      "speaker": "Agent",
+      "text": "You're welcome. While I'm in the account, I do have a system flag here... it looks like the last payment for your account is currently marked as past due. I just wanted to make you aware."
+    },
+    {
+      "timestamp": "06:38",
+      "speaker": "User",
+      "text": "Oh, really? Our accounting department handles that. Let's just focus on getting the internet fixed first, please. I can't deal with billing right now."
+    },
+    {
+      "timestamp": "06:46",
+      "speaker": "Agent",
+      "text": "Completely understandable, Nancy. My apologies. We can certainly address that at a later time. The service outage is the top priority."
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "User",
+      "text": "Thank you. I appreciate that."
+    },
+    {
+      "timestamp": "06:57",
+      "speaker": "Agent",
+      "text": "So, to recap: we've identified a local fiber line outage, a repair crew is on-site with an ETR of 2:00 PM, I've set up an SMS notification for you, and a credit will be automatically applied. Your ticket number for this issue is 8-4-7-2-1-B. Is there anything else I can assist you with today?"
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "User",
+      "text": "No, that's everything. I'll just have to wait. Thanks for your help, Alex."
+    },
+    {
+      "timestamp": "07:20",
+      "speaker": "Agent",
+      "text": "You are very welcome, Nancy. We appreciate your patience and understanding, and again, I apologize for the disruption to your business. Thank you for calling Cymbal Telecom."
+    },
+    {
+      "timestamp": "07:28",
+      "speaker": "User",
+      "text": "Okay, goodbye."
+    }
+  ]
+}

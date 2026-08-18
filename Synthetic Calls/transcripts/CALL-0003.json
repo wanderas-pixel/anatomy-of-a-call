@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "call_id": "CALL-0003",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "phone": "800-887-8018",
+    "email": "mark.taylor@novaretailgroup.com",
+    "services": "Corporate Mobility: 25x Unlimited 5G Mobile Lines ($625/mo)",
+    "duration_minutes": 8,
+    "total_turns": 51
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Services. My name is Jessica. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Jessica. I'm calling to set up new internet and phone service for a new branch office we're opening."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Absolutely, I can certainly help you with that. To get started, could you please provide me with your company's name and customer ID?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Sure. The company is Nova Retail Group, and our customer ID should be CUST-2007."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "Thank you. I've located the account for Nova Retail Group. For security purposes, could you please verify the 6-digit account security PIN?"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "User",
+      "text": "Yes, the PIN is 5-0-7-4-9-8."
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "Agent",
+      "text": "Perfect, that's a match. Thank you for verifying, Mr. Taylor. Now, how can I assist with your new branch office today?"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "User",
+      "text": "We need to get broadband and a phone system ordered and installed. We're aiming to open in about three weeks, so we need to get the ball rolling."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "Agent",
+      "text": "I understand completely. Let's get this set up for you. Could you provide me with the full street address for the new location so I can check serviceability?"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "User",
+      "text": "Yes, it's 451 Commerce Drive, Suite B. The city is Pleasantville, and the zip code is 54321."
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "Agent",
+      "text": "Thank you. That's 451 Commerce Drive, Suite B, in Pleasantville. Please allow me one moment to check the available Cymbal services at that address."
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. I have good news. That location is fully serviceable with our Cymbal Business Fiber network. We can offer plans up to 2 Gigabits per second."
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "User",
+      "text": "That's great to hear. It's a small retail store with a back office. What plan would you recommend?"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "Agent",
+      "text": "For a location of that type, our most popular plan is the Business Fiber 500, which offers symmetrical speeds of 500 megabits per second for both download and upload. It's very reliable for point-of-sale systems, security cameras, and general office work. It's priced at $129.99 per month on a corporate account."
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "User",
+      "text": "Okay, 500 should be more than enough. Let's go with that. Now, what about the phone system? We'll need about five handsets."
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "Agent",
+      "text": "Excellent. For phones, we have our Cymbal Cloud Voice platform. It's a VoIP service that runs over the fiber connection. It's very flexible. How many phone numbers or lines were you looking for?"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "User",
+      "text": "We'll need one main number for the store, and then four additional extensions for the office manager, the stock room, and a couple of desks. So five total."
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "Agent",
+      "text": "Understood. We can set you up with five Cloud Voice licenses. Each license includes a direct dial number, voicemail-to-email, an auto-attendant for your main line, and access to the Cymbal Connect mobile app, so you can make and receive calls from your business number on a cell phone."
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "User",
+      "text": "That sounds perfect. What's the pricing for the Cloud Voice licenses?"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "Agent",
+      "text": "For our business fiber customers, each Cloud Voice license is $24.99 per month. So for five licenses, that would be an additional $124.95 per month."
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "User",
+      "text": "Okay, so we're looking at about $255 a month plus taxes for everything. That's within our budget. Are there any one-time fees for setup?"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "Agent",
+      "text": "Yes, there is a one-time professional installation fee of $199. This covers a technician visit to run the fiber line into your suite, install the Optical Network Terminal, or ONT, and ensure the connection is active and stable. They will also set up the primary Cymbal Wi-Fi network."
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "User",
+      "text": "And the phones? Does that fee cover the phone setup?"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "Agent",
+      "text": "The VoIP phones themselves are plug-and-play. Once the internet is active, you simply plug them into the network, and they provision automatically. The technician will verify the primary line is working before they leave. The $199 fee also covers the equipment lease for the ONT and our advanced Wi-Fi 6 router."
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "User",
+      "text": "Okay, that seems reasonable. Let's proceed with the order."
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "Agent",
+      "text": "Wonderful. I'm building the order now. So that's one Cymbal Business Fiber 500 plan and five Cymbal Cloud Voice licenses for 451 Commerce Drive, Suite B. Is that correct?"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "User",
+      "text": "Yes, that is all correct."
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "Agent",
+      "text": "Great. The next step is to schedule the technician visit. Let me pull up the dispatch calendar for that area. One moment."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "Agent",
+      "text": "Alright, thank you for waiting. It looks like the earliest availability we have for a technician is next Wednesday, the 15th. We have an arrival window of 9 AM to 12 PM. Would that work for you?"
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "User",
+      "text": "Next Wednesday... yes, that works perfectly. We'll have someone on-site to grant them access."
+    },
+    {
+      "timestamp": "05:17",
+      "speaker": "Agent",
+      "text": "Excellent. Can I get the name and a contact phone number for the person who will be on-site?"
+    },
+    {
+      "timestamp": "05:24",
+      "speaker": "User",
+      "text": "Yes, the site manager's name is Sarah Jenkins. Her mobile number is 555-234-5678."
+    },
+    {
+      "timestamp": "05:35",
+      "speaker": "Agent",
+      "text": "Got it. Sarah Jenkins. And the technician will call that number about 30 minutes prior to arrival."
+    },
+    {
+      "timestamp": "05:43",
+      "speaker": "User",
+      "text": "Perfect."
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "Agent",
+      "text": "Okay, Mr. Taylor, I have everything submitted. Let me just recap the order for you one last time."
+    },
+    {
+      "timestamp": "05:52",
+      "speaker": "User",
+      "text": "Please do."
+    },
+    {
+      "timestamp": "05:54",
+      "speaker": "Agent",
+      "text": "We have an order for Cymbal Business Fiber 500 at $129.99 per month, and five Cymbal Cloud Voice licenses at $24.99 each per month, for a total monthly recurring charge of $254.94 before taxes and fees."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "06:12",
+      "speaker": "Agent",
+      "text": "There will be a one-time charge of $199 for the professional installation on your first bill. The installation is scheduled for Wednesday, the 15th, between 9 AM and 12 PM at 451 Commerce Drive, Suite B."
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "User",
+      "text": "Everything sounds correct."
+    },
+    {
+      "timestamp": "06:31",
+      "speaker": "Agent",
+      "text": "The on-site contact is Sarah Jenkins. We will ship the five pre-configured VoIP handsets to the site address, and they should arrive a day before the installation."
+    },
+    {
+      "timestamp": "06:42",
+      "speaker": "User",
+      "text": "Excellent, that's very efficient."
+    },
+    {
+      "timestamp": "06:45",
+      "speaker": "Agent",
+      "text": "I am now sending a detailed order confirmation to the email address we have on file, mark.taylor@novaretailgroup.com. You should receive it within the next few minutes. It will have all these details, including your new main phone number for the branch."
+    },
+    {
+      "timestamp": "07:00",
+      "speaker": "User",
+      "text": "Great, I'll look for that. Thank you, you've been very helpful."
+    },
+    {
+      "timestamp": "07:05",
+      "speaker": "Agent",
+      "text": "You are most welcome. We're excited to be a part of your new location's launch. Is there anything else I can assist you with today, Mr. Taylor?"
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "User",
+      "text": "No, that's everything for now. Thanks again for your help."
+    },
+    {
+      "timestamp": "07:20",
+      "speaker": "Agent",
+      "text": "It was my pleasure. Thank you for choosing Cymbal Telecom, and have a wonderful day."
+    },
+    {
+      "timestamp": "07:26",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "07:28",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

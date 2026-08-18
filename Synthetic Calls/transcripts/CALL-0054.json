@@ -1,0 +1,580 @@
+{
+  "metadata": {
+    "call_id": "CALL-0054",
+    "customer_id": "CUST-1017",
+    "customer_name": "Daniel Smith",
+    "customer_type": "Consumer",
+    "phone": "555-300-2384",
+    "email": "daniel.smith@telecom-personal.com",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "duration_minutes": 20,
+    "total_turns": 113
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "User",
+      "text": "Hi there. I'm calling because I got a flyer in the mail about upgrading my internet service. I think to fiber?"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "That's wonderful! Upgrading to our fiber network is a great choice. I can definitely help you with that. To get started, could I have your full name, please?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Sure, it's Daniel Smith."
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Smith. And just to pull up your account for security, could you please provide either the phone number associated with the account or your customer ID?"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "User",
+      "text": "Yep, the phone number is 555-300-2384."
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. I'm pulling up your information now... one moment... Okay, I see your account. The final step for verification is your 4-digit security PIN."
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "User",
+      "text": "My PIN... oh boy. Let me think. I set that up a while ago. Is it... 5019?"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "Agent",
+      "text": "Yes, that's it! Thank you for verifying your information, Mr. Smith. Your account is now securely accessed."
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "User",
+      "text": "Great, glad I remembered it."
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "Agent",
+      "text": "So, you mentioned seeing a flyer about our Cymbal Fiber network. I'm just confirming the availability at your service address... and yes! I'm showing your entire neighborhood is now fully enabled for fiber. We can definitely get you upgraded from your current DSL plan."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "User",
+      "text": "Excellent. That DSL is just not cutting it anymore, especially with me working from home. What are the options?"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "Agent",
+      "text": "I completely understand. The difference is night and day. Our most popular plan, and the one most people upgrade to, is our Fiber Gigabit plan. It provides symmetrical download and upload speeds of up to 940 megabits per second."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Symmetrical? What's the benefit of that?"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "Agent",
+      "text": "It means your upload speed is just as fast as your download speed. With your current DSL, you might get 50 megabits for downloads, but your uploads are probably closer to 5. With fiber, uploading large work files, cloud backups, or even just having clear video calls becomes effortless."
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "User",
+      "text": "Okay, that's a huge deal for me. My video calls are always freezing. So what's the cost for that gigabit plan?"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "Agent",
+      "text": "Let me check the current promotions for your area. Yes, for customers upgrading from DSL, the Fiber Gigabit plan is $85 per month. That's with auto-pay and paperless billing discounts applied."
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "User",
+      "text": "Eighty-five dollars. Okay. And what am I paying now?"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "Agent",
+      "text": "You're currently on a DSL 50 plan for $59.99 a month. So it's about a $25 increase, but for roughly twenty times the speed on downloads and almost two hundred times the speed on uploads."
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "User",
+      "text": "Wow, when you put it like that... it sounds worth it. Okay. What about other fees? Installation, equipment, all that stuff."
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "Agent",
+      "text": "Great question. Normally, the professional installation is $99. However, as part of the new service rollout in your area, we are waiving the installation fee completely."
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "User",
+      "text": "Free installation, I like the sound of that. And equipment?"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "Agent",
+      "text": "The new service requires new equipment. Our technician will install a device called an Optical Network Terminal, or ONT. That's what brings the fiber signal into your home. There's no charge for that device."
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "User",
+      "text": "Okay, an ONT. Got it."
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "Agent",
+      "text": "And to handle the new speeds, we also provide our latest Cymbal Wi-Fi Gateway. It's a powerful Wi-Fi 6 router designed for gigabit speeds. The rental for that is normally $10 a month, but it's already included in that $85 price I quoted."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "User",
+      "text": "So let me be clear, the $85 is the final price, not $85 plus another $10 for the router?"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "Agent",
+      "text": "That is correct. $85 per month is the total for the service and the router. The only thing on top of that would be your standard local and state taxes."
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "User",
+      "text": "Okay, that's very straightforward. I appreciate that. No hidden fees."
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "Agent",
+      "text": "We try to be as transparent as possible. We also lock in that price for two years, so you don't have to worry about any increases during that time."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "User",
+      "text": "A two-year price lock is nice. Is there a contract then?"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "Agent",
+      "text": "There's no annual contract or early termination fee. The price is guaranteed for two years, but you can cancel at any time without a penalty. We're confident you'll be happy with the service."
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "User",
+      "text": "Okay, this all sounds really good. I'm ready to do it. Let's sign me up."
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "Fantastic choice, Mr. Smith! I'll start building the order right now. This will just take a few moments on my end. Please bear with me."
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience. I have the order framework ready. I am confirming the service address is 123 Main Street, correct?"
+    },
+    {
+      "timestamp": "05:49",
+      "speaker": "User",
+      "text": "Yes, that's the one."
+    },
+    {
+      "timestamp": "05:51",
+      "speaker": "Agent",
+      "text": "Perfect. Now, we need to schedule the technician visit. This is for the installation of the fiber line to your home and setting up the new equipment inside. An adult over 18 must be present for the duration of the visit."
+    },
+    {
+      "timestamp": "06:08",
+      "speaker": "User",
+      "text": "Okay. How long does it usually take?"
+    },
+    {
+      "timestamp": "06:11",
+      "speaker": "Agent",
+      "text": "The appointment window is four hours, but the actual work on-site typically takes between two to three hours, depending on the complexity of running the line."
+    },
+    {
+      "timestamp": "06:24",
+      "speaker": "User",
+      "text": "And will they have to drill holes?"
+    },
+    {
+      "timestamp": "06:27",
+      "speaker": "Agent",
+      "text": "In most cases, a small hole, about the diameter of a pencil, is required to pass the fiber cable through an exterior wall. The technician will consult with you on the best and least conspicuous placement before doing any drilling."
+    },
+    {
+      "timestamp": "06:42",
+      "speaker": "User",
+      "text": "Okay, that's fine. As long as I get to approve the spot."
+    },
+    {
+      "timestamp": "06:46",
+      "speaker": "Agent",
+      "text": "Absolutely. They will not proceed without your consent. Now, let's look at the schedule. I have openings this week. The earliest is this Thursday."
+    },
+    {
+      "timestamp": "06:58",
+      "speaker": "User",
+      "text": "Thursday works for me. What times are available?"
+    },
+    {
+      "timestamp": "07:02",
+      "speaker": "Agent",
+      "text": "We have two arrival windows: 8 AM to 12 PM, or 1 PM to 5 PM."
+    },
+    {
+      "timestamp": "07:11",
+      "speaker": "User",
+      "text": "I have some work meetings in the morning. The afternoon window, 1 to 5 PM, would be much better."
+    },
+    {
+      "timestamp": "07:20",
+      "speaker": "Agent",
+      "text": "Not a problem at all. I am booking you for this Thursday, with an arrival window of 1 PM to 5 PM. Is that correct?"
+    },
+    {
+      "timestamp": "07:30",
+      "speaker": "User",
+      "text": "Yes, that's perfect."
+    },
+    {
+      "timestamp": "07:32",
+      "speaker": "Agent",
+      "text": "Excellent. The technician will call you when they are on their way to your home. Can I confirm the best contact number for the technician is the 555-300-2384 number?"
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "User",
+      "text": "Yes, that's my cell. That's the best one."
+    },
+    {
+      "timestamp": "07:47",
+      "speaker": "Agent",
+      "text": "Great. I've added that to the work order notes. Now, a question about equipment placement. The ONT and the new Cymbal Wi-Fi Gateway will be installed. Where in your home would you prefer them to be?"
+    },
+    {
+      "timestamp": "08:02",
+      "speaker": "User",
+      "text": "Well, my current DSL modem is in my home office on the main floor. That's where my computer is. Can they just put the new stuff there?"
+    },
+    {
+      "timestamp": "08:11",
+      "speaker": "Agent",
+      "text": "The home office is a perfect location. Central placement for the router usually provides the best Wi-Fi coverage. I'll add a note for the technician to plan for an installation in the home office."
+    },
+    {
+      "timestamp": "08:24",
+      "speaker": "User",
+      "text": "Perfect."
+    },
+    {
+      "timestamp": "08:26",
+      "speaker": "Agent",
+      "text": "Okay, the appointment is set. Now, let's briefly discuss the billing transition."
+    },
+    {
+      "timestamp": "08:33",
+      "speaker": "User",
+      "text": "Right, the pro-rated stuff you mentioned?"
+    },
+    {
+      "timestamp": "08:36",
+      "speaker": "Agent",
+      "text": "Exactly. Your billing cycle closes on the 25th of each month. Your installation is this Thursday, which is the 15th. So on your next bill, you will see a credit for your old DSL plan from the 15th to the 25th."
+    },
+    {
+      "timestamp": "08:52",
+      "speaker": "User",
+      "text": "So I get money back for the ten days I'm not using it."
+    },
+    {
+      "timestamp": "08:56",
+      "speaker": "Agent",
+      "text": "Correct. And then you'll see a corresponding partial charge for the new Fiber Gigabit plan for those same ten days, from the 15th to the 25th. After that, it will just be the flat $85 per month on subsequent bills. Does that make sense?"
+    },
+    {
+      "timestamp": "09:15",
+      "speaker": "User",
+      "text": "Yes, it does. So the next bill will be a little messy, but it will even out after that. I get it."
+    },
+    {
+      "timestamp": "09:22",
+      "speaker": "Agent",
+      "text": "Precisely. Now, I'm just finalizing the order in the system. While it processes, I need to read you a few required disclosures. It's mostly a summary of what we've discussed. May I proceed?"
+    },
+    {
+      "timestamp": "09:35",
+      "speaker": "User",
+      "text": "Sure, go for it."
+    },
+    {
+      "timestamp": "09:38",
+      "speaker": "Agent",
+      "text": "Okay. This is to confirm you are ordering the Cymbal Telecom Fiber Gigabit service for a promotional price of $85 per month, plus taxes, with a two-year price guarantee. This price requires enrollment in auto-pay and paperless billing."
+    },
+    {
+      "timestamp": "09:55",
+      "speaker": "User",
+      "text": "Yes."
+    },
+    {
+      "timestamp": "09:56",
+      "speaker": "Agent",
+      "text": "The service provides speeds up to 940 Mbps download and 940 Mbps upload. Actual speeds may vary based on computer performance, home wiring, and other factors. Do you acknowledge this?"
+    },
+    {
+      "timestamp": "10:10",
+      "speaker": "User",
+      "text": "Yes, I understand."
+    },
+    {
+      "timestamp": "10:12",
+      "speaker": "Agent",
+      "text": "And you are authorizing a professional installation on the scheduled date, and agree to the terms of service which will be emailed to you. There is no annual contract or early termination fee associated with this plan. Do you agree?"
+    },
+    {
+      "timestamp": "10:28",
+      "speaker": "User",
+      "text": "I agree."
+    },
+    {
+      "timestamp": "10:30",
+      "speaker": "Agent",
+      "text": "Perfect. Thank you for confirming. The system is just about done... Okay! The order has been successfully submitted."
+    },
+    {
+      "timestamp": "10:45",
+      "speaker": "User",
+      "text": "Great! So I'm all set?"
+    },
+    {
+      "timestamp": "10:48",
+      "speaker": "Agent",
+      "text": "Almost! I have an order confirmation number for your records. Do you have a pen and paper handy?"
+    },
+    {
+      "timestamp": "10:55",
+      "speaker": "User",
+      "text": "Uh, yeah, hold on. Let me grab one... Okay, ready."
+    },
+    {
+      "timestamp": "11:03",
+      "speaker": "Agent",
+      "text": "Your order number is F-O-1-7-3-4-9-0-1. I'll repeat that."
+    },
+    {
+      "timestamp": "11:15",
+      "speaker": "User",
+      "text": "Wait, F as in Frank?"
+    },
+    {
+      "timestamp": "11:17",
+      "speaker": "Agent",
+      "text": "Yes, F for Fiber. Then O for Order. Then the numbers are 1-7-3-4-9-0-1."
+    },
+    {
+      "timestamp": "11:30",
+      "speaker": "User",
+      "text": "Okay, got it. F-O-1-7-3-4-9-0-1. You'll email this to me too, right?"
+    },
+    {
+      "timestamp": "11:39",
+      "speaker": "Agent",
+      "text": "Yes, a full confirmation email with the order number, appointment details, and terms of service should be in your inbox within the hour. I'm confirming your email on file is daniel.smith@telecom-personal.com."
+    },
+    {
+      "timestamp": "11:55",
+      "speaker": "User",
+      "text": "That's the one."
+    },
+    {
+      "timestamp": "11:57",
+      "speaker": "Agent",
+      "text": "Excellent. Just one last piece of business, Mr. Smith. What to do with your old DSL modem."
+    },
+    {
+      "timestamp": "12:05",
+      "speaker": "User",
+      "text": "Oh, right. I was going to ask that. Do I give it to the technician?"
+    },
+    {
+      "timestamp": "12:10",
+      "speaker": "Agent",
+      "text": "The technician can't take it, but we have a very simple return process. We will mail you a free return kit. It contains a box and a pre-paid UPS shipping label."
+    },
+    {
+      "timestamp": "12:23",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "12:24",
+      "speaker": "Agent",
+      "text": "You just need to pack the DSL modem and its power cord into the box, stick the label on, and drop it at any UPS Store or official dropbox. You have 30 days from your installation date to return it."
+    },
+    {
+      "timestamp": "12:40",
+      "speaker": "User",
+      "text": "And if I don't?"
+    },
+    {
+      "timestamp": "12:42",
+      "speaker": "Agent",
+      "text": "If it's not returned within that timeframe, a one-time unreturned equipment fee of $75 would be applied to your account. So it's definitely best to send it back."
+    },
+    {
+      "timestamp": "12:55",
+      "speaker": "User",
+      "text": "Understood. I'll keep an eye out for the return box in the mail."
+    },
+    {
+      "timestamp": "13:00",
+      "speaker": "Agent",
+      "text": "It should arrive at your home within 3 to 5 business days."
+    },
+    {
+      "timestamp": "13:05",
+      "speaker": "User",
+      "text": "Great."
+    },
+    {
+      "timestamp": "13:07",
+      "speaker": "Agent",
+      "text": "Now, just a quick question about the new router. Do you have any specific needs, like a large home or many devices?"
+    },
+    {
+      "timestamp": "13:16",
+      "speaker": "User",
+      "text": "Uh, it's a pretty average-sized house, maybe 2000 square feet. We have a couple of laptops, a few phones, a smart TV... maybe 10-15 devices in total?"
+    },
+    {
+      "timestamp": "13:28",
+      "speaker": "Agent",
+      "text": "The Cymbal Wi-Fi Gateway should cover that area perfectly and can handle over 75 devices simultaneously, so you'll have plenty of capacity for the future."
+    },
+    {
+      "timestamp": "13:40",
+      "speaker": "User",
+      "text": "Seventy-five? Wow, okay. I won't be needing that many, but good to know."
+    },
+    {
+      "timestamp": "13:46",
+      "speaker": "Agent",
+      "text": "It's built for the modern smart home. You'll also be able to customize your Wi-Fi network name and password. The technician can help you with that, or you can do it easily through the Cymbal Telecom app afterwards."
+    },
+    {
+      "timestamp": "14:00",
+      "speaker": "User",
+      "text": "There's an app?"
+    },
+    {
+      "timestamp": "14:02",
+      "speaker": "Agent",
+      "text": "Yes! You can manage your Wi-Fi, run speed tests, and even pay your bill. I highly recommend downloading it once your new service is active."
+    },
+    {
+      "timestamp": "14:12",
+      "speaker": "User",
+      "text": "Okay, I'll look for it. 'Cymbal Telecom app'."
+    },
+    {
+      "timestamp": "14:16",
+      "speaker": "Agent",
+      "text": "That's the one. Let me just place you on a brief hold while I add the final notes to your account and confirm the return kit has been ordered. It will be about 30 seconds."
+    },
+    {
+      "timestamp": "14:28",
+      "speaker": "User",
+      "text": "Sure, no problem."
+    },
+    {
+      "timestamp": "15:05",
+      "speaker": "Agent",
+      "text": "Thank you for holding, Mr. Smith. I've confirmed everything on my end. The return kit order is in the system, and I've added detailed notes for the installation technician about the office placement. You are all set."
+    },
+    {
+      "timestamp": "15:18",
+      "speaker": "User",
+      "text": "Fantastic. So just to recap one last time: technician comes Thursday afternoon between 1 and 5. They'll call first. It takes 2-3 hours. They install everything, and I'll have super fast internet when they leave."
+    },
+    {
+      "timestamp": "15:32",
+      "speaker": "Agent",
+      "text": "That is a perfect summary. And your old DSL will keep working right up until the fiber is activated, so there's no downtime."
+    },
+    {
+      "timestamp": "15:41",
+      "speaker": "User",
+      "text": "Oh, that's great. I was a little worried about that."
+    },
+    {
+      "timestamp": "15:45",
+      "speaker": "Agent",
+      "text": "We make it a seamless cutover. The technician will make sure your main computer or phone can connect to the new 'Cymbal Wi-Fi' network and is getting the correct speeds before they consider the job complete."
+    },
+    {
+      "timestamp": "16:00",
+      "speaker": "User",
+      "text": "This is great. I'm actually really excited about this."
+    },
+    {
+      "timestamp": "16:05",
+      "speaker": "Agent",
+      "text": "We are too! We're very proud of our fiber network, and we love hearing from customers after they experience the speed for the first time."
+    },
+    {
+      "timestamp": "16:15",
+      "speaker": "User",
+      "text": "I bet. Well, I think that's all my questions."
+    },
+    {
+      "timestamp": "16:19",
+      "speaker": "Agent",
+      "text": "Wonderful. Was there anything else at all I could assist you with today, Mr. Smith? Any questions about your TV or phone service?"
+    },
+    {
+      "timestamp": "16:28",
+      "speaker": "User",
+      "text": "No, I just have internet with you. And this was the only thing on my mind. You've been extremely helpful, Sarah."
+    },
+    {
+      "timestamp": "16:36",
+      "speaker": "Agent",
+      "text": "It has been my absolute pleasure to help you with your upgrade today. We truly appreciate your business and are thrilled to welcome you to the Cymbal Fiber family."
+    },
+    {
+      "timestamp": "16:48",
+      "speaker": "User",
+      "text": "Thanks again."
+    },
+    {
+      "timestamp": "16:50",
+      "speaker": "Agent",
+      "text": "You're very welcome. Thank you for choosing Cymbal Telecom, and have a fantastic rest of your day."
+    },
+    {
+      "timestamp": "16:58",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "17:00",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

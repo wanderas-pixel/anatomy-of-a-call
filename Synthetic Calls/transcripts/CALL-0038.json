@@ -1,0 +1,580 @@
+{
+  "metadata": {
+    "call_id": "CALL-0038",
+    "customer_id": "CUST-1019",
+    "customer_name": "Michael Moore",
+    "customer_type": "Consumer",
+    "phone": "555-891-3496",
+    "email": "michael.moore@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 20,
+    "total_turns": 113
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Sarah. My name is Michael Moore. I'm calling because I need to order some new mobile lines and devices for my company."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "Okay, Michael, I can certainly try to help you with that. Are you calling about an existing Cymbal Telecom business account?"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "User",
+      "text": "No, this would be a new account for the business. The company is Telecom Personal. I personally have a residential account with you for my home internet, but this is separate."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "I see. Thank you for clarifying. I'm on the residential services team, but I can definitely get you to the right place. To start, since you mentioned your personal account, would you mind if I pull it up? It might be helpful for reference. Can I get your customer ID or phone number?"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "User",
+      "text": "Sure, that's fine. My customer ID is CUST-1019."
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, can you please verify the 4-digit security PIN on the account?"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "User",
+      "text": "Yes, it's 8-2-7-1."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. I have your account pulled up now. I see you have our Fiber 300 internet service. Thank you for being a Cymbal customer."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "User",
+      "text": "You're welcome. It's been great. Now, about these business lines... I really don't want to get transferred and have to wait on hold again if I can avoid it."
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "Agent",
+      "text": "I completely understand. While our Business Solutions team will need to finalize the order, perhaps I can help with some preliminary information first. What exactly were you looking to set up today?"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "User",
+      "text": "That would be fantastic, thank you. I'm an IT representative for my company, and we need to equip our field crew. I'm looking to get 10 new mobile lines, and each line needs to be paired with an LTE-capable tablet."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "Agent",
+      "text": "Ten lines with tablets. Okay. I can definitely look into some options for you. Do you have an idea of how much data each field technician might use per month?"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "User",
+      "text": "Good question. They use a proprietary app for work orders which pulls map data, and they upload photos of completed jobs. I would estimate somewhere in the range of 15 to 20 gigabytes a month, per person, to be safe."
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "Agent",
+      "text": "Okay, 15-20GB per line. Let me just pull up our business rate plans. One moment please."
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "Agent",
+      "text": "Alright, thanks for your patience. It looks like we have a few plans that could work. Our most popular one for needs like yours is the 'Cymbal Business Pro' plan."
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "User",
+      "text": "Okay, what does 'Business Pro' include?"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "Agent",
+      "text": "The Business Pro plan comes with 50 gigabytes of premium high-speed data per line. If a user goes over 50GB, the data is still unlimited but may be slowed down during times of network congestion. It also includes 15GB of high-speed hotspot data."
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "User",
+      "text": "Fifty gigabytes is more than enough. That sounds like a good fit. What's the pricing structure for something like that?"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "Agent",
+      "text": "Business pricing is tiered based on the number of lines. For an account with 6 to 20 lines, the Business Pro plan is $45 per line, per month. That price includes a discount for enrolling in autopay and paperless billing."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "User",
+      "text": "So, for ten lines, that would be $450 a month, plus taxes and fees. Is that right?"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "Agent",
+      "text": "That is correct. $450 per month before any applicable taxes or government fees."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "Alright, that seems reasonable. Now, what about the tablets? We need something reliable for field use, but we're also conscious of the budget."
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "Agent",
+      "text": "Of course. Let me check the device catalog for you. We have a range of options. The most common choice for this kind of deployment is the Samsung Galaxy Tab A series with LTE."
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "User",
+      "text": "Okay, the Galaxy Tab A... is that a durable device?"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "Agent",
+      "text": "It's a standard consumer-grade tablet, quite reliable. We do also partner with manufacturers for more rugged, construction-site-proof models, but they are significantly more expensive."
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "User",
+      "text": "Let's stick with the standard one for now. We'll get protective cases for them. What would the cost be for ten of those tablets?"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "Agent",
+      "text": "Let me check for current promotions. It's often more advantageous to see what offers are available when activating new lines... Okay, I'm seeing a great promotion right now."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "User",
+      "text": "Oh? What is it?"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "Agent",
+      "text": "For new business customers who activate a line on a plan like the Business Pro, we are offering a Samsung Galaxy Tab A 'on us' via monthly bill credits."
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "User",
+      "text": "Wait, 'on us'? As in... free?"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "Agent",
+      "text": "Effectively, yes. The way it works is you would purchase the device on a 36-month device payment agreement. Then, each month, you would see a bill credit for the exact amount of the monthly payment, making the net cost for the tablet zero dollars, as long as the line remains active for the full 36 months."
+    },
+    {
+      "timestamp": "05:08",
+      "speaker": "User",
+      "text": "And that offer applies to all ten lines if I sign up?"
+    },
+    {
+      "timestamp": "05:13",
+      "speaker": "Agent",
+      "text": "Yes, the offer terms state it's for each new qualifying line added. So you could get ten tablets with ten new lines."
+    },
+    {
+      "timestamp": "05:22",
+      "speaker": "User",
+      "text": "Wow. Okay, that's... that's a fantastic deal. So my only monthly cost would be the $450 for the service, plus taxes?"
+    },
+    {
+      "timestamp": "05:31",
+      "speaker": "Agent",
+      "text": "That's right. Your bill would show the monthly charge for each tablet, and then an equal and opposite credit, so they cancel each other out."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "User",
+      "text": "This is very promising. What other costs are involved? There must be activation fees or something."
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "Agent",
+      "text": "You are correct. There is a standard one-time activation fee of $35 for each new line."
+    },
+    {
+      "timestamp": "05:56",
+      "speaker": "User",
+      "text": "Okay, so for ten lines, that's a $350 upfront cost. Is that negotiable?"
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "Agent",
+      "text": "Typically the fee is standard, but for a bulk corporate order like this, our Business Solutions specialists sometimes have the ability to offer a credit to offset those fees. I can't personally apply that, but I can make a strong note on the account recommending it."
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "User",
+      "text": "If you could do that, I'd really appreciate it. A $350 savings would be a great way to start our relationship."
+    },
+    {
+      "timestamp": "06:30",
+      "speaker": "Agent",
+      "text": "I've already added a note to the file I'm building for you. 'Customer ordering 10 new Business Pro lines, requesting waiver of activation fees as a bulk order incentive.'"
+    },
+    {
+      "timestamp": "06:42",
+      "speaker": "User",
+      "text": "Perfect, thank you Sarah."
+    },
+    {
+      "timestamp": "06:45",
+      "speaker": "Agent",
+      "text": "You're welcome, Michael."
+    },
+    {
+      "timestamp": "06:48",
+      "speaker": "User",
+      "text": "So, next question: logistics. How do we get the devices? And how do I manage all these lines?"
+    },
+    {
+      "timestamp": "06:57",
+      "speaker": "Agent",
+      "text": "We would ship the 10 tablets and the corresponding SIM cards directly to your business address. The SIMs can even be pre-installed if you'd like."
+    },
+    {
+      "timestamp": "07:08",
+      "speaker": "User",
+      "text": "That would be ideal. And the management part?"
+    },
+    {
+      "timestamp": "07:12",
+      "speaker": "Agent",
+      "text": "Once your account is created, you'll be set up with access to the Cymbal Business Control Center. It's a web portal where you, as the administrator, can see everything in one place."
+    },
+    {
+      "timestamp": "07:25",
+      "speaker": "User",
+      "text": "What can I do in this portal?"
+    },
+    {
+      "timestamp": "07:28",
+      "speaker": "Agent",
+      "text": "You can monitor data usage for each individual line, you can temporarily suspend a line if a device is lost, you can add or remove features, and you can view and pay your consolidated bill. It gives you full control over your fleet."
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "User",
+      "text": "That's exactly what I need. A single dashboard is much better than trying to manage ten individual accounts."
+    },
+    {
+      "timestamp": "07:52",
+      "speaker": "Agent",
+      "text": "Absolutely. It's designed specifically for businesses like yours."
+    },
+    {
+      "timestamp": "07:58",
+      "speaker": "User",
+      "text": "Okay. I'm sold. This all sounds perfect. What's the next step to make this happen?"
+    },
+    {
+      "timestamp": "08:06",
+      "speaker": "Agent",
+      "text": "This is the point where I'll need to get you over to our Business Solutions team. As I mentioned, they need to officially create the new business account and process the order."
+    },
+    {
+      "timestamp": "08:16",
+      "speaker": "User",
+      "text": "Right. So you're going to transfer me now?"
+    },
+    {
+      "timestamp": "08:20",
+      "speaker": "Agent",
+      "text": "I can do one better than a blind transfer. How about I gather a bit more information, create a detailed ticket with everything we've discussed, and have a dedicated Business Specialist call you back directly? That way you skip the queue and speak with an expert who already has all the details."
+    },
+    {
+      "timestamp": "08:38",
+      "speaker": "User",
+      "text": "A direct call back? That sounds like a great idea. I won't have to explain everything all over again?"
+    },
+    {
+      "timestamp": "08:45",
+      "speaker": "Agent",
+      "text": "Not at all. I've documented everything: the 10 Business Pro lines at $45 each, the promotional offer for 10 Samsung tablets, your request for the activation fee waiver, and the need for the Business Control Center. The specialist will have all of my notes."
+    },
+    {
+      "timestamp": "09:02",
+      "speaker": "User",
+      "text": "Sarah, you've been incredibly helpful. Yes, let's do that."
+    },
+    {
+      "timestamp": "09:08",
+      "speaker": "Agent",
+      "text": "Wonderful. I just need to gather a few more details for the business account setup. Can I get the legal name of the business?"
+    },
+    {
+      "timestamp": "09:17",
+      "speaker": "User",
+      "text": "It's 'Telecom Personal Inc.'"
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "Agent",
+      "text": "Telecom Personal Inc. Got it. And the business address where the devices should be shipped?"
+    },
+    {
+      "timestamp": "09:30",
+      "speaker": "User",
+      "text": "That's 1550 Corporate Boulevard, Suite 300, in Springfield."
+    },
+    {
+      "timestamp": "09:39",
+      "speaker": "Agent",
+      "text": "And the zip code?"
+    },
+    {
+      "timestamp": "09:41",
+      "speaker": "User",
+      "text": "62704."
+    },
+    {
+      "timestamp": "09:45",
+      "speaker": "Agent",
+      "text": "Okay, 1550 Corporate Boulevard, Suite 300, Springfield, 62704. And what is the best callback number for the specialist to reach you at?"
+    },
+    {
+      "timestamp": "09:58",
+      "speaker": "User",
+      "text": "They can call my direct line. It's 555-891-3496."
+    },
+    {
+      "timestamp": "10:06",
+      "speaker": "Agent",
+      "text": "555-891-3496. Noted. The specialist will also likely need your company's Tax ID or EIN to set up the account. Do you have that handy?"
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "I do, but I'd rather provide that directly to the business specialist when they call, for security reasons."
+    },
+    {
+      "timestamp": "10:25",
+      "speaker": "Agent",
+      "text": "That's a very wise precaution, and perfectly fine. I'll just note that the specialist will need to collect it from you. Our specialists typically call back within one to two business hours. Are you available for the rest of the afternoon?"
+    },
+    {
+      "timestamp": "10:39",
+      "speaker": "User",
+      "text": "Yes, I'll be at my desk. A call within the hour would be ideal, but two hours is fine."
+    },
+    {
+      "timestamp": "10:46",
+      "speaker": "Agent",
+      "text": "Excellent. I'm just finalizing the ticket now... Okay, it's all submitted. I have a reference ticket number for you, if you'd like it."
+    },
+    {
+      "timestamp": "10:58",
+      "speaker": "User",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "11:00",
+      "speaker": "Agent",
+      "text": "Your reference number is B-S-L, as in Business Solutions Lead, followed by the number 77042."
+    },
+    {
+      "timestamp": "11:12",
+      "speaker": "User",
+      "text": "BSL77042. Got it. Thank you."
+    },
+    {
+      "timestamp": "11:17",
+      "speaker": "Agent",
+      "text": "You're very welcome."
+    },
+    {
+      "timestamp": "11:20",
+      "speaker": "User",
+      "text": "I just want to confirm one more time, the tablets are the Samsung Galaxy Tab A, the LTE version, correct?"
+    },
+    {
+      "timestamp": "11:28",
+      "speaker": "Agent",
+      "text": "Yes, that's correct. The promotion is for the Samsung Galaxy Tab A, model SM-T295, which is the LTE-enabled version."
+    },
+    {
+      "timestamp": "11:38",
+      "speaker": "User",
+      "text": "Great. And the 36-month term is firm? There's no 24-month option for the device credits?"
+    },
+    {
+      "timestamp": "11:46",
+      "speaker": "Agent",
+      "text": "Let me double-check the terms... Yes, the promotional credits are specifically tied to a 36-month device payment agreement. If you were to cancel a line before 36 months, the remaining balance on that specific tablet would become due."
+    },
+    {
+      "timestamp": "12:02",
+      "speaker": "User",
+      "text": "Okay, that's important to know. We plan to keep the service, but it's good to understand the commitment. Thank you for checking."
+    },
+    {
+      "timestamp": "12:11",
+      "speaker": "Agent",
+      "text": "Of course. It's better to have all the details upfront. The Business Specialist who calls you will also go over the official agreement with you line by line before you commit to anything."
+    },
+    {
+      "timestamp": "12:23",
+      "speaker": "User",
+      "text": "That's good to hear. I've had experiences with other providers where things get... confused."
+    },
+    {
+      "timestamp": "12:30",
+      "speaker": "Agent",
+      "text": "We try our best to be transparent. I've made sure my notes are extremely detailed so there should be no confusion when John or another specialist from the business team calls you."
+    },
+    {
+      "timestamp": "12:41",
+      "speaker": "User",
+      "text": "Who is John?"
+    },
+    {
+      "timestamp": "12:43",
+      "speaker": "Agent",
+      "text": "Oh, sorry, John is one of our senior specialists on the business team. I was just thinking he's likely the one who will pick up a ticket like this. It could be any of our qualified specialists, though."
+    },
+    {
+      "timestamp": "12:54",
+      "speaker": "User",
+      "text": "Understood. As long as they have the notes, it doesn't matter to me."
+    },
+    {
+      "timestamp": "13:00",
+      "speaker": "Agent",
+      "text": "They will."
+    },
+    {
+      "timestamp": "13:02",
+      "speaker": "User",
+      "text": "Another quick question. The data... is the 50GB of premium data usable in Canada or Mexico?"
+    },
+    {
+      "timestamp": "13:10",
+      "speaker": "Agent",
+      "text": "That's an excellent question. Let me check the plan details for that specific feature. One moment..."
+    },
+    {
+      "timestamp": "13:40",
+      "speaker": "Agent",
+      "text": "Okay, thank you for waiting. Yes, the Business Pro plan includes unlimited talk, text, and data within and between the US, Mexico, and Canada. Your team can use their data in North America without any roaming charges."
+    },
+    {
+      "timestamp": "13:54",
+      "speaker": "User",
+      "text": "That's a huge bonus. We occasionally have projects that take us across the border. That simplifies things immensely."
+    },
+    {
+      "timestamp": "14:02",
+      "speaker": "Agent",
+      "text": "I'm glad to hear that. It's a great feature of the plan."
+    },
+    {
+      "timestamp": "14:06",
+      "speaker": "User",
+      "text": "And the hotspot data, the 15GB you mentioned. Is that also usable in Canada and Mexico?"
+    },
+    {
+      "timestamp": "14:14",
+      "speaker": "Agent",
+      "text": "Yes, it is. The high-speed hotspot allowance can also be used in North America."
+    },
+    {
+      "timestamp": "14:21",
+      "speaker": "User",
+      "text": "Fantastic."
+    },
+    {
+      "timestamp": "14:23",
+      "speaker": "Agent",
+      "text": "Is there anything else I can clarify for you while you're waiting for the specialist's call?"
+    },
+    {
+      "timestamp": "14:30",
+      "speaker": "User",
+      "text": "I don't think so. You've covered the plan, the device, the costs, the management portal, and the next steps. This has been far more productive than I expected."
+    },
+    {
+      "timestamp": "14:42",
+      "speaker": "Agent",
+      "text": "I'm so happy I could help, Michael. Even from the residential department."
+    },
+    {
+      "timestamp": "14:48",
+      "speaker": "User",
+      "text": "You should tell your manager they need to give you a raise. It's rare to get someone this helpful who is willing to step outside their exact role."
+    },
+    {
+      "timestamp": "14:57",
+      "speaker": "Agent",
+      "text": "That's very kind of you to say. I really appreciate that. I just enjoy making sure customers get the help they need."
+    },
+    {
+      "timestamp": "15:05",
+      "speaker": "User",
+      "text": "Well, you certainly did that today."
+    },
+    {
+      "timestamp": "15:08",
+      "speaker": "Agent",
+      "text": "So, just to recap one last time for my own peace of mind: I've created lead ticket BSL77042 for a Business Specialist to call you back at 555-891-3496 to set up a new account for Telecom Personal Inc. The request is for 10 Business Pro lines with the promotional Samsung tablets, with a note to waive activation fees."
+    },
+    {
+      "timestamp": "15:30",
+      "speaker": "User",
+      "text": "That is a perfect summary. You've got it all."
+    },
+    {
+      "timestamp": "15:34",
+      "speaker": "Agent",
+      "text": "Great. Then you should be all set. The specialist will handle everything from here."
+    },
+    {
+      "timestamp": "15:40",
+      "speaker": "User",
+      "text": "I can't thank you enough, Sarah."
+    },
+    {
+      "timestamp": "15:43",
+      "speaker": "Agent",
+      "text": "It has been my absolute pleasure, Michael. Before we disconnect, is there anything I can help you with regarding your personal Fiber 300 internet service?"
+    },
+    {
+      "timestamp": "15:52",
+      "speaker": "User",
+      "text": "No, the internet is working great. That's all I needed today."
+    },
+    {
+      "timestamp": "15:57",
+      "speaker": "Agent",
+      "text": "Alright then. We look forward to welcoming Telecom Personal Inc. to the Cymbal Telecom family. Thank you for choosing us for your business needs."
+    },
+    {
+      "timestamp": "16:06",
+      "speaker": "User",
+      "text": "Thanks to you, it was an easy choice."
+    },
+    {
+      "timestamp": "16:10",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. Have a wonderful afternoon, and expect that call soon!"
+    },
+    {
+      "timestamp": "16:16",
+      "speaker": "User",
+      "text": "You too, Sarah. Goodbye."
+    },
+    {
+      "timestamp": "16:19",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

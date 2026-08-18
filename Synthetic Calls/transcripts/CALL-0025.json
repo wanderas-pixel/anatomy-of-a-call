@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "call_id": "CALL-0025",
+    "customer_id": "CUST-2014",
+    "customer_name": "Velocity Transportation",
+    "customer_type": "Corporate",
+    "phone": "800-661-8454",
+    "email": "sandra.smith@velocitytransportation.com",
+    "services": "Enterprise Dedicated Ethernet 10Gbps ($1499/mo)",
+    "duration_minutes": 5,
+    "total_turns": 30
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Enterprise Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "User",
+      "text": "Hi Alex. This is Sandra Smith from Velocity Transportation. I need to add an authorized contact to our corporate account."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "Absolutely, I can certainly assist you with that. To ensure the security of your account, I'll first need to verify your credentials. Could you please provide me with your Customer ID?"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "User",
+      "text": "Of course. It's CUST-2014."
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "Agent",
+      "text": "Thank you. That's CUST-2014. And for the final verification step, could you please provide the 6-digit security PIN associated with the account?"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "User",
+      "text": "Yes, the PIN is 1-6-8-9-8-5."
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for that. Please give me just a moment to pull up your account details... Okay, I see the account for Velocity Transportation is now open. Thank you for your patience, Sandra."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "User",
+      "text": "You're welcome."
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "Agent",
+      "text": "So, you mentioned you'd like to add a new authorized contact. I can definitely process that for you. Who are we adding to the account today?"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "User",
+      "text": "His name is David Chen. He's our new Operations Manager and will be handling any service-related calls or changes from now on."
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "Agent",
+      "text": "Excellent. David Chen, Operations Manager. I'm noting that down. And just to be clear on the permissions, are you authorizing him to make changes to the service plan, discuss billing, and request technical support?"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "User",
+      "text": "Yes, all of that. He should have full access to manage the account, short of closing it entirely. That should still require my authorization."
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "Agent",
+      "text": "That's exactly how our standard authorized contact permissions work. They can perform all account management functions, but only the primary account holder can terminate the service agreement. So that aligns perfectly."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Great, that's what we need."
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "Agent",
+      "text": "Okay. To proceed, I'll need to gather a little more information for Mr. Chen's profile. Could you spell out his full name for me, please?"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "User",
+      "text": "Sure. First name is David, D-A-V-I-D. Last name is Chen, C-H-E-N."
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "Agent",
+      "text": "Got it. And what is the best contact phone number for him?"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "User",
+      "text": "His direct line is 800-661-8456."
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "Agent",
+      "text": "800-661-8456. Thank you. I'm adding this to the account record now. It will take me about 30 seconds to get this entered into the system."
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "User",
+      "text": "No problem, take your time."
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "Agent",
+      "text": "Alright, thank you for waiting. I have created the profile for David Chen as an authorized contact on the account. Now, for the final security step, our system requires an email confirmation from the primary contact."
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "User",
+      "text": "Okay, what do I need to do?"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "Agent",
+      "text": "I am sending a secure email right now to the address we have on file for you, which is sandra.smith@velocitytransportation.com. Is that correct?"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "User",
+      "text": "Yes, that's correct. I have my email open."
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "Agent",
+      "text": "Perfect. The email has just been sent from Cymbal Telecom. It will contain a link to approve this change. Once you click that link, David Chen will be officially authorized on the account, and the change will be effective immediately."
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "User",
+      "text": "Okay, I see it. It just came through. I'll click the link as soon as we're off the phone."
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "Agent",
+      "text": "Wonderful. The link is valid for 24 hours. Once you approve it, he'll be all set. Is there anything else I can assist you with today, Sandra?"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "User",
+      "text": "No, that was everything. Thank you for your help, Alex."
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "Agent",
+      "text": "You are very welcome. We appreciate your business. Thank you for calling Cymbal Telecom Enterprise Support, and have a great rest of your day."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    }
+  ]
+}

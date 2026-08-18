@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "call_id": "CALL-0053",
+    "customer_id": "CUST-2013",
+    "customer_name": "Delta Legal Services",
+    "customer_type": "Corporate",
+    "phone": "800-726-4962",
+    "email": "michael.brown@deltalegalservices.com",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "duration_minutes": 9,
+    "total_turns": 54
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Support. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Sarah. This is Michael Brown with Delta Legal Services. We're opening a new branch office and I need to set up new internet and phone services."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "Absolutely, Mr. Brown. I can certainly help you with that. To access your corporate account, could you please provide me with your Customer ID?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Yes, it's CUST-2013."
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, could you please verify the 6-digit account security PIN?"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "User",
+      "text": "It's 1-2-7-2-7-4."
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. I have your account pulled up now. I see you're with Delta Legal Services. So, you're setting up a new location. That's exciting. Could you provide me with the full street address for the new branch?"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "User",
+      "text": "Sure. It's 455 West Arlington Avenue, Suite 102, in Northgate."
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "Agent",
+      "text": "Okay, 455 West Arlington Avenue, Suite 102. Let me just check serviceability in that area. One moment please."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience. Good news! That location is fully serviced by our Cymbal Fiber network. We can definitely get you set up."
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "User",
+      "text": "That's great to hear. What are our options? The main office has the 500 megabit plan, but this is a smaller satellite office. Maybe 5 or 6 employees."
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "Agent",
+      "text": "That's very helpful context. For a location of that size, I'd recommend our Business Fiber 200 plan. It provides 200 megabits per second for both download and upload, which is more than enough for a team of that size, even with heavy cloud usage and video conferencing."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "User",
+      "text": "Okay, 200 by 200. And what's the pricing on that?"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "Agent",
+      "text": "The Business Fiber 200 plan is one hundred and forty-nine ninety-nine per month. That includes the Optical Network Terminal, or ONT, and our latest Cymbal Wi-Fi 6 mesh router."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "And that requires a professional install, I assume?"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "Agent",
+      "text": "Yes, it does. A technician needs to run the fiber line to the suite and install the ONT. There is a one-time professional installation fee of ninety-nine dollars."
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "User",
+      "text": "Alright, that sounds reasonable. Now, what about the phone system? We'll need about five desks with phones."
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "Agent",
+      "text": "We can add our Cymbal Cloud Voice service. It's a VoIP solution that runs over the internet connection. For five users, you would need five Cloud Voice licenses."
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "And how does that work? Do we buy special phones?"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "Agent",
+      "text": "You can either purchase pre-configured VoIP desk phones directly from us, or you can use our softphone application on your computers and headsets. The licenses themselves are twenty-four ninety-nine per user, per month."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Okay, let's go with the desk phones for this location. It's a more traditional legal office setup. So that's five licenses."
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "Agent",
+      "text": "Excellent. So that's five Cloud Voice licenses. Our standard VoIP phone model is forty-nine dollars per handset, a one-time cost. Would you like to add five of those to the order?"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "User",
+      "text": "Yes, add five phones. Will the technician set those up as well?"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "Agent",
+      "text": "The technician installs and activates the internet service. The phones are plug-and-play. You just connect them to the internet port and they automatically configure themselves. It's very straightforward."
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "User",
+      "text": "Okay, that should be fine. So, can we get a new block of phone numbers for this location?"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "Agent",
+      "text": "Of course. We can assign a new main number and five direct-dial numbers for the users in the local area code. That's all included with the service."
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "User",
+      "text": "Perfect. So, let's recap the cost."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "Agent",
+      "text": "Certainly. The monthly recurring cost will be one forty-nine ninety-nine for the Business Fiber 200, plus one hundred twenty-four ninety-five for the five voice licenses. That's a total of two hundred seventy-four ninety-four per month, plus taxes and fees."
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "User",
+      "text": "Two seventy-four ninety-four a month. Okay."
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "Agent",
+      "text": "And the one-time charges for this order will be the ninety-nine dollar installation fee, plus two hundred forty-five dollars for the five VoIP handsets. So that's a total of three hundred forty-four dollars in one-time costs."
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "User",
+      "text": "Understood. That all seems in line with my expectations. Let's go ahead and place the order."
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "Agent",
+      "text": "Wonderful. I'm building the order for you now. Just a moment... Okay, the order is staged. The last step is to schedule the technician visit. When are you hoping to have the service installed?"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "User",
+      "text": "We get the keys to the new suite next Monday, which is the 15th. We'd like to get it done as soon as possible after that."
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "Agent",
+      "text": "Let me check the technician schedule for that week. I'm looking at my dispatch calendar..."
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "Agent",
+      "text": "Okay, it looks like the earliest available appointment is Tuesday the 16th. I have a morning slot from 8 AM to 12 PM, or an afternoon slot from 1 PM to 5 PM."
+    },
+    {
+      "timestamp": "05:07",
+      "speaker": "User",
+      "text": "Let's do the morning slot on Tuesday the 16th. 8 AM to 12 PM."
+    },
+    {
+      "timestamp": "05:12",
+      "speaker": "Agent",
+      "text": "Perfect. Booking that for you now... And done. You are confirmed for Tuesday, the 16th, between 8 AM and 12 PM. The technician will call the number on this account about 30 minutes prior to arrival."
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "User",
+      "text": "Is that my mobile number they'll call?"
+    },
+    {
+      "timestamp": "05:28",
+      "speaker": "Agent",
+      "text": "Let me check. Yes, the contact number we have on file ends in 4962. Is that correct?"
+    },
+    {
+      "timestamp": "05:35",
+      "speaker": "User",
+      "text": "Yes, that's the one. That's fine."
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "Agent",
+      "text": "Great. So, let me give you a final summary of what we've set up today. This will all be in the confirmation email as well."
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "User",
+      "text": "Please do."
+    },
+    {
+      "timestamp": "05:47",
+      "speaker": "Agent",
+      "text": "We are adding new service at 455 West Arlington Avenue, Suite 102. The service includes one Cymbal Business Fiber 200 internet connection and five Cymbal Cloud Voice licenses with five new VoIP desk phones."
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "06:07",
+      "speaker": "Agent",
+      "text": "Your monthly recurring total for this new location will be two hundred seventy-four dollars and ninety-four cents, plus taxes. Your first bill will also include the one-time charges of three hundred forty-four dollars."
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "User",
+      "text": "Got it."
+    },
+    {
+      "timestamp": "06:24",
+      "speaker": "Agent",
+      "text": "And your professional installation is scheduled for Tuesday, the 16th, in the 8 AM to 12 PM window. Someone over 18 will need to be on-site to grant the technician access."
+    },
+    {
+      "timestamp": "06:36",
+      "speaker": "User",
+      "text": "Yes, I'll be there myself to oversee the setup."
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "Agent",
+      "text": "Excellent. I am sending the order confirmation and service agreement to the email address on file, michael.brown@deltalegalservices.com. You should see it arrive within the next 15 minutes."
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "User",
+      "text": "Great. That's everything I needed. Thank you for being so efficient."
+    },
+    {
+      "timestamp": "06:57",
+      "speaker": "Agent",
+      "text": "You're very welcome, Mr. Brown. It was my pleasure to help you get your new office connected. Is there anything else I can assist you with today?"
+    },
+    {
+      "timestamp": "07:04",
+      "speaker": "User",
+      "text": "No, that's all for me. Thanks again, Sarah."
+    },
+    {
+      "timestamp": "07:08",
+      "speaker": "Agent",
+      "text": "Alright. Thank you for choosing Cymbal Telecom. We appreciate your business. Have a wonderful day!"
+    },
+    {
+      "timestamp": "07:14",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    }
+  ]
+}

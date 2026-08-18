@@ -1,0 +1,1002 @@
+[
+  {
+    "call_id": "CALL-0001",
+    "customer_id": "CUST-1024",
+    "customer_name": "Kimberly Taylor",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 18,
+    "topic": "Add Unlimited Mobile Line & Phone Buy",
+    "summary": "Consumer wants to add an additional mobile line for a family member and finance a new phone (e.g. iPhone 15 Pro) on monthly installments."
+  },
+  {
+    "call_id": "CALL-0002",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 8,
+    "topic": "Autopay Failure & Update Expired Card",
+    "summary": "Customer's automatic recurring payment failed because credit card on file expired. Customer wants to clear past balance manually and register a new card."
+  },
+  {
+    "call_id": "CALL-0003",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "category": "New orders",
+    "duration_minutes": 8,
+    "topic": "Branch Office Voice and Internet Setup",
+    "summary": "Corporate manager orders broadband internet and cloud VoIP phone licenses for a new retail/satellite branch office. Requires professional technician install booking."
+  },
+  {
+    "call_id": "CALL-0004",
+    "customer_id": "CUST-1017",
+    "customer_name": "Daniel Smith",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 11,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0005",
+    "customer_id": "CUST-1022",
+    "customer_name": "David Hernandez",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 17,
+    "topic": "Online Bank Transfer Delay & Suspension Hold",
+    "summary": "Customer paid via online banking transfer but services were suspended or past due alert triggered. Agent validates transaction bank receipt, places temporary collection freeze, and schedules reactivation."
+  },
+  {
+    "call_id": "CALL-0006",
+    "customer_id": "CUST-2013",
+    "customer_name": "Delta Legal Services",
+    "customer_type": "Corporate",
+    "category": "Billing problems",
+    "duration_minutes": 20,
+    "topic": "Promo Rate Expired Bill Increase",
+    "summary": "Customer notices their bill increased by $10-$20. Agent discovers their 12-month promotional sign-up discount expired. Reviews contract and offers a new promotion."
+  },
+  {
+    "call_id": "CALL-0007",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 7,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0008",
+    "customer_id": "CUST-1019",
+    "customer_name": "Michael Moore",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 10,
+    "topic": "Forgot Voicemail PIN",
+    "summary": "Customer cannot access their voicemail because they forgot their voicemail PIN. Requires resetting to a default PIN and setup guidance."
+  },
+  {
+    "call_id": "CALL-0009",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 8,
+    "topic": "Account Merge & Master PIN Setup",
+    "summary": "Customer has separate broadband and mobile accounts and wants to merge them under a single ID and setup a combined security PIN."
+  },
+  {
+    "call_id": "CALL-0010",
+    "customer_id": "CUST-1020",
+    "customer_name": "Kimberly Smith",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 11,
+    "topic": "Hardship Split Payment Agreement",
+    "summary": "Customer facing temporary hardship requests relief or extensions. Agent sets up a multi-month payment schedule (splitting arrears over next invoices) and waives late penalty."
+  },
+  {
+    "call_id": "CALL-0011",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 6,
+    "topic": "Mobile Hotspot with Big Data Plan Purchase",
+    "summary": "Consumer wants a standalone Wi-Fi hotspot (MiFi) device with 50GB data capacity plan for recreational travel. Sets up pricing and device orders."
+  },
+  {
+    "call_id": "CALL-0012",
+    "customer_id": "CUST-1015",
+    "customer_name": "Lisa Thompson",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 8,
+    "topic": "Direct Debit Setup for Autopay Discount",
+    "summary": "Customer wants to configure direct monthly withdrawals from checking account (ACH) to secure the ongoing $10 monthly discount. Verifies account and routing."
+  },
+  {
+    "call_id": "CALL-0013",
+    "customer_id": "CUST-1009",
+    "customer_name": "Patricia Robinson",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 9,
+    "topic": "Forgot Voicemail PIN",
+    "summary": "Customer cannot access their voicemail because they forgot their voicemail PIN. Requires resetting to a default PIN and setup guidance."
+  },
+  {
+    "call_id": "CALL-0014",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 11,
+    "topic": "Hardship Split Payment Agreement",
+    "summary": "Customer facing temporary hardship requests relief or extensions. Agent sets up a multi-month payment schedule (splitting arrears over next invoices) and waives late penalty."
+  },
+  {
+    "call_id": "CALL-0015",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 16,
+    "topic": "Upgrade Ordered but Billing Erroneous",
+    "summary": "Corporate/Consumer upgraded speed or services but was billed the new tier rate while technical speed remains at the old lower tier due to system sync lag. Requires billing credits."
+  },
+  {
+    "call_id": "CALL-0016",
+    "customer_id": "CUST-2015",
+    "customer_name": "OmniMedia Group",
+    "customer_type": "Corporate",
+    "category": "Billing problems",
+    "duration_minutes": 10,
+    "topic": "Promo Rate Expired Bill Increase",
+    "summary": "Customer notices their bill increased by $10-$20. Agent discovers their 12-month promotional sign-up discount expired. Reviews contract and offers a new promotion."
+  },
+  {
+    "call_id": "CALL-0017",
+    "customer_id": "CUST-1010",
+    "customer_name": "Charles Williams",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 13,
+    "topic": "Promo Rate Expired Bill Increase",
+    "summary": "Customer notices their bill increased by $10-$20. Agent discovers their 12-month promotional sign-up discount expired. Reviews contract and offers a new promotion."
+  },
+  {
+    "call_id": "CALL-0018",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 18,
+    "topic": "Corporate Tax Exemption Missing",
+    "summary": "Corporate client is being charged state sales tax despite submitting tax-exempt status certificate. Wants taxes refunded and status validated."
+  },
+  {
+    "call_id": "CALL-0019",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 17,
+    "topic": "Account Merge & Master PIN Setup",
+    "summary": "Customer has separate broadband and mobile accounts and wants to merge them under a single ID and setup a combined security PIN."
+  },
+  {
+    "call_id": "CALL-0020",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 16,
+    "topic": "Corporate Tax Exemption Missing",
+    "summary": "Corporate client is being charged state sales tax despite submitting tax-exempt status certificate. Wants taxes refunded and status validated."
+  },
+  {
+    "call_id": "CALL-0021",
+    "customer_id": "CUST-1015",
+    "customer_name": "Lisa Thompson",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 8,
+    "topic": "TV Receiver Error Code E104",
+    "summary": "TV set-top box showing error code. Troubleshooting involves cable checks, power cycle, and sending a box refresh/re-auth hit from the central network."
+  },
+  {
+    "call_id": "CALL-0022",
+    "customer_id": "CUST-1024",
+    "customer_name": "Kimberly Taylor",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 9,
+    "topic": "Branch Office Voice and Internet Setup",
+    "summary": "Corporate manager orders broadband internet and cloud VoIP phone licenses for a new retail/satellite branch office. Requires professional technician install booking."
+  },
+  {
+    "call_id": "CALL-0023",
+    "customer_id": "CUST-2014",
+    "customer_name": "Velocity Transportation",
+    "customer_type": "Corporate",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 17,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0024",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 11,
+    "topic": "Add Authorized Contact on Corporate Account",
+    "summary": "Corporate primary contact wants to add their new office/operation manager as an authorized contact to make modifications. Requires admin authorization."
+  },
+  {
+    "call_id": "CALL-0025",
+    "customer_id": "CUST-2014",
+    "customer_name": "Velocity Transportation",
+    "customer_type": "Corporate",
+    "category": "Account and PIN questions",
+    "duration_minutes": 5,
+    "topic": "Add Authorized Contact on Corporate Account",
+    "summary": "Corporate primary contact wants to add their new office/operation manager as an authorized contact to make modifications. Requires admin authorization."
+  },
+  {
+    "call_id": "CALL-0026",
+    "customer_id": "CUST-1035",
+    "customer_name": "Thomas Taylor",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 20,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0027",
+    "customer_id": "CUST-2010",
+    "customer_name": "Ironwood Manufacturing",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 5,
+    "topic": "Direct Debit Setup for Autopay Discount",
+    "summary": "Customer wants to configure direct monthly withdrawals from checking account (ACH) to secure the ongoing $10 monthly discount. Verifies account and routing."
+  },
+  {
+    "call_id": "CALL-0028",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 17,
+    "topic": "Add Unlimited Mobile Line & Phone Buy",
+    "summary": "Consumer wants to add an additional mobile line for a family member and finance a new phone (e.g. iPhone 15 Pro) on monthly installments."
+  },
+  {
+    "call_id": "CALL-0029",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 12,
+    "topic": "Unexpected International Roaming Charges",
+    "summary": "Customer went abroad and noticed huge international roaming data charges. Frustrated. Needs explanation and potential proactive waiver/discount pass."
+  },
+  {
+    "call_id": "CALL-0030",
+    "customer_id": "CUST-2006",
+    "customer_name": "Beacon Consulting",
+    "customer_type": "Corporate",
+    "category": "New orders",
+    "duration_minutes": 15,
+    "topic": "Branch Office Voice and Internet Setup",
+    "summary": "Corporate manager orders broadband internet and cloud VoIP phone licenses for a new retail/satellite branch office. Requires professional technician install booking."
+  },
+  {
+    "call_id": "CALL-0031",
+    "customer_id": "CUST-1005",
+    "customer_name": "Jennifer Wright",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 17,
+    "topic": "Mobile Hotspot with Big Data Plan Purchase",
+    "summary": "Consumer wants a standalone Wi-Fi hotspot (MiFi) device with 50GB data capacity plan for recreational travel. Sets up pricing and device orders."
+  },
+  {
+    "call_id": "CALL-0032",
+    "customer_id": "CUST-1010",
+    "customer_name": "Charles Williams",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 20,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0033",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 19,
+    "topic": "Add Unlimited Mobile Line & Phone Buy",
+    "summary": "Consumer wants to add an additional mobile line for a family member and finance a new phone (e.g. iPhone 15 Pro) on monthly installments."
+  },
+  {
+    "call_id": "CALL-0034",
+    "customer_id": "CUST-1005",
+    "customer_name": "Jennifer Wright",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 9,
+    "topic": "Corporate Tax Exemption Missing",
+    "summary": "Corporate client is being charged state sales tax despite submitting tax-exempt status certificate. Wants taxes refunded and status validated."
+  },
+  {
+    "call_id": "CALL-0035",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 9,
+    "topic": "Complete Fiber Broadband Outage",
+    "summary": "Customer working from home has a complete internet outage. Agent runs troubleshooting (modem/ONT restart, signal test), finds local storm-related physical fiber break, schedules/details field restoration."
+  },
+  {
+    "call_id": "CALL-0036",
+    "customer_id": "CUST-2009",
+    "customer_name": "Pinnacle Real Estate",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 5,
+    "topic": "Autopay Failure & Update Expired Card",
+    "summary": "Customer's automatic recurring payment failed because credit card on file expired. Customer wants to clear past balance manually and register a new card."
+  },
+  {
+    "call_id": "CALL-0037",
+    "customer_id": "CUST-1014",
+    "customer_name": "Daniel Jones",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 16,
+    "topic": "Poor Wi-Fi Coverage & Extender Order",
+    "summary": "Customer complains of weak Wi-Fi signal on upper floor. Agent diagnoses configuration, explains frequency differences (2.4GHz vs 5GHz), and processes order for a mesh Wi-Fi extender node."
+  },
+  {
+    "call_id": "CALL-0038",
+    "customer_id": "CUST-1019",
+    "customer_name": "Michael Moore",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 20,
+    "topic": "Corporate Fleet Cellular Upgrade",
+    "summary": "Corporate IT representative orders bulk cellular connection lines and devices (e.g., 10 new LTE tablets) for their field crew with enterprise pricing structure."
+  },
+  {
+    "call_id": "CALL-0039",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 8,
+    "topic": "TV Receiver Error Code E104",
+    "summary": "TV set-top box showing error code. Troubleshooting involves cable checks, power cycle, and sending a box refresh/re-auth hit from the central network."
+  },
+  {
+    "call_id": "CALL-0040",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 12,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0041",
+    "customer_id": "CUST-1004",
+    "customer_name": "Michael Hernandez",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 15,
+    "topic": "Forgot PIN & Account Lockout",
+    "summary": "Customer has forgotten their voice/security PIN and is locked out of their automated portal. Needs verification and a new PIN."
+  },
+  {
+    "call_id": "CALL-0042",
+    "customer_id": "CUST-2006",
+    "customer_name": "Beacon Consulting",
+    "customer_type": "Corporate",
+    "category": "New orders",
+    "duration_minutes": 16,
+    "topic": "Add Unlimited Mobile Line & Phone Buy",
+    "summary": "Consumer wants to add an additional mobile line for a family member and finance a new phone (e.g. iPhone 15 Pro) on monthly installments."
+  },
+  {
+    "call_id": "CALL-0043",
+    "customer_id": "CUST-1026",
+    "customer_name": "Donald Jones",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 18,
+    "topic": "Forgot Voicemail PIN",
+    "summary": "Customer cannot access their voicemail because they forgot their voicemail PIN. Requires resetting to a default PIN and setup guidance."
+  },
+  {
+    "call_id": "CALL-0044",
+    "customer_id": "CUST-1035",
+    "customer_name": "Thomas Taylor",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 11,
+    "topic": "DSL to Fiber Upgrade Order",
+    "summary": "Customer has old copper internet (DSL) and wants to upgrade to their newly available Fiber optic connection. Enrolls in plan, configures router upgrade, and sets terminal retrieval instructions."
+  },
+  {
+    "call_id": "CALL-0045",
+    "customer_id": "CUST-2003",
+    "customer_name": "Global Logistics LLC",
+    "customer_type": "Corporate",
+    "category": "Account and PIN questions",
+    "duration_minutes": 9,
+    "topic": "Add Authorized Contact on Corporate Account",
+    "summary": "Corporate primary contact wants to add their new office/operation manager as an authorized contact to make modifications. Requires admin authorization."
+  },
+  {
+    "call_id": "CALL-0046",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 16,
+    "topic": "Complete Fiber Broadband Outage",
+    "summary": "Customer working from home has a complete internet outage. Agent runs troubleshooting (modem/ONT restart, signal test), finds local storm-related physical fiber break, schedules/details field restoration."
+  },
+  {
+    "call_id": "CALL-0047",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 9,
+    "topic": "Complete Fiber Broadband Outage",
+    "summary": "Customer working from home has a complete internet outage. Agent runs troubleshooting (modem/ONT restart, signal test), finds local storm-related physical fiber break, schedules/details field restoration."
+  },
+  {
+    "call_id": "CALL-0048",
+    "customer_id": "CUST-1016",
+    "customer_name": "Sandra Wright",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 15,
+    "topic": "Corporate Tax Exemption Missing",
+    "summary": "Corporate client is being charged state sales tax despite submitting tax-exempt status certificate. Wants taxes refunded and status validated."
+  },
+  {
+    "call_id": "CALL-0049",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 10,
+    "topic": "Online Bank Transfer Delay & Suspension Hold",
+    "summary": "Customer paid via online banking transfer but services were suspended or past due alert triggered. Agent validates transaction bank receipt, places temporary collection freeze, and schedules reactivation."
+  },
+  {
+    "call_id": "CALL-0050",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 5,
+    "topic": "Corporate Fleet Cellular Upgrade",
+    "summary": "Corporate IT representative orders bulk cellular connection lines and devices (e.g., 10 new LTE tablets) for their field crew with enterprise pricing structure."
+  },
+  {
+    "call_id": "CALL-0051",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 12,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0052",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 20,
+    "topic": "Unexpected International Roaming Charges",
+    "summary": "Customer went abroad and noticed huge international roaming data charges. Frustrated. Needs explanation and potential proactive waiver/discount pass."
+  },
+  {
+    "call_id": "CALL-0053",
+    "customer_id": "CUST-2013",
+    "customer_name": "Delta Legal Services",
+    "customer_type": "Corporate",
+    "category": "New orders",
+    "duration_minutes": 9,
+    "topic": "Branch Office Voice and Internet Setup",
+    "summary": "Corporate manager orders broadband internet and cloud VoIP phone licenses for a new retail/satellite branch office. Requires professional technician install booking."
+  },
+  {
+    "call_id": "CALL-0054",
+    "customer_id": "CUST-1017",
+    "customer_name": "Daniel Smith",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 20,
+    "topic": "DSL to Fiber Upgrade Order",
+    "summary": "Customer has old copper internet (DSL) and wants to upgrade to their newly available Fiber optic connection. Enrolls in plan, configures router upgrade, and sets terminal retrieval instructions."
+  },
+  {
+    "call_id": "CALL-0055",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 13,
+    "topic": "Hardship Split Payment Agreement",
+    "summary": "Customer facing temporary hardship requests relief or extensions. Agent sets up a multi-month payment schedule (splitting arrears over next invoices) and waives late penalty."
+  },
+  {
+    "call_id": "CALL-0056",
+    "customer_id": "CUST-1011",
+    "customer_name": "Karen Thompson",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 14,
+    "topic": "Add Authorized Contact on Corporate Account",
+    "summary": "Corporate primary contact wants to add their new office/operation manager as an authorized contact to make modifications. Requires admin authorization."
+  },
+  {
+    "call_id": "CALL-0057",
+    "customer_id": "CUST-2011",
+    "customer_name": "EcoSphere Energy",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 5,
+    "topic": "Hardship Split Payment Agreement",
+    "summary": "Customer facing temporary hardship requests relief or extensions. Agent sets up a multi-month payment schedule (splitting arrears over next invoices) and waives late penalty."
+  },
+  {
+    "call_id": "CALL-0058",
+    "customer_id": "CUST-1002",
+    "customer_name": "Lisa Perez",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 16,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0059",
+    "customer_id": "CUST-1019",
+    "customer_name": "Michael Moore",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 13,
+    "topic": "Upgrade Ordered but Billing Erroneous",
+    "summary": "Corporate/Consumer upgraded speed or services but was billed the new tier rate while technical speed remains at the old lower tier due to system sync lag. Requires billing credits."
+  },
+  {
+    "call_id": "CALL-0060",
+    "customer_id": "CUST-1035",
+    "customer_name": "Thomas Taylor",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 13,
+    "topic": "Add Authorized Contact on Corporate Account",
+    "summary": "Corporate primary contact wants to add their new office/operation manager as an authorized contact to make modifications. Requires admin authorization."
+  },
+  {
+    "call_id": "CALL-0061",
+    "customer_id": "CUST-1001",
+    "customer_name": "Sandra Ramirez",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 9,
+    "topic": "Autopay Failure & Update Expired Card",
+    "summary": "Customer's automatic recurring payment failed because credit card on file expired. Customer wants to clear past balance manually and register a new card."
+  },
+  {
+    "call_id": "CALL-0062",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 11,
+    "topic": "Promo Rate Expired Bill Increase",
+    "summary": "Customer notices their bill increased by $10-$20. Agent discovers their 12-month promotional sign-up discount expired. Reviews contract and offers a new promotion."
+  },
+  {
+    "call_id": "CALL-0063",
+    "customer_id": "CUST-2001",
+    "customer_name": "TechCorp Solutions",
+    "customer_type": "Corporate",
+    "category": "Account and PIN questions",
+    "duration_minutes": 7,
+    "topic": "Forgot PIN & Account Lockout",
+    "summary": "Customer has forgotten their voice/security PIN and is locked out of their automated portal. Needs verification and a new PIN."
+  },
+  {
+    "call_id": "CALL-0064",
+    "customer_id": "CUST-2012",
+    "customer_name": "Quantum Innovations",
+    "customer_type": "Corporate",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 10,
+    "topic": "Complete Fiber Broadband Outage",
+    "summary": "Customer working from home has a complete internet outage. Agent runs troubleshooting (modem/ONT restart, signal test), finds local storm-related physical fiber break, schedules/details field restoration."
+  },
+  {
+    "call_id": "CALL-0065",
+    "customer_id": "CUST-1031",
+    "customer_name": "Karen Davis",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 13,
+    "topic": "Mobile Hotspot with Big Data Plan Purchase",
+    "summary": "Consumer wants a standalone Wi-Fi hotspot (MiFi) device with 50GB data capacity plan for recreational travel. Sets up pricing and device orders."
+  },
+  {
+    "call_id": "CALL-0066",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 14,
+    "topic": "Add Unlimited Mobile Line & Phone Buy",
+    "summary": "Consumer wants to add an additional mobile line for a family member and finance a new phone (e.g. iPhone 15 Pro) on monthly installments."
+  },
+  {
+    "call_id": "CALL-0067",
+    "customer_id": "CUST-1013",
+    "customer_name": "Thomas Young",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 13,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0068",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "category": "Billing problems",
+    "duration_minutes": 8,
+    "topic": "Unexpected International Roaming Charges",
+    "summary": "Customer went abroad and noticed huge international roaming data charges. Frustrated. Needs explanation and potential proactive waiver/discount pass."
+  },
+  {
+    "call_id": "CALL-0069",
+    "customer_id": "CUST-1035",
+    "customer_name": "Thomas Taylor",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 7,
+    "topic": "Autopay Failure & Update Expired Card",
+    "summary": "Customer's automatic recurring payment failed because credit card on file expired. Customer wants to clear past balance manually and register a new card."
+  },
+  {
+    "call_id": "CALL-0070",
+    "customer_id": "CUST-2001",
+    "customer_name": "TechCorp Solutions",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 19,
+    "topic": "Autopay Failure & Update Expired Card",
+    "summary": "Customer's automatic recurring payment failed because credit card on file expired. Customer wants to clear past balance manually and register a new card."
+  },
+  {
+    "call_id": "CALL-0071",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "category": "Account and PIN questions",
+    "duration_minutes": 12,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0072",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 13,
+    "topic": "Promo Rate Expired Bill Increase",
+    "summary": "Customer notices their bill increased by $10-$20. Agent discovers their 12-month promotional sign-up discount expired. Reviews contract and offers a new promotion."
+  },
+  {
+    "call_id": "CALL-0073",
+    "customer_id": "CUST-1025",
+    "customer_name": "Christopher Ramirez",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 6,
+    "topic": "Enterprise Dedicated Line High Latency / Drops",
+    "summary": "Corporate dedicated fiber link showing packet loss and high latency, impacting their office VoIP system. Requires hardware line tests and field engineering dispatch."
+  },
+  {
+    "call_id": "CALL-0074",
+    "customer_id": "CUST-1017",
+    "customer_name": "Daniel Smith",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 8,
+    "topic": "Account Merge & Master PIN Setup",
+    "summary": "Customer has separate broadband and mobile accounts and wants to merge them under a single ID and setup a combined security PIN."
+  },
+  {
+    "call_id": "CALL-0075",
+    "customer_id": "CUST-2009",
+    "customer_name": "Pinnacle Real Estate",
+    "customer_type": "Corporate",
+    "category": "Billing problems",
+    "duration_minutes": 9,
+    "topic": "Upgrade Ordered but Billing Erroneous",
+    "summary": "Corporate/Consumer upgraded speed or services but was billed the new tier rate while technical speed remains at the old lower tier due to system sync lag. Requires billing credits."
+  },
+  {
+    "call_id": "CALL-0076",
+    "customer_id": "CUST-1016",
+    "customer_name": "Sandra Wright",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 12,
+    "topic": "Corporate Fleet Cellular Upgrade",
+    "summary": "Corporate IT representative orders bulk cellular connection lines and devices (e.g., 10 new LTE tablets) for their field crew with enterprise pricing structure."
+  },
+  {
+    "call_id": "CALL-0077",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 7,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0078",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 5,
+    "topic": "Hardship Split Payment Agreement",
+    "summary": "Customer facing temporary hardship requests relief or extensions. Agent sets up a multi-month payment schedule (splitting arrears over next invoices) and waives late penalty."
+  },
+  {
+    "call_id": "CALL-0079",
+    "customer_id": "CUST-1022",
+    "customer_name": "David Hernandez",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 6,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0080",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 15,
+    "topic": "Add Unlimited Mobile Line & Phone Buy",
+    "summary": "Consumer wants to add an additional mobile line for a family member and finance a new phone (e.g. iPhone 15 Pro) on monthly installments."
+  },
+  {
+    "call_id": "CALL-0081",
+    "customer_id": "CUST-1024",
+    "customer_name": "Kimberly Taylor",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 11,
+    "topic": "Promo Rate Expired Bill Increase",
+    "summary": "Customer notices their bill increased by $10-$20. Agent discovers their 12-month promotional sign-up discount expired. Reviews contract and offers a new promotion."
+  },
+  {
+    "call_id": "CALL-0082",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 12,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0083",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 14,
+    "topic": "Activation Fee Not Waived",
+    "summary": "Customer noticed a $35 activation fee on a new line that they were promised would be waived. Wants a credit applied."
+  },
+  {
+    "call_id": "CALL-0084",
+    "customer_id": "CUST-1013",
+    "customer_name": "Thomas Young",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 12,
+    "topic": "Direct Debit Setup for Autopay Discount",
+    "summary": "Customer wants to configure direct monthly withdrawals from checking account (ACH) to secure the ongoing $10 monthly discount. Verifies account and routing."
+  },
+  {
+    "call_id": "CALL-0085",
+    "customer_id": "CUST-1005",
+    "customer_name": "Jennifer Wright",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 14,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  },
+  {
+    "call_id": "CALL-0086",
+    "customer_id": "CUST-2006",
+    "customer_name": "Beacon Consulting",
+    "customer_type": "Corporate",
+    "category": "Billing problems",
+    "duration_minutes": 14,
+    "topic": "Promo Rate Expired Bill Increase",
+    "summary": "Customer notices their bill increased by $10-$20. Agent discovers their 12-month promotional sign-up discount expired. Reviews contract and offers a new promotion."
+  },
+  {
+    "call_id": "CALL-0087",
+    "customer_id": "CUST-2006",
+    "customer_name": "Beacon Consulting",
+    "customer_type": "Corporate",
+    "category": "Account and PIN questions",
+    "duration_minutes": 16,
+    "topic": "Forgot PIN & Account Lockout",
+    "summary": "Customer has forgotten their voice/security PIN and is locked out of their automated portal. Needs verification and a new PIN."
+  },
+  {
+    "call_id": "CALL-0088",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "category": "Account and PIN questions",
+    "duration_minutes": 17,
+    "topic": "Account Merge & Master PIN Setup",
+    "summary": "Customer has separate broadband and mobile accounts and wants to merge them under a single ID and setup a combined security PIN."
+  },
+  {
+    "call_id": "CALL-0089",
+    "customer_id": "CUST-1016",
+    "customer_name": "Sandra Wright",
+    "customer_type": "Consumer",
+    "category": "New orders",
+    "duration_minutes": 16,
+    "topic": "Branch Office Voice and Internet Setup",
+    "summary": "Corporate manager orders broadband internet and cloud VoIP phone licenses for a new retail/satellite branch office. Requires professional technician install booking."
+  },
+  {
+    "call_id": "CALL-0090",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 6,
+    "topic": "Upgrade Ordered but Billing Erroneous",
+    "summary": "Corporate/Consumer upgraded speed or services but was billed the new tier rate while technical speed remains at the old lower tier due to system sync lag. Requires billing credits."
+  },
+  {
+    "call_id": "CALL-0091",
+    "customer_id": "CUST-2003",
+    "customer_name": "Global Logistics LLC",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 5,
+    "topic": "Autopay Failure & Update Expired Card",
+    "summary": "Customer's automatic recurring payment failed because credit card on file expired. Customer wants to clear past balance manually and register a new card."
+  },
+  {
+    "call_id": "CALL-0092",
+    "customer_id": "CUST-1014",
+    "customer_name": "Daniel Jones",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 14,
+    "topic": "Add Authorized Contact on Corporate Account",
+    "summary": "Corporate primary contact wants to add their new office/operation manager as an authorized contact to make modifications. Requires admin authorization."
+  },
+  {
+    "call_id": "CALL-0093",
+    "customer_id": "CUST-1006",
+    "customer_name": "Margaret Harris",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 13,
+    "topic": "Account Merge & Master PIN Setup",
+    "summary": "Customer has separate broadband and mobile accounts and wants to merge them under a single ID and setup a combined security PIN."
+  },
+  {
+    "call_id": "CALL-0094",
+    "customer_id": "CUST-2001",
+    "customer_name": "TechCorp Solutions",
+    "customer_type": "Corporate",
+    "category": "Payments",
+    "duration_minutes": 13,
+    "topic": "Online Bank Transfer Delay & Suspension Hold",
+    "summary": "Customer paid via online banking transfer but services were suspended or past due alert triggered. Agent validates transaction bank receipt, places temporary collection freeze, and schedules reactivation."
+  },
+  {
+    "call_id": "CALL-0095",
+    "customer_id": "CUST-2011",
+    "customer_name": "EcoSphere Energy",
+    "customer_type": "Corporate",
+    "category": "Account and PIN questions",
+    "duration_minutes": 19,
+    "topic": "Add Authorized Contact on Corporate Account",
+    "summary": "Corporate primary contact wants to add their new office/operation manager as an authorized contact to make modifications. Requires admin authorization."
+  },
+  {
+    "call_id": "CALL-0096",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 20,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0097",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "category": "Technical issues e.g. outages and technical difficulties with equipment",
+    "duration_minutes": 15,
+    "topic": "Poor Cellular Reception & Wi-Fi Calling Fix",
+    "summary": "Customer drops mobile calls inside their basement or home office. Agent analyzes local map signal attenuation, explains limitations, and successfully enables and tests Wi-Fi Calling on their phone."
+  },
+  {
+    "call_id": "CALL-0098",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "category": "Billing problems",
+    "duration_minutes": 13,
+    "topic": "Unexpected International Roaming Charges",
+    "summary": "Customer went abroad and noticed huge international roaming data charges. Frustrated. Needs explanation and potential proactive waiver/discount pass."
+  },
+  {
+    "call_id": "CALL-0099",
+    "customer_id": "CUST-1004",
+    "customer_name": "Michael Hernandez",
+    "customer_type": "Consumer",
+    "category": "Payments",
+    "duration_minutes": 9,
+    "topic": "Hardship Split Payment Agreement",
+    "summary": "Customer facing temporary hardship requests relief or extensions. Agent sets up a multi-month payment schedule (splitting arrears over next invoices) and waives late penalty."
+  },
+  {
+    "call_id": "CALL-0100",
+    "customer_id": "CUST-1007",
+    "customer_name": "Richard Wilson",
+    "customer_type": "Consumer",
+    "category": "Account and PIN questions",
+    "duration_minutes": 12,
+    "topic": "Verify Porting ID and PIN",
+    "summary": "Customer is trying to port their number(s) to/from another carrier and needs to verify their exact Account Number and Porting PIN."
+  }
+]

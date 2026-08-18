@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "call_id": "CALL-0092",
+    "customer_id": "CUST-1014",
+    "customer_name": "Daniel Jones",
+    "customer_type": "Consumer",
+    "phone": "555-787-9831",
+    "email": "daniel.jones@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 14,
+    "total_turns": 73
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Alex. My name is Daniel Jones. I need to make a change to my corporate account."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "Certainly, Mr. Jones. I can definitely assist you with that. To access your account, I'll need to verify some information for security purposes. Could you please provide your Customer ID?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Yes, of course. It's CUST-1014."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "Thank you. That's C-U-S-T dash one zero one four. And to complete the verification, could you please provide the 4-digit security PIN associated with the account?"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "User",
+      "text": "The PIN is 1914."
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. Please give me just one moment to pull up your account details."
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience. I have your account pulled up here. I see you are Daniel Jones, the primary contact. How can I help you with the account today?"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "User",
+      "text": "That's right. I need to add our new office manager as an authorized contact. She needs to be able to call in and make changes if I'm not available."
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "Agent",
+      "text": "That's a smart idea. We can absolutely get that set up for you. Adding an authorized contact is a straightforward process. I'll just need to get some information from you about the new person."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "User",
+      "text": "Great. What do you need?"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "Agent",
+      "text": "I'll need her full name, a contact phone number, and an email address for our records. We also need to define what level of access she will have."
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "User",
+      "text": "Okay, sounds good. Her name is Sarah Miller."
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "Agent",
+      "text": "Sarah Miller. Got it. And her contact phone number?"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "User",
+      "text": "Her direct line is 555-787-9832."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "Agent",
+      "text": "555-787-9832. And the email address?"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "User",
+      "text": "It's sarah.miller@telecom-personal.com."
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "Agent",
+      "text": "Okay, thank you. Now, for the authorization level. We have a few options. We can grant her view-only access, the ability to make technical changes like troubleshooting, or full authorization which includes billing and plan modifications. What level would you like to set for Ms. Miller?"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "User",
+      "text": "She needs full authorization. She'll be handling everything from paying bills to changing our mobile data plans if needed."
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "Agent",
+      "text": "Understood. Full authorization for Sarah Miller. I'm noting that on the account now. Please hold on for just a moment while I process this request in the system."
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "Agent",
+      "text": "Mr. Jones? Are you still there?"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "User",
+      "text": "Yes, I'm here."
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "Agent",
+      "text": "Thank you for holding. It seems I've run into a small issue here. As I'm attempting to add a new user with full financial privileges, the system has flagged that the account is currently past due."
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "User",
+      "text": "Past due? That can't be right. We have it on automatic debit."
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "Agent",
+      "text": "I understand your concern. Let me take a closer look at the payment history for you. One moment."
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "Agent",
+      "text": "Okay, I see what happened. It looks like the automatic payment for the last billing cycle was declined. The system shows the reason as an expired card."
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "User",
+      "text": "Ah, that makes sense. We were just issued new corporate cards. I completely forgot to update it with you guys. I apologize."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "Agent",
+      "text": "No need to apologize at all, it's a very common oversight. The card we have on file, a Visa, ends in the digits 5-6-7-8. Does that sound correct?"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "User",
+      "text": "Yes, that's the old one. So what's the outstanding balance?"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "Agent",
+      "text": "The past due amount is for one month of the Unlimited 5G Mobile Plan, which comes to a total of $65.00."
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "User",
+      "text": "Okay. Can we take care of that right now? I can give you the new card details."
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "Agent",
+      "text": "Absolutely. Once the account is brought current, I can complete the process of adding Ms. Miller. For your security, I will transfer you to our secure, automated payment system to enter your card details. I will remain on the line with you in silence. The system will prompt you for the card number, expiration date, and CVV. Do you have the new card with you?"
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "User",
+      "text": "Yes, I do. I'm ready."
+    },
+    {
+      "timestamp": "05:08",
+      "speaker": "Agent",
+      "text": "Excellent. I am initiating the transfer to the secure line now. Please follow the prompts you hear."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "User",
+      "text": "(Muffled) Okay, entering it now..."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "Agent",
+      "text": "Mr. Jones, I see the information has been entered. The system is processing the payment of $65.00. Please stay on the line."
+    },
+    {
+      "timestamp": "06:25",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "06:45",
+      "speaker": "Agent",
+      "text": "Great news. The payment was successful. I have a confirmation number for you, it's PMT-774-291B. Your account balance is now zero and it is back in good standing."
+    },
+    {
+      "timestamp": "06:58",
+      "speaker": "User",
+      "text": "Wonderful. Thank you. Now, do you want to set up the auto-pay with this new card so this doesn't happen again?"
+    },
+    {
+      "timestamp": "07:05",
+      "speaker": "Agent",
+      "text": "That's a great question. The system I used for the one-time payment is separate from the recurring payment setup. For security, I can't see the card number you just entered. Would you like me to guide you through setting it as the new default payment method for auto-pay?"
+    },
+    {
+      "timestamp": "07:20",
+      "speaker": "User",
+      "text": "Yes, please. Let's do that."
+    },
+    {
+      "timestamp": "07:23",
+      "speaker": "Agent",
+      "text": "Okay. I'll need to use the secure system one more time. I will transfer you again. This time, there will be an option at the end to save this card for future automatic payments. Please listen for that prompt. I'm transferring you now."
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "User",
+      "text": "Alright, here we go again."
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "Agent",
+      "text": "Okay Mr. Jones, it looks like you've successfully updated the card on file for automatic payments. I can see on my end that the new default payment method is a MasterCard ending in 1-2-3-4. Is that correct?"
+    },
+    {
+      "timestamp": "08:48",
+      "speaker": "User",
+      "text": "Yes, that's the one. Thank you for being so thorough."
+    },
+    {
+      "timestamp": "08:52",
+      "speaker": "Agent",
+      "text": "My pleasure. It's best to get it all sorted out in one go. Now, let's circle back to your original request. I really appreciate your patience with this."
+    },
+    {
+      "timestamp": "09:02",
+      "speaker": "User",
+      "text": "Of course. So, adding Sarah Miller."
+    },
+    {
+      "timestamp": "09:06",
+      "speaker": "Agent",
+      "text": "Exactly. The account is now in good standing, so the system will allow me to proceed. Let me just re-confirm the details one last time."
+    },
+    {
+      "timestamp": "09:15",
+      "speaker": "User",
+      "text": "Go ahead."
+    },
+    {
+      "timestamp": "09:17",
+      "speaker": "Agent",
+      "text": "We are adding Sarah Miller, phone number 555-787-9832, email sarah.miller@telecom-personal.com, with full administrative and financial authorization on the account. Is all of that correct?"
+    },
+    {
+      "timestamp": "09:35",
+      "speaker": "User",
+      "text": "Yes, that is all correct."
+    },
+    {
+      "timestamp": "09:38",
+      "speaker": "Agent",
+      "text": "Perfect. I am now submitting the authorized user form. The system update can take up to 60 seconds. Please bear with me."
+    },
+    {
+      "timestamp": "09:48",
+      "speaker": "User",
+      "text": "No problem at all."
+    },
+    {
+      "timestamp": "10:30",
+      "speaker": "Agent",
+      "text": "Okay... and... done. I have confirmation on my screen. Sarah Miller has been successfully added as an authorized contact with full privileges to your Cymbal Telecom account."
+    },
+    {
+      "timestamp": "10:45",
+      "speaker": "User",
+      "text": "That's fantastic. So she can just call in now?"
+    },
+    {
+      "timestamp": "10:49",
+      "speaker": "Agent",
+      "text": "Yes, she can. When she calls, she'll just need to state her name and that she's an authorized contact on the account for Daniel Jones, or provide the Customer ID. We will then ask her for her phone number to verify, the one ending in 9832."
+    },
+    {
+      "timestamp": "11:05",
+      "speaker": "User",
+      "text": "Okay, that's simple enough. Does she need a PIN?"
+    },
+    {
+      "timestamp": "11:10",
+      "speaker": "Agent",
+      "text": "She will be able to use the main account PIN, which is 1914, to verify herself when she calls in. Or, if she prefers, she can set up her own separate 4-digit PIN for verification the first time she calls us."
+    },
+    {
+      "timestamp": "11:25",
+      "speaker": "User",
+      "text": "Okay, I'll let her know she has that option."
+    },
+    {
+      "timestamp": "11:29",
+      "speaker": "Agent",
+      "text": "Also, an automated email has just been sent to her email address, sarah.miller@telecom-personal.com. This email will welcome her as an authorized user and provide a link for her to create her own online login to the Cymbal Telecom portal, if she'd like to manage things online."
+    },
+    {
+      "timestamp": "11:48",
+      "speaker": "User",
+      "text": "Oh, that's very helpful. I'll tell her to look out for it. It might go to her spam folder."
+    },
+    {
+      "timestamp": "11:55",
+      "speaker": "Agent",
+      "text": "It's always a good idea to check. The email will come from 'noreply@cymbaltelecom.com'."
+    },
+    {
+      "timestamp": "12:02",
+      "speaker": "User",
+      "text": "Got it. noreply@cymbaltelecom.com. I'll pass that along."
+    },
+    {
+      "timestamp": "12:08",
+      "speaker": "Agent",
+      "text": "Excellent. So, to recap, we've successfully processed the payment to bring your account current, we've updated your card on file for future automatic payments, and we have added Sarah Miller as a fully authorized contact."
+    },
+    {
+      "timestamp": "12:25",
+      "speaker": "User",
+      "text": "Yes, we did. Wow. We got a lot done. Thank you, Alex, you've been extremely helpful."
+    },
+    {
+      "timestamp": "12:32",
+      "speaker": "Agent",
+      "text": "It was my pleasure to assist you, Mr. Jones. Is there anything else at all I can help you with today? Any other questions about your account or services?"
+    },
+    {
+      "timestamp": "12:42",
+      "speaker": "User",
+      "text": "No, I think that's everything. You've covered it all."
+    },
+    {
+      "timestamp": "12:46",
+      "speaker": "Agent",
+      "text": "Wonderful. Well, thank you for being a valued Cymbal Telecom corporate customer. We appreciate your business."
+    },
+    {
+      "timestamp": "12:54",
+      "speaker": "User",
+      "text": "Thank you again."
+    },
+    {
+      "timestamp": "12:56",
+      "speaker": "Agent",
+      "text": "You're very welcome. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "13:00",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "13:02",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

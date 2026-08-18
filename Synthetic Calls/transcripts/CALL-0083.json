@@ -1,0 +1,480 @@
+{
+  "metadata": {
+    "call_id": "CALL-0083",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-306-7405",
+    "email": "david.gonzalez@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 14,
+    "total_turns": 93
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Jasmine. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Jasmine. I'm calling about a problem with my latest bill."
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. To get started, I'll need to verify your account for security purposes. Do you have your Customer ID number handy?"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "User",
+      "text": "Yes, hold on a second... let me find it. Okay, it's CUST-1018."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "Thank you. And could you please confirm the full name on the account?"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "User",
+      "text": "David Gonzalez."
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "Agent",
+      "text": "Perfect. And for the final verification step, can you provide the 4-digit security PIN associated with your account?"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "User",
+      "text": "Yes, it's 5-7-4-0."
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Gonzalez. I've successfully verified your account. Now, how can I assist you with your bill today?"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "User",
+      "text": "Well, I added a new line to my plan last month for my son. When I did it, the representative told me the activation fee would be waived."
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "Agent",
+      "text": "Okay, I see."
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "User",
+      "text": "I just got my new bill yesterday, and there's a $35 activation fee right there on the first page. I was told it wouldn't be there."
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "Agent",
+      "text": "I understand your concern, Mr. Gonzalez. It's frustrating to see a charge you weren't expecting. I sincerely apologize for any confusion this has caused. Let me pull up your latest bill and take a look at that for you."
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "User",
+      "text": "Okay, thank you."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "Agent",
+      "text": "Just one moment while the system loads your billing statement... Okay, I have it here."
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "User",
+      "text": "You see it?"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "Agent",
+      "text": "Yes, I do. I see the invoice dated for this month, and I can confirm there is a line item listed as 'New Line Activation Fee' for $35.00."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Right. And it shouldn't be there. The person I spoke to promised it would be waived."
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "Agent",
+      "text": "I completely understand. What I'd like to do next is review the notes from your previous call when you added the line. That will tell me about the promotion that was offered. Do you mind if I place you on a brief hold for about a minute or two while I investigate that?"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "User",
+      "text": "Sure, no problem. Take your time."
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "Agent",
+      "text": "Thank you so much. I'll be back with you shortly."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "Agent",
+      "text": "Mr. Gonzalez? Thank you for your patience."
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "User",
+      "text": "I'm here."
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "Agent",
+      "text": "Okay, so I have the notes from your call on the 15th of last month. It looks like you spoke with my colleague, Alex."
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "User",
+      "text": "That sounds right. He was very helpful, actually."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "Agent",
+      "text": "I'm glad to hear that. And I'm reviewing his notes now... just reading through the details of the new line setup..."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "Agent",
+      "text": "Ah, yes. I see it right here. The notes clearly state, 'Customer eligible for waived activation fee promo. To be applied as a bill credit on the next cycle.'"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "User",
+      "text": "Okay, good! So you see it. I was worried I was going crazy or misremembered the conversation."
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "Agent",
+      "text": "Not at all, you remembered correctly. It seems the system did not automatically apply the credit as it was supposed to. This was definitely our error, and I sincerely apologize for the oversight."
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "User",
+      "text": "Well, as long as we can get it fixed, that's all that matters."
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "Agent",
+      "text": "Absolutely. I am going to apply that credit for you right now. It's a simple fix from my end."
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "User",
+      "text": "Great, thank you."
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "Agent",
+      "text": "I'm processing a one-time credit for the full amount of the fee, which is $35.00."
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "User",
+      "text": "Perfect."
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "Agent",
+      "text": "Now, I need to explain how this will appear. Because your current billing cycle has already closed and the invoice has been generated, we can't alter the bill that you have now."
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "User",
+      "text": "So... what does that mean? Do I still have to pay it?"
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "Yes, the total amount on your current bill is still due by the date listed. However, the $35 credit I'm applying will sit on your account and will automatically be used to reduce the total of your *next* month's bill."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "User",
+      "text": "Oh, okay. So I pay this one in full, and next month's bill will be $35 cheaper? Is that right?"
+    },
+    {
+      "timestamp": "05:22",
+      "speaker": "Agent",
+      "text": "That is exactly right. You'll essentially be reimbursed on the next billing cycle."
+    },
+    {
+      "timestamp": "05:28",
+      "speaker": "User",
+      "text": "I guess that's fine. It's a bit confusing, but as long as I get the money back."
+    },
+    {
+      "timestamp": "05:34",
+      "speaker": "Agent",
+      "text": "I understand, and I apologize for the extra step. It's just a limitation of how the billing system works once an invoice is finalized. I've just finished applying the credit to your account now."
+    },
+    {
+      "timestamp": "05:46",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "05:47",
+      "speaker": "Agent",
+      "text": "The credit is confirmed. For your records, would you like a reference number for this transaction?"
+    },
+    {
+      "timestamp": "05:54",
+      "speaker": "User",
+      "text": "Yes, please. That would be great."
+    },
+    {
+      "timestamp": "05:57",
+      "speaker": "Agent",
+      "text": "Certainly. The reference number is CR, as in credit, dash, 8-8-1, dash, 9-2-3-4."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "User",
+      "text": "Okay, CR-881-9234. Got it. Thank you."
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "Agent",
+      "text": "You're very welcome. I'm happy I was able to find the source of the issue and get it resolved for you."
+    },
+    {
+      "timestamp": "06:24",
+      "speaker": "User",
+      "text": "Me too. I appreciate your help, Jasmine."
+    },
+    {
+      "timestamp": "06:27",
+      "speaker": "Agent",
+      "text": "It's my pleasure. While I have you on the line, Mr. Gonzalez, is there anything else I can assist you with today? Any other questions about your plan or services from Cymbal Telecom?"
+    },
+    {
+      "timestamp": "06:38",
+      "speaker": "User",
+      "text": "No, I don't think so. That was the only thing."
+    },
+    {
+      "timestamp": "06:42",
+      "speaker": "Agent",
+      "text": "Alright. Well, just to quickly recap our call: I've applied a $35 credit to your account to offset the activation fee that was charged in error."
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "User",
+      "text": "Right."
+    },
+    {
+      "timestamp": "06:53",
+      "speaker": "Agent",
+      "text": "You will need to pay your current bill as stated, and this credit will automatically apply to your next month's bill, reducing its total amount."
+    },
+    {
+      "timestamp": "07:03",
+      "speaker": "User",
+      "text": "Perfect. I understand."
+    },
+    {
+      "timestamp": "07:05",
+      "speaker": "Agent",
+      "text": "And you have the reference number for your records."
+    },
+    {
+      "timestamp": "07:09",
+      "speaker": "User",
+      "text": "Yes, I wrote it down."
+    },
+    {
+      "timestamp": "07:11",
+      "speaker": "Agent",
+      "text": "Excellent. We always want to make sure our customers are on the plans and promotions they were promised."
+    },
+    {
+      "timestamp": "07:18",
+      "speaker": "User",
+      "text": "I appreciate that. It's why I've stayed with you guys for so long."
+    },
+    {
+      "timestamp": "07:23",
+      "speaker": "Agent",
+      "text": "We value your loyalty, Mr. Gonzalez. It looks like you've been a Cymbal Telecom customer for over eight years now. We truly appreciate your business."
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "User",
+      "text": "Wow, has it been that long? Time flies."
+    },
+    {
+      "timestamp": "07:37",
+      "speaker": "Agent",
+      "text": "It certainly does."
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "User",
+      "text": "Alright, well, thank you again for fixing that so quickly."
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "Agent",
+      "text": "You are most welcome."
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "User",
+      "text": "Actually, you know what, while I have you... can I ask a quick question about my plan?"
+    },
+    {
+      "timestamp": "08:21",
+      "speaker": "Agent",
+      "text": "Of course! I'd be happy to answer any questions you have."
+    },
+    {
+      "timestamp": "08:26",
+      "speaker": "User",
+      "text": "So with the new line, I have two lines on the Unlimited 5G plan now. Is there any kind of multi-line discount that I should be getting?"
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "Agent",
+      "text": "That is an excellent question. Let me check the details of your current plan structure. One moment."
+    },
+    {
+      "timestamp": "08:55",
+      "speaker": "Agent",
+      "text": "Okay, thank you for waiting. I see you're on the Unlimited 5G plan, which is $65 per month per line."
+    },
+    {
+      "timestamp": "09:04",
+      "speaker": "User",
+      "text": "Yes, that's the one."
+    },
+    {
+      "timestamp": "09:06",
+      "speaker": "Agent",
+      "text": "It looks like the multi-line discount for that specific plan begins when you have three or more lines. For two lines, the price is the standard per-line rate."
+    },
+    {
+      "timestamp": "09:18",
+      "speaker": "User",
+      "text": "Oh, okay. So I'd need another line to save any money?"
+    },
+    {
+      "timestamp": "09:22",
+      "speaker": "Agent",
+      "text": "Correct. With three lines, the price per line drops to $55, and with four, it drops to $45. But for two lines, it remains at $65 each."
+    },
+    {
+      "timestamp": "09:34",
+      "speaker": "User",
+      "text": "I see. I don't need a third line right now, but that's good to know for the future. Thanks for checking."
+    },
+    {
+      "timestamp": "09:41",
+      "speaker": "Agent",
+      "text": "You're welcome. It's always a good idea to check. We do have other family plans available, but they might require changing your current data structure. Is that something you'd be interested in exploring?"
+    },
+    {
+      "timestamp": "09:53",
+      "speaker": "User",
+      "text": "No, not right now. The unlimited plan works well for us. Especially for my son. I just wanted to make sure I wasn't missing out on a discount."
+    },
+    {
+      "timestamp": "10:02",
+      "speaker": "Agent",
+      "text": "I understand completely. So, to confirm, you're happy to stay on the current plan structure for now?"
+    },
+    {
+      "timestamp": "10:09",
+      "speaker": "User",
+      "text": "Yes, for now this is fine. The main thing was the activation fee, and you've sorted that out."
+    },
+    {
+      "timestamp": "10:15",
+      "speaker": "Agent",
+      "text": "Perfect. I've added a note to your account detailing our conversation today, including the credit reference number, so if you ever need to call back, any agent can see exactly what we did."
+    },
+    {
+      "timestamp": "10:27",
+      "speaker": "User",
+      "text": "That's very thorough. Thank you."
+    },
+    {
+      "timestamp": "10:30",
+      "speaker": "Agent",
+      "text": "We aim to be. Was there anything else at all, Mr. Gonzalez?"
+    },
+    {
+      "timestamp": "10:36",
+      "speaker": "User",
+      "text": "No, that really is everything this time. Thank you for your patience with my extra question."
+    },
+    {
+      "timestamp": "10:42",
+      "speaker": "Agent",
+      "text": "Not a problem at all. We're here to help."
+    },
+    {
+      "timestamp": "11:20",
+      "speaker": "User",
+      "text": "Okay, so I should expect to see the credit on the bill I get next month, correct? Not the one after?"
+    },
+    {
+      "timestamp": "11:27",
+      "speaker": "Agent",
+      "text": "Yes, that's correct. Your next billing cycle closes in about three weeks, so the invoice you receive in approximately four weeks from now will reflect that $35 credit."
+    },
+    {
+      "timestamp": "11:39",
+      "speaker": "User",
+      "text": "Okay, great. Just wanted to be absolutely sure."
+    },
+    {
+      "timestamp": "11:43",
+      "speaker": "Agent",
+      "text": "It's always good to be sure. I've double-checked on my end, and the credit is pending and scheduled to apply to your next invoice. Everything looks correct."
+    },
+    {
+      "timestamp": "12:15",
+      "speaker": "User",
+      "text": "Wonderful. Well, I won't keep you any longer then."
+    },
+    {
+      "timestamp": "12:30",
+      "speaker": "Agent",
+      "text": "Alright. Well, thank you again for your call and for being a valued Cymbal Telecom customer."
+    },
+    {
+      "timestamp": "13:05",
+      "speaker": "User",
+      "text": "Thank you, Jasmine."
+    },
+    {
+      "timestamp": "13:45",
+      "speaker": "Agent",
+      "text": "If anything else comes up, please don't hesitate to call us back. We appreciate your business. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "13:53",
+      "speaker": "User",
+      "text": "You too. Thanks again. Bye."
+    },
+    {
+      "timestamp": "13:56",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

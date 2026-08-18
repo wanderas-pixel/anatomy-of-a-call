@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "call_id": "CALL-0011",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-471-5411",
+    "email": "james.gonzalez@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 6,
+    "total_turns": 40
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "User",
+      "text": "Hi Sarah. I'm an existing internet customer and I was hoping to get some information about getting a mobile hotspot."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "I can certainly help with that. To access your account and check for any loyalty offers, I'll just need to verify your information. Could I please get your full name and Customer ID?"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "User",
+      "text": "Sure. My name is James Gonzalez, and my customer ID is CUST-1032."
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Gonzalez. And for security, could you please provide the four-digit PIN on your account?"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "User",
+      "text": "Yes, it's 8-7-6-5."
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. I've got your account pulled up here. So, you're interested in a mobile hotspot. Can you tell me a little more about what you're looking for?"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "User",
+      "text": "Yeah, I do a bit of recreational travel and the Wi-Fi in hotels and RV parks can be pretty unreliable. I need something I can use on the road for my laptop. I probably need a decent amount of data, maybe around 50 gigabytes a month."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "Agent",
+      "text": "That makes perfect sense. We have an excellent device called the Cymbal Go Hotspot, and we offer a few different data plans. Based on your needs, our 'Explorer 50GB' plan sounds like it would be a perfect fit."
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "User",
+      "text": "Okay, the Explorer 50GB plan. How much does that run per month?"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "Agent",
+      "text": "The Explorer 50GB plan is just $40 per month. It gives you 50 gigabytes of high-speed data on our 5G network."
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "User",
+      "text": "That sounds reasonable. And what about the hotspot device itself? Is there a cost for that?"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "Agent",
+      "text": "The Cymbal Go Hotspot normally retails for $99. However, since you're already a valued Cymbal Telecom Fiber customer, it looks like you're eligible for a loyalty discount. We can offer you the device for just $49.99."
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "User",
+      "text": "Oh, really? A discount is always nice. So it would be a one-time charge of $49.99 for the device, and then $40 a month for the service?"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "Agent",
+      "text": "That's exactly right. The one-time charge for the device plus applicable taxes, and then the monthly recurring charge for the data plan."
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "User",
+      "text": "Okay, that works for me. That sounds like a great deal. Let's go ahead and do that."
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "Agent",
+      "text": "Excellent! I can place that order for you right now. Just to confirm, we are ordering the Cymbal Go Hotspot device..."
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "User",
+      "text": "Yes, that's the one."
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "Agent",
+      "text": "...and we are adding the Explorer 50GB mobile data plan to your account."
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "User",
+      "text": "That is correct."
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "Agent",
+      "text": "Perfect. For the shipping address, I have on file 123 Main Street, Anytown, USA, 12345. Is that still the correct address to send the device?"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "User",
+      "text": "Yes, that's the right address."
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "Agent",
+      "text": "Great. The one-time charge for the device will be $49.99 plus tax. Would you like to pay for that today with a credit card, or would you prefer we simply add it to your next Cymbal Telecom bill?"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "User",
+      "text": "Oh, can you just add it to my next bill with my internet service? That would be much easier."
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "Agent",
+      "text": "Absolutely. We can certainly do that for you. So you'll see that one-time charge on your next statement, and the $40 monthly charge for the plan will begin with that billing cycle as well."
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "User",
+      "text": "Sounds perfect. Thank you."
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "Agent",
+      "text": "Okay, Mr. Gonzalez. I am submitting the order for you now... It will just take me about 30 seconds to finalize everything in the system. Please hold on the line."
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "User",
+      "text": "No problem, take your time."
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience. The order has been successfully placed. Your order confirmation number is DH45887. You can expect the device to arrive in 3 to 5 business days."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "User",
+      "text": "DH45887. Got it. And is it complicated to set up once I get it?"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "Agent",
+      "text": "Not at all, it's very user-friendly. It comes with a quick start guide. You just need to power it on, and it will automatically connect to the Cymbal network. The Wi-Fi network name and password will be printed on a sticker on the back of the device."
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "User",
+      "text": "Great. And the Wi-Fi network name, will it show up as 'Cymbal Wi-Fi' or something like that?"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "Agent",
+      "text": "Exactly. It will appear in your list of available networks as 'Cymbal Go' followed by a few unique numbers. The password will be right there on the sticker for you."
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "User",
+      "text": "Excellent. This is just what I needed for my upcoming trip. This is a big help."
+    },
+    {
+      "timestamp": "05:12",
+      "speaker": "Agent",
+      "text": "I'm so glad we could get that all sorted out for you today. You should also receive an email confirmation with all the order details and tracking information within the next hour."
+    },
+    {
+      "timestamp": "05:24",
+      "speaker": "User",
+      "text": "Okay, I'll keep an eye out for that. Thanks again for all your help."
+    },
+    {
+      "timestamp": "05:29",
+      "speaker": "Agent",
+      "text": "You are very welcome. Was there anything else I could assist you with today, Mr. Gonzalez?"
+    },
+    {
+      "timestamp": "05:35",
+      "speaker": "User",
+      "text": "Nope, that's everything for me."
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "Agent",
+      "text": "Alright then. Thank you for choosing Cymbal Telecom and for being a loyal customer. We appreciate your business. Have a wonderful day!"
+    },
+    {
+      "timestamp": "05:47",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    }
+  ]
+}

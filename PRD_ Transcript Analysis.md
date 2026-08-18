@@ -1,0 +1,576 @@
+Example json for the call transcripts:
+
+{  
+ "metadata": {  
+   "call\_id": "CALL-0095",  
+   "customer\_id": "CUST-2011",  
+   "customer\_name": "EcoSphere Energy",  
+   "customer\_type": "Corporate",  
+   "phone": "800-467-7862",  
+   "email": "andrew.wilson@ecosphereenergy.com",  
+   "services": "Corporate Mobility: 25x Unlimited 5G Mobile Lines ($625/mo)",  
+   "duration\_minutes": 19,  
+   "total\_turns": 103  
+ },  
+ "transcript": \[  
+   {  
+     "timestamp": "00:00",  
+     "speaker": "Agent",  
+     "text": "Thank you for calling Cymbal Telecom Corporate Support. My name is Jessica. How can I help you today?"  
+   },  
+   {  
+     "timestamp": "00:05",  
+     "speaker": "User",  
+     "text": "Hello, Jessica. This is Andrew Wilson calling from EcoSphere Energy. I need to add an authorized contact to our corporate account."  
+   },  
+   {  
+     "timestamp": "00:12",  
+     "speaker": "Agent",  
+     "text": "Certainly, Mr. Wilson. I can definitely assist you with that. To ensure the security of your account, I'll need to verify some information first. May I have your account's Customer ID, please?"  
+   },  
+   {  
+     "timestamp": "00:21",  
+     "speaker": "User",  
+     "text": "Yes, of course. The Customer ID is CUST-2011."  
+   },  
+   {  
+     "timestamp": "00:27",  
+     "speaker": "Agent",  
+     "text": "Thank you. That's C-U-S-T-2-0-1-1. And for the final verification step, could you please provide the six-digit security PIN for the account?"  
+   },  
+   {  
+     "timestamp": "00:36",  
+     "speaker": "User",  
+     "text": "The PIN is 599389."  
+   },  
+   {  
+     "timestamp": "00:41",  
+     "speaker": "Agent",  
+     "text": "Thank you. Please give me just a moment while I pull up your account details. This will take about 20 seconds."  
+   },  
+   {  
+     "timestamp": "00:48",  
+     "speaker": "User",  
+     "text": "No problem, take your time."  
+   },  
+   {  
+     "timestamp": "01:05",  
+     "speaker": "Agent",  
+     "text": "Thank you for your patience, Mr. Wilson. I have successfully verified the account for EcoSphere Energy. I see you are listed as the primary contact with full administrative privileges. And I can confirm the account is in good standing."  
+   },  
+   {  
+     "timestamp": "01:18",  
+     "speaker": "User",  
+     "text": "That's correct. So, we've just hired a new Operations Manager, and I need her to be able to manage our mobile lines\\u2014you know, handle support calls, make changes if needed, that sort of thing."  
+   },  
+   {  
+     "timestamp": "01:29",  
+     "speaker": "Agent",  
+     "text": "Absolutely. Adding an authorized contact is a standard procedure. I'll just need to gather the new contact's information and then we'll need to define their level of access. What is the full name of the person you'd like to add?"  
+   },  
+   {  
+     "timestamp": "01:42",  
+     "speaker": "User",  
+     "text": "Her name is Sarah Jenkins. That's S-A-R-A-H Jenkins, J-E-N-K-I-N-S."  
+   },  
+   {  
+     "timestamp": "01:53",  
+     "speaker": "Agent",  
+     "text": "Got it. Sarah Jenkins. And what is her official title at EcoSphere Energy?"  
+   },  
+   {  
+     "timestamp": "01:59",  
+     "speaker": "User",  
+     "text": "She is our new Operations Manager."  
+   },  
+   {  
+     "timestamp": "02:03",  
+     "speaker": "Agent",  
+     "text": "Perfect. And do you have a direct contact number and email address for Ms. Jenkins that we can add to the file?"  
+   },  
+   {  
+     "timestamp": "02:11",  
+     "speaker": "User",  
+     "text": "Yes. Her email is sarah.jenkins@ecosphereenergy.com. And her direct line is... one second, let me pull it up."  
+   },  
+   {  
+     "timestamp": "02:25",  
+     "speaker": "User",  
+     "text": "Okay, got it. Her direct number is 800-467-7865."  
+   },  
+   {  
+     "timestamp": "02:34",  
+     "speaker": "Agent",  
+     "text": "Thank you. That's sarah.jenkins@ecosphereenergy.com and the number is 800-467-7865. Is that correct?"  
+   },  
+   {  
+     "timestamp": "02:45",  
+     "speaker": "User",  
+     "text": "Yes, that's all correct."  
+   },  
+   {  
+     "timestamp": "02:48",  
+     "speaker": "Agent",  
+     "text": "Great. Now, let's discuss the authorization level. For corporate accounts, we have a few tiers of access. I can walk you through them."  
+   },  
+   {  
+     "timestamp": "02:57",  
+     "speaker": "User",  
+     "text": "Okay, that would be helpful."  
+   },  
+   {  
+     "timestamp": "03:00",  
+     "speaker": "Agent",  
+     "text": "We have 'Level 1: Technical Support,' which allows the contact to call for troubleshooting and technical assistance on existing lines but not make any account changes."  
+   },  
+   {  
+     "timestamp": "03:12",  
+     "speaker": "User",  
+     "text": "Hmm, no, I need her to have more access than that."  
+   },  
+   {  
+     "timestamp": "03:16",  
+     "speaker": "Agent",  
+     "text": "Of course. 'Level 2: Account Management' includes everything in Level 1, plus the ability to discuss billing, add or remove features from existing lines, and provision new lines under your current plan."  
+   },  
+   {  
+     "timestamp": "03:30",  
+     "speaker": "User",  
+     "text": "That sounds closer. So she could add a new phone for a new hire?"  
+   },  
+   {  
+     "timestamp": "03:35",  
+     "speaker": "Agent",  
+     "text": "Exactly. She would be able to manage the 25 mobile lines you currently have with us, including ordering new devices or SIM cards as needed."  
+   },  
+   {  
+     "timestamp": "03:45",  
+     "speaker": "User",  
+     "text": "Okay, that's what I need. Is there a higher level?"  
+   },  
+   {  
+     "timestamp": "03:49",  
+     "speaker": "Agent",  
+     "text": "Yes, the final tier is 'Level 3: Full Administrative,' which is the level you currently have. It includes all previous permissions plus the authority to change primary contacts, modify the master service agreement, or even close the account entirely."  
+   },  
+   {  
+     "timestamp": "04:05",  
+     "speaker": "User",  
+     "text": "Ah, no. We don't need that. Let's stick with Level 2\. I'll remain the only one with full administrative authority. So, Level 2 for Sarah Jenkins."  
+   },  
+   {  
+     "timestamp": "04:17",  
+     "speaker": "Agent",  
+     "text": "Excellent choice. So, to confirm, we are adding Sarah Jenkins as a Level 2 Authorized Contact with Account Management permissions. Is that correct?"  
+   },  
+   {  
+     "timestamp": "04:28",  
+     "speaker": "User",  
+     "text": "Yes, that's exactly right."  
+   },  
+   {  
+     "timestamp": "04:31",  
+     "speaker": "Agent",  
+     "text": "Perfect. Now, for security and compliance reasons, adding an authorized contact with this level of access requires your formal, documented approval as the primary administrator on the account."  
+   },  
+   {  
+     "timestamp": "04:44",  
+     "speaker": "User",  
+     "text": "Okay, what do I need to do? Is this something we can do over the phone?"  
+   },  
+   {  
+     "timestamp": "04:49",  
+     "speaker": "Agent",  
+     "text": "It's a two-part process. I will generate an official authorization form with all the details we've just discussed. I will then email this form to the primary email address we have on file for you. You will need to review it and provide a digital signature."  
+   },  
+   {  
+     "timestamp": "05:05",  
+     "speaker": "User",  
+     "text": "A digital signature? Like a DocuSign or something?"  
+   },  
+   {  
+     "timestamp": "05:09",  
+     "speaker": "Agent",  
+     "text": "Precisely. We use a secure, integrated e-signature service. It's very straightforward. Once you sign and submit the form, it will be automatically routed back to our corporate accounts team for processing."  
+   },  
+   {  
+     "timestamp": "05:22",  
+     "speaker": "User",  
+     "text": "Okay, that sounds fine. What's the email address you have on file for me? Just want to make sure it's current."  
+   },  
+   {  
+     "timestamp": "05:29",  
+     "speaker": "Agent",  
+     "text": "Of course. The email address we have for Andrew Wilson is andrew.wilson@ecosphereenergy.com."  
+   },  
+   {  
+     "timestamp": "05:40",  
+     "speaker": "User",  
+     "text": "Yes, that's correct. I'm at my desk now so I can look for it."  
+   },  
+   {  
+     "timestamp": "05:45",  
+     "speaker": "Agent",  
+     "text": "Wonderful. I am generating the form now. It will include Ms. Jenkins' details and a clear description of the Level 2 permissions. Please allow me about 60 to 90 seconds to get this drafted and sent from our system."  
+   },  
+   {  
+     "timestamp": "06:00",  
+     "speaker": "User",  
+     "text": "Alright, I'll wait."  
+   },  
+   {  
+     "timestamp": "06:03",  
+     "speaker": "Agent",  
+     "text": "Thank you for your patience."  
+   },  
+   {  
+     "timestamp": "06:55",  
+     "speaker": "Agent",  
+     "text": "Okay, Mr. Wilson, the system indicates that the email has been sent. The subject line will be 'Action Required: Cymbal Telecom Account Authorization'. Could you please check your inbox?"  
+   },  
+   {  
+     "timestamp": "07:08",  
+     "speaker": "User",  
+     "text": "Yep, just refreshing my inbox now... one moment."  
+   },  
+   {  
+     "timestamp": "07:18",  
+     "speaker": "User",  
+     "text": "I don't see it yet. Did you say it was just sent?"  
+   },  
+   {  
+     "timestamp": "07:22",  
+     "speaker": "Agent",  
+     "text": "Yes, just a moment ago. Sometimes there can be a slight delay. Would you mind checking your spam or junk folder, just in case your company's filter caught it?"  
+   },  
+   {  
+     "timestamp": "07:33",  
+     "speaker": "User",  
+     "text": "Good point. Let me look... ah, yes. There it is. It was in my junk folder. I'll mark Cymbal Telecom as a safe sender."  
+   },  
+   {  
+     "timestamp": "07:45",  
+     "speaker": "Agent",  
+     "text": "I'm glad you found it. I apologize for that inconvenience. I will make a note for our IT department to review our email deliverability. Please take a moment to open the link and review the form."  
+   },  
+   {  
+     "timestamp": "07:58",  
+     "speaker": "User",  
+     "text": "Okay, opening it now... Let's see. 'Authorization for Sarah Jenkins... Operations Manager... Level 2 Account Management...' Yes, this all looks correct."  
+   },  
+   {  
+     "timestamp": "08:12",  
+     "speaker": "Agent",  
+     "text": "Excellent. Please proceed with the signature prompts when you are ready."  
+   },  
+   {  
+     "timestamp": "08:17",  
+     "speaker": "User",  
+     "text": "Okay... clicking 'Adopt and Sign'... and... done. It says 'You have successfully completed this document'."  
+   },  
+   {  
+     "timestamp": "08:30",  
+     "speaker": "Agent",  
+     "text": "Perfect. Let me refresh my system here to see if the signed document has been received on our end. This can sometimes take a minute to sync up."  
+   },  
+   {  
+     "timestamp": "08:40",  
+     "speaker": "User",  
+     "text": "Sure."  
+   },  
+   {  
+     "timestamp": "09:10",  
+     "speaker": "Agent",  
+     "text": "Okay, yes\! I see it. We have received the digitally signed authorization form. Thank you for taking care of that so promptly."  
+   },  
+   {  
+     "timestamp": "09:18",  
+     "speaker": "User",  
+     "text": "Great. So, is she all set now? Can she call in?"  
+   },  
+   {  
+     "timestamp": "09:22",  
+     "speaker": "Agent",  
+     "text": "We're in the final step. The signed form is now in the queue for our back-office corporate accounts team to process and provision her access in all our systems. The standard processing time is 24 to 48 business hours."  
+   },  
+   {  
+     "timestamp": "09:37",  
+     "speaker": "User",  
+     "text": "Oh, 24 to 48 hours? I was hoping it would be immediate. What if she needs to call about an issue tomorrow morning?"  
+   },  
+   {  
+     "timestamp": "09:46",  
+     "speaker": "Agent",  
+     "text": "I understand the need for immediate access. While the official authorization is processing, there is a temporary workaround we can use."  
+   },  
+   {  
+     "timestamp": "09:55",  
+     "speaker": "User",  
+     "text": "Okay, I'm listening."  
+   },  
+   {  
+     "timestamp": "09:57",  
+     "speaker": "Agent",  
+     "text": "If Ms. Jenkins needs to call Cymbal Telecom before her profile is active, she can do so, but she will need to conference you into the call. Once you are on the line, you can provide verbal authorization for her to manage the account for that specific interaction."  
+   },  
+   {  
+     "timestamp": "10:14",  
+     "speaker": "User",  
+     "text": "So she'd call, get an agent, then call me and merge the calls?"  
+   },  
+   {  
+     "timestamp": "10:19",  
+     "speaker": "Agent",  
+     "text": "Correct. She would explain the situation to the agent, who would then wait for you to join and give your verbal consent. It's a security measure to bridge the gap until the paperwork is fully processed."  
+   },  
+   {  
+     "timestamp": "10:31",  
+     "speaker": "User",  
+     "text": "That's a bit clunky, but I guess it works. Hopefully we won't need it. Will she be notified when her access is active?"  
+   },  
+   {  
+     "timestamp": "10:40",  
+     "speaker": "Agent",  
+     "text": "That's a great question. Typically, the notification is sent to you as the primary contact. However, I can add a note to the processing request to have a confirmation email sent to Ms. Jenkins' email address as well."  
+   },  
+   {  
+     "timestamp": "10:55",  
+     "speaker": "User",  
+     "text": "Yes, please do that. That would be very helpful. She should know when she's officially in the system."  
+   },  
+   {  
+     "timestamp": "11:02",  
+     "speaker": "Agent",  
+     "text": "I am adding that note right now... 'Please CC authorized contact Sarah Jenkins at sarah.jenkins@ecosphereenergy.com upon completion of provisioning.' There. The note is saved to the work order."  
+   },  
+   {  
+     "timestamp": "11:20",  
+     "speaker": "User",  
+     "text": "Thank you, Jessica. I appreciate you being so thorough."  
+   },  
+   {  
+     "timestamp": "11:24",  
+     "speaker": "Agent",  
+     "text": "It's my pleasure, Mr. Wilson. We want to make sure these transitions are as smooth as possible. Is there anything else about the process you're unsure of?"  
+   },  
+   {  
+     "timestamp": "11:34",  
+     "speaker": "User",  
+     "text": "Just to be clear, once she is provisioned, she can call, give her name and our company name, and she'll be able to get support?"  
+   },  
+   {  
+     "timestamp": "11:43",  
+     "speaker": "Agent",  
+     "text": "Yes. When she calls, our agents will ask for her name and the company. They will see her listed as an authorized contact. For security, we will likely verify her identity by sending a one-time passcode to her registered phone or email."  
+   },  
+   {  
+     "timestamp": "11:58",  
+     "speaker": "User",  
+     "text": "Ah, okay. A passcode to her phone, the 7865 number?"  
+   },  
+   {  
+     "timestamp": "12:04",  
+     "speaker": "Agent",  
+     "text": "Yes, or to her email address. She can choose whichever is more convenient at the time of the call. It's an extra layer of security for our corporate accounts."  
+   },  
+   {  
+     "timestamp": "12:15",  
+     "speaker": "User",  
+     "text": "That makes sense. I should probably give her a heads-up about that so she's not surprised."  
+   },  
+   {  
+     "timestamp": "12:21",  
+     "speaker": "Agent",  
+     "text": "That would be a good idea. It helps the verification process go much faster."  
+   },  
+   {  
+     "timestamp": "12:27",  
+     "speaker": "User",  
+     "text": "Okay. I think that covers everything on my end. This was the main task on my plate for today."  
+   },  
+   {  
+     "timestamp": "12:35",  
+     "speaker": "Agent",  
+     "text": "I'm happy we could get it sorted out for you. I'm just adding a final summary of our conversation to your account notes. This ensures that if you or Ms. Jenkins call back, any other agent will have the full context of what we did today."  
+   },  
+   {  
+     "timestamp": "12:50",  
+     "speaker": "User",  
+     "text": "Excellent. That's very efficient."  
+   },  
+   {  
+     "timestamp": "12:54",  
+     "speaker": "Agent",  
+     "text": "Thank you. Just typing in the last few details... Form sent, signed, and submitted to back office... Noted the 24-48 hour processing time and the interim verbal authorization process... Added note to CC Ms. Jenkins on completion..."  
+   },  
+   {  
+     "timestamp": "13:15",  
+     "speaker": "Agent",  
+     "text": "Alright, the notes are saved."  
+   },  
+   {  
+     "timestamp": "13:18",  
+     "speaker": "User",  
+     "text": "Perfect."  
+   },  
+   {  
+     "timestamp": "13:20",  
+     "speaker": "Agent",  
+     "text": "So, just to recap one last time: We've initiated the process to add Sarah Jenkins as a Level 2 authorized contact. You have signed the required form, and it's now with our team for processing, which will be complete within 48 business hours. A confirmation will be sent to both you and Ms. Jenkins upon completion."  
+   },  
+   {  
+     "timestamp": "13:40",  
+     "speaker": "User",  
+     "text": "That's a perfect summary. Thank you."  
+   },  
+   {  
+     "timestamp": "13:43",  
+     "speaker": "Agent",  
+     "text": "You are very welcome. While I have you on the line, Mr. Wilson, is there anything else I can assist you with today? Any other questions about your Cymbal Telecom services?"  
+   },  
+   {  
+     "timestamp": "13:54",  
+     "speaker": "User",  
+     "text": "No, I think that's it. That was the only thing on my list."  
+   },  
+   {  
+     "timestamp": "13:59",  
+     "speaker": "Agent",  
+     "text": "Alright. Well, for your records, the reference number for this call and the associated work order is 885-492-1. Again, that's 885-492-1."  
+   },  
+   {  
+     "timestamp": "14:15",  
+     "speaker": "User",  
+     "text": "Okay, 885-492-1. Got it."  
+   },  
+   {  
+     "timestamp": "14:20",  
+     "speaker": "Agent",  
+     "text": "It was a pleasure assisting you today. Thank you for choosing Cymbal Telecom, and we hope you have a great rest of your day."  
+   },  
+   {  
+     "timestamp": "14:28",  
+     "speaker": "User",  
+     "text": "You too, Jessica. Thanks again for your help."  
+   },  
+   {  
+     "timestamp": "14:31",  
+     "speaker": "Agent",  
+     "text": "You're welcome. Goodbye."  
+   },  
+   {  
+     "timestamp": "14:34",  
+     "speaker": "User",  
+     "text": "Goodbye."  
+   },  
+   {  
+     "timestamp": "14:38",  
+     "speaker": "Agent",  
+     "text": "\[Agent remains on the line to complete after-call work\]"  
+   },  
+   {  
+     "timestamp": "15:08",  
+     "speaker": "Agent",  
+     "text": "Finalizing call notes... Work order 885-492-1 submitted and linked to customer CUST-2011. E-signature form confirmed received. Follow-up task set to check processing status in 48 hours if no completion notice is logged."  
+   },  
+   {  
+     "timestamp": "15:35",  
+     "speaker": "Agent",  
+     "text": "Marking email from andrew.wilson@ecosphereenergy.com as not-spam on the internal case file to aid deliverability investigation."  
+   },  
+   {  
+     "timestamp": "16:02",  
+     "speaker": "Agent",  
+     "text": "Disposition code: Account Management \- Add Authorized User. Sub-code: Corporate \- E-signature."  
+   },  
+   {  
+     "timestamp": "16:25",  
+     "speaker": "Agent",  
+     "text": "All notes are complete. Call wrap-up finished."  
+   },  
+   {  
+     "timestamp": "16:45",  
+     "speaker": "Agent",  
+     "text": "Checking pending tasks for next call..."  
+   },  
+   {  
+     "timestamp": "17:05",  
+     "speaker": "Agent",  
+     "text": "Okay, ready for the next call."  
+   },  
+   {  
+     "timestamp": "17:25",  
+     "speaker": "Agent",  
+     "text": "System seems a little slow today."  
+   },  
+   {  
+     "timestamp": "17:45",  
+     "speaker": "Agent",  
+     "text": "Let's review the new process for international roaming packages."  
+   },  
+   {  
+     "timestamp": "18:05",  
+     "speaker": "Agent",  
+     "text": "Ah, here's the training document."  
+   },  
+   {  
+     "timestamp": "18:25",  
+     "speaker": "Agent",  
+     "text": "Okay, that's straightforward enough."  
+   },  
+   {  
+     "timestamp": "18:45",  
+     "speaker": "Agent",  
+     "text": "Next call coming in now."  
+   },  
+   {  
+     "timestamp": "18:50",  
+     "speaker": "Agent",  
+     "text": "\[Call disconnects\]"  
+   }  
+ \]  
+}
+
+The call transcripts will be following the example above.  
+The transcripts will be stored in a GCS bucket, and for each call, the following should happen:
+
+- Step 1: all calls must be annotated using LLM (gemini 2.5 pro) against DialogActs ([https://web.stanford.edu/\~jurafsky/ws97/CL-dialog.pdf](https://web.stanford.edu/~jurafsky/ws97/CL-dialog.pdf)).   
+  - *Using* https://web.stanford.edu/\~jurafsky/ws97/CL-dialog.pdf *as the reference for dialog acts process the attached conversations turn by turn with dialog acts .The output should include the following columns  Timestamp and Utterance , Dialog Act , Abstractive Title. Use the following as an example.”*  
+    - *Example:*   
+    - 
+
+| Timestamp & Utterance | Dialogue Act | Abstractive Title |
+| ----- | ----- | ----- |
+| **\[00:07\] \- Customer, Sarah: "I'm calling about my most recent bill..."** | **STATEMENT** | **Stating Call Purpose** |
+| **\[00:18\] \- Agent, David: "Can I please start with your full name?"** | **YES-NO-QUESTION** | **Authentication: Name** |
+| **\[00:31\] \- Agent, David: "...could you please provide me with the mobile number...?"** | **YES-NO-QUESTION** | **Authentication: Mobile Number** |
+| **\[00:46\] \- Agent, David: "...could you please tell me...your account's 4-digit security PIN?"** | **YES-NO-QUESTION** | **Authentication: Security PIN** |
+
+    -   
+- Step 2: *Using the detailed segments of utterance provided by step 2, dialog acts, and abstractive titles across the conversation, group the conversation into sequences and detail the costs per sequence using gemini pro 2.5.”*  
+  - *The LLM should decide on how to cluster the utterances.*   
+  - *Example:*
+
+### **1\. Opening & Authentication (Total Est. Duration: 1 min, 15 sec)**
+
+- **Stating Call Purpose**  
+  - **Dialogue Act:** `STATEMENT`  
+  - **Est. Duration:** \~11 seconds  
+- **Authentication: Name**  
+  - **Dialogue Act:** `YES-NO-QUESTION`  
+  - **Est. Duration:** \~13 seconds  
+- **Authentication: Mobile Number**  
+  - **Dialogue Act:** `YES-NO-QUESTION`  
+  - **Est. Duration:** \~15 seconds  
+- **Authentication: Security PIN**  
+  - **Dialogue Act:** `YES-NO-QUESTION`  
+  - **Est. Duration:** \~36 seconds  
+      
+- Step 3: For each conversation, The main reason for the call should be captured. It should be a broad category like billing, troubleshooting, ordering. For each conversation, a second layer of the reason for the call should be derived, e.g. within billing, have payment, bill dispute, bill query, etc.   
+  - Semantically similar reasons (first level and second level) must be reused to ensure consistency. Example: Billing Questions and Invoice Questions are semantically equal, so if Billing Questions is already used, reuse that for the next transcripts.   
+- Step 4: Load into BigQuery:  
+  - For every transcript, an entry in Bigquery must be created with the metadata from the transcript representing columns together with the call data.   
+  - The information from Steps 2 and 3 should be added to the table, for each transcript entry  
+  - There can be more than one call transcript per customer
+
+This should be an agentic framework with multiple agents, under an orchestrator agent, using ADK.   

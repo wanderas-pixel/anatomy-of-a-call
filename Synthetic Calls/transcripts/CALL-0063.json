@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "call_id": "CALL-0063",
+    "customer_id": "CUST-2001",
+    "customer_name": "TechCorp Solutions",
+    "customer_type": "Corporate",
+    "phone": "800-310-6259",
+    "email": "john.doe@techcorpsolutions.com",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "duration_minutes": 7,
+    "total_turns": 39
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Support. My name is Maria. How can I help you today?"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "User",
+      "text": "Hi Maria. This is John Doe from TechCorp Solutions. I'm having an issue with our online account. I've forgotten our security PIN and after a few tries, the system has locked me out of the portal."
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "Agent",
+      "text": "I understand, Mr. Doe. That's a common issue, and I can certainly help you get that sorted out and regain access. To get started, I just need to verify the account for security."
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "User",
+      "text": "Of course. What information do you need?"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "Agent",
+      "text": "Could you please provide me with your Cymbal Telecom Customer ID and then the security PIN you have on file?"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "User",
+      "text": "Sure, the customer ID is CUST-2001. As for the PIN, that's the problem. I don't know it, which is why I'm calling you."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "Agent",
+      "text": "Right, my apologies. Thank you for clarifying. Since you can't provide the PIN, I will need to use an alternate verification method. This is a bit more detailed, but it's to ensure the security of your corporate account."
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "User",
+      "text": "I appreciate the security. No problem at all. What do you need?"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "Agent",
+      "text": "Great. First, can you confirm the full business name as it appears on your Cymbal Telecom invoice?"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "User",
+      "text": "That would be TechCorp Solutions."
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "Agent",
+      "text": "Thank you. And the full service address we have on file for your Business Dedicated Fiber line?"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "User",
+      "text": "It's 800 Corporate Plaza, Suite 900, in Centropolis."
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "Agent",
+      "text": "Perfect. Let me just cross-reference that information. Please hold for just a moment."
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Doe. The details match. For the final verification step, could you please tell me the primary email address registered to this account?"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "User",
+      "text": "That should be my corporate email, john.doe@techcorpsolutions.com."
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "Agent",
+      "text": "Excellent, that is exactly what I have on my screen. Thank you for confirming all of that. Your identity is now verified, and I can proceed with resetting your PIN."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Great. So what's the next step?"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "Agent",
+      "text": "The process is quite simple. I am going to trigger a secure reset link to be sent to the email address we just confirmed. Once you receive it, you'll be able to set a new PIN of your choosing."
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "User",
+      "text": "Okay, that sounds good. You can send it whenever you're ready."
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "Agent",
+      "text": "I am initiating that for you right now... And... sent. The email is on its way from our system. It can sometimes take up to two minutes to arrive. Would you mind checking your inbox?"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "User",
+      "text": "Sure, I'm pulling up my email client now. Just give me a moment to look for it."
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "Agent",
+      "text": "Of course, take your time. And please be sure to check your spam or junk folder as well, just in case it was filtered by mistake."
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "User",
+      "text": "Okay, checking... checking... ah, there it is. It just came in. The sender is 'Cymbal Telecom' and the subject is 'Your Security PIN Reset Link'."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "That's the one. Please open that email and click the secure link inside. I'll remain on the line with you to ensure the process completes successfully."
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "User",
+      "text": "Okay, I've clicked the link. It's opened a new page on the Cymbal Telecom website. It's prompting me to create a new 6-digit PIN."
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "Agent",
+      "text": "Perfect. Please go ahead and enter a new 6-digit PIN that you'll remember. You will need to enter it a second time to confirm it."
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "User",
+      "text": "Alright, let me think of a new one here... okay... entering it now... and confirming. It says 'Success. Your security PIN has been updated.'"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "Agent",
+      "text": "That's wonderful news. The system is now updated on my end as well. As a final check, could you please try logging into the online portal one more time with your Customer ID and the new PIN you just created?"
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "User",
+      "text": "Good idea. Let me navigate back to the login page... Okay, I'm entering CUST-2001 and my new PIN... and clicking 'Log In'..."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "User",
+      "text": "And... success! I am in. I can see our account dashboard. It looks like it worked perfectly."
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "Agent",
+      "text": "Excellent. I'm so glad we were able to get that resolved for you, Mr. Doe. Your account access is now fully restored."
+    },
+    {
+      "timestamp": "05:56",
+      "speaker": "User",
+      "text": "That's a relief. Thank you very much for your help, Maria. You were very efficient."
+    },
+    {
+      "timestamp": "06:03",
+      "speaker": "Agent",
+      "text": "It was my pleasure to assist you. I have also added a note to your account documenting the PIN reset for our records."
+    },
+    {
+      "timestamp": "06:12",
+      "speaker": "User",
+      "text": "Great, thank you."
+    },
+    {
+      "timestamp": "06:15",
+      "speaker": "Agent",
+      "text": "Before we conclude, was there anything else I could help you with today? Perhaps a question about your billing or any of our other services?"
+    },
+    {
+      "timestamp": "06:25",
+      "speaker": "User",
+      "text": "No, that was the only issue I had. I'm all set for now."
+    },
+    {
+      "timestamp": "06:30",
+      "speaker": "Agent",
+      "text": "Alright then. Well, thank you for calling Cymbal Telecom, and we appreciate your business. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "06:39",
+      "speaker": "User",
+      "text": "You too, Maria. Goodbye."
+    },
+    {
+      "timestamp": "06:42",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

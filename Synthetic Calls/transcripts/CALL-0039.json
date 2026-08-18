@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "call_id": "CALL-0039",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "phone": "555-597-5874",
+    "email": "david.lewis@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 8,
+    "total_turns": 50
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Sarah, I'm having a problem with my TV service. It's just not working."
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "Agent",
+      "text": "I'm very sorry to hear that. I can definitely help you look into what's going on. For security purposes, could I start with your Customer ID, please?"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "User",
+      "text": "Sure, it's CUST-1028."
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "Agent",
+      "text": "Thank you. And to fully verify the account, could you please provide the four-digit security PIN?"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "User",
+      "text": "Yes, it's 6-3-9-5."
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "Agent",
+      "text": "Perfect, thank you, David. I've got your account pulled up here. Now, you mentioned the TV isn't working. Is there a specific message or error code on the screen?"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "User",
+      "text": "Yeah, it's a blue screen with a box that says 'Error Code E104'. It's been like this since I turned it on this morning."
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "Agent",
+      "text": "Okay, E104. I'm familiar with that one. It usually points to an issue with the box receiving its authorization signal. We can typically resolve this pretty quickly. Are you near the television and the Cymbal set-top box right now?"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "User",
+      "text": "Yes, I'm right in front of it."
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "Agent",
+      "text": "Great. The first thing I'd like to check are the physical connections. Could you look at the back of the box and ensure the round coaxial cable coming from the wall is screwed in tightly?"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "User",
+      "text": "Let me see... yeah, it feels tight. I gave it a little twist just to be sure."
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "Agent",
+      "text": "Excellent. And the HDMI cable that goes from the box to your TV, is that also securely plugged in on both ends?"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "User",
+      "text": "Yep, that one is solid too."
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "Agent",
+      "text": "Okay, thank you for checking. The next step we're going to try is a power cycle. This will restart the box and force it to re-establish its connection."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "User",
+      "text": "Okay, so just turn it off and on?"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "Agent",
+      "text": "Almost. I need you to do a specific sequence. Please find the power cord for the set-top box and unplug it directly from the back of the box itself."
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "User",
+      "text": "Okay... it's unplugged."
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "Agent",
+      "text": "Perfect. Now we need to leave it unplugged for a full sixty seconds. This allows the internal memory to completely clear any temporary files that might be causing the error."
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "User",
+      "text": "Alright. So just wait?"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "Agent",
+      "text": "Yes, just for a minute. I'll stay on the line with you. We're about halfway there."
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "Agent",
+      "text": "Okay, that should be long enough. You can go ahead and plug the power cord back into the Cymbal TV box now."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Alright, plugging it in now... I see some lights on the front of the box flashing."
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "Agent",
+      "text": "That's exactly what we want to see. The box is now rebooting. It can take a few minutes to fully load up. What do you see on your TV screen?"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "User",
+      "text": "It says 'Cymbal Telecom' with a loading bar underneath. Now it's blank."
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "Agent",
+      "text": "That's all part of the normal startup process. Just give it another moment or two."
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "User",
+      "text": "Okay, something's happening... ah, shoot. It's back. The same blue screen with the E104 error."
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "Agent",
+      "text": "Okay, David, don't worry. Thank you for trying that. That step helped us rule out a simple hardware glitch. The next step is something I can do from my end."
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "User",
+      "text": "What's that?"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "Agent",
+      "text": "I am going to send a refresh signal directly from our central network to your specific set-top box. This signal forces the box to re-download its service authorizations and channel map. It's a very effective fix for this error."
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "User",
+      "text": "Okay, let's try it."
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "Agent",
+      "text": "I'm initiating the command now. It can take up to five minutes to complete. Please make sure the TV and the box remain powered on. You might see the screen flicker or go blank during this process, which is normal."
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "User",
+      "text": "Alright, I won't touch anything."
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "Agent",
+      "text": "Thank you. I'm just monitoring the signal from my end... I see that your box has received the initial request. It's now processing the new authorization data."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "User",
+      "text": "So, we just wait again?"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "Agent",
+      "text": "Yes, just for a little bit longer. I do appreciate your patience with this, David. I know it's frustrating when your services aren't working as they should."
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "User",
+      "text": "It's alright. As long as we get it fixed. I was hoping to watch the game tonight."
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "Agent",
+      "text": "We'll do our absolute best to make that happen for you."
+    },
+    {
+      "timestamp": "05:18",
+      "speaker": "Agent",
+      "text": "Okay, my system shows the refresh signal has been successfully delivered and accepted by your box. Do you see any change on your screen?"
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "User",
+      "text": "Hold on... The screen just went black... now it's back on... Hey! I have a picture! It's on a news channel."
+    },
+    {
+      "timestamp": "05:33",
+      "speaker": "Agent",
+      "text": "That is fantastic news! That's exactly what we wanted. Could you please use your remote to change the channel up and then down a few times, just to make sure everything is working correctly?"
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "User",
+      "text": "Yep, going up... going down... it's working. All the channels seem to be there. The guide is loading too."
+    },
+    {
+      "timestamp": "05:53",
+      "speaker": "Agent",
+      "text": "Excellent. I'm so glad we were able to resolve that for you, David. The refresh signal did the trick."
+    },
+    {
+      "timestamp": "05:59",
+      "speaker": "User",
+      "text": "Great! Thank you so much for your help."
+    },
+    {
+      "timestamp": "06:02",
+      "speaker": "Agent",
+      "text": "You are very welcome. I've added a note to your account detailing the steps we took, just in case this happens again, but it's usually a one-time fix."
+    },
+    {
+      "timestamp": "06:11",
+      "speaker": "User",
+      "text": "I hope so."
+    },
+    {
+      "timestamp": "06:13",
+      "speaker": "Agent",
+      "text": "While I have you on the line, is there anything else I can assist you with today? Any questions about your account or other Cymbal Telecom services?"
+    },
+    {
+      "timestamp": "06:20",
+      "speaker": "User",
+      "text": "No, that was the only problem. Thanks again."
+    },
+    {
+      "timestamp": "06:23",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help. Thank you for calling Cymbal Telecom, and have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "User",
+      "text": "You too. Bye."
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "call_id": "CALL-0041",
+    "customer_id": "CUST-1004",
+    "customer_name": "Michael Hernandez",
+    "customer_type": "Consumer",
+    "phone": "555-127-5977",
+    "email": "michael.hernandez@telecom-personal.com",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "duration_minutes": 15,
+    "total_turns": 94
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Jessica. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Jessica. I'm having some trouble with my account. I seem to be locked out."
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. To get started, could I please have your first and last name?"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "User",
+      "text": "Sure, it's Michael Hernandez."
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "Agent",
+      "text": "Thank you, Michael. And do you have your Cymbal Telecom account number handy?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Uh, yeah, hold on. It should be on my bill here... Okay, it's CUST-1004."
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "Agent",
+      "text": "Great, CUST-1004. I'm pulling up your account now. One moment."
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "Agent",
+      "text": "Alright, I see the account here for Michael Hernandez. Now, for security purposes, can you please verify the 4-digit security PIN for this account?"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "User",
+      "text": "Ah, that's the problem. I... I can't remember it. I tried a few times on the website and it told me I was locked out for too many attempts."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "Agent",
+      "text": "I understand, that can definitely be frustrating. And yes, I see a security lock was just placed on the online portal. Not to worry, we can get this sorted out for you. I just need to verify your identity through a different method."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "User",
+      "text": "Okay, that would be great. What do you need?"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "Agent",
+      "text": "I'm going to ask you a few questions from your account profile. First, can you please confirm the full service address, including the zip code?"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "User",
+      "text": "Yes, it's 452 Oakwood Drive, apartment 3B, in Springfield, Illinois. Zip code is 62704."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "Agent",
+      "text": "Perfect, that matches. Thank you. Now, can you confirm the primary email address we have on file for you?"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "User",
+      "text": "It should be michael.hernandez@telecom-personal.com."
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "Agent",
+      "text": "That is correct. Okay, just one or two more questions. According to your file, you have our Triple Play Bundle. Can you tell me what that includes?"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "User",
+      "text": "It's the internet, the TV, and the home phone line."
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "Agent",
+      "text": "That's right. And for the final verification step, I see you have a payment method on file. Could you please tell me the last four digits of the credit card you use for payments?"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "User",
+      "text": "The last four digits... let me grab my wallet."
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "Agent",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "Okay, I've got it. The last four digits are... 9876."
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "Agent",
+      "text": "Let me check that... Hmm. Michael, the number I have on file ends in a different set of digits. Is it possible you've updated your card recently?"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Oh! Shoot. You know what, my bank sent me a new card last month. I bet I forgot to update it with you guys. I'm sorry. Is there another way?"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "Agent",
+      "text": "No problem at all, it happens. Yes, we have another option. It looks like you set up security questions when you first opened your account. Would you like to try that?"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "User",
+      "text": "Yes, let's do that. Hopefully I remember what I put."
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "Agent",
+      "text": "Alright. The first question is: What is the name of your first pet?"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "User",
+      "text": "Oh, wow. Uh... Sparky. It was Sparky."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "Agent",
+      "text": "Let me see... Yes, that is correct! Okay, great. I have successfully verified you, Michael."
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "User",
+      "text": "Phew. Okay, good. Sorry about the confusion with the card."
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "Agent",
+      "text": "It's completely understandable. Thank you for your patience while we went through that. It's just to protect your account's security."
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "User",
+      "text": "I appreciate that. So, what's next? How do I get a new PIN?"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "Agent",
+      "text": "I can help you set a new one right now. For security, I can't see your old PIN, but I can reset it. Are you ready to choose a new 4-digit PIN?"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "User",
+      "text": "Yes, I am."
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "Agent",
+      "text": "Okay. Please choose a 4-digit number that would be difficult for others to guess. We recommend avoiding things like '1234' or your birth year."
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "User",
+      "text": "Right, okay. How about... 8... 4... 2... 9."
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "Agent",
+      "text": "Okay, 8429. Let me just enter that into the system for you. One moment please."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "Agent",
+      "text": "Thank you for holding. Okay, I have successfully updated your security PIN to 8429. This will now be the PIN you use for phone verification and for your voicemail."
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "User",
+      "text": "Great. And what about the online account? Is it unlocked now?"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "Agent",
+      "text": "That's the next step. The system automatically locks the online portal for security after too many failed attempts. I need to manually remove that lock. This can take a minute or two. Do you mind holding while I process this?"
+    },
+    {
+      "timestamp": "05:00",
+      "speaker": "User",
+      "text": "Not at all, go ahead."
+    },
+    {
+      "timestamp": "05:02",
+      "speaker": "Agent",
+      "text": "Thank you. I'll be right back with you."
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Michael."
+    },
+    {
+      "timestamp": "06:07",
+      "speaker": "User",
+      "text": "No problem. Any luck?"
+    },
+    {
+      "timestamp": "06:09",
+      "speaker": "Agent",
+      "text": "Yes, I have successfully removed the security lock from your online account access. You should be able to log in now."
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "User",
+      "text": "Fantastic. So I just go to the Cymbal Telecom website and log in?"
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "Agent",
+      "text": "That's correct. Are you in front of a computer or on a device where you could try it now? I'd like to stay on the line just to make sure it works for you."
+    },
+    {
+      "timestamp": "06:31",
+      "speaker": "User",
+      "text": "Yeah, that's a good idea. I have my laptop right here. Let me pull up the site. cymbaltelecom.com..."
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "Agent",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "06:48",
+      "speaker": "User",
+      "text": "Okay, I'm on the login page. It's asking for my username and password."
+    },
+    {
+      "timestamp": "06:53",
+      "speaker": "Agent",
+      "text": "Your username should be your email address, michael.hernandez@telecom-personal.com."
+    },
+    {
+      "timestamp": "07:00",
+      "speaker": "User",
+      "text": "Right. And the password... I think I remember my password. It's the PIN I was having trouble with."
+    },
+    {
+      "timestamp": "07:08",
+      "speaker": "Agent",
+      "text": "The security PIN is separate from your online password, although some customers set them to be the same. If you've also forgotten your online password, you can use the 'Forgot Password' link."
+    },
+    {
+      "timestamp": "07:19",
+      "speaker": "User",
+      "text": "Let me try what I think it is first. Okay... typing it in... and... login. Hmm. Invalid username or password."
+    },
+    {
+      "timestamp": "07:32",
+      "speaker": "Agent",
+      "text": "Okay, no problem. Let's try resetting it. Do you see the 'Forgot Password?' link on the screen?"
+    },
+    {
+      "timestamp": "07:38",
+      "speaker": "User",
+      "text": "Yes, I see it. Clicking it now."
+    },
+    {
+      "timestamp": "07:42",
+      "speaker": "Agent",
+      "text": "It should ask for your username or email to send a reset link."
+    },
+    {
+      "timestamp": "07:48",
+      "speaker": "User",
+      "text": "Yep, it's asking for my email. I'll put that in. Okay, it says a link has been sent."
+    },
+    {
+      "timestamp": "07:56",
+      "speaker": "Agent",
+      "text": "Excellent. Could you please check your email? It should arrive within a minute or two. Don't forget to check your spam or junk folder just in case."
+    },
+    {
+      "timestamp": "08:05",
+      "speaker": "User",
+      "text": "Okay, opening my email now... looking... nothing yet. Let me refresh."
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "User",
+      "text": "Ah, there it is! 'Cymbal Telecom Password Reset'. Okay, I'm opening it."
+    },
+    {
+      "timestamp": "08:21",
+      "speaker": "Agent",
+      "text": "Wonderful. Please follow the instructions in the email to create a new password."
+    },
+    {
+      "timestamp": "08:26",
+      "speaker": "User",
+      "text": "Okay, clicking the link... It's asking for a new password. Let me type one in."
+    },
+    {
+      "timestamp": "08:45",
+      "speaker": "Agent",
+      "text": "Just let me know when you've successfully reset it."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "User",
+      "text": "Okay... password has been changed successfully. Now it's taking me back to the login page."
+    },
+    {
+      "timestamp": "08:58",
+      "speaker": "Agent",
+      "text": "Perfect. Now try logging in with your email and that new password you just created."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "User",
+      "text": "Alright, here goes. Username... new password... and... success! I'm in! I can see my account dashboard."
+    },
+    {
+      "timestamp": "09:18",
+      "speaker": "Agent",
+      "text": "That is fantastic news! I'm so glad we could get that working for you."
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "User",
+      "text": "Me too. Thank you so much for walking me through all of that. I really appreciate your patience."
+    },
+    {
+      "timestamp": "09:29",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Michael. Now, while I have you, I notice that the credit card on file, the one ending in 9876, is different from the one we were discussing. Would you like to update your payment information now so your auto-pay goes through without any issues?"
+    },
+    {
+      "timestamp": "09:45",
+      "speaker": "User",
+      "text": "Oh, yes! That's a great idea. I totally would have forgotten about that again. Can I do that from the dashboard here?"
+    },
+    {
+      "timestamp": "09:53",
+      "speaker": "Agent",
+      "text": "You certainly can. You should see a 'Billing' or 'Payment Methods' section. If you click there, you should find an option to add or edit a payment method."
+    },
+    {
+      "timestamp": "10:04",
+      "speaker": "User",
+      "text": "Okay, I see 'Billing'. Clicking that... and yes, 'Manage Payment Methods'. Perfect."
+    },
+    {
+      "timestamp": "10:12",
+      "speaker": "Agent",
+      "text": "Excellent. I'll stay on the line while you do that, just in case you have any questions."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "Thanks. Okay, I'm adding the new card now... number... expiration... C-V-V..."
+    },
+    {
+      "timestamp": "10:40",
+      "speaker": "User",
+      "text": "Alright, and it's asking if I want to set this as my default for autopay. I'll check yes."
+    },
+    {
+      "timestamp": "10:46",
+      "speaker": "Agent",
+      "text": "A very wise choice."
+    },
+    {
+      "timestamp": "10:52",
+      "speaker": "User",
+      "text": "Okay, save changes... It's processing... and... done! It says 'Payment method updated successfully'."
+    },
+    {
+      "timestamp": "11:03",
+      "speaker": "Agent",
+      "text": "Wonderful. I can even see the change reflected on my end now. Your account is all up to date. Your new security PIN is set, you have access to your online account, and your billing information is current."
+    },
+    {
+      "timestamp": "11:15",
+      "speaker": "User",
+      "text": "That's a relief. I feel much more organized now. Thank you, Jessica, you've been a huge help."
+    },
+    {
+      "timestamp": "11:21",
+      "speaker": "Agent",
+      "text": "You are most welcome, Michael. Is there anything else at all I can assist you with today? Any questions about your bill or services?"
+    },
+    {
+      "timestamp": "11:30",
+      "speaker": "User",
+      "text": "Hmm, actually, since I'm logged in... I see my plan is the 'Fiber 500'. What does the 500 mean again?"
+    },
+    {
+      "timestamp": "11:38",
+      "speaker": "Agent",
+      "text": "That's a great question. The '500' refers to the internet speed. Your plan provides download and upload speeds of up to 500 megabits per second. It's a very fast and reliable fiber connection."
+    },
+    {
+      "timestamp": "11:50",
+      "speaker": "User",
+      "text": "Right, okay. I always forget. It's been working great, so no complaints there. I was just curious."
+    },
+    {
+      "timestamp": "11:57",
+      "speaker": "Agent",
+      "text": "I'm very glad to hear you're happy with your Cymbal Fiber service. It's a fantastic product."
+    },
+    {
+      "timestamp": "12:04",
+      "speaker": "User",
+      "text": "Yeah, it is. Okay, I think that's all I needed. You've solved all my problems for today."
+    },
+    {
+      "timestamp": "12:10",
+      "speaker": "Agent",
+      "text": "Perfect. Before we disconnect, I'd like to give you a reference number for our conversation today. It's 753119. That's 7-5-3-1-1-9. It just documents the changes we made to your PIN and account access."
+    },
+    {
+      "timestamp": "12:25",
+      "speaker": "User",
+      "text": "Okay, 753119. Got it."
+    },
+    {
+      "timestamp": "12:29",
+      "speaker": "Agent",
+      "text": "And just to recap, we've successfully reset your security PIN, unlocked your online account, guided you through a password reset, and updated your payment method on file."
+    },
+    {
+      "timestamp": "12:40",
+      "speaker": "User",
+      "text": "Yes, you did. It was a very productive call."
+    },
+    {
+      "timestamp": "12:44",
+      "speaker": "Agent",
+      "text": "I'm happy I could help. Thank you again for calling Cymbal Telecom, Michael. I hope you have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "12:52",
+      "speaker": "User",
+      "text": "You too, Jessica. Thanks again. Bye."
+    },
+    {
+      "timestamp": "12:55",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

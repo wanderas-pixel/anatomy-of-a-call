@@ -1,0 +1,430 @@
+{
+  "metadata": {
+    "call_id": "CALL-0067",
+    "customer_id": "CUST-1013",
+    "customer_name": "Thomas Young",
+    "customer_type": "Consumer",
+    "phone": "555-588-2228",
+    "email": "thomas.young@telecom-personal.com",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "duration_minutes": 13,
+    "total_turns": 83
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Alex. I need to get my account number and a porting PIN. I'm trying to switch carriers."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. For security purposes, I'll need to verify your account first. Could I please have your Customer ID?"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "User",
+      "text": "Sure. It's CUST-1013."
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "Agent",
+      "text": "Thank you. And can you please verify the 4-digit security PIN on the account?"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "User",
+      "text": "Yes, it's 6692."
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. One moment while I pull up your account details... Okay, I see your account is verified. I'm speaking with Thomas Young, is that correct?"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "User",
+      "text": "Yes, that's me."
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "Agent",
+      "text": "Great, Thomas. I see you're looking for your account number and a Number Transfer PIN. We're certainly sorry to see you go. May I ask what's leading to your decision to switch?"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "User",
+      "text": "Oh, it's nothing about the service. It's been great. I'm actually moving to an area where you guys don't offer service, so I have to switch."
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "Agent",
+      "text": "I understand completely. Thank you for clarifying. We appreciate your business with Cymbal Telecom and hopefully we can serve you again in the future if you move back into our coverage area."
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "User",
+      "text": "Yeah, maybe. For now, I just need that information so I can get my new service set up."
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "Agent",
+      "text": "Of course. Let's get that for you. I'm accessing the port-out information section of your account now. Please bear with me for just a moment."
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. I have your account number ready. Do you have a pen and paper?"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "User",
+      "text": "Yep, go ahead."
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "Agent",
+      "text": "Your Cymbal Telecom account number is 8-4-4-2-9-1-0-5-5-3-6-7."
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "Okay, let me read that back. 844291055367. Is that right?"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "Agent",
+      "text": "That is correct."
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "User",
+      "text": "Great. And what about the PIN?"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "Agent",
+      "text": "So, for the Number Transfer PIN, it's a little different. For your security, we don't use your account security PIN for porting out. We generate a temporary, one-time-use PIN."
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "User",
+      "text": "Oh, okay. How do I get that?"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "Agent",
+      "text": "I can generate one for you right now. Once I do, it will be sent directly to the primary mobile number on your account via SMS text message. I cannot read it to you over the phone, as a security measure."
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "User",
+      "text": "Okay, that makes sense. The number is 555-588-2228, right?"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "Agent",
+      "text": "Yes, that's the number I have on file. Are you ready for me to generate and send the PIN?"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "User",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "Agent",
+      "text": "Okay, I am initiating the request now... The system is generating the PIN... And... sent. You should receive a text message from Cymbal Telecom within the next 60 seconds."
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "User",
+      "text": "Okay, I'm looking at my phone now... still waiting."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "Agent",
+      "text": "Sometimes it can take a moment to go through the network. Can you see if you have good signal?"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "User",
+      "text": "Yeah, I have full bars. Just... oh, wait. Here it is. It just came through."
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "Agent",
+      "text": "Excellent. Does the message appear to be from Cymbal and contain a numeric PIN?"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "User",
+      "text": "Yes, it says 'Your Cymbal Telecom Number Transfer PIN is...' and then a 6-digit number. Is that it?"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "Agent",
+      "text": "That is exactly it. That PIN is what you will provide to your new carrier along with the account number I gave you."
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "User",
+      "text": "Perfect. So I have everything I need then?"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "Agent",
+      "text": "You have the two key pieces of information, yes. But there are a couple of important things I need to tell you about this PIN."
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "User",
+      "text": "Okay, what's that?"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "Agent",
+      "text": "First, the PIN is temporary and will expire in 24 hours. If you don't complete the port-out with your new carrier within that timeframe, you will need to call us back to generate a new one."
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "User",
+      "text": "24 hours. Got it. I'm heading to their store this afternoon, so that should be fine."
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "Agent",
+      "text": "Great. Second, once the port is successfully completed by your new provider, your line of service with Cymbal Telecom for that number will be automatically disconnected."
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "User",
+      "text": "Okay, that's what I expected."
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "Agent",
+      "text": "This will trigger a final bill. Your billing cycle closes on the 15th of the month. Depending on when you port out, the final bill will include your service pro-rated up to the disconnection date."
+    },
+    {
+      "timestamp": "05:12",
+      "speaker": "User",
+      "text": "So if I port out today, I'll just be billed for the part of the month I used?"
+    },
+    {
+      "timestamp": "05:18",
+      "speaker": "Agent",
+      "text": "Correct. You'll receive that final bill either by mail or email, depending on your account preferences, which I see are set to email."
+    },
+    {
+      "timestamp": "05:27",
+      "speaker": "User",
+      "text": "Okay, sounds good."
+    },
+    {
+      "timestamp": "05:29",
+      "speaker": "Agent",
+      "text": "Now, Thomas, I also see on your account that you have our Fiber Gigabit Broadband internet service. Is that correct?"
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "User",
+      "text": "Yes, I do."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "Agent",
+      "text": "Just to be perfectly clear, porting your phone number will only affect the mobile service. Your internet service will remain active. Did you want to make any changes to that today as well?"
+    },
+    {
+      "timestamp": "05:52",
+      "speaker": "User",
+      "text": "Right. Since I'm moving, I'll need to cancel that too. Can we do that now?"
+    },
+    {
+      "timestamp": "05:58",
+      "speaker": "Agent",
+      "text": "We can, but I'd advise waiting until your move date is closer. We can schedule a disconnection for a future date if you'd like."
+    },
+    {
+      "timestamp": "06:07",
+      "speaker": "User",
+      "text": "Hmm. When is the latest I can cancel it?"
+    },
+    {
+      "timestamp": "06:11",
+      "speaker": "Agent",
+      "text": "You can call us on the day you move out to have it disconnected. We also need to arrange for you to return the Cymbal Telecom equipment, specifically the ONT and the 5G mesh router."
+    },
+    {
+      "timestamp": "06:24",
+      "speaker": "User",
+      "text": "Oh yeah, the router. How does that work?"
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "Agent",
+      "text": "Once you schedule the disconnection, we will mail you a pre-paid return box with instructions. You just pack up the hardware and drop it off at any UPS location. It's very simple."
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "User",
+      "text": "Okay. You know what, let me call back about the internet. I need to confirm the exact move-out date with my landlord. Let's just stick to the phone porting for today."
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "Agent",
+      "text": "That's perfectly fine. We can definitely handle that on a separate call whenever you're ready. So, to recap for today's call..."
+    },
+    {
+      "timestamp": "06:58",
+      "speaker": "User",
+      "text": "Hold on, recap for me."
+    },
+    {
+      "timestamp": "07:00",
+      "speaker": "Agent",
+      "text": "Absolutely. I have provided you with your 12-digit account number, and you have received the 6-digit temporary Number Transfer PIN via text message."
+    },
+    {
+      "timestamp": "07:11",
+      "speaker": "User",
+      "text": "Yes."
+    },
+    {
+      "timestamp": "07:12",
+      "speaker": "Agent",
+      "text": "You're aware that the PIN is valid for 24 hours, and that successfully porting your number will automatically close this line of service, generating a final, pro-rated bill."
+    },
+    {
+      "timestamp": "07:25",
+      "speaker": "User",
+      "text": "Yes, that's all clear."
+    },
+    {
+      "timestamp": "07:27",
+      "speaker": "Agent",
+      "text": "And you will call us back at a later date to schedule the disconnection of your Fiber Gigabit internet service and arrange for the equipment return."
+    },
+    {
+      "timestamp": "07:37",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "07:39",
+      "speaker": "Agent",
+      "text": "Perfect. Is there anything else at all I can assist you with today, Thomas?"
+    },
+    {
+      "timestamp": "07:45",
+      "speaker": "User",
+      "text": "No, that's everything. You've been very helpful, Alex."
+    },
+    {
+      "timestamp": "07:50",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help. We're sorry to see you go, but we wish you the very best with your move and your new service provider."
+    },
+    {
+      "timestamp": "07:58",
+      "speaker": "User",
+      "text": "Thank you."
+    },
+    {
+      "timestamp": "08:00",
+      "speaker": "Agent",
+      "text": "Thank you for being a valued Cymbal Telecom customer. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "08:06",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "08:08",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "08:10",
+      "speaker": "User",
+      "text": "Oh, wait, wait, don't hang up! I'm still here."
+    },
+    {
+      "timestamp": "08:14",
+      "speaker": "Agent",
+      "text": "Oh! I'm still here, Thomas. Is everything alright?"
+    },
+    {
+      "timestamp": "08:18",
+      "speaker": "User",
+      "text": "Yeah, sorry. I just thought of something. The final bill... does that get paid automatically from my card on file?"
+    },
+    {
+      "timestamp": "08:26",
+      "speaker": "Agent",
+      "text": "That is an excellent question. Let me check your payment settings. One moment... Yes, it looks like you are enrolled in automatic debit payments with a Visa card ending in 4521."
+    },
+    {
+      "timestamp": "08:40",
+      "speaker": "User",
+      "text": "Okay. So when the final bill is generated, it will just charge that card?"
+    },
+    {
+      "timestamp": "08:46",
+      "speaker": "Agent",
+      "text": "Correct. About 5 days after the bill is generated and emailed to you, our system will automatically attempt to charge the card on file for the final balance."
+    },
+    {
+      "timestamp": "08:56",
+      "speaker": "User",
+      "text": "Perfect. That's actually easier. I just wanted to make sure I didn't miss it and get sent to collections or something."
+    },
+    {
+      "timestamp": "09:03",
+      "speaker": "Agent",
+      "text": "I completely understand. You are all set up for a smooth process. The same will apply to the final bill for your internet service, whenever you decide to close that part of the account."
+    },
+    {
+      "timestamp": "09:14",
+      "speaker": "User",
+      "text": "Great. That was my last question, for real this time."
+    },
+    {
+      "timestamp": "09:18",
+      "speaker": "Agent",
+      "text": "Not a problem at all, I'm glad you asked. It's always better to be sure. Is there anything else, while I have you?"
+    },
+    {
+      "timestamp": "09:26",
+      "speaker": "User",
+      "text": "Nope, that covers it. Thanks again for your help."
+    },
+    {
+      "timestamp": "09:30",
+      "speaker": "Agent",
+      "text": "You are very welcome, Thomas. It was a pleasure assisting you. Best of luck with the move!"
+    },
+    {
+      "timestamp": "09:36",
+      "speaker": "User",
+      "text": "Thank you. Have a good one."
+    },
+    {
+      "timestamp": "09:38",
+      "speaker": "Agent",
+      "text": "You too. Thank you for calling Cymbal Telecom."
+    }
+  ]
+}

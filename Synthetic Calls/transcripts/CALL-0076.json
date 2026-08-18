@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "call_id": "CALL-0076",
+    "customer_id": "CUST-1016",
+    "customer_name": "Sandra Wright",
+    "customer_type": "Consumer",
+    "phone": "555-735-3488",
+    "email": "sandra.wright@telecom-personal.com",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "duration_minutes": 12,
+    "total_turns": 65
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Alex. I'm calling to place an order for some new cellular devices for my company's field team."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Absolutely, I can certainly assist you with that. To get started, could I please have your Cymbal Telecom Customer ID?"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "User",
+      "text": "Yes, it's CUST-1016."
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "Agent",
+      "text": "Thank you. And for security purposes, could you please verify the 4-digit security PIN on the account?"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "User",
+      "text": "My PIN is 6-5-3-4."
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "Agent",
+      "text": "Perfect, thank you, Sandra. I see you're verified. Let me just pull up the account details... one moment."
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "Agent",
+      "text": "Okay, I see you have our Fiber 500 and Digital TV Double Play bundle. Now, you mentioned this order is for your company. Is that correct?"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "User",
+      "text": "That's right. The account you pulled up is my personal home account. The new devices are for my employer, Fieldforce Solutions."
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "Agent",
+      "text": "I understand. Thank you for clarifying. In that case, we'll need to set up a new Cymbal Business account for Fieldforce Solutions. I can get that process started for you right now. Does that sound good?"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "User",
+      "text": "Yes, that's what I figured. Let's do it."
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "Agent",
+      "text": "Great. First, can you provide me with the full legal name and federal tax ID number for the business?"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "User",
+      "text": "The name is Fieldforce Solutions Inc. The tax ID is 86-7530912."
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "Agent",
+      "text": "Got it. Fieldforce Solutions Inc., tax ID 86-7530912. And what is the full billing and shipping address for the business?"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "User",
+      "text": "It's 4400 Industrial Park Drive, Suite 210, in Austin, Texas. Zip code is 78744."
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "Agent",
+      "text": "Thank you. 4400 Industrial Park Drive, Suite 210, Austin, Texas, 78744. I'm creating the business account profile now. Would you mind holding for about 60 seconds while I get this provisioned in our system?"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "User",
+      "text": "No problem, take your time."
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "Agent",
+      "text": "Thank you so much for your patience, Sandra. The new business account for Fieldforce Solutions is all set up. I've noted you as the primary contact. Now, let's talk about those devices. What were you looking to order?"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "User",
+      "text": "Excellent. I need to order ten tablets with LTE cellular connectivity for our field technicians."
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "Agent",
+      "text": "Ten LTE tablets. We can definitely do that. Do you have a specific model in mind, or would you like to hear about our current options?"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "User",
+      "text": "What do you have available? We don't need top-of-the-line, just something reliable with a decent screen size and good battery life."
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "Agent",
+      "text": "A very popular choice for business fleets is our CymbalTab Pro 10. It has a 10.4-inch display, 64 gigabytes of storage, and is fully 5G and LTE compatible. It's built to be durable for field use."
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "User",
+      "text": "That sounds promising. What's the cost for that device?"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "Agent",
+      "text": "Normally the device is $349.99, but with a new 2-year business agreement, we can offer it for a promotional price of $149.99 per tablet."
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "User",
+      "text": "Okay, $149.99 each. That's for ten units, so that would be... $1,499.90 for the hardware. That fits our budget. Let's go with the CymbalTab Pro 10."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "Agent",
+      "text": "Wonderful choice. I'll add ten CymbalTab Pro 10 tablets to the order. Now, for the service plan. For multiple devices like this, I'd recommend one of our Cymbal Business Shared Data plans. You pay one price for a large pool of data that all ten tablets can share."
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "User",
+      "text": "That's exactly what we need. What are the options for the shared data pools?"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "Agent",
+      "text": "Our most common plan for this number of devices is the Cymbal Business Share 100GB plan. It provides 100 gigabytes of high-speed data per month, shared across all lines on the account. How does that sound?"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "User",
+      "text": "100 gigabytes should be plenty. Our techs mostly use it for work orders and GPS. What is the monthly cost for that plan and for the lines themselves?"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "Agent",
+      "text": "Great question. So, there are two parts to the monthly cost. First is the line access fee for each tablet, which is $20 per month. For ten tablets, that's $200. Second is the data plan itself. The 100GB shared pool is $150 per month."
+    },
+    {
+      "timestamp": "05:18",
+      "speaker": "User",
+      "text": "Okay, so $200 for the lines plus $150 for the data... so we're looking at $350 per month in total recurring costs, plus taxes and fees. Is that correct?"
+    },
+    {
+      "timestamp": "05:30",
+      "speaker": "Agent",
+      "text": "Yes, that is exactly correct. $350 per month before any applicable state and federal taxes."
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "User",
+      "text": "Alright. And what about activation fees? I know those can add up with ten new lines."
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "Agent",
+      "text": "Typically there is a $35 activation fee per line. However, since you are setting up a new business account and ordering ten lines today, I can get those fees completely waived for you."
+    },
+    {
+      "timestamp": "05:58",
+      "speaker": "User",
+      "text": "Oh, that's fantastic. Waiving all ten activation fees would save us $350. I appreciate that."
+    },
+    {
+      "timestamp": "06:06",
+      "speaker": "Agent",
+      "text": "It's my pleasure. We value our new business partners. So, just to formally recap the order before we finalize it."
+    },
+    {
+      "timestamp": "06:15",
+      "speaker": "User",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "Agent",
+      "text": "We have ten CymbalTab Pro 10 devices at a one-time cost of $149.99 each, for a total hardware cost of $1,499.90 plus tax."
+    },
+    {
+      "timestamp": "06:30",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "06:32",
+      "speaker": "Agent",
+      "text": "For the monthly service, we have ten cellular lines at $20 each, plus one Cymbal Business Share 100GB data plan at $150, for a total monthly recurring charge of $350 plus taxes and fees."
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "User",
+      "text": "That's right."
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "Agent",
+      "text": "And we are waiving the $35 activation fee for all ten lines. Does all of that sound accurate to you?"
+    },
+    {
+      "timestamp": "07:02",
+      "speaker": "User",
+      "text": "Yes, it sounds perfect. Let's proceed with the order."
+    },
+    {
+      "timestamp": "07:07",
+      "speaker": "Agent",
+      "text": "Excellent. I will need to place you on another brief hold, this time for about 90 seconds, to process the order through our system and generate an order number. Is that okay?"
+    },
+    {
+      "timestamp": "07:18",
+      "speaker": "User",
+      "text": "Yes, that's fine."
+    },
+    {
+      "timestamp": "08:40",
+      "speaker": "Agent",
+      "text": "Thank you for holding, Sandra. I'm happy to report that the order is now confirmed and processed."
+    },
+    {
+      "timestamp": "08:47",
+      "speaker": "User",
+      "text": "Great! That was quick."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "Agent",
+      "text": "Your order confirmation number is BZ-774-0912. I'll also be sending a detailed confirmation to the email address we have on file for you, sandra.wright@telecom-personal.com. Is that still the best email?"
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "User",
+      "text": "Yes, that email is fine. BZ-774-0912. Got it."
+    },
+    {
+      "timestamp": "09:12",
+      "speaker": "Agent",
+      "text": "Perfect. Now, regarding the hardware. We will be shipping the ten tablets to the business address you provided: 4400 Industrial Park Drive."
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "User",
+      "text": "That's correct. What is the estimated shipping time?"
+    },
+    {
+      "timestamp": "09:27",
+      "speaker": "Agent",
+      "text": "You can expect the shipment to arrive via courier in approximately 3 to 5 business days. You'll receive a separate email with tracking information once it leaves our warehouse, which is usually within 24 hours."
+    },
+    {
+      "timestamp": "09:40",
+      "speaker": "User",
+      "text": "3 to 5 days, that works for us. Will the SIM cards be installed?"
+    },
+    {
+      "timestamp": "09:46",
+      "speaker": "Agent",
+      "text": "Yes, the Cymbal Telecom SIM cards will be pre-installed in each tablet. Once you receive them, you'll just need to power them on and follow the on-screen instructions to activate each line. It's a very straightforward process."
+    },
+    {
+      "timestamp": "10:00",
+      "speaker": "User",
+      "text": "Okay, simple activation. Good."
+    },
+    {
+      "timestamp": "10:03",
+      "speaker": "Agent",
+      "text": "The first invoice for the service will be generated at the start of the next billing cycle, and it will be pro-rated based on the activation date. The one-time hardware charge will appear on that first bill as well."
+    },
+    {
+      "timestamp": "10:17",
+      "speaker": "User",
+      "text": "Understood. That all makes sense."
+    },
+    {
+      "timestamp": "10:20",
+      "speaker": "Agent",
+      "text": "I've also made a note on the new business account to set up a new security PIN. An email will be sent to you with instructions on how to log into the Cymbal Business portal and set that up for future inquiries."
+    },
+    {
+      "timestamp": "10:33",
+      "speaker": "User",
+      "text": "Perfect, I'll look out for that email."
+    },
+    {
+      "timestamp": "10:36",
+      "speaker": "Agent",
+      "text": "Is there anything else I can help you with today, Sandra? Any questions about your personal account or this new business account?"
+    },
+    {
+      "timestamp": "10:44",
+      "speaker": "User",
+      "text": "No, I think that covers everything. You've been very helpful, Alex. Thank you for making that so easy."
+    },
+    {
+      "timestamp": "10:51",
+      "speaker": "Agent",
+      "text": "You are most welcome. It was my pleasure to assist you and to welcome Fieldforce Solutions to Cymbal Telecom. We look forward to being your connectivity partner."
+    },
+    {
+      "timestamp": "11:02",
+      "speaker": "User",
+      "text": "Great, thanks again."
+    },
+    {
+      "timestamp": "11:04",
+      "speaker": "Agent",
+      "text": "Thank you for your call. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "11:09",
+      "speaker": "User",
+      "text": "You too. Bye."
+    }
+  ]
+}

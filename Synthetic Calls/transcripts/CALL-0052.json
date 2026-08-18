@@ -1,0 +1,475 @@
+{
+  "metadata": {
+    "call_id": "CALL-0052",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-471-5411",
+    "email": "james.gonzalez@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 20,
+    "total_turns": 92
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "User",
+      "text": "Hi Sarah. I hope you can help me. I just got my new bill and it's completely wrong. It's for an absolutely insane amount of money."
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "Agent",
+      "text": "Oh dear, I'm very sorry to hear that. I can definitely look into your bill for you. To do that, I'll need to verify your account for security purposes."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "Could you please start by providing me with your Customer ID number?"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "User",
+      "text": "Yeah, sure. It's CUST-1032."
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "Agent",
+      "text": "Thank you. And for the final verification step, could you please provide me with the 4-digit security PIN for the account?"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "User",
+      "text": "It should be 8-7-6-5."
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "Agent",
+      "text": "Perfect, thank you, Mr. Gonzalez. I've successfully verified the account. Please give me just a moment to pull up your latest bill."
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "Agent",
+      "text": "Alright, I have the bill in front of me now. I can see your standard Fiber 300 plan charge for fifty-five dollars, but I also see a very large additional charge. The total amount due is... one thousand three hundred fifty-five dollars. Is that what you're seeing?"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "User",
+      "text": "Yes! That's it! How on earth is that possible? My bill has never been more than sixty bucks. This has to be a mistake."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "Agent",
+      "text": "I understand your concern. Looking at the line items here, the additional charge of one thousand three hundred dollars is listed under 'International Data Roaming'. Did you happen to travel outside the country recently?"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "User",
+      "text": "Well, yes, I was in Spain for a week for a family visit, but I was careful. I used the Wi-Fi at the hotel and my cousin's apartment. I barely used my phone data."
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "Agent",
+      "text": "I see. Sometimes phones can use data in the background even when you're not actively using them. Let me take a deeper look into the specific usage logs for your trip. This might take me two to three minutes to get the detailed report from the system. May I place you on a brief hold while I investigate?"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "User",
+      "text": "Fine, but please be quick. I need to get this sorted out. It's really stressing me out."
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "Agent",
+      "text": "I completely understand. I will be as quick as I can. One moment."
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "Agent",
+      "text": "Mr. Gonzalez? Thank you so much for your patience."
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "User",
+      "text": "I'm here. What did you find?"
+    },
+    {
+      "timestamp": "05:17",
+      "speaker": "Agent",
+      "text": "Okay, so I have the detailed report. It shows that your device connected to one of our partner networks in Spain and used cellular data on five separate days, starting on the 12th of last month and ending on the 16th."
+    },
+    {
+      "timestamp": "05:33",
+      "speaker": "User",
+      "text": "But what was using the data? I swear I wasn't streaming videos or anything like that."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "Agent",
+      "text": "It's often not one single thing. Modern smartphones have many background processes. Things like automatic app updates, cloud photo backups, email syncing, and even GPS services for other apps can use data without you realizing it."
+    },
+    {
+      "timestamp": "05:58",
+      "speaker": "User",
+      "text": "Even so, thirteen hundred dollars for that? That's more than the plane ticket cost!"
+    },
+    {
+      "timestamp": "06:06",
+      "speaker": "Agent",
+      "text": "I know it's a shock. The charges are based on our standard pay-per-use roaming rate, which is set by our international partners. In Spain, that rate is two dollars per megabyte of data used."
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "User",
+      "text": "Two dollars per megabyte? Are you serious? That's extortion."
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "Agent",
+      "text": "I understand your perspective, sir. Those are the standard international rates when a specific travel plan isn't active on the account."
+    },
+    {
+      "timestamp": "06:39",
+      "speaker": "User",
+      "text": "What travel plan? No one ever said anything to me about a travel plan."
+    },
+    {
+      "timestamp": "06:46",
+      "speaker": "Agent",
+      "text": "We offer Cymbal International Travel Passes. They're an optional add-on that you can purchase before you travel. For example, the pass for Europe gives you a full gigabyte of data for a flat fee of fifty dollars. It's significantly more cost-effective."
+    },
+    {
+      "timestamp": "07:05",
+      "speaker": "User",
+      "text": "Well, why wasn't I told about this? Why isn't that automatic? This feels like a trap."
+    },
+    {
+      "timestamp": "07:14",
+      "speaker": "Agent",
+      "text": "It's an opt-in service, as not all of our customers travel internationally. Our system shows that a welcome text was sent to your device when you first landed in Spain. That message outlines the pay-per-use rates and includes a link to purchase a pass right then and there."
+    },
+    {
+      "timestamp": "07:31",
+      "speaker": "User",
+      "text": "A text message? I might have gotten it, I don't know, I ignore most of those. You can't expect people to make major financial decisions based on a text they might not even see."
+    },
+    {
+      "timestamp": "07:45",
+      "speaker": "Agent",
+      "text": "I do understand the frustration, Mr. Gonzalez, and I am very sorry for how this has impacted you. Let me take a look at your account history. I want to see what we can do for you."
+    },
+    {
+      "timestamp": "08:00",
+      "speaker": "User",
+      "text": "You need to do something. I am not paying thirteen hundred dollars."
+    },
+    {
+      "timestamp": "08:06",
+      "speaker": "Agent",
+      "text": "Let me see. I can see you've been a valued Cymbal Telecom customer for over seven years, and your account is in excellent standing. You've never had a late payment."
+    },
+    {
+      "timestamp": "08:20",
+      "speaker": "User",
+      "text": "That's right. I've been a good customer."
+    },
+    {
+      "timestamp": "08:24",
+      "speaker": "Agent",
+      "text": "We certainly appreciate your loyalty. Because of your long history with us and because this seems to be a one-time issue, let me check our policy for goodwill credits. I may need to consult with my supervisor, so I might need to put you on another brief hold. Is that okay?"
+    },
+    {
+      "timestamp": "08:44",
+      "speaker": "User",
+      "text": "Yes, fine. Do what you need to do. Just find a solution."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "Agent",
+      "text": "I will do my very best. Please hold."
+    },
+    {
+      "timestamp": "11:32",
+      "speaker": "Agent",
+      "text": "Mr. Gonzalez? Thank you so much for holding. I appreciate your patience."
+    },
+    {
+      "timestamp": "11:37",
+      "speaker": "User",
+      "text": "Okay, what's the news?"
+    },
+    {
+      "timestamp": "11:40",
+      "speaker": "Agent",
+      "text": "I've spoken with my supervisor, and we've reviewed your account and the situation. Given your loyalty and the circumstances, we are prepared to help."
+    },
+    {
+      "timestamp": "11:51",
+      "speaker": "User",
+      "text": "Okay..."
+    },
+    {
+      "timestamp": "11:54",
+      "speaker": "Agent",
+      "text": "So, the full roaming charge is one thousand three hundred dollars. I know that's a difficult number to see. While the usage is valid and we are charged by our partner network, I have been authorized to apply a one-time goodwill credit to your account."
+    },
+    {
+      "timestamp": "12:14",
+      "speaker": "User",
+      "text": "A credit? How much of a credit?"
+    },
+    {
+      "timestamp": "12:18",
+      "speaker": "Agent",
+      "text": "I can apply a credit for nine hundred dollars."
+    },
+    {
+      "timestamp": "12:26",
+      "speaker": "User",
+      "text": "Nine hundred dollars... so... what does that leave me with?"
+    },
+    {
+      "timestamp": "12:33",
+      "speaker": "Agent",
+      "text": "That would mean you would only be responsible for the remaining four hundred dollars of the roaming charge, plus your regular fifty-five dollar plan fee."
+    },
+    {
+      "timestamp": "12:45",
+      "speaker": "User",
+      "text": "Four hundred dollars... That's still a lot of money for something I feel I shouldn't have been charged for in the first place."
+    },
+    {
+      "timestamp": "12:56",
+      "speaker": "Agent",
+      "text": "I completely understand that, sir. This credit of nine hundred dollars is the absolute maximum I am authorized to provide as a one-time exception to help with this unexpected charge."
+    },
+    {
+      "timestamp": "13:12",
+      "speaker": "User",
+      "text": "(Sighs) I just don't have an extra $400 lying around right now. Is there anything else you can do?"
+    },
+    {
+      "timestamp": "13:22",
+      "speaker": "Agent",
+      "text": "I can't reduce the amount further, but what we can do is make paying it more manageable. We could set up a payment arrangement to split that four hundred dollar balance over a few months, interest-free."
+    },
+    {
+      "timestamp": "13:38",
+      "speaker": "User",
+      "text": "A payment plan? How would that work?"
+    },
+    {
+      "timestamp": "13:43",
+      "speaker": "Agent",
+      "text": "We could, for example, split it over your next two billing cycles. That would be an additional two hundred dollars on your next two bills."
+    },
+    {
+      "timestamp": "13:55",
+      "speaker": "User",
+      "text": "That's still a bit steep. My bill would be over $250."
+    },
+    {
+      "timestamp": "14:02",
+      "speaker": "Agent",
+      "text": "I understand. How about we stretch it out further? We can do it over four months. That would be an additional one hundred dollars per month for the next four bills."
+    },
+    {
+      "timestamp": "14:18",
+      "speaker": "User",
+      "text": "So... my bill would be about $155 for four months, then back to normal?"
+    },
+    {
+      "timestamp": "14:26",
+      "speaker": "Agent",
+      "text": "Exactly. Your bill would be your normal $55 plan fee plus the $100 installment."
+    },
+    {
+      "timestamp": "14:34",
+      "speaker": "User",
+      "text": "(Pauses to think) Okay... I think I can manage that. It's not great, but I can manage it."
+    },
+    {
+      "timestamp": "14:47",
+      "speaker": "Agent",
+      "text": "I'm glad we could find a workable solution. I truly am sorry for the initial stress this caused. I will go ahead and apply that $900 credit to your bill right now."
+    },
+    {
+      "timestamp": "15:00",
+      "speaker": "User",
+      "text": "Okay, thank you."
+    },
+    {
+      "timestamp": "15:03",
+      "speaker": "Agent",
+      "text": "The credit has been applied. For your records, the confirmation number for this credit is C-R-D-7-7-2-1-5. That's C as in Charlie, R as in Romeo, D as in Delta, 7-7-2-1-5."
+    },
+    {
+      "timestamp": "15:25",
+      "speaker": "User",
+      "text": "Okay... CRD77215. I've written it down."
+    },
+    {
+      "timestamp": "15:32",
+      "speaker": "Agent",
+      "text": "Perfect. And now, I am setting up the four-month payment arrangement for the remaining $400 balance. This is now active in our system."
+    },
+    {
+      "timestamp": "15:45",
+      "speaker": "User",
+      "text": "So I'll see the first $100 charge on my next bill?"
+    },
+    {
+      "timestamp": "15:50",
+      "speaker": "Agent",
+      "text": "Yes, that's correct. You'll see a line item for 'Payment Arrangement Installment 1 of 4'. Does that all sound correct to you?"
+    },
+    {
+      "timestamp": "16:02",
+      "speaker": "User",
+      "text": "Yes, it does. Thank you for sorting that out."
+    },
+    {
+      "timestamp": "16:08",
+      "speaker": "Agent",
+      "text": "Of course. And to make sure this never happens again, would you like me to quickly walk you through how to disable data roaming on your phone?"
+    },
+    {
+      "timestamp": "16:19",
+      "speaker": "User",
+      "text": "Yes, please! I never want to see a bill like this again."
+    },
+    {
+      "timestamp": "16:25",
+      "speaker": "Agent",
+      "text": "Completely understandable. Do you use an iPhone or an Android device?"
+    },
+    {
+      "timestamp": "16:32",
+      "speaker": "User",
+      "text": "I have an iPhone."
+    },
+    {
+      "timestamp": "16:35",
+      "speaker": "Agent",
+      "text": "Okay, perfect. It's very simple. If you can grab your phone, I can guide you."
+    },
+    {
+      "timestamp": "16:42",
+      "speaker": "User",
+      "text": "I have it here."
+    },
+    {
+      "timestamp": "16:44",
+      "speaker": "Agent",
+      "text": "Great. Please go into your 'Settings' app."
+    },
+    {
+      "timestamp": "16:50",
+      "speaker": "User",
+      "text": "Okay, in Settings."
+    },
+    {
+      "timestamp": "16:53",
+      "speaker": "Agent",
+      "text": "Now, tap on 'Cellular'."
+    },
+    {
+      "timestamp": "16:58",
+      "speaker": "User",
+      "text": "Cellular, got it."
+    },
+    {
+      "timestamp": "17:00",
+      "speaker": "Agent",
+      "text": "Then tap on 'Cellular Data Options'."
+    },
+    {
+      "timestamp": "17:06",
+      "speaker": "User",
+      "text": "Okay..."
+    },
+    {
+      "timestamp": "17:08",
+      "speaker": "Agent",
+      "text": "You should see a switch right at the top that says 'Data Roaming'. Is that switch currently green, or on?"
+    },
+    {
+      "timestamp": "17:16",
+      "speaker": "User",
+      "text": "Yes, it is. It's green."
+    },
+    {
+      "timestamp": "17:19",
+      "speaker": "Agent",
+      "text": "Okay, that's what we need to change. Please tap that switch to turn it off. It should turn grey."
+    },
+    {
+      "timestamp": "17:27",
+      "speaker": "User",
+      "text": "Done. It's off now."
+    },
+    {
+      "timestamp": "17:30",
+      "speaker": "Agent",
+      "text": "Excellent. Now, your phone will not be able to use data on a foreign network. It will be restricted to making calls, sending texts, and using Wi-Fi. You can turn it back on if you ever purchase a travel pass."
+    },
+    {
+      "timestamp": "17:46",
+      "speaker": "User",
+      "text": "That's good to know. Thank you."
+    },
+    {
+      "timestamp": "17:50",
+      "speaker": "Agent",
+      "text": "You're welcome. And I do highly recommend checking out the Cymbal International Travel Passes on our website or through the Cymbal Telecom app before your next trip. It's the best way to stay connected affordably."
+    },
+    {
+      "timestamp": "18:05",
+      "speaker": "User",
+      "text": "I will. Lesson learned, I guess. The hard way."
+    },
+    {
+      "timestamp": "18:11",
+      "speaker": "Agent",
+      "text": "Well, I am glad I could help make it a bit less painful. I've confirmed the credit is on your account, and the payment plan is all set up."
+    },
+    {
+      "timestamp": "18:22",
+      "speaker": "User",
+      "text": "I appreciate your help, Sarah. I know I was a bit heated at the beginning."
+    },
+    {
+      "timestamp": "18:28",
+      "speaker": "Agent",
+      "text": "Not at all, Mr. Gonzalez. It was a completely understandable reaction. I'm just happy we found a resolution. Was there anything else at all that I could help you with today?"
+    },
+    {
+      "timestamp": "18:40",
+      "speaker": "User",
+      "text": "No, that's everything. You've answered all my questions."
+    },
+    {
+      "timestamp": "18:46",
+      "speaker": "Agent",
+      "text": "Alright then. Well, thank you for calling Cymbal Telecom. We value your business and hope you have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "18:56",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "18:58",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

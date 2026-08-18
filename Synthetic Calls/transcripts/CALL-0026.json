@@ -1,0 +1,595 @@
+{
+  "metadata": {
+    "call_id": "CALL-0026",
+    "customer_id": "CUST-1035",
+    "customer_name": "Thomas Taylor",
+    "customer_type": "Consumer",
+    "phone": "555-810-4930",
+    "email": "thomas.taylor@telecom-personal.com",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "duration_minutes": 20,
+    "total_turns": 116
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is David. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi David. I'm having a lot of trouble with my cell service. My calls keep dropping."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "I'm very sorry to hear that. I know how frustrating that can be. I can definitely look into that for you. To get started, can I get your full name, please?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Thomas Taylor."
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Taylor. And can you confirm the phone number you're calling about?"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "User",
+      "text": "Yes, it's 555-810-4930."
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "Agent",
+      "text": "Great. I'm pulling up your account now. For security purposes, to access the account details, could you please provide me with your four-digit security PIN?"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "User",
+      "text": "Uh, yeah, hold on. I think it's... 5141."
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "Agent",
+      "text": "Perfect, that's correct. Thank you for verifying your information, Mr. Taylor."
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "Agent",
+      "text": "Okay, I see you have our Triple Play Bundle with Fiber internet. Now, you mentioned you're experiencing dropped calls. Can you tell me a little more about when and where this happens?"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "User",
+      "text": "It's mainly in my house. Specifically, I have a home office set up in my basement, and almost every single call I make or receive down there drops within a minute or two. It's impossible to get any work done."
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "Agent",
+      "text": "I understand completely. That must be incredibly disruptive, especially for a home office. Is this a new problem, or has it been happening for a while?"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "User",
+      "text": "It's always been a bit spotty in the basement, but it seems to have gotten much worse over the last couple of weeks. I don't get it. I have your internet service too, and the Wi-Fi is great down there."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "Agent",
+      "text": "That's a very helpful piece of information. And just to be thorough, does this happen anywhere else in your house, or primarily just the basement?"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "User",
+      "text": "Mostly the basement. Upstairs is... okay. Sometimes it cuts out for a second near the kitchen, but it's the basement office that's the real problem."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "Agent",
+      "text": "Okay. Thank you for that detail. What I'd like to do first is check the signal strength and tower performance in your area from my end. This will just take me about 30 to 40 seconds. Is it okay if I put you on a brief hold?"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "User",
+      "text": "Yeah, that's fine."
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "Agent",
+      "text": "Thank you. I'll be right back."
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Taylor."
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "User",
+      "text": "No problem. Find anything?"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "Agent",
+      "text": "Yes. Looking at our network map, the cellular tower that services your address is operating perfectly, with no reported issues. The signal strength in your neighborhood is generally strong."
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "User",
+      "text": "So... why are my calls dropping?"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "Agent",
+      "text": "That's a great question. Often, even with a strong outdoor signal, materials in a home's construction\u2014like concrete, rebar, or certain types of insulation\u2014can weaken or block the signal. This is especially common in basements, which are below ground level. It's a phenomenon called signal attenuation."
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "User",
+      "text": "So I'm just stuck with no service in my office?"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "Agent",
+      "text": "Not at all. We have a great solution for this exact situation. You mentioned your Cymbal Wi-Fi signal is strong in the basement, correct?"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "User",
+      "text": "Yeah, the Wi-Fi is perfect. I get full bars on my laptop and phone."
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "Agent",
+      "text": "Excellent. In that case, we can enable a feature on your phone called Wi-Fi Calling. It allows your phone to make and receive calls and texts over your Wi-Fi network instead of the cellular network whenever your cell signal is weak."
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "User",
+      "text": "Oh. I think I've heard of that. Does that cost extra?"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "Agent",
+      "text": "That's a very common question. No, there is no extra charge for it. It's a standard feature included with your Cymbal Telecom mobile plan. Let me just double-check your account to ensure it's enabled on our end."
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "Agent",
+      "text": "Just one moment... yes, I can confirm the feature is available and ready to be activated on your line. We just need to turn it on within your phone's settings."
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "User",
+      "text": "Alright. How do we do that?"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "Agent",
+      "text": "I can walk you through it right now. What kind of phone do you have? Is it an iPhone or an Android?"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "User",
+      "text": "It's an iPhone. A 13, I think."
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "Agent",
+      "text": "Perfect. iPhones make it very straightforward. Are you able to go into your phone's settings while we're on this call?"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "User",
+      "text": "Yeah, I can do that. Okay, I'm on the main Settings screen now. I see Airplane Mode, Wi-Fi, Bluetooth..."
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "Agent",
+      "text": "Great. Please scroll down a little bit and tap on 'Phone'."
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "User",
+      "text": "Okay, tapped 'Phone'."
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "Excellent. In that menu, you should see an option that says 'Wi-Fi Calling'. Do you see it?"
+    },
+    {
+      "timestamp": "05:08",
+      "speaker": "User",
+      "text": "Let's see... yep, I see it. It says 'Off' next to it."
+    },
+    {
+      "timestamp": "05:13",
+      "speaker": "Agent",
+      "text": "That's what we want to change. Please tap on 'Wi-Fi Calling'."
+    },
+    {
+      "timestamp": "05:18",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "05:20",
+      "speaker": "Agent",
+      "text": "Now you should see a toggle switch at the top that says 'Wi-Fi Calling on This iPhone'. Please tap that switch to turn it on."
+    },
+    {
+      "timestamp": "05:28",
+      "speaker": "User",
+      "text": "Alright, I tapped it. A pop-up just appeared. It says 'Enable Wi-Fi Calling?'"
+    },
+    {
+      "timestamp": "05:35",
+      "speaker": "Agent",
+      "text": "Yes, go ahead and tap the 'Enable' button."
+    },
+    {
+      "timestamp": "05:39",
+      "speaker": "User",
+      "text": "Okay... now it's loading a new screen. 'Emergency Address'. It wants me to confirm my address for 911 calls."
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "Agent",
+      "text": "Yes, this is a very important step. Because you're using your internet connection, 911 services need to know your physical location in case of an emergency. Is the address shown on the screen your correct home address?"
+    },
+    {
+      "timestamp": "06:00",
+      "speaker": "User",
+      "text": "Yes, it is. It looks correct."
+    },
+    {
+      "timestamp": "06:03",
+      "speaker": "Agent",
+      "text": "Great. Please go ahead and confirm that address."
+    },
+    {
+      "timestamp": "06:07",
+      "speaker": "User",
+      "text": "Okay, I hit 'Confirm Address'. It says 'Wi-Fi Calling is now on'."
+    },
+    {
+      "timestamp": "06:14",
+      "speaker": "Agent",
+      "text": "Fantastic. That's exactly what we wanted to see. Now, for the final confirmation, please look at the very top left corner of your iPhone's screen, where the carrier name is usually displayed."
+    },
+    {
+      "timestamp": "06:25",
+      "speaker": "User",
+      "text": "Okay, I'm looking..."
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "Agent",
+      "text": "Does it still say 'Cymbal', or has it changed?"
+    },
+    {
+      "timestamp": "06:33",
+      "speaker": "User",
+      "text": "Whoa. It now says 'Cymbal Wi-Fi'. I've never seen that before."
+    },
+    {
+      "timestamp": "06:39",
+      "speaker": "Agent",
+      "text": "That's perfect. That's the visual confirmation that your phone is now routing calls through your Wi-Fi network. This should completely solve the issue of dropped calls in your basement office."
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "User",
+      "text": "Really? That's it? That seems... too easy."
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "Agent",
+      "text": "It's a powerful feature, and often the simplest solution is the best one. Now, I want to be 100% certain this has resolved your problem. The best way to test it is to try a call."
+    },
+    {
+      "timestamp": "07:06",
+      "speaker": "User",
+      "text": "Okay, what do you want me to do?"
+    },
+    {
+      "timestamp": "07:09",
+      "speaker": "Agent",
+      "text": "In a moment, I'm going to ask you to hang up this call. I will then immediately call you right back on this same number. Since you're in your basement, if the call connects and you can hear me clearly, it will be proof that Wi-Fi Calling is working as it should."
+    },
+    {
+      "timestamp": "07:23",
+      "speaker": "User",
+      "text": "Okay, that makes sense. We hang up, you call me back."
+    },
+    {
+      "timestamp": "07:27",
+      "speaker": "Agent",
+      "text": "Exactly. Before we do that, do you have any other questions for me about this or anything else with your account?"
+    },
+    {
+      "timestamp": "07:34",
+      "speaker": "User",
+      "text": "No, not right now. Let's just see if this works first."
+    },
+    {
+      "timestamp": "07:38",
+      "speaker": "Agent",
+      "text": "Sounds like a plan. I will be calling you back in approximately 10 seconds after we disconnect. Ready?"
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "User",
+      "text": "Ready. Thanks."
+    },
+    {
+      "timestamp": "07:46",
+      "speaker": "Agent",
+      "text": "You're welcome. Talk to you in a moment."
+    },
+    {
+      "timestamp": "08:02",
+      "speaker": "Agent",
+      "text": "Hello, Mr. Taylor, this is David from Cymbal Telecom calling you back. How is the call quality now?"
+    },
+    {
+      "timestamp": "08:09",
+      "speaker": "User",
+      "text": "Wow. It's... it's perfect. It's crystal clear. I can't believe it."
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "Agent",
+      "text": "I am so glad to hear that! This confirms that your phone is now using your Wi-Fi for the call, bypassing the weak cellular signal in the basement."
+    },
+    {
+      "timestamp": "08:24",
+      "speaker": "User",
+      "text": "This is a game changer. I've been struggling with this for weeks. Why didn't I know about this?"
+    },
+    {
+      "timestamp": "08:31",
+      "speaker": "Agent",
+      "text": "It's one of those features that you don't know you need until you do. We try to message it, but it's easy to miss. I'm just happy we were able to get it working for you today."
+    },
+    {
+      "timestamp": "08:40",
+      "speaker": "User",
+      "text": "So, just to be clear, anytime I'm at home on my Wi-Fi, my phone will use this automatically?"
+    },
+    {
+      "timestamp": "08:47",
+      "speaker": "Agent",
+      "text": "Yes, that's correct. Your phone is smart enough to know when to use it. If you have a weak cellular signal but a strong Wi-Fi connection, it will automatically switch to Wi-Fi Calling. When you leave the house and your Wi-Fi, it will seamlessly switch back to the cellular network."
+    },
+    {
+      "timestamp": "09:02",
+      "speaker": "User",
+      "text": "And it works for incoming calls too? People can call me and it will just work?"
+    },
+    {
+      "timestamp": "09:07",
+      "speaker": "Agent",
+      "text": "Absolutely. It works for both incoming and outgoing calls, as well as text messages."
+    },
+    {
+      "timestamp": "09:14",
+      "speaker": "User",
+      "text": "That's fantastic. David, you've saved my workday. Thank you."
+    },
+    {
+      "timestamp": "09:20",
+      "speaker": "Agent",
+      "text": "It is my absolute pleasure, Mr. Taylor. I'm really glad we could find a simple and effective solution for you."
+    },
+    {
+      "timestamp": "09:28",
+      "speaker": "User",
+      "text": "So is there anything else I need to do? Or is that it?"
+    },
+    {
+      "timestamp": "09:32",
+      "speaker": "Agent",
+      "text": "That's it. You are all set. The setting will remain on unless you manually turn it off in the future."
+    },
+    {
+      "timestamp": "09:39",
+      "speaker": "User",
+      "text": "I won't be doing that. This is great."
+    },
+    {
+      "timestamp": "09:42",
+      "speaker": "Agent",
+      "text": "I'm happy to hear it. I've also added a note to your account detailing the issue and the resolution by enabling Wi-Fi Calling, so if you ever call back, the next agent will know exactly what was done."
+    },
+    {
+      "timestamp": "09:55",
+      "speaker": "User",
+      "text": "Excellent. Thank you for being so thorough."
+    },
+    {
+      "timestamp": "09:58",
+      "speaker": "Agent",
+      "text": "Of course, it's part of our commitment to service at Cymbal Telecom."
+    },
+    {
+      "timestamp": "10:04",
+      "speaker": "User",
+      "text": "I have one more quick question, if you don't mind."
+    },
+    {
+      "timestamp": "10:07",
+      "speaker": "Agent",
+      "text": "Not at all, I'm here to help. What's on your mind?"
+    },
+    {
+      "timestamp": "10:11",
+      "speaker": "User",
+      "text": "Does this work on other Wi-Fi networks? Like if I'm at a coffee shop or the airport?"
+    },
+    {
+      "timestamp": "10:17",
+      "speaker": "Agent",
+      "text": "That is an excellent question. Yes, it does. As long as you are connected to a stable Wi-Fi network, anywhere in the world, Wi-Fi Calling can work. It's a great way to avoid roaming charges when you're traveling internationally, too."
+    },
+    {
+      "timestamp": "10:30",
+      "speaker": "User",
+      "text": "Wow, okay. I did not know that. That's a really good tip."
+    },
+    {
+      "timestamp": "10:35",
+      "speaker": "Agent",
+      "text": "It's a very useful feature to keep in mind for travel. Just remember that some public Wi-Fi networks, like at hotels, may have firewalls that could block it, but generally, it works very well."
+    },
+    {
+      "timestamp": "10:46",
+      "speaker": "User",
+      "text": "Good to know. I'll keep that in mind."
+    },
+    {
+      "timestamp": "10:49",
+      "speaker": "Agent",
+      "text": "Was there anything else I could assist you with today, Mr. Taylor? Perhaps any questions about your bill or other services?"
+    },
+    {
+      "timestamp": "10:57",
+      "speaker": "User",
+      "text": "No, I think that's all. You've solved my main problem, and that's all I was hoping for today."
+    },
+    {
+      "timestamp": "11:03",
+      "speaker": "Agent",
+      "text": "Wonderful. Well, I'm very happy we could get this sorted out for you. I'll let you get back to your day and enjoy your crystal-clear calls."
+    },
+    {
+      "timestamp": "11:12",
+      "speaker": "User",
+      "text": "Thanks again, David. I really appreciate your help."
+    },
+    {
+      "timestamp": "11:16",
+      "speaker": "Agent",
+      "text": "You are most welcome. Thank you for being a valued Cymbal Telecom customer, and have a great rest of your day."
+    },
+    {
+      "timestamp": "11:23",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "11:25",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "11:45",
+      "speaker": "Agent",
+      "text": "Just making some final notes on the account... Let's add detail on the troubleshooting steps."
+    },
+    {
+      "timestamp": "12:10",
+      "speaker": "Agent",
+      "text": "Confirmed customer location and signal attenuation in basement. Explained Wi-Fi calling."
+    },
+    {
+      "timestamp": "12:35",
+      "speaker": "Agent",
+      "text": "Guided customer through enabling Wi-Fi calling on iPhone 13."
+    },
+    {
+      "timestamp": "13:00",
+      "speaker": "Agent",
+      "text": "Confirmed Emergency 911 address update."
+    },
+    {
+      "timestamp": "13:30",
+      "speaker": "Agent",
+      "text": "Verified successful activation by checking carrier string 'Cymbal Wi-Fi'."
+    },
+    {
+      "timestamp": "14:05",
+      "speaker": "Agent",
+      "text": "Performed successful test call to customer's device while in the problem area."
+    },
+    {
+      "timestamp": "14:40",
+      "speaker": "Agent",
+      "text": "Customer confirmed clear call quality and expressed satisfaction with the resolution."
+    },
+    {
+      "timestamp": "15:10",
+      "speaker": "Agent",
+      "text": "Also provided additional information on using Wi-Fi calling on other networks and for international travel."
+    },
+    {
+      "timestamp": "15:45",
+      "speaker": "Agent",
+      "text": "Customer had no further questions."
+    },
+    {
+      "timestamp": "16:15",
+      "speaker": "Agent",
+      "text": "Account notes are complete. Setting resolution code to 'Technical Support > Mobile > Wi-Fi Calling Enabled'."
+    },
+    {
+      "timestamp": "16:50",
+      "speaker": "Agent",
+      "text": "Call disposition finalized."
+    },
+    {
+      "timestamp": "17:10",
+      "speaker": "Agent",
+      "text": "Okay, ready for the next call."
+    },
+    {
+      "timestamp": "17:30",
+      "speaker": "Agent",
+      "text": "Let's review the quality checklist for that last interaction."
+    },
+    {
+      "timestamp": "17:55",
+      "speaker": "Agent",
+      "text": "Greeting was standard. Verification was correct. Empathy was shown."
+    },
+    {
+      "timestamp": "18:20",
+      "speaker": "Agent",
+      "text": "Troubleshooting steps were logical and clearly communicated."
+    },
+    {
+      "timestamp": "18:45",
+      "speaker": "Agent",
+      "text": "Resolution was confirmed with a test, which is key."
+    },
+    {
+      "timestamp": "19:10",
+      "speaker": "Agent",
+      "text": "Offered further assistance and provided a proper closing."
+    },
+    {
+      "timestamp": "19:35",
+      "speaker": "Agent",
+      "text": "Yes, I believe that meets all the quality standards."
+    },
+    {
+      "timestamp": "19:55",
+      "speaker": "Agent",
+      "text": "Time to mark myself as available."
+    }
+  ]
+}

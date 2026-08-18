@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "call_id": "CALL-0087",
+    "customer_id": "CUST-2006",
+    "customer_name": "Beacon Consulting",
+    "customer_type": "Corporate",
+    "phone": "800-811-3633",
+    "email": "maria.rodriguez@beaconconsulting.com",
+    "services": "Enterprise SIP Trunking - 30 Channels ($350/mo)",
+    "duration_minutes": 16,
+    "total_turns": 107
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Enterprise Support. My name is David. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi David. I'm calling because I'm locked out of our online account portal. I'm trying to review our last invoice."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. To access the account, I'll need to verify your identity. Could you please provide the Customer ID for the account?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Yes, of course. It's CUST-2006."
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, could you please provide the 6-digit security PIN for the account?"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "User",
+      "text": "Ah, well that's the problem. I don't know it. I've tried a few that I thought it might be, and now the portal says the account is locked for too many failed attempts."
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "Agent",
+      "text": "I understand completely. That security feature is there to protect your account, but I know it can be frustrating when you get locked out. Not a problem, I have an alternative verification process we can use."
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "User",
+      "text": "Okay, great. What do you need?"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "Agent",
+      "text": "I just need to ask a few more questions to confirm you're an authorized user. Can you start by confirming the full business name registered on the account?"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "User",
+      "text": "Yes, it's Beacon Consulting."
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "Agent",
+      "text": "Perfect. And can you spell out the last name of the primary contact on the account, and provide their email address?"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "User",
+      "text": "That would be me. The name is Maria Rodriguez. R-O-D-R-I-G-U-E-Z. The email is maria.rodriguez@beaconconsulting.com."
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "Agent",
+      "text": "Thank you, Maria. I have that information here. Now, can you confirm the service address for your Cymbal Telecom services?"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "User",
+      "text": "Sure, it's 4550 Tech Parkway, Suite 300, Atlanta, Georgia, 30339."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "Agent",
+      "text": "Excellent, that matches. Just a couple more questions for you. What specific type of service do you have with Cymbal Telecom?"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "User",
+      "text": "We have our main business phone lines through you. I believe it's called SIP Trunking."
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "Agent",
+      "text": "Yes, that's correct. I show an Enterprise SIP Trunking plan. And the final verification question: can you provide the last four digits of the payment method on file for the account?"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "User",
+      "text": "One moment, let me pull that up... I have it. It should be a corporate Visa ending in 8088."
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "Agent",
+      "text": "That is exactly what I have on my end. Thank you for your patience with those security questions, Maria. I've now verified the account and I can help you reset that PIN."
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "User",
+      "text": "Wonderful. Thank you. So what's the next step?"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "Agent",
+      "text": "For your security, I can't see your existing PIN or tell it to you. What I can do is trigger a secure PIN reset. This will send an email with a temporary access code to the registered email address, which is the one you gave me earlier."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Okay, the maria.rodriguez@beaconconsulting.com email? Yes, I have access to that right now."
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "Agent",
+      "text": "Perfect. I'm also going to unlock the account from our end. Please give me about 30 seconds to process this."
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "User",
+      "text": "No problem, take your time."
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "Agent",
+      "text": "Okay, thank you for holding. The account is now unlocked, and I have just sent the PIN reset email. It will be from a 'no-reply@cymbaltelecom.com' address. Can you please check your inbox for it?"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "Yes, I'm looking now... I'm refreshing my inbox... I don't see it yet."
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "Agent",
+      "text": "Sometimes it can take a minute or two. Would you mind also checking your spam or junk folder, just in case it was filtered incorrectly?"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "User",
+      "text": "Good point. Let me check... Hmm, nothing in spam either."
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "Agent",
+      "text": "Okay. Let's give it one more minute. The system shows it was sent successfully from our side at..."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "User",
+      "text": "Oh, wait! There it is. It just came through. Sorry about that."
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "Agent",
+      "text": "Excellent! No apology necessary, these things can have a slight delay. Glad you received it."
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "User",
+      "text": "Okay, I've opened it. It has a temporary code."
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "Agent",
+      "text": "Great. Now, if you would, please go to the Cymbal Telecom account portal login page. Instead of your password, you will see a link that says 'Use a temporary code' or 'Forgot PIN'."
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "User",
+      "text": "Okay, I'm on the login page... yes, I see 'Reset your PIN or use a temporary code'. I'll click that."
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "Agent",
+      "text": "Perfect. Now it should prompt you to enter your Customer ID and the temporary code from the email."
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "User",
+      "text": "Yes, it is. I'm typing in CUST-2006... and now the code... one moment..."
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "Agent",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "User",
+      "text": "Okay, code entered. It's now asking me to create a new 6-digit security PIN."
+    },
+    {
+      "timestamp": "05:06",
+      "speaker": "Agent",
+      "text": "That's exactly what we want to see. Please go ahead and choose a new 6-digit PIN that you'll remember. It will ask you to enter it twice to confirm."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "User",
+      "text": "Okay... I'm thinking of one... Does it have to be just numbers?"
+    },
+    {
+      "timestamp": "05:20",
+      "speaker": "Agent",
+      "text": "Yes, it must be 6 numeric digits. No letters or special characters, please."
+    },
+    {
+      "timestamp": "05:26",
+      "speaker": "User",
+      "text": "Got it. Okay, I've entered it... and confirmed it. Clicking 'Submit'."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "Agent",
+      "text": "And what do you see now?"
+    },
+    {
+      "timestamp": "05:44",
+      "speaker": "User",
+      "text": "It says 'Your PIN has been successfully updated'. And... it's logged me into the main account dashboard. I see our company name at the top."
+    },
+    {
+      "timestamp": "05:53",
+      "speaker": "Agent",
+      "text": "Fantastic. That means the process was successful. You should now be able to access everything you need, including your invoices."
+    },
+    {
+      "timestamp": "06:00",
+      "speaker": "User",
+      "text": "Yes, I see the 'Billing & Payments' section. Let me just click it to be sure."
+    },
+    {
+      "timestamp": "06:06",
+      "speaker": "Agent",
+      "text": "Of course. I'll stay on the line to make sure."
+    },
+    {
+      "timestamp": "06:18",
+      "speaker": "User",
+      "text": "It's loading... Yes, I see a list of invoices. I can see the one for last month. This is perfect."
+    },
+    {
+      "timestamp": "06:25",
+      "speaker": "Agent",
+      "text": "I'm very glad we could get that sorted out for you, Maria."
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "User",
+      "text": "Thank you so much for your help, David. I was worried this was going to be a huge ordeal."
+    },
+    {
+      "timestamp": "06:35",
+      "speaker": "Agent",
+      "text": "Not at all. We try to make it as secure and straightforward as possible. Is there anything else I can assist you with today, now that you have access to the account?"
+    },
+    {
+      "timestamp": "06:44",
+      "speaker": "User",
+      "text": "Actually, since I have you... I see a line item here for 'State Regulatory Fee'. Can you tell me what that is exactly?"
+    },
+    {
+      "timestamp": "06:53",
+      "speaker": "Agent",
+      "text": "Certainly. Let me pull up a detailed view of your last invoice. One moment."
+    },
+    {
+      "timestamp": "07:10",
+      "speaker": "Agent",
+      "text": "Okay, I see the charge you're referring to. The State Regulatory Fee is a charge that Cymbal Telecom is required by the government to collect to fund various state-level telecommunication programs and initiatives. It's not a tax, but rather a mandated recovery fee."
+    },
+    {
+      "timestamp": "07:25",
+      "speaker": "User",
+      "text": "So it's not a fee from you, but a fee you're passing on from the state?"
+    },
+    {
+      "timestamp": "07:30",
+      "speaker": "Agent",
+      "text": "That's a perfect way to put it, yes. It's calculated based on a percentage of your interstate and international calling charges, as mandated by state law."
+    },
+    {
+      "timestamp": "07:39",
+      "speaker": "User",
+      "text": "I see. Okay, that makes sense. I just wanted to be sure it wasn't some new service charge I wasn't aware of."
+    },
+    {
+      "timestamp": "07:46",
+      "speaker": "Agent",
+      "text": "A very reasonable question. We believe in full transparency on our billing. Does that explanation clarify the charge for you?"
+    },
+    {
+      "timestamp": "07:54",
+      "speaker": "User",
+      "text": "Yes, it does. Thank you for clearing that up."
+    },
+    {
+      "timestamp": "07:57",
+      "speaker": "Agent",
+      "text": "You're most welcome."
+    },
+    {
+      "timestamp": "08:00",
+      "speaker": "User",
+      "text": "And while I'm looking at this... I see our plan is the Enterprise SIP Trunking with 30 channels."
+    },
+    {
+      "timestamp": "08:07",
+      "speaker": "Agent",
+      "text": "Yes, that is correct. For $350 per month."
+    },
+    {
+      "timestamp": "08:11",
+      "speaker": "User",
+      "text": "We are considering expanding and might need more channels later this year. What's the process for that?"
+    },
+    {
+      "timestamp": "08:19",
+      "speaker": "Agent",
+      "text": "That's a great question. It's actually a very simple process. You can either request it through the portal under 'Manage Services', or you can call us directly. We can add channels in blocks of 10."
+    },
+    {
+      "timestamp": "08:30",
+      "speaker": "User",
+      "text": "And is it an instant change, or does it take time to provision?"
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "Agent",
+      "text": "For a service like yours, the change is typically provisioned within 24 hours. The cost would be pro-rated for the remainder of your current billing cycle."
+    },
+    {
+      "timestamp": "08:44",
+      "speaker": "User",
+      "text": "Okay, pro-rated. That's good to know. So if we added 10 channels halfway through the month, we'd only pay for half a month for those new channels."
+    },
+    {
+      "timestamp": "08:52",
+      "speaker": "Agent",
+      "text": "Exactly right. Your next invoice would clearly show the pro-rated charge for the new channels and then the full updated monthly rate would apply on all subsequent bills."
+    },
+    {
+      "timestamp": "09:01",
+      "speaker": "User",
+      "text": "Excellent. That's very helpful for our planning. Thank you."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "Agent",
+      "text": "My pleasure. It's always good to plan ahead. Was there anything else on your mind today?"
+    },
+    {
+      "timestamp": "09:12",
+      "speaker": "User",
+      "text": "Hmm, let me think... No, I believe that covers everything. The main thing was the PIN, and you've solved that and answered my other questions as well."
+    },
+    {
+      "timestamp": "09:22",
+      "speaker": "Agent",
+      "text": "Wonderful. I'm glad I could provide a complete solution for you today."
+    },
+    {
+      "timestamp": "09:27",
+      "speaker": "User",
+      "text": "I really appreciate your patience walking me through all of that."
+    },
+    {
+      "timestamp": "09:31",
+      "speaker": "Agent",
+      "text": "It's my job to help, and I'm happy to do it. Before we end the call, I'd like to provide you with a reference number for our conversation today. It is 7531198."
+    },
+    {
+      "timestamp": "09:43",
+      "speaker": "User",
+      "text": "Okay, 7531198. Got it. Thank you."
+    },
+    {
+      "timestamp": "09:48",
+      "speaker": "Agent",
+      "text": "Also, I've added notes to your account detailing the PIN reset and the questions we discussed, so any future agent will be up to speed."
+    },
+    {
+      "timestamp": "09:56",
+      "speaker": "User",
+      "text": "That's very thorough. I appreciate that."
+    },
+    {
+      "timestamp": "10:00",
+      "speaker": "Agent",
+      "text": "We aim to provide the best service possible. Is there anything at all, big or small, that I can help with before we disconnect?"
+    },
+    {
+      "timestamp": "10:08",
+      "speaker": "User",
+      "text": "No, that's everything for me. You've been extremely helpful."
+    },
+    {
+      "timestamp": "10:12",
+      "speaker": "Agent",
+      "text": "Then I will let you get back to your day. Thank you for being a valued Cymbal Telecom customer, Maria."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "Thank you, David. Have a great day."
+    },
+    {
+      "timestamp": "10:21",
+      "speaker": "Agent",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "10:23",
+      "speaker": "User",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "10:25",
+      "speaker": "Agent",
+      "text": "Hello? Maria, are you still there?"
+    },
+    {
+      "timestamp": "10:28",
+      "speaker": "User",
+      "text": "Oh! Yes, sorry David, I'm here. I thought of one last thing just as I was about to hang up. So sorry."
+    },
+    {
+      "timestamp": "10:35",
+      "speaker": "Agent",
+      "text": "Not a problem at all! I'm still here. What's on your mind?"
+    },
+    {
+      "timestamp": "10:40",
+      "speaker": "User",
+      "text": "It's about the security PIN. Is that the same PIN we would need for, say, voicemail access or other features?"
+    },
+    {
+      "timestamp": "10:48",
+      "speaker": "Agent",
+      "text": "That is an excellent question. The account security PIN you just reset is for verifying your identity when you call us or for logging into the main account portal. It is separate from individual voicemail box PINs."
+    },
+    {
+      "timestamp": "11:00",
+      "speaker": "User",
+      "text": "Okay, that's what I thought. So if one of our employees forgets their voicemail PIN, this new account PIN won't help them?"
+    },
+    {
+      "timestamp": "11:08",
+      "speaker": "Agent",
+      "text": "That's correct. Each individual phone extension or voicemail box has its own PIN. As the account administrator, you can actually reset those individual PINs from within the account portal you're logged into now."
+    },
+    {
+      "timestamp": "11:20",
+      "speaker": "User",
+      "text": "Oh, I can do that myself? Where would I find that?"
+    },
+    {
+      "timestamp": "11:24",
+      "speaker": "Agent",
+      "text": "Yes, you can. If you are still in the portal, look for a tab or menu labeled 'Phone System' or 'Manage Extensions'."
+    },
+    {
+      "timestamp": "11:33",
+      "speaker": "User",
+      "text": "Okay, I see 'Phone System'... clicking that... now I see a list of our phone numbers and user names."
+    },
+    {
+      "timestamp": "11:42",
+      "speaker": "Agent",
+      "text": "Perfect. If you click on one of those users or extensions, you should see an option for 'Voicemail Settings' or 'Reset Voicemail PIN'."
+    },
+    {
+      "timestamp": "11:51",
+      "speaker": "User",
+      "text": "Ah, yes! I see it. 'Reset Voicemail PIN'. And it looks like I can set it to a temporary default."
+    },
+    {
+      "timestamp": "11:59",
+      "speaker": "Agent",
+      "text": "Exactly. You can reset it to a temporary one, and then the user will be prompted to create their own new private PIN the next time they check their voicemail. This way you don't need to know their personal PIN."
+    },
+    {
+      "timestamp": "12:10",
+      "speaker": "User",
+      "text": "This is fantastic. This is going to save me so much time. We have a new employee starting Monday and I was wondering how to set up their voicemail."
+    },
+    {
+      "timestamp": "12:18",
+      "speaker": "Agent",
+      "text": "Well, now you know. You have full control over those basic user settings right from your administrator portal."
+    },
+    {
+      "timestamp": "12:25",
+      "speaker": "User",
+      "text": "This is more than I hoped to solve today. Thank you again, you've been a tremendous help."
+    },
+    {
+      "timestamp": "12:31",
+      "speaker": "Agent",
+      "text": "I'm delighted I could assist with that as well. It's always good when a customer discovers a feature that makes managing their account easier."
+    },
+    {
+      "timestamp": "12:39",
+      "speaker": "User",
+      "text": "Definitely. Okay, for real this time, that is everything. I won't keep you any longer."
+    },
+    {
+      "timestamp": "12:45",
+      "speaker": "Agent",
+      "text": "It was no trouble at all. I will add a note about our discussion on voicemail PINs to the call log as well. Your reference number is still the same, 7531198."
+    },
+    {
+      "timestamp": "12:56",
+      "speaker": "User",
+      "text": "Great. Thanks again, David."
+    },
+    {
+      "timestamp": "12:59",
+      "speaker": "Agent",
+      "text": "You are very welcome, Maria. Thank you for calling Cymbal Telecom. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "13:06",
+      "speaker": "User",
+      "text": "You too. Bye now."
+    },
+    {
+      "timestamp": "13:08",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "15:58",
+      "speaker": "Agent",
+      "text": "Call 7531198 notes: Customer Maria Rodriguez from Beacon Consulting, CUST-2006, called due to being locked out of the online portal after forgetting the account security PIN. Performed full alternative verification for a corporate account. Successfully guided customer through a secure email-based PIN reset. Customer confirmed access to the portal and ability to view invoices. Also answered a question regarding a State Regulatory Fee on the bill. Additionally, explained the difference between the account PIN and individual voicemail PINs, and guided the customer on how to reset user voicemail PINs through the administrator portal. Customer was satisfied with the resolution and information provided. Call complete."
+    }
+  ]
+}

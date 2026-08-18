@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "call_id": "CALL-0088",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "phone": "800-887-8018",
+    "email": "mark.taylor@novaretailgroup.com",
+    "services": "Corporate Mobility: 25x Unlimited 5G Mobile Lines ($625/mo)",
+    "duration_minutes": 17,
+    "total_turns": 98
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Corporate Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hello, Alex. This is Mark Taylor calling from Nova Retail Group. I need some assistance with our accounts."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Certainly, Mr. Taylor. I can definitely help you with that. To access your account, I'll need to verify some information for security. Could you please provide me with your corporate customer ID?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Of course. The customer ID is CUST-2007."
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "Agent",
+      "text": "Thank you. That's C-U-S-T-2-0-0-7. And could you please verify the 6-digit security PIN associated with this account?"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "User",
+      "text": "Yes, the PIN is 5-0-7-4-9-8."
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. I have the Nova Retail Group account pulled up right here. I see you have 25 of our Unlimited 5G Mobile Lines. How can I assist you with the account today?"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "User",
+      "text": "Great. The issue is that we actually have two separate accounts with Cymbal. This one for our mobile fleet, and another one for our head office's broadband internet service. It's causing some accounting headaches."
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "Agent",
+      "text": "I see. So you're receiving two separate invoices from Cymbal Telecom each month?"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "User",
+      "text": "Exactly. What I'd like to do is merge them. I want to combine the broadband account into this mobile account so we have one single account number, one bill, and one point of contact."
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "Agent",
+      "text": "That makes perfect sense, Mr. Taylor. Consolidating accounts is a great way to simplify management. I can certainly look into that for you. Do you happen to have the account number for the broadband service?"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "User",
+      "text": "Let me see... I have the last invoice here. Just a moment. Okay, it looks like that account number is... BIZ-9854."
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "Agent",
+      "text": "BIZ-9854. Thank you. Please give me a moment to locate that second account in our system."
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "User",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "Agent",
+      "text": "Okay, I've found it. I show this account is for a Fiber 1-Gigabit service at 455 Commerce Plaza, is that correct?"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "User",
+      "text": "Yes, that's our corporate headquarters. That's the one."
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "Agent",
+      "text": "Excellent. So, just to confirm, the goal is to merge the broadband account BIZ-9854 into the mobile account CUST-2007."
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "User",
+      "text": "That's the plan. And one more thing. Since they'll be one account, I'd also like to set up a new, single master security PIN for the combined account."
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "Agent",
+      "text": "Of course. That's a standard and recommended part of the process. A new master PIN will ensure the newly merged account is secure. Let me just check the eligibility for the merge. It's usually straightforward, but I need to ensure both accounts are in good standing and there are no system flags. This will just take me about 30 to 45 seconds."
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Taylor. I've reviewed both accounts and everything looks good. We can definitely proceed with the merge. Both accounts are current on payments and fully active."
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "User",
+      "text": "Fantastic. What's involved in the process?"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "Agent",
+      "text": "It's a process I'll handle on my end. I'll designate CUST-2007 as the primary 'master' account, and then I will migrate the broadband service from BIZ-9854 over to it. The BIZ-9854 account number will then be closed."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "User",
+      "text": "Okay, that sounds right. Will this affect our billing cycle?"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "Agent",
+      "text": "Yes, and that's a great question. It looks like your mobile services bill on the 5th of each month, while the broadband has been billing on the 20th. When we merge them, everything will move to the master account's billing date, which is the 5th."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "User",
+      "text": "So the next bill will be on the 5th of next month?"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "Agent",
+      "text": "Correct. And on that first combined invoice, you will see a pro-rated charge for the broadband service. This will cover the period from its old billing date to the new, aligned one. After that first bill, everything will be streamlined into one regular monthly charge."
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "User",
+      "text": "That makes sense. As long as it all ends up on one invoice, that's what we need."
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "Perfect. Now, before I initiate the merge, I just need to confirm that as Mark Taylor, you are an authorized administrator for Nova Retail Group with the authority to make these changes to the account structure."
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "User",
+      "text": "Yes, I am. I'm the Director of IT Operations. I handle all of our vendor and service accounts."
+    },
+    {
+      "timestamp": "05:21",
+      "speaker": "Agent",
+      "text": "Thank you for confirming, Mr. Taylor. I've noted your authorization in the account log. Okay, I am now ready to begin the merge process. This procedure can take a few minutes for the systems to fully sync up. I'll need to place you on a brief hold, likely for about three to four minutes. Is that acceptable?"
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "User",
+      "text": "Yes, that's fine. Go ahead."
+    },
+    {
+      "timestamp": "05:41",
+      "speaker": "Agent",
+      "text": "Thank you. Please hold."
+    },
+    {
+      "timestamp": "09:15",
+      "speaker": "Agent",
+      "text": "Mr. Taylor? Thank you so much for your patience. The system has completed the migration."
+    },
+    {
+      "timestamp": "09:20",
+      "speaker": "User",
+      "text": "I'm here. So it's all done?"
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "Agent",
+      "text": "Yes, sir. I can now confirm that the broadband service has been successfully merged into account CUST-2007. The old account, BIZ-9854, is now scheduled for closure in our system."
+    },
+    {
+      "timestamp": "09:37",
+      "speaker": "User",
+      "text": "Excellent. That's great news."
+    },
+    {
+      "timestamp": "09:40",
+      "speaker": "Agent",
+      "text": "You will now see both the 25 mobile lines and the Fiber 1-Gigabit service under the single account ID when you log into your Cymbal Telecom corporate portal."
+    },
+    {
+      "timestamp": "09:51",
+      "speaker": "User",
+      "text": "Perfect. That will make my life much easier."
+    },
+    {
+      "timestamp": "09:55",
+      "speaker": "Agent",
+      "text": "I'm glad to hear it. Now, let's move on to the second part of your request: setting a new master security PIN for this consolidated account."
+    },
+    {
+      "timestamp": "10:05",
+      "speaker": "User",
+      "text": "Right, the PIN."
+    },
+    {
+      "timestamp": "10:07",
+      "speaker": "Agent",
+      "text": "The previous PINs for both the old mobile and broadband accounts are now void. We'll set a new one for the master account. The new PIN must be six digits long."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "Okay, I have a number in mind."
+    },
+    {
+      "timestamp": "10:21",
+      "speaker": "Agent",
+      "text": "Great. Now, for your security, please do not say the PIN out loud over the phone. I am going to transfer you to our secure, automated IVR system to enter it using your telephone's keypad. The system will ask you to enter the new six-digit PIN, and then enter it a second time to confirm."
+    },
+    {
+      "timestamp": "10:39",
+      "speaker": "User",
+      "text": "Okay, sounds good."
+    },
+    {
+      "timestamp": "10:41",
+      "speaker": "Agent",
+      "text": "I will remain on the line with you, but I will be muted, so I won't be able to hear the tones. I'll be back with you as soon as I see the confirmation on my end. I'm initiating the transfer now."
+    },
+    {
+      "timestamp": "10:52",
+      "speaker": "User",
+      "text": "Ready when you are."
+    },
+    {
+      "timestamp": "11:35",
+      "speaker": "Agent",
+      "text": "Alright, Mr. Taylor, I've just received the confirmation. It looks like the new PIN was accepted successfully."
+    },
+    {
+      "timestamp": "11:42",
+      "speaker": "User",
+      "text": "Yes, the system confirmed it on my end as well."
+    },
+    {
+      "timestamp": "11:46",
+      "speaker": "Agent",
+      "text": "Wonderful. Your new master security PIN is now active on the merged account. Please keep it in a safe place, as you will need it for any future calls to Cymbal support."
+    },
+    {
+      "timestamp": "11:57",
+      "speaker": "User",
+      "text": "Will do. Thank you."
+    },
+    {
+      "timestamp": "12:00",
+      "speaker": "Agent",
+      "text": "So, to do a full recap of our call today: We have successfully merged your broadband account into your mobile services account under the master ID CUST-2007."
+    },
+    {
+      "timestamp": "12:12",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "12:14",
+      "speaker": "Agent",
+      "text": "Your billing is now consolidated, with the next invoice date being the 5th of the upcoming month, and it will include a one-time pro-rated charge to align the cycles."
+    },
+    {
+      "timestamp": "12:26",
+      "speaker": "User",
+      "text": "Understood."
+    },
+    {
+      "timestamp": "12:28",
+      "speaker": "Agent",
+      "text": "And finally, we have set a new, secure six-digit master PIN for the entire account, which you just entered."
+    },
+    {
+      "timestamp": "12:37",
+      "speaker": "User",
+      "text": "That covers everything. This is exactly what I needed to get done."
+    },
+    {
+      "timestamp": "12:42",
+      "speaker": "Agent",
+      "text": "I'm very happy I could get this all sorted out for you today, Mr. Taylor. Would you like me to send a confirmation email to you summarizing these changes?"
+    },
+    {
+      "timestamp": "12:51",
+      "speaker": "User",
+      "text": "Oh, yes, that would be excellent for my records."
+    },
+    {
+      "timestamp": "12:55",
+      "speaker": "Agent",
+      "text": "Of course. The email address I have on file is mark.taylor@novaretailgroup.com. Is that still the best address?"
+    },
+    {
+      "timestamp": "13:05",
+      "speaker": "User",
+      "text": "Yes, that's the one."
+    },
+    {
+      "timestamp": "13:07",
+      "speaker": "Agent",
+      "text": "Okay. I am sending that email now. You should see it in your inbox within the next 5 to 10 minutes. It will contain a reference number for today's call as well."
+    },
+    {
+      "timestamp": "13:18",
+      "speaker": "User",
+      "text": "Perfect, thank you, Alex."
+    },
+    {
+      "timestamp": "13:21",
+      "speaker": "Agent",
+      "text": "You're most welcome. Just so you know, the online portal may take up to 24 hours to fully reflect the merged services under one dashboard. Sometimes there's a slight delay in the user interface updating."
+    },
+    {
+      "timestamp": "13:34",
+      "speaker": "User",
+      "text": "Good to know. I'll check it tomorrow then."
+    },
+    {
+      "timestamp": "13:38",
+      "speaker": "Agent",
+      "text": "Is there anything else at all I can assist you with today, Mr. Taylor? Any other questions about your services or the account?"
+    },
+    {
+      "timestamp": "13:46",
+      "speaker": "User",
+      "text": "No, that was it. You've been very helpful."
+    },
+    {
+      "timestamp": "13:50",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help. We appreciate your business with Cymbal Telecom."
+    },
+    {
+      "timestamp": "13:56",
+      "speaker": "User",
+      "text": "Thank you."
+    },
+    {
+      "timestamp": "13:58",
+      "speaker": "Agent",
+      "text": "Just for your records, the reference number for this interaction is 774-A-C-M. It will also be in the email."
+    },
+    {
+      "timestamp": "14:07",
+      "speaker": "User",
+      "text": "Okay, got it. 774-A-C-M."
+    },
+    {
+      "timestamp": "14:11",
+      "speaker": "Agent",
+      "text": "Correct. Is there anything more I can do for you?"
+    },
+    {
+      "timestamp": "14:15",
+      "speaker": "User",
+      "text": "No, that's all. Thanks again."
+    },
+    {
+      "timestamp": "14:18",
+      "speaker": "Agent",
+      "text": "Alright then. Thank you for calling Cymbal Telecom. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "14:24",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "14:26",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "14:35",
+      "speaker": "Agent",
+      "text": "(Call re-opens) Oh, Mr. Taylor, are you still there? It seems the line didn't disconnect."
+    },
+    {
+      "timestamp": "14:40",
+      "speaker": "User",
+      "text": "Oh! Yes, I'm here. I thought I hung up. Sorry about that."
+    },
+    {
+      "timestamp": "14:44",
+      "speaker": "Agent",
+      "text": "No problem at all, it happens. While I still have you, I just received a notification. It seems the confirmation email I sent has bounced back."
+    },
+    {
+      "timestamp": "14:53",
+      "speaker": "User",
+      "text": "Bounced back? That's strange. Let me spell it for you, maybe there was a typo in the system."
+    },
+    {
+      "timestamp": "14:59",
+      "speaker": "Agent",
+      "text": "I would appreciate that. What I have is m-a-r-k dot t-a-y-l-o-r at n-o-v-a-r-e-t-a-i-l-g-r-o-u-p dot com."
+    },
+    {
+      "timestamp": "15:12",
+      "speaker": "User",
+      "text": "Ah, I see the problem. It's not 'group'. It's just novaretail dot com. We shortened our domain last year."
+    },
+    {
+      "timestamp": "15:21",
+      "speaker": "Agent",
+      "text": "Oh, I see! My apologies, the record hadn't been updated. So it should be mark.taylor@novaretail.com?"
+    },
+    {
+      "timestamp": "15:30",
+      "speaker": "User",
+      "text": "No, sorry, 'novaretailgroup'. You had that part right. Just drop the 'group' from the domain name itself. So it's mark.taylor@novaretail.com. Wait, no, that's not right. I'm confusing myself. Let me start over."
+    },
+    {
+      "timestamp": "15:45",
+      "speaker": "Agent",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "15:47",
+      "speaker": "User",
+      "text": "Okay. Apologies. The username is correct: mark.taylor. The domain is novaretailcorp.com. C-O-R-P."
+    },
+    {
+      "timestamp": "15:59",
+      "speaker": "Agent",
+      "text": "Got it. So, mark.taylor@novaretailcorp.com. I am updating your contact information now. Thank you for clarifying that."
+    },
+    {
+      "timestamp": "16:09",
+      "speaker": "User",
+      "text": "My fault entirely. We've had a few domain changes with mergers. It's a mess."
+    },
+    {
+      "timestamp": "16:14",
+      "speaker": "Agent",
+      "text": "Not a problem at all, I completely understand. I've updated the primary contact email. Now, let me try re-sending that confirmation summary."
+    },
+    {
+      "timestamp": "16:25",
+      "speaker": "User",
+      "text": "Okay, I have my inbox open now."
+    },
+    {
+      "timestamp": "16:30",
+      "speaker": "Agent",
+      "text": "I've just sent it to the corrected address. Can you let me know if you receive it this time?"
+    },
+    {
+      "timestamp": "16:40",
+      "speaker": "User",
+      "text": "Let's see... refreshing... yep! It just came through. 'Cymbal Telecom Account Update Confirmation'. Looks perfect."
+    },
+    {
+      "timestamp": "16:48",
+      "speaker": "Agent",
+      "text": "Excellent! I'm so glad we caught that. It's important you have the correct documentation."
+    },
+    {
+      "timestamp": "16:54",
+      "speaker": "User",
+      "text": "Me too. Thanks for double-checking and not just ending the call."
+    },
+    {
+      "timestamp": "16:58",
+      "speaker": "Agent",
+      "text": "It's all part of the service, Mr. Taylor. Now, is there anything else I can help with for real this time?"
+    },
+    {
+      "timestamp": "17:05",
+      "speaker": "User",
+      "text": "(laughs) No, I'm definitely good now. Thank you again, Alex."
+    },
+    {
+      "timestamp": "17:09",
+      "speaker": "Agent",
+      "text": "It was my pleasure. Thank you again for calling Cymbal Telecom, and have a great afternoon."
+    },
+    {
+      "timestamp": "17:14",
+      "speaker": "User",
+      "text": "You too. Bye now."
+    }
+  ]
+}

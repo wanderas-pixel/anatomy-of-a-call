@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "call_id": "CALL-0030",
+    "customer_id": "CUST-2006",
+    "customer_name": "Beacon Consulting",
+    "customer_type": "Corporate",
+    "phone": "800-811-3633",
+    "email": "maria.rodriguez@beaconconsulting.com",
+    "services": "Enterprise SIP Trunking - 30 Channels ($350/mo)",
+    "duration_minutes": 15,
+    "total_turns": 84
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Enterprise Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hello Alex. This is Maria Rodriguez from Beacon Consulting. I need to set up services for a new branch office we're opening."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Certainly, Ms. Rodriguez. I can definitely assist with that. To access your account, could you please provide your corporate account ID?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Yes, our account ID is CUST-2006."
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "Agent",
+      "text": "Thank you. I have the Beacon Consulting account pulled up. For security, could you please verify the 6-digit security PIN associated with the account?"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "User",
+      "text": "Of course. The PIN is 9-1-9-5-3-4."
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "Agent",
+      "text": "Perfect, that's a match. Thank you for verifying your information. So, you're looking to establish service for a new office. That's exciting news."
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "User",
+      "text": "It is. We're expanding. We need both internet and our phone system set up."
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "Agent",
+      "text": "Excellent. We can absolutely get that arranged. First, could you provide me with the full street address for the new location so I can check for serviceability?"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "User",
+      "text": "Yes, it's 1550 West Arlington Boulevard, Suite 210, in Greenville, North Carolina. The zip code is 27834."
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "Agent",
+      "text": "Okay, 1550 West Arlington Boulevard, Suite 210, Greenville. Let me just plug that into our system to see what Cymbal services are available there. This will take about 30 seconds. Do you mind holding for a moment?"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "User",
+      "text": "No, that's fine. Go ahead."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Ms. Rodriguez. I have great news. That address is fully serviceable with our Cymbal Fiber network. We can offer you high-speed business internet and integrate your voice services seamlessly."
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "User",
+      "text": "That's wonderful to hear. What are our options for internet speed?"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "Agent",
+      "text": "Based on your existing enterprise account, I'd recommend our Cymbal Fiber Pro plans. For a small to medium branch office, our most popular plan is the Fiber Pro 500, which provides symmetrical speeds of 500 megabits per second for both download and upload. Would that meet your needs?"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "User",
+      "text": "500 symmetrical... yes, that sounds more than adequate. It'll be a small team, about five to seven employees to start. What is the monthly cost for that plan?"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "Agent",
+      "text": "For our corporate partners, the Fiber Pro 500 plan is priced at $129.99 per month. That includes a static IP address and our advanced security suite."
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "User",
+      "text": "Okay, $129.99. Is there a contract required?"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "Agent",
+      "text": "We do have options. With a 24-month agreement, we can waive the standard $199 professional installation fee."
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "User",
+      "text": "Waiving the installation fee sounds good. We plan to be there for the long term, so a 24-month agreement is acceptable."
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "Agent",
+      "text": "Great. Now, for the voice services. I see your main office uses our Enterprise SIP Trunking. We can extend that to the new location by adding Cloud VoIP user licenses. This means all your offices will be on one unified phone system."
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "User",
+      "text": "That's exactly what I was hoping for. So we just add licenses for the new employees? How many phones can we have?"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "Agent",
+      "text": "Correct. You mentioned five to seven employees. Each employee would need one license. How many would you like to start with?"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "User",
+      "text": "Let's start with seven to be safe. We can always add more later, I assume?"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "Agent",
+      "text": "Absolutely. The system is very scalable. You can add or remove licenses with just a phone call. The cost per Cloud VoIP user license is $19.99 per month."
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "User",
+      "text": "Okay, so seven licenses at $19.99 each. Let me do the math... that's about $140 a month for the phones."
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "Agent",
+      "text": "That's right. Seven licenses at $19.99 comes to $139.93 per month for the voice component."
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "User",
+      "text": "And do we need to purchase specific phones from you, or can we use our own?"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "Agent",
+      "text": "That's a great question. Our system is compatible with a wide range of SIP-compliant IP phones. If you have existing phones, I can check their model numbers for compatibility. Alternatively, we offer the latest Polycom and Yealink models, which we can pre-configure and ship to you."
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "User",
+      "text": "We have a stock of Polycom VVX 450s at our main office. Would those work?"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "Agent",
+      "text": "The Polycom VVX 450s? Yes, absolutely. They are fully compatible and one of our recommended models. You can simply take them to the new office and our technician can help get them connected and provisioned during the install."
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "User",
+      "text": "Perfect. That saves us a significant cost. So, to recap, we're looking at the Fiber Pro 500 internet for $129.99, and seven VoIP licenses for $139.93. The total is... what, around $270 per month?"
+    },
+    {
+      "timestamp": "05:22",
+      "speaker": "Agent",
+      "text": "Your math is spot on. The total monthly recurring charge for the new location would be $269.92, plus any applicable taxes and fees."
+    },
+    {
+      "timestamp": "05:32",
+      "speaker": "User",
+      "text": "And the installation fee is waived with the 24-month contract."
+    },
+    {
+      "timestamp": "05:37",
+      "speaker": "Agent",
+      "text": "Correct. A one-time professional installation fee of $199 is waived, so your upfront cost is zero."
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "User",
+      "text": "This sounds like the right plan for us. I have the authority to approve this. Let's move forward with the order."
+    },
+    {
+      "timestamp": "05:54",
+      "speaker": "Agent",
+      "text": "Excellent choice, Ms. Rodriguez. I'll start building the order for you now. Can you just confirm one more time for the record that you are authorizing Cymbal Telecom to add these services to your account?"
+    },
+    {
+      "timestamp": "06:06",
+      "speaker": "User",
+      "text": "Yes, I, Maria Rodriguez, on behalf of Beacon Consulting, authorize this order."
+    },
+    {
+      "timestamp": "06:13",
+      "speaker": "Agent",
+      "text": "Thank you. Let me create the work order. I'm adding the Cymbal Fiber Pro 500 service and seven Cloud VoIP licenses to the new service address at 1550 West Arlington Boulevard. This will just take me a minute or two."
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "User",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "07:05",
+      "speaker": "Agent",
+      "text": "Alright, the service order is created in the system. The next step is to schedule the professional installation with one of our field technicians."
+    },
+    {
+      "timestamp": "07:14",
+      "speaker": "User",
+      "text": "Okay. We're aiming to have the office operational in about three weeks. What does your schedule look like?"
+    },
+    {
+      "timestamp": "07:21",
+      "speaker": "Agent",
+      "text": "Let me pull up the dispatch calendar for the Greenville area. Three weeks from now... let's see. I am looking at the week of the 16th. Do you have any specific days that work best for you?"
+    },
+    {
+      "timestamp": "07:35",
+      "speaker": "User",
+      "text": "Earlier in that week would be ideal. How about Monday the 16th or Tuesday the 17th?"
+    },
+    {
+      "timestamp": "07:43",
+      "speaker": "Agent",
+      "text": "Checking availability for those days... Monday the 16th is fully booked, I'm afraid. However, on Tuesday the 17th, I have two available appointment windows: a morning slot from 8 AM to 12 PM, or an afternoon slot from 1 PM to 5 PM."
+    },
+    {
+      "timestamp": "08:01",
+      "speaker": "User",
+      "text": "The morning slot on Tuesday the 17th would be perfect. Let's book the 8 AM to 12 PM window."
+    },
+    {
+      "timestamp": "08:09",
+      "speaker": "Agent",
+      "text": "Wonderful. I am locking in your appointment for Tuesday, the 17th, between 8 AM and 12 PM. Now, for the installation, our technician will need access to the suite and the building's telecommunications closet. Will someone be on-site to provide access?"
+    },
+    {
+      "timestamp": "08:26",
+      "speaker": "User",
+      "text": "Yes, I will be there personally to oversee the setup."
+    },
+    {
+      "timestamp": "08:30",
+      "speaker": "Agent",
+      "text": "Perfect. And can I confirm the best on-site contact number for the technician to call? They typically call about 30 minutes prior to arrival."
+    },
+    {
+      "timestamp": "08:40",
+      "speaker": "User",
+      "text": "Yes, they can reach me on my mobile. The number is 919-555-0182."
+    },
+    {
+      "timestamp": "08:49",
+      "speaker": "Agent",
+      "text": "Okay, mobile number 919-555-0182. I've added that to the technician's work order notes. "
+    },
+    {
+      "timestamp": "08:58",
+      "speaker": "User",
+      "text": "Great. What exactly will the technician do? I want to make sure I have everything ready for them."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "Agent",
+      "text": "The technician will run a fiber optic line from the building's utility point to your suite. Inside your suite, they will install a small device called an Optical Network Terminal, or ONT. That's what the main router will plug into. They will then install and configure the Cymbal Telecom provided router."
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "User",
+      "text": "And the phones?"
+    },
+    {
+      "timestamp": "09:26",
+      "speaker": "Agent",
+      "text": "Once the internet is active, they will test the connection and can assist with plugging in your Polycom phones to ensure they connect to our network and provision correctly. They will also make sure you can make and receive a test call before they leave."
+    },
+    {
+      "timestamp": "09:40",
+      "speaker": "User",
+      "text": "That sounds very thorough. What about Wi-Fi?"
+    },
+    {
+      "timestamp": "09:44",
+      "speaker": "Agent",
+      "text": "Yes, the router we provide is a dual-band Wi-Fi 6 router. The technician will set up a secure wireless network for you. It will broadcast a default network name, something like 'Cymbal Wi-Fi-2G' and 'Cymbal Wi-Fi-5G', but you can work with the technician to customize the network name and password to whatever you'd like."
+    },
+    {
+      "timestamp": "10:05",
+      "speaker": "User",
+      "text": "Okay, we'll probably name it 'BeaconConsulting-Guest' or something similar. That's good to know."
+    },
+    {
+      "timestamp": "10:12",
+      "speaker": "Agent",
+      "text": "You can set up multiple networks if needed, yes. The technician can walk you through that."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "Excellent. This all sounds very straightforward."
+    },
+    {
+      "timestamp": "10:22",
+      "speaker": "Agent",
+      "text": "We try to make it as smooth as possible. Okay, I have everything finalized on my end. Your order is confirmed. Would you like a confirmation number for your records?"
+    },
+    {
+      "timestamp": "10:33",
+      "speaker": "User",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "10:35",
+      "speaker": "Agent",
+      "text": "Your order confirmation number is NC-88-1-7-0-4-B. That's NC, as in North Carolina, 881704B."
+    },
+    {
+      "timestamp": "10:50",
+      "speaker": "User",
+      "text": "Got it. NC-881704B. Thank you."
+    },
+    {
+      "timestamp": "10:56",
+      "speaker": "Agent",
+      "text": "You're very welcome. So, just to do a final recap for you: We have placed an order for Cymbal Fiber Pro 500 internet and seven Cloud VoIP licenses for the new address. The total monthly cost will be $269.92 plus tax."
+    },
+    {
+      "timestamp": "11:13",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "11:15",
+      "speaker": "Agent",
+      "text": "The one-time installation fee has been waived with a 24-month service agreement."
+    },
+    {
+      "timestamp": "11:22",
+      "speaker": "User",
+      "text": "Yes."
+    },
+    {
+      "timestamp": "11:24",
+      "speaker": "Agent",
+      "text": "And we have a technician scheduled to arrive at the new office on Tuesday, the 17th, between 8 AM and 12 PM. The on-site contact is you, Maria, and the technician will call your mobile 30 minutes before arrival."
+    },
+    {
+      "timestamp": "11:40",
+      "speaker": "User",
+      "text": "That all sounds perfect. Thank you for being so organized."
+    },
+    {
+      "timestamp": "11:45",
+      "speaker": "Agent",
+      "text": "It's my pleasure. You will also receive an email confirmation of this order and the appointment details within the next hour. It will be sent to the primary email address on file, which I see is maria.rodriguez@beaconconsulting.com. Is that still correct?"
+    },
+    {
+      "timestamp": "12:02",
+      "speaker": "User",
+      "text": "Yes, that's my email. I'll look out for it."
+    },
+    {
+      "timestamp": "12:06",
+      "speaker": "Agent",
+      "text": "Wonderful. The first bill for this new location will be generated after the services are successfully installed and activated. It will be pro-rated from the date of activation to the end of your billing cycle."
+    },
+    {
+      "timestamp": "12:19",
+      "speaker": "User",
+      "text": "Okay, that makes sense. I don't think I have any other questions at this time. This was very efficient."
+    },
+    {
+      "timestamp": "12:26",
+      "speaker": "Agent",
+      "text": "I'm glad I could help. Is there anything else at all I can assist you with today, Ms. Rodriguez? Perhaps regarding your main account or any other services?"
+    },
+    {
+      "timestamp": "12:36",
+      "speaker": "User",
+      "text": "Oh, one last thing. If we need to reschedule the appointment for any reason, who do I call?"
+    },
+    {
+      "timestamp": "12:43",
+      "speaker": "Agent",
+      "text": "Great question. You can call this same Enterprise Support number. Just provide the agent with your order confirmation number, NC-881704B, and they can access the appointment details and help you reschedule."
+    },
+    {
+      "timestamp": "12:56",
+      "speaker": "User",
+      "text": "Okay, good to know. Hopefully we won't need to."
+    },
+    {
+      "timestamp": "13:00",
+      "speaker": "Agent",
+      "text": "We'll be ready for you on the 17th. We look forward to getting your new office connected."
+    },
+    {
+      "timestamp": "13:07",
+      "speaker": "User",
+      "text": "Me too. Thank you again for your help, Alex."
+    },
+    {
+      "timestamp": "13:11",
+      "speaker": "Agent",
+      "text": "You are most welcome, Ms. Rodriguez. Thank you for choosing Cymbal Telecom for your new location, and thank you for being a valued enterprise partner."
+    },
+    {
+      "timestamp": "13:21",
+      "speaker": "User",
+      "text": "Alright. Have a good day."
+    },
+    {
+      "timestamp": "13:24",
+      "speaker": "Agent",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "13:27",
+      "speaker": "User",
+      "text": "Goodbye."
+    }
+  ]
+}

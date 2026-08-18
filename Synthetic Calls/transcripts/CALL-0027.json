@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "call_id": "CALL-0027",
+    "customer_id": "CUST-2010",
+    "customer_name": "Ironwood Manufacturing",
+    "customer_type": "Corporate",
+    "phone": "800-694-7525",
+    "email": "lisa.garcia@ironwoodmanufacturing.com",
+    "services": "Business Voice VoIP Suite - 10 Channels ($150/mo)",
+    "duration_minutes": 5,
+    "total_turns": 32
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "User",
+      "text": "Hi Alex, this is Lisa Garcia calling from Ironwood Manufacturing. I need to set up direct debit for our account to get the monthly autopay discount."
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "Agent",
+      "text": "Certainly, Ms. Garcia. I can definitely help you with that. To access the account securely, I'll just need to verify a few details. Could you please provide your company's Customer ID?"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "User",
+      "text": "Yes, of course. The customer ID is CUST-2010."
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "Agent",
+      "text": "Thank you. And for the final verification step, could you please provide the 6-digit security PIN associated with the account?"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "User",
+      "text": "Let's see... it should be 8-9-6-3-3-0."
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "Agent",
+      "text": "Perfect, that's a match. Thank you for verifying. I have the Ironwood Manufacturing account pulled up now."
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "Agent",
+      "text": "So, I see here you're looking to set up automatic payments from a checking account, is that correct? This would be to enable the $10 monthly discount for autopay and paperless billing."
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "User",
+      "text": "Yes, that's the one. Our accounting department asked me to get this set up so we can stop processing manual checks each month."
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "Agent",
+      "text": "Absolutely, it definitely streamlines the process. I'm happy to walk you through it. I will need the bank's routing number and the checking account number for an ACH transfer. Do you have that information handy?"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "User",
+      "text": "I do. I have our checkbook right here. I'm ready when you are."
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "Agent",
+      "text": "Great. Just as a standard disclosure, please be aware this call is recorded for quality and security. When you're ready, please state the 9-digit routing number first."
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "User",
+      "text": "Okay. The routing number is 122100024."
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "Agent",
+      "text": "Thank you. Let me read that back to you to ensure accuracy. That's one-two-two-one-zero-zero-zero-two-four. Is that correct?"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "User",
+      "text": "Yes, that is correct."
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "Agent",
+      "text": "Excellent. And now, the checking account number, please."
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "User",
+      "text": "The account number is 9876543210."
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "Agent",
+      "text": "Okay, and that account number is, again for verification, nine-eight-seven-six-five-four-three-two-one-zero."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Yes, that's it."
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "Agent",
+      "text": "Thank you so much. Please give me just one moment while I enter this into our secure billing portal and validate the information. This may take about 30 to 45 seconds. Is it okay if I place you on a brief hold?"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "User",
+      "text": "Yes, that's fine. No problem."
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Ms. Garcia. I'm back."
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "Agent",
+      "text": "Good news. The system has successfully validated the banking information and I have added it to your account's payment profile."
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "User",
+      "text": "Okay, great."
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "Agent",
+      "text": "I have also just enrolled the account in the monthly autopay program. As we discussed, this qualifies you for the $10 discount. That discount will appear on your next billing statement, which will be generated on the 1st of the upcoming month."
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "User",
+      "text": "So, just to be crystal clear, for our next bill, the payment will be withdrawn automatically? We don't need to mail a check or do anything online?"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "Agent",
+      "text": "That is 100 percent correct. Your invoice will be generated and emailed to the address on file as usual, but on the payment due date, the total amount will be automatically debited from the checking account you just provided. No further action is needed from your side."
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "User",
+      "text": "Wonderful. That's one less thing for our team to worry about. Thank you so much."
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help you get that set up. We appreciate you taking the time to do this. Was there anything else I could assist you with for your Cymbal Telecom account today?"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "User",
+      "text": "No, that was it. You've been very helpful."
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "Agent",
+      "text": "You are very welcome. Thank you for calling Cymbal Telecom and for being a valued business partner. Have a wonderful rest of your day!"
+    },
+    {
+      "timestamp": "05:02",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    }
+  ]
+}

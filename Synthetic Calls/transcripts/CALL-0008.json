@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "call_id": "CALL-0008",
+    "customer_id": "CUST-1019",
+    "customer_name": "Michael Moore",
+    "customer_type": "Consumer",
+    "phone": "555-891-3496",
+    "email": "michael.moore@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 10,
+    "total_turns": 58
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Sarah. I'm having a problem with my voicemail. I can't seem to access it."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "I'm sorry to hear that. I can certainly help you get that sorted out. To get started, may I have your full name, please?"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "User",
+      "text": "Sure, it's Michael Moore."
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Moore. And to pull up your account securely, could you please provide your Customer ID number?"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "User",
+      "text": "Oh, uh, let me find it. I have it written down here somewhere... ah, here it is. It's CUST-1019."
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "Agent",
+      "text": "CUST-1019. Got it. Thank you. And for the final verification step, could you please provide the four-digit security PIN associated with your account?"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "User",
+      "text": "Yes, that I do remember. It's 8271."
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "Agent",
+      "text": "Perfect, 8271. Thank you for that, Mr. Moore. Your account is now verified and pulled up here in front of me."
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "User",
+      "text": "Great."
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "Agent",
+      "text": "So, you mentioned you're having trouble accessing your voicemail. Are you getting a specific error message, or is it something else?"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "User",
+      "text": "Well, it's asking for my PIN, and to be honest, I've completely forgotten what it is. I tried a few combinations I thought it might be, but now it's telling me I've had too many incorrect attempts."
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "Agent",
+      "text": "Ah, okay, that's a very common reason people call us. Not a problem at all, we can reset that for you right now."
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "User",
+      "text": "Oh, thank goodness. I was worried I'd be locked out forever."
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "Agent",
+      "text": "Not at all. The phone number you're looking to reset the voicemail for is 555-891-3496, correct?"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "User",
+      "text": "Yes, that's the one."
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "Agent",
+      "text": "Excellent. So, the process is very straightforward. I will reset the PIN on my end, which will set it to a temporary default PIN."
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "User",
+      "text": "Okay, and what will that be?"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "Agent",
+      "text": "The temporary PIN will be the last four digits of your phone number. In your case, that would be 3-4-9-6."
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "User",
+      "text": "3496. Got it."
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "Agent",
+      "text": "After we're done, you'll use that PIN the first time you log in, and the system will immediately prompt you to create a new, permanent PIN of your own choosing."
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "User",
+      "text": "That sounds easy enough."
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "Agent",
+      "text": "It is. Now, to perform this reset, I'll need to access the provisioning tool. Would you mind if I place you on a brief hold for about thirty to forty-five seconds while I complete that?"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "User",
+      "text": "No, that's fine. Take your time."
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "Agent",
+      "text": "Thank you so much. I'll be right back with you."
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "Agent",
+      "text": "Thank you for holding, Mr. Moore. I appreciate your patience."
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "User",
+      "text": "No problem. Is it done?"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "Agent",
+      "text": "Yes, it is. I have successfully reset your voicemail PIN. It is now set to the temporary default."
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "User",
+      "text": "Okay, great. So I just call my voicemail now?"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "Agent",
+      "text": "Exactly. If you'd like, we can even walk through it together right now to make sure it works for you."
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "User",
+      "text": "Yeah, that would be great, just in case."
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "Agent",
+      "text": "Of course. Do you have your mobile phone handy?"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "User",
+      "text": "Yes, I'm talking on it."
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "Agent",
+      "text": "Oh, of course. My apologies. In that case, you'll need to hang up and call back. Just kidding! We can stay on the line. Do you have another phone you could use to dial your voicemail, or would you prefer to try after our call?"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "User",
+      "text": "Haha, you got me. Actually, I'm calling from my landline right now. I can try it on my mobile."
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "Agent",
+      "text": "Oh, perfect! That makes it much easier. Whenever you're ready, please go ahead and dial into your voicemail on your mobile phone. You can usually do that by holding down the '1' key on the dial pad."
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "User",
+      "text": "Okay, I'm pressing the '1' key... it's dialing... Okay, it's asking for my password."
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "Agent",
+      "text": "Excellent. Now, just enter the temporary PIN we discussed, which is 3496."
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "User",
+      "text": "Okay... 3... 4... 9... 6... and pound."
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "Agent",
+      "text": "Any luck?"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "User",
+      "text": "It worked! The robot voice said 'Welcome to your Cymbal Telecom voice messaging system'."
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "Agent",
+      "text": "Wonderful! That's exactly what we want to hear. What is it saying now?"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "User",
+      "text": "It's telling me that for security, I need to change my temporary password. It's asking me to enter a new one now."
+    },
+    {
+      "timestamp": "05:03",
+      "speaker": "Agent",
+      "text": "Perfect. Just follow the prompts. You can choose any new PIN you'd like, as long as it's between four and eight digits."
+    },
+    {
+      "timestamp": "05:12",
+      "speaker": "User",
+      "text": "Okay, let me think of one I won't forget this time... Okay, I've entered a new one."
+    },
+    {
+      "timestamp": "05:28",
+      "speaker": "Agent",
+      "text": "It will probably ask you to enter it a second time just to confirm."
+    },
+    {
+      "timestamp": "05:33",
+      "speaker": "User",
+      "text": "Yep, you're right. 'Please re-enter your new password to confirm.' Okay... done."
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "Agent",
+      "text": "And did it give you a confirmation message?"
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "User",
+      "text": "It says... 'Your password has been changed. You have... one new message.' Oh, that's probably my test message from earlier."
+    },
+    {
+      "timestamp": "05:59",
+      "speaker": "Agent",
+      "text": "Fantastic! It sounds like you are all set and back in control of your voicemail."
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "User",
+      "text": "Yes! Thank you so much. That was much easier than I thought it would be."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "Agent",
+      "text": "I'm very happy to hear that. My pleasure to help. While I have you on the line, Mr. Moore, is there anything else I can assist with today? Any questions about your account or your Fiber 300 internet service?"
+    },
+    {
+      "timestamp": "06:25",
+      "speaker": "User",
+      "text": "No, I think I'm good. The internet has been working great. This was the only thing."
+    },
+    {
+      "timestamp": "06:31",
+      "speaker": "Agent",
+      "text": "That's excellent to hear. We always like to know when our services are running smoothly for our customers."
+    },
+    {
+      "timestamp": "06:38",
+      "speaker": "User",
+      "text": "Well, thanks again for your help, Sarah."
+    },
+    {
+      "timestamp": "06:41",
+      "speaker": "Agent",
+      "text": "You are most welcome. Thank you for calling Cymbal Telecom and for being a valued customer. I hope you have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "06:49",
+      "speaker": "User",
+      "text": "You too. Bye now."
+    },
+    {
+      "timestamp": "06:51",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "call_id": "CALL-0061",
+    "customer_id": "CUST-1001",
+    "customer_name": "Sandra Ramirez",
+    "customer_type": "Consumer",
+    "phone": "555-613-7381",
+    "email": "sandra.ramirez@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 9,
+    "total_turns": 47
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Alex. I received an email saying my automatic payment failed. I'm pretty sure my credit card on file expired."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. I'll just need to verify your account for security purposes. Could you please provide your Customer ID?"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "User",
+      "text": "Yes, of course. It's CUST-1001."
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "Agent",
+      "text": "Thank you. And for the final verification step, could you please provide the 4-digit security PIN associated with your account?"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "User",
+      "text": "My PIN is 9-8-2-8."
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "Agent",
+      "text": "Perfect, thank you, Ms. Ramirez. I have your account pulled up now. One moment while I review the billing details."
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "User",
+      "text": "Okay, thanks."
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "Agent",
+      "text": "Alright, I see it here. Yes, it looks like the automatic payment for your Fiber 300 plan was declined on the 15th. The reason listed is an expired card."
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "User",
+      "text": "Ugh, I knew it. I'm so sorry, I totally forgot to update it. So, what do I owe right now?"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "Agent",
+      "text": "No problem at all, it happens to all of us. The past due balance is just for the one billing cycle, which is fifty-five dollars."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "User",
+      "text": "Okay, fifty-five. I'd like to pay that off right now with my new card if that's possible."
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "Agent",
+      "text": "Absolutely. And after we take care of the one-time payment, would you like me to update that new card as your default for future autopayments?"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "User",
+      "text": "Yes, please. That would be great. I don't want this to happen again."
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "Agent",
+      "text": "Of course. Let's start with the payment. I am ready to take the card information whenever you are."
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "User",
+      "text": "Okay, I have it here. It's a Visa."
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "Agent",
+      "text": "Great. Please go ahead with the card number."
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "User",
+      "text": "It is 4-9-2-9... 1-1-0-2... 5-5-8-3... 7-4-6-1."
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "Agent",
+      "text": "Thank you. And the expiration date?"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "User",
+      "text": "It's June of 2027. So, 0-6, 2-7."
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "Agent",
+      "text": "Got it. And the 3-digit CVV code from the back of the card?"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "User",
+      "text": "That is 3-3-4."
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "Agent",
+      "text": "And finally, the billing zip code for this card?"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "User",
+      "text": "Same as my service address, 90210."
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "Agent",
+      "text": "Perfect. Thank you. So I am submitting a one-time payment of fifty-five dollars to your Cymbal Telecom account. Please stay on the line, this will just take about 20 seconds to process."
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "User",
+      "text": "Okay, no problem."
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Ms. Ramirez. The payment was successful. Your account balance is now zero and you are all current."
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "User",
+      "text": "Oh, wonderful. That's a relief."
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "Agent",
+      "text": "For your records, the confirmation number for this transaction is T-8-8-1-2-5-4-3."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "User",
+      "text": "Okay, T-8-8-1-2-5-4-3. Got it."
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "Agent",
+      "text": "Great. Now, for the second part. You wanted to update this card for your automatic payments, correct?"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "User",
+      "text": "Yes, that's right."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "Agent",
+      "text": "Okay, I'm going into your autopay settings now. I see the old card here, ending in 5555, which is now marked as expired."
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "User",
+      "text": "Yes, that's the one."
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "Agent",
+      "text": "I am now replacing it with the new card you provided. Do I have your authorization to save this Visa ending in 7461 as the primary payment method for recurring monthly charges from Cymbal Telecom?"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "User",
+      "text": "Yes, you do. Please go ahead."
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "Agent",
+      "text": "Thank you. I'm saving the changes now... and it is done. The Visa ending in 7461 is now set for all future automatic payments."
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "User",
+      "text": "Excellent. So next month's bill will charge to this new card automatically?"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "Agent",
+      "text": "That is correct. Your next billing date is the 15th, and it will be charged to the new card on file."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "User",
+      "text": "Perfect. That's everything I needed. Thank you so much for your help."
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "Agent",
+      "text": "You are very welcome, Ms. Ramirez. I'm glad we could get this sorted out for you quickly."
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "User",
+      "text": "Me too. I appreciate how easy you made it."
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "Agent",
+      "text": "It was my pleasure. Is there anything else I can assist you with today? Any questions about your service or account?"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "User",
+      "text": "No, that was it. Just the payment."
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "Agent",
+      "text": "Alright then. Thank you for being a valued Cymbal Telecom customer. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "User",
+      "text": "You too, Alex. Goodbye."
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "call_id": "CALL-0070",
+    "customer_id": "CUST-2001",
+    "customer_name": "TechCorp Solutions",
+    "customer_type": "Corporate",
+    "phone": "800-310-6259",
+    "email": "john.doe@techcorpsolutions.com",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "duration_minutes": 19,
+    "total_turns": 110
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Support. My name is Brenda. How can I help you today?"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "User",
+      "text": "Hi Brenda. My name is John Doe, calling from TechCorp Solutions. I received an email notice that our automatic payment failed this month, and I need to get that sorted out."
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "Agent",
+      "text": "Certainly, John. I can definitely help you with that. For security purposes, could you please provide me with your company's Customer ID?"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "User",
+      "text": "Yes, it's CUST-2001."
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "Agent",
+      "text": "Thank you. And to fully verify the account, could you please provide the 6-digit security PIN?"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "User",
+      "text": "Let me see... got it. It's 2-1-1-5-3-3."
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. Let me just pull up your account information for TechCorp Solutions... one moment please."
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "Agent",
+      "text": "Okay, I see the account here. Yes, it looks like the automatic payment scheduled for the 5th of this month was declined. The outstanding balance is three hundred forty-nine dollars."
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "User",
+      "text": "Right, that's the amount for our Dedicated Fiber 500 plan. Do you know why it was declined? We've had autopay set up for years without an issue."
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "Agent",
+      "text": "I can see that. Looking at the payment method on file, it appears the credit card we have registered expired at the end of last month. That's the most common reason for this."
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "User",
+      "text": "Ah, that would explain it. I think I have the new corporate card right here. Can I make a payment for the past due amount with you over the phone right now?"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "Agent",
+      "text": "Absolutely. I can process a one-time payment to clear the balance. And after that, if you'd like, I can help you update the card on file for future autopayments."
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "User",
+      "text": "That would be perfect. Let's do the one-time payment first."
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "Agent",
+      "text": "Okay. Whenever you're ready, I can take the new card information."
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "User",
+      "text": "Alright, I've got it. It's a Visa."
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "Agent",
+      "text": "Okay, a Visa. Go ahead with the number please."
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "User",
+      "text": "It's 4-9-2-9... 1-2-3-4... 5-6-7-8... 9-0-1-2."
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "Agent",
+      "text": "Got it. That's 4929, 1234, 5678, 9012. Is that correct?"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "User",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "Agent",
+      "text": "And the expiration date?"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "User",
+      "text": "It's 06 / 27."
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "Agent",
+      "text": "June of 2027. And the three-digit security code on the back?"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "User",
+      "text": "That is... 3-5-8."
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "Agent",
+      "text": "Thank you. And the name on the card is TechCorp Solutions?"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "User",
+      "text": "Yes, it is."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "Agent",
+      "text": "Okay, so I am submitting a one-time payment of three hundred forty-nine dollars to the account using the Visa ending in 9012. Please hold on for just a moment while the system processes this."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "Will do."
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "Agent",
+      "text": "Just a few more seconds... the system is a little slow today."
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "User",
+      "text": "No worries."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience. The payment was successful. Your account balance is now zero and you are all current."
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "User",
+      "text": "Great, thank you."
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "Agent",
+      "text": "For your records, the confirmation number for this payment is P-A-Y-7-2-3-5-1-1-9."
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "User",
+      "text": "Got it. PAY7235119. Perfect."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "Agent",
+      "text": "So, the past due balance is resolved. Would you now like to update the card on file to prevent this from happening next month?"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "User",
+      "text": "Yes, please. Can we just use the same card I just gave you?"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "Agent",
+      "text": "We can. For security, I can't see the full card number I just entered, but I can set the same payment profile as your new default for autopay. I just need to confirm a few details again."
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "User",
+      "text": "Okay, sounds good. What do you need?"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "Agent",
+      "text": "Just to confirm, you are an authorized user to make changes to the billing methods for TechCorp Solutions?"
+    },
+    {
+      "timestamp": "05:04",
+      "speaker": "User",
+      "text": "Yes, I am. John Doe, Accounts Payable Manager."
+    },
+    {
+      "timestamp": "05:09",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Doe. I will just add a note of this authorization to the account log. One moment."
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "User",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "Agent",
+      "text": "Okay, note added. Now, I am going into the recurring payment settings. I see the old, expired card here. I'm going to remove that one first to avoid any confusion. Is that alright?"
+    },
+    {
+      "timestamp": "05:52",
+      "speaker": "User",
+      "text": "Yes, that's a good idea. Please remove it."
+    },
+    {
+      "timestamp": "05:56",
+      "speaker": "Agent",
+      "text": "Okay, the expired card has been deleted from the autopay profile. Now, I will add the new one. The system requires I re-enter it for the recurring payment setup. I apologize for the repetition."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "User",
+      "text": "That's fine, security is important. Go ahead."
+    },
+    {
+      "timestamp": "06:15",
+      "speaker": "Agent",
+      "text": "Thank you for your understanding. Could you please provide the card number one more time?"
+    },
+    {
+      "timestamp": "06:21",
+      "speaker": "User",
+      "text": "Sure. 4929 1234 5678 9012."
+    },
+    {
+      "timestamp": "06:35",
+      "speaker": "Agent",
+      "text": "Thank you. And the expiration date?"
+    },
+    {
+      "timestamp": "06:39",
+      "speaker": "User",
+      "text": "June of 2027. So, 0-6, 2-7."
+    },
+    {
+      "timestamp": "06:46",
+      "speaker": "Agent",
+      "text": "Perfect. And the security code?"
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "User",
+      "text": "358."
+    },
+    {
+      "timestamp": "06:53",
+      "speaker": "Agent",
+      "text": "And the billing address for this card is the same as the service address on the account?"
+    },
+    {
+      "timestamp": "07:00",
+      "speaker": "User",
+      "text": "Yes, it is."
+    },
+    {
+      "timestamp": "07:02",
+      "speaker": "Agent",
+      "text": "Okay, I'm entering this information into your recurring payment profile now. Please bear with me for about 30 seconds while I save and confirm this."
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "User",
+      "text": "No problem at all."
+    },
+    {
+      "timestamp": "07:48",
+      "speaker": "Agent",
+      "text": "Thank you for holding. Okay, I have an update."
+    },
+    {
+      "timestamp": "07:52",
+      "speaker": "User",
+      "text": "Yes?"
+    },
+    {
+      "timestamp": "07:54",
+      "speaker": "Agent",
+      "text": "The system has accepted the new card. I can confirm that your autopay is now set up with the Visa ending in 9012, expiring 06/27."
+    },
+    {
+      "timestamp": "08:08",
+      "speaker": "User",
+      "text": "Excellent. So we're all set for next month's payment then?"
+    },
+    {
+      "timestamp": "08:12",
+      "speaker": "Agent",
+      "text": "Yes, you are. Your next billing cycle closes at the end of this month, and the automatic payment of three hundred forty-nine dollars will be charged to this new card on the 5th of next month."
+    },
+    {
+      "timestamp": "08:25",
+      "speaker": "User",
+      "text": "That's great. That's exactly what I needed. Thank you."
+    },
+    {
+      "timestamp": "08:29",
+      "speaker": "Agent",
+      "text": "You are very welcome. Would you like me to send a confirmation email to the address on file, john.doe@techcorpsolutions.com, summarizing the payment made today and the update to your autopay settings?"
+    },
+    {
+      "timestamp": "08:42",
+      "speaker": "User",
+      "text": "Oh, yes please. That would be very helpful for our records."
+    },
+    {
+      "timestamp": "08:47",
+      "speaker": "Agent",
+      "text": "Of course. I'm generating that email now... It will include today's payment confirmation number and a note that the autopay card has been updated. You should receive it within the next 5 to 10 minutes."
+    },
+    {
+      "timestamp": "09:01",
+      "speaker": "User",
+      "text": "Perfect. That's great service, Brenda."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "Agent",
+      "text": "We're happy to help. Is there anything else I can assist you with today, Mr. Doe? Perhaps a question about your Cymbal Telecom services or your account?"
+    },
+    {
+      "timestamp": "09:15",
+      "speaker": "User",
+      "text": "No, I think that covers everything. The main thing was just getting that payment sorted out. I'm glad it was a simple fix."
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "Agent",
+      "text": "Me too. We appreciate you taking care of it so quickly."
+    },
+    {
+      "timestamp": "09:28",
+      "speaker": "User",
+      "text": "It's our main internet connection, so we definitely want to keep it active!"
+    },
+    {
+      "timestamp": "09:34",
+      "speaker": "Agent",
+      "text": "I completely understand. The Business Dedicated Fiber is a fantastic service, very reliable."
+    },
+    {
+      "timestamp": "09:42",
+      "speaker": "User",
+      "text": "It has been, yes. We've been very happy with it."
+    },
+    {
+      "timestamp": "09:46",
+      "speaker": "Agent",
+      "text": "That's wonderful to hear. I've been with Cymbal for five years and the feedback on the fiber network is always positive."
+    },
+    {
+      "timestamp": "09:55",
+      "speaker": "User",
+      "text": "I believe it. Well, you've been a great help."
+    },
+    {
+      "timestamp": "10:00",
+      "speaker": "Agent",
+      "text": "It was my pleasure. Just to recap, we processed a payment for $349, bringing your account current. We also updated your autopay information with a new Visa, and a confirmation email is on its way."
+    },
+    {
+      "timestamp": "10:15",
+      "speaker": "User",
+      "text": "That's a perfect summary. Thank you again."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "Agent",
+      "text": "You're welcome. Just one last thing, since I have you, I see you are on the Business Dedicated Fiber 500Mbps plan. We are running a promotion for existing business customers to upgrade to the 1-Gigabit tier for a very small increase in monthly cost. Is that something you'd be interested in hearing about?"
+    },
+    {
+      "timestamp": "10:35",
+      "speaker": "User",
+      "text": "Oh, thanks for the offer, but I think the 500 is more than enough for our needs right now. I don't have the authority to make service changes anyway, so I'd have to pass."
+    },
+    {
+      "timestamp": "10:45",
+      "speaker": "Agent",
+      "text": "Not a problem at all, I completely understand. Just wanted to make sure you were aware of the options available."
+    },
+    {
+      "timestamp": "10:52",
+      "speaker": "User",
+      "text": "I appreciate it. Maybe in the future."
+    },
+    {
+      "timestamp": "10:55",
+      "speaker": "Agent",
+      "text": "Of course. Well, if there's nothing further, I'll let you get back to your day."
+    },
+    {
+      "timestamp": "11:01",
+      "speaker": "User",
+      "text": "Sounds good. Thanks for everything, Brenda."
+    },
+    {
+      "timestamp": "11:05",
+      "speaker": "Agent",
+      "text": "You're most welcome. Thank you for calling Cymbal Telecom Business Support. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "11:13",
+      "speaker": "User",
+      "text": "You too. Bye now."
+    },
+    {
+      "timestamp": "11:15",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "11:20",
+      "speaker": "User",
+      "text": "Oh, wait, wait, Brenda, are you still there?"
+    },
+    {
+      "timestamp": "11:23",
+      "speaker": "Agent",
+      "text": "Yes, I'm still here! What can I do for you?"
+    },
+    {
+      "timestamp": "11:27",
+      "speaker": "User",
+      "text": "Sorry about that. I just got the email confirmation, that was fast. But I just had one other quick question I forgot to ask."
+    },
+    {
+      "timestamp": "11:35",
+      "speaker": "Agent",
+      "text": "Of course. I'm glad you got the email. What's your question?"
+    },
+    {
+      "timestamp": "11:39",
+      "speaker": "User",
+      "text": "The late payment... this won't cause any service interruptions or anything, will it? I mean, since we paid it right away."
+    },
+    {
+      "timestamp": "11:47",
+      "speaker": "Agent",
+      "text": "That's a very good question. No, not at all. Your account is in good standing and the payment was only a few days late. Our system typically doesn't flag accounts for service interruption until they are at least 30 days past due, and even then, we make multiple attempts to contact you."
+    },
+    {
+      "timestamp": "12:05",
+      "speaker": "User",
+      "text": "Oh, okay. That's a relief. I just had a momentary panic that our internet was going to get shut off."
+    },
+    {
+      "timestamp": "12:12",
+      "speaker": "Agent",
+      "text": "No need to worry. Since you've been a long-time customer with a perfect payment history, a single late payment due to an expired card is not an issue. Your service was never at risk."
+    },
+    {
+      "timestamp": "12:24",
+      "speaker": "User",
+      "text": "That's really good to know. Thank you for clarifying that for me."
+    },
+    {
+      "timestamp": "12:29",
+      "speaker": "Agent",
+      "text": "It's my pleasure. It's important you have peace of mind about your service. Is there anything else that comes to mind?"
+    },
+    {
+      "timestamp": "12:38",
+      "speaker": "User",
+      "text": "Actually, yes. Now that I'm thinking about it... does this late payment get reported to any credit agencies? Since it's a business account."
+    },
+    {
+      "timestamp": "12:48",
+      "speaker": "Agent",
+      "text": "Another excellent question. No, Cymbal Telecom does not report to business credit agencies for payments that are less than 90 days delinquent. Since your account was only a few days overdue and is now fully paid, there is absolutely no credit reporting of any kind."
+    },
+    {
+      "timestamp": "13:05",
+      "speaker": "User",
+      "text": "Okay, that's fantastic. You've really put my mind at ease. I have to answer for these things, so it's good to have the correct information."
+    },
+    {
+      "timestamp": "13:15",
+      "speaker": "Agent",
+      "text": "I completely understand the need for clear records and accountability. You can confidently report that the account is in perfect standing with no negative marks."
+    },
+    {
+      "timestamp": "13:26",
+      "speaker": "User",
+      "text": "I will. Thank you so much for the extra information. It's been more helpful than you know."
+    },
+    {
+      "timestamp": "13:33",
+      "speaker": "Agent",
+      "text": "I'm genuinely happy I could assist. We try to be as transparent as possible with our billing and account policies."
+    },
+    {
+      "timestamp": "13:42",
+      "speaker": "User",
+      "text": "It shows. I deal with a lot of vendors, and this has been one of the smoothest calls I've had to make all week."
+    },
+    {
+      "timestamp": "13:50",
+      "speaker": "Agent",
+      "text": "That is one of the best compliments we can receive. Thank you, Mr. Doe."
+    },
+    {
+      "timestamp": "13:56",
+      "speaker": "User",
+      "text": "You earned it. Okay, I promise I won't keep you any longer. That was really all."
+    },
+    {
+      "timestamp": "14:03",
+      "speaker": "Agent",
+      "text": "Please, don't worry about the time. My goal is to ensure all your questions are answered. Are you absolutely certain there's nothing else?"
+    },
+    {
+      "timestamp": "14:12",
+      "speaker": "User",
+      "text": "I'm certain. You've covered all the bases and then some. I'm all set."
+    },
+    {
+      "timestamp": "14:18",
+      "speaker": "Agent",
+      "text": "Wonderful. Well, then, I'll say goodbye again. Thank you once more for your call to Cymbal Telecom."
+    },
+    {
+      "timestamp": "14:26",
+      "speaker": "User",
+      "text": "Thanks, Brenda. Have a great one."
+    },
+    {
+      "timestamp": "14:29",
+      "speaker": "Agent",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "18:55",
+      "speaker": "Agent",
+      "text": "[Call ended by user, agent proceeds with after-call work notes]"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "call_id": "CALL-0059",
+    "customer_id": "CUST-1019",
+    "customer_name": "Michael Moore",
+    "customer_type": "Consumer",
+    "phone": "555-891-3496",
+    "email": "michael.moore@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 13,
+    "total_turns": 66
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Sarah, I'm calling about my bill and my internet service. I think there's a mistake."
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. I just need to verify your account for security purposes. Could I please have your first and last name?"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "User",
+      "text": "Sure, it's Michael Moore."
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Moore. And do you have your Cymbal Telecom Customer ID handy? It should be on the top of your bill."
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "User",
+      "text": "Yeah, hold on, let me grab it... Okay, it's CUST-1019."
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. One moment while I pull that up... Okay, I see your account here. For the final verification step, could you please provide the four-digit security PIN you set up with us?"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "User",
+      "text": "Yes, it's 8-2-7-1."
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Moore. You're fully verified. Now, how can I help you with your bill and service today?"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "User",
+      "text": "Okay, so about two weeks ago, I called to upgrade my internet from the 300 megabit plan to the 1 Gig plan. I just got my new bill, and it's charging me the higher rate for the gigabit speed."
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "Agent",
+      "text": "Okay, I see the plan change order here on your account, effective from the first of this month. That sounds correct."
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "User",
+      "text": "Right, but that's the problem. I'm paying for it, but I'm not getting it. I've run a few speed tests, and my speeds are exactly the same as they were before. It's still topping out around 300 megabits."
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "Agent",
+      "text": "Oh, I see. I sincerely apologize for that discrepancy. You should absolutely be receiving the speeds you're paying for. Let me take a deeper look into the technical side of your account. This will just take me a moment."
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "User",
+      "text": "Thank you. It's just frustrating, you know? I pay the bill on time, and I expect the service to work as advertised."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "Agent",
+      "text": "I completely understand your frustration, and you are right to call. Let's get this sorted out for you. Okay, I'm reviewing the provisioning records for your service now."
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "User",
+      "text": "What's provisioning?"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "Agent",
+      "text": "It's the process where our system sends the correct speed profile to the equipment at your home, specifically the Optical Network Terminal, or ONT, that brings the fiber connection into your house. It tells it what speed to deliver."
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "User",
+      "text": "Ah, okay. So did that happen?"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "Agent",
+      "text": "Well, this is interesting. I can see the billing system was correctly updated to the Fiber 1 Gig plan. However, looking at the network logs, it appears the corresponding command to update your speed profile failed to sync with your ONT. It seems to be stuck on the old Fiber 300 profile."
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "User",
+      "text": "So a computer glitch basically?"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "Agent",
+      "text": "Essentially, yes. It's a rare system sync lag, but it does happen occasionally. The good news is, I should be able to fix this for you right now from my end."
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "User",
+      "text": "Okay, that's a relief. What do you need me to do?"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "Agent",
+      "text": "I'm going to manually push the provisioning order through to your equipment. This might cause your internet to disconnect for about a minute. Is that okay?"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "User",
+      "text": "Yes, that's fine. I'm on my cell phone, so it won't cut us off."
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "Agent",
+      "text": "Excellent. I am initiating the command now... It's being sent to your ONT. I'll need to place you on a brief hold for about two minutes while the system processes it and confirms the update. Can I place you on hold?"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "User",
+      "text": "Yes, go ahead."
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "Agent",
+      "text": "Thank you. I'll be back with you shortly."
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Moore. Are you still with me?"
+    },
+    {
+      "timestamp": "05:08",
+      "speaker": "User",
+      "text": "Yep, I'm here."
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "Agent",
+      "text": "Great. The command was accepted, and the system is now showing that your connection is provisioned for the full 1 Gigabit speed. To be absolutely sure, I'd like you to run another speed test."
+    },
+    {
+      "timestamp": "05:22",
+      "speaker": "User",
+      "text": "Okay. Should I reboot my router first or anything?"
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "Agent",
+      "text": "That's a great question. It's often a good idea. Could you please unplug the power from your Cymbal Wi-Fi router for about 30 seconds, and then plug it back in? Let me know when you've done so."
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "User",
+      "text": "Okay, it's unplugged now."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "Agent",
+      "text": "Alright, you can go ahead and plug it back in."
+    },
+    {
+      "timestamp": "06:13",
+      "speaker": "User",
+      "text": "Plugged back in. The lights are blinking... it takes a minute or two to come back online."
+    },
+    {
+      "timestamp": "06:20",
+      "speaker": "Agent",
+      "text": "No problem, I'll wait with you. Just let me know when your computer or device is reconnected to the Wi-Fi."
+    },
+    {
+      "timestamp": "07:35",
+      "speaker": "User",
+      "text": "Okay, looks like I'm connected again. The Wi-Fi signal is back."
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "Agent",
+      "text": "Perfect. Now, if you could please open a web browser on a computer that's connected directly to the router with an Ethernet cable, if possible, for the most accurate result."
+    },
+    {
+      "timestamp": "07:50",
+      "speaker": "User",
+      "text": "Yep, I'm on my desktop, which is wired in. What website should I use?"
+    },
+    {
+      "timestamp": "07:55",
+      "speaker": "Agent",
+      "text": "You can just go to any popular speed testing website. Typing 'speed test' into a search engine should give you a good option right at the top."
+    },
+    {
+      "timestamp": "08:04",
+      "speaker": "User",
+      "text": "Okay, I'm on one now. Clicking the 'Go' button..."
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "Agent",
+      "text": "Let me know what you see."
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "User",
+      "text": "Wow... okay. Yep, that's much different. The download is showing... 938 megabits per second. And upload is... 941. That's what I was expecting to see!"
+    },
+    {
+      "timestamp": "08:48",
+      "speaker": "Agent",
+      "text": "Fantastic! I'm so glad to hear that. That confirms the speed profile is now correct. My apologies again that it wasn't applied automatically."
+    },
+    {
+      "timestamp": "08:56",
+      "speaker": "User",
+      "text": "Great, thanks for fixing that. Now... what about the bill? I've paid for two weeks of service I didn't get."
+    },
+    {
+      "timestamp": "09:04",
+      "speaker": "Agent",
+      "text": "You are absolutely right, and we need to make that right. Let's take care of the billing adjustment now."
+    },
+    {
+      "timestamp": "09:10",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "09:12",
+      "speaker": "Agent",
+      "text": "Let me see. Your old Fiber 300 plan was $55 per month, and the new Fiber 1 Gig plan is $80 per month. Is that correct?"
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "User",
+      "text": "Yes, that's right."
+    },
+    {
+      "timestamp": "09:25",
+      "speaker": "Agent",
+      "text": "Okay, so the difference is $25 per month. The billing cycle started on the 1st, and today is the 15th, so you've gone about half a month without the correct speed."
+    },
+    {
+      "timestamp": "09:37",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "09:39",
+      "speaker": "Agent",
+      "text": "So, we need to credit you for half of that monthly difference. Half of $25 is $12.50. I will apply a pro-rated credit of $12.50 to your account immediately."
+    },
+    {
+      "timestamp": "09:55",
+      "speaker": "User",
+      "text": "Okay, that sounds fair. So that will just come off my next bill?"
+    },
+    {
+      "timestamp": "10:00",
+      "speaker": "Agent",
+      "text": "Exactly. You'll see a line item on your next statement that says 'Service Adjustment Credit' for $12.50. I'm processing that for you right now... one moment."
+    },
+    {
+      "timestamp": "10:30",
+      "speaker": "Agent",
+      "text": "Alright, the credit has been successfully applied to your account. The reference number for this credit is CR-771509. Would you like me to repeat that?"
+    },
+    {
+      "timestamp": "10:42",
+      "speaker": "User",
+      "text": "No, that's okay, as long as it's on there. I trust you."
+    },
+    {
+      "timestamp": "10:46",
+      "speaker": "Agent",
+      "text": "It is. So, to summarize our call today: we've successfully updated your internet service to the full 1 Gigabit speed you ordered, and we've applied a $12.50 credit to your account to compensate for the period you were billed incorrectly."
+    },
+    {
+      "timestamp": "11:02",
+      "speaker": "User",
+      "text": "Yes, that covers everything. Thank you so much for your help, Sarah. You were very efficient."
+    },
+    {
+      "timestamp": "11:08",
+      "speaker": "Agent",
+      "text": "You are very welcome, Mr. Moore. It was my pleasure to get this resolved for you. I'm glad we could sort it all out on this call."
+    },
+    {
+      "timestamp": "11:16",
+      "speaker": "User",
+      "text": "Me too."
+    },
+    {
+      "timestamp": "11:18",
+      "speaker": "Agent",
+      "text": "Is there anything else at all I can assist you with today? Any other questions about your account or services?"
+    },
+    {
+      "timestamp": "11:25",
+      "speaker": "User",
+      "text": "No, that's it for me. You've answered all my questions."
+    },
+    {
+      "timestamp": "11:29",
+      "speaker": "Agent",
+      "text": "Wonderful. Well, thank you for being a valued Cymbal Telecom customer. I hope you enjoy your new, faster internet speed!"
+    },
+    {
+      "timestamp": "11:37",
+      "speaker": "User",
+      "text": "I will! Have a good day."
+    },
+    {
+      "timestamp": "11:40",
+      "speaker": "Agent",
+      "text": "You too. Thank you for calling Cymbal Telecom. Goodbye."
+    },
+    {
+      "timestamp": "12:45",
+      "speaker": "Agent",
+      "text": "Call ended."
+    }
+  ]
+}

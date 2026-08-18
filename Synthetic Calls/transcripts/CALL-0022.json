@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "call_id": "CALL-0022",
+    "customer_id": "CUST-1024",
+    "customer_name": "Kimberly Taylor",
+    "customer_type": "Consumer",
+    "phone": "555-602-3565",
+    "email": "kimberly.taylor@telecom-personal.com",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "duration_minutes": 9,
+    "total_turns": 53
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is David. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi David. I need to set up new service for a business location. Internet and a few phone lines."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Excellent, you've reached the right place. I can definitely assist you with a new business order. To get started, could I get your full name please?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Kimberly Taylor."
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "Agent",
+      "text": "Thank you, Ms. Taylor. Do you happen to have an existing Cymbal Telecom account number or a phone number associated with our services?"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "User",
+      "text": "Yes, I have a personal account. The phone number is 555-602-3565."
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "Agent",
+      "text": "Great, one moment while I look that up... Okay, I see the account. For security purposes, could you please verify the four-digit PIN associated with your account?"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "User",
+      "text": "Yes, it's 3-5-6-5."
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. Now, I see you have a residential Triple Play Bundle. Just to be clear, you're looking to establish a completely new, separate account for a business address, correct?"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "User",
+      "text": "That's correct. This has nothing to do with my home service. It's for a new satellite office we're opening."
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "Agent",
+      "text": "Understood. Let's get that set up for you. What is the full street address for the new office, including the city and zip code?"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "User",
+      "text": "It's 452 West Industrial Park Drive, Suite 104. That's in Northwood, zip code 98275."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "Agent",
+      "text": "Thank you. 452 West Industrial Park Drive, Suite 104. Let me check serviceability for that location... one moment."
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "Agent",
+      "text": "Good news, Ms. Taylor. We have our full Cymbal Fiber network available at that address. We can offer you some excellent business-grade speeds."
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "User",
+      "text": "That's what I was hoping to hear. What kind of plans do you have?"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "Agent",
+      "text": "Well, based on what you described as a satellite office, our most popular plan is the Business Fiber 500. It offers symmetrical speeds of 500 megabits per second for both download and upload, which is great for cloud applications, video conferencing, and supporting multiple employees."
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "User",
+      "text": "Okay, that sounds about right. It's a small retail and office space, maybe five or six employees at most. We need it to be very reliable for our point-of-sale system and inventory management. What's the cost on that?"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "Agent",
+      "text": "The Business Fiber 500 plan is $99.99 per month. That includes the router rental and a static IP address if you need one."
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "User",
+      "text": "That price is fine. Now, what about the phone lines? We need a few."
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "Agent",
+      "text": "Certainly. We offer a cloud-based VoIP solution called Cymbal Cloud Voice. It's very flexible. How many individual phone numbers or extensions were you thinking of?"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "User",
+      "text": "I think we need three. One for the main sales desk, one for the manager's office, and one for the stock room."
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "Agent",
+      "text": "Okay. Our Cloud Voice service is priced per line, or 'seat'. Each seat is $24.99 per month and comes with a host of features like an auto-attendant, voicemail-to-email, call forwarding, and you can even use a mobile app to make and receive calls from your business number."
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "User",
+      "text": "So for three lines, that would be about $75 a month?"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "Agent",
+      "text": "Exactly. $74.97 for the three Cloud Voice seats, plus the $99.99 for the internet. Your total monthly recurring charge would be $174.96 before taxes and fees."
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "User",
+      "text": "That's within our budget. Does that include the physical phones?"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "Agent",
+      "text": "That's a great question. The price is for the service itself. You can purchase VoIP-compatible desk phones from us, or you can use your own. We can also set you up with just the softphone application for computers and smartphones at no extra hardware cost."
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "User",
+      "text": "No, we definitely want physical desk phones. What would three of those cost?"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "Agent",
+      "text": "Our standard business model, which has HD voice and programmable buttons, is a one-time purchase of $89 per phone. Or you can lease them for $4.99 per phone, per month."
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "User",
+      "text": "Hmm, let's just purchase them outright. I'll get that approved. Let's move forward with the internet and the three phone lines."
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "Agent",
+      "text": "Excellent choice. So, to recap the order: one Business Fiber 500 plan, three Cymbal Cloud Voice seats, and a one-time purchase of three business desk phones. Is that correct?"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "User",
+      "text": "Yes, that's all correct."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "Agent",
+      "text": "Perfect. Now, this type of installation requires a professional technician to visit the site. There is a one-time standard business installation fee of $150. The technician will run the fiber line to the Optical Network Terminal, set up the Cymbal Wi-Fi router, and ensure the connection is active and getting the correct speeds."
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "User",
+      "text": "Okay, $150 is fine. When can you get a technician out there?"
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "Let me pull up the dispatch schedule for Northwood. We will need someone over the age of 18 to be present for the duration of the appointment window. What day works best for you?"
+    },
+    {
+      "timestamp": "05:12",
+      "speaker": "User",
+      "text": "We get the keys next Monday. So anytime after that. How about next Wednesday, the 15th?"
+    },
+    {
+      "timestamp": "05:20",
+      "speaker": "Agent",
+      "text": "Checking Wednesday the 15th... Yes, I have availability. We have two windows: a morning window from 8 AM to 12 PM, or an afternoon window from 1 PM to 5 PM."
+    },
+    {
+      "timestamp": "05:33",
+      "speaker": "User",
+      "text": "Let's do the morning window, 8 AM to 12 PM. I'll be there myself."
+    },
+    {
+      "timestamp": "05:39",
+      "speaker": "Agent",
+      "text": "Great. I've booked you for Wednesday the 15th, between 8 AM and noon. I just need to build your new business account and place the order. This will just take me about two minutes. Do you mind a brief hold?"
+    },
+    {
+      "timestamp": "05:52",
+      "speaker": "User",
+      "text": "No, that's fine."
+    },
+    {
+      "timestamp": "05:54",
+      "speaker": "Agent",
+      "text": "Thank you. Please hold."
+    },
+    {
+      "timestamp": "07:35",
+      "speaker": "Agent",
+      "text": "Thank you so much for your patience, Ms. Taylor. The new business account has been created and the order is placed."
+    },
+    {
+      "timestamp": "07:42",
+      "speaker": "User",
+      "text": "Great, that was quick."
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "Agent",
+      "text": "Your new Cymbal Telecom business account number is 8544-1024. I'm also sending a confirmation email right now with all the details we discussed. What is the best email address for this business account?"
+    },
+    {
+      "timestamp": "07:58",
+      "speaker": "User",
+      "text": "Please send it to kimberly.taylor@telecom-personal.com. It's a bit of a mouthful, I know."
+    },
+    {
+      "timestamp": "08:08",
+      "speaker": "Agent",
+      "text": "Not a problem. Got it... kimberly dot taylor at telecom hyphen personal dot com. I've just sent that confirmation. It includes a summary of your first bill, which will have the one-time charges for the installation and the three phones, plus the first month of service."
+    },
+    {
+      "timestamp": "08:24",
+      "speaker": "User",
+      "text": "Okay, I'll look for that email. So I'm all set for the technician next Wednesday?"
+    },
+    {
+      "timestamp": "08:29",
+      "speaker": "Agent",
+      "text": "Yes, you are. To quickly recap: Installation is scheduled for Wednesday the 15th between 8 AM and 12 PM at 452 West Industrial Park Drive, Suite 104. The technician will install your Business Fiber 500 internet and provide the three phones you purchased."
+    },
+    {
+      "timestamp": "08:44",
+      "speaker": "User",
+      "text": "Perfect. That's everything I needed. Thank you for your help, David."
+    },
+    {
+      "timestamp": "08:48",
+      "speaker": "Agent",
+      "text": "It was my pleasure, Ms. Taylor. Is there anything else I can assist you with today?"
+    },
+    {
+      "timestamp": "08:53",
+      "speaker": "User",
+      "text": "No, that's it."
+    },
+    {
+      "timestamp": "08:55",
+      "speaker": "Agent",
+      "text": "Alright then. We're excited to welcome your business to our network. Thank you for choosing Cymbal Telecom, and have a wonderful day."
+    },
+    {
+      "timestamp": "09:02",
+      "speaker": "User",
+      "text": "You too. Bye."
+    }
+  ]
+}

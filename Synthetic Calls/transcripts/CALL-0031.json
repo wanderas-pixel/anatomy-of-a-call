@@ -1,0 +1,470 @@
+{
+  "metadata": {
+    "call_id": "CALL-0031",
+    "customer_id": "CUST-1005",
+    "customer_name": "Jennifer Wright",
+    "customer_type": "Consumer",
+    "phone": "555-523-9960",
+    "email": "jennifer.wright@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 17,
+    "total_turns": 91
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Alex. I'm calling because I need to get some sort of mobile internet device. A hotspot, I think it's called? For some upcoming travel."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Absolutely, you've called the right place. We can definitely help you with a mobile hotspot. To get started and access your account, I'll just need to verify your identity. Could you please provide me with your full name?"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "User",
+      "text": "Sure, it's Jennifer Wright."
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "Agent",
+      "text": "Thank you, Jennifer. And could you provide the customer ID number found on your bill?"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "User",
+      "text": "Oh, let me see... I have it here. It's CUST-1005."
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "Agent",
+      "text": "Perfect. And for the final verification step, can you please provide the 4-digit security PIN on the account?"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "User",
+      "text": "Yes, it's three-five-six-five."
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "Agent",
+      "text": "Excellent. 3-5-6-5. Let me just check that... and... great! Verification is successful. Thank you for your patience with that, Ms. Wright. I see you're already a valued Cymbal Telecom mobile customer."
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "User",
+      "text": "Yes, I've had my cell phone with you for years."
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "Agent",
+      "text": "We appreciate your loyalty. Now, about that hotspot. You mentioned some travel. To help me find the best plan for you, could you tell me a bit more? Will you be traveling domestically, and what kind of data usage are you expecting?"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "User",
+      "text": "It's all domestic, within the US. My husband and I bought an RV and we're planning a few long trips over the next year. I'll need it for my laptop for some remote work, and maybe streaming a movie on a tablet in the evenings."
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "Agent",
+      "text": "That sounds like a wonderful adventure! And a perfect use case for one of our hotspot devices. So you'll need enough data for work and some entertainment. I can certainly help with that."
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "User",
+      "text": "Great. So what are my options?"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "Agent",
+      "text": "We have several data-only plans designed specifically for devices like this. They are separate from your mobile phone plan and come with their own data buckets. Are you looking for a specific amount of data per month?"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "User",
+      "text": "I was looking online and I think something around 50 gigabytes seems like a good starting point. I don't want to run out, but I also don't want to pay for a huge amount I won't use."
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "Agent",
+      "text": "Fifty gigabytes is a very popular choice. It offers a great balance. Let me pull up the specifics for that plan for you. One moment."
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "User",
+      "text": "Okay, thank you."
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "Agent",
+      "text": "Alright, I have it here. Our 50 gigabyte data-only plan is $40 per month, plus applicable taxes and fees."
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "User",
+      "text": "Forty dollars. Okay. And that's for high-speed data, right?"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "Agent",
+      "text": "That's correct. You get 50 gigabytes of premium high-speed 5G and 4G LTE data, depending on the coverage in your area. Our network is quite extensive, especially along major travel routes."
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "User",
+      "text": "What happens if I go over the 50 gigabytes in a month?"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "Agent",
+      "text": "That's a great question. With Cymbal Telecom, we don't have overage charges, so you'll never see a surprise on your bill. After you use the 50 gigabytes, your speeds are reduced for the remainder of the billing cycle. You'll still have unlimited data, just at a slower speed."
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "User",
+      "text": "How much slower?"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "Agent",
+      "text": "The speeds are reduced to about 1.5 megabits per second. It's still usable for checking emails and basic web browsing, but it would be difficult to stream high-definition video at that speed."
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "User",
+      "text": "Okay, that makes sense. Good to know there are no extra fees. Does the data roll over to the next month if I don't use it all?"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "Agent",
+      "text": "The data on these plans does not roll over. It resets at the start of each billing cycle."
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "User",
+      "text": "Alright, fair enough. And is there a contract? I might not need it every single month of the year."
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "Agent",
+      "text": "No annual contract at all. It's a month-to-month service. You can suspend or cancel the line anytime you need to. You'd just be responsible for the cost of the device itself."
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "User",
+      "text": "Oh, right. The device. What are the options for that?"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "Agent",
+      "text": "Our premier hotspot is the Cymbal Go 5G Hotspot. It's a fantastic little device. It can connect up to 15 of your gadgets at once, has a battery that lasts all day, and a simple color touchscreen to manage your connection and see your data usage."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "User",
+      "text": "That sounds like exactly what I need. How much does the Cymbal Go device cost?"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "Agent",
+      "text": "The full retail price for the device is $240."
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "User",
+      "text": "Ooh, okay. That's a bit of an investment."
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "Agent",
+      "text": "It is, but it's a very capable piece of hardware. We do have an option to make it more manageable. Since you're activating a new line, you qualify for our device payment plan. You can finance the device over 24 months."
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "User",
+      "text": "And how much would that be per month?"
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "It would be just $10 per month for 24 months, with zero percent interest. It would just be added to your monthly Cymbal bill alongside the $40 service plan."
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "User",
+      "text": "So, $50 a month total, plus taxes."
+    },
+    {
+      "timestamp": "05:18",
+      "speaker": "Agent",
+      "text": "Exactly. For 24 months, and then the device payment would fall off your bill."
+    },
+    {
+      "timestamp": "05:24",
+      "speaker": "User",
+      "text": "Hmm. Let me think. I don't love the idea of another monthly payment. I think I'd rather just buy it outright and be done with it. Can I do that?"
+    },
+    {
+      "timestamp": "05:36",
+      "speaker": "Agent",
+      "text": "Of course. You can absolutely purchase the device for the full retail price of $240 today. Many customers prefer that simplicity."
+    },
+    {
+      "timestamp": "05:46",
+      "speaker": "User",
+      "text": "Okay, let's do that. So it's the $240 for the device, and $40 a month for the service. Is there any other fee I should know about? Like an activation fee?"
+    },
+    {
+      "timestamp": "05:58",
+      "speaker": "Agent",
+      "text": "Yes, there is a one-time activation fee of $35 for any new line of service. That would be part of your initial costs."
+    },
+    {
+      "timestamp": "06:08",
+      "speaker": "User",
+      "text": "Okay. So $240 plus $35."
+    },
+    {
+      "timestamp": "06:12",
+      "speaker": "Agent",
+      "text": "Correct. Your upfront cost for the hardware and activation would be $275, plus local sales tax on the device."
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "User",
+      "text": "And how does that get charged? On my next bill?"
+    },
+    {
+      "timestamp": "06:26",
+      "speaker": "Agent",
+      "text": "We can do it a couple of ways. We can add the entire amount to your next monthly bill, or you can pay the hardware portion today with a credit or debit card, and then the first month of service and activation fee will appear on your next bill."
+    },
+    {
+      "timestamp": "06:41",
+      "speaker": "User",
+      "text": "I think I'd prefer to pay for the hardware today and get it over with. Can I use the card I have on file for my monthly payments?"
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "Agent",
+      "text": "Let me check what we have on file for you... I see a Visa card ending in 4-3-2-1. Is that the one you'd like to use for the $240 device purchase plus tax?"
+    },
+    {
+      "timestamp": "07:03",
+      "speaker": "User",
+      "text": "No, wait... that's my old card. It expired. I must have updated it on the website. The new one should be a Mastercard."
+    },
+    {
+      "timestamp": "07:12",
+      "speaker": "Agent",
+      "text": "Ah, okay. Thank you for clarifying. I am not able to see the full card number for your security, but I can see the payment method was updated recently. I can't charge to it directly without you providing the number again over the phone, which I'm happy to do in our secure system. Or, we can simply add the charge to your next bill, which will then be paid by that updated card automatically when it's due."
+    },
+    {
+      "timestamp": "07:35",
+      "speaker": "User",
+      "text": "You know what, that's easier. Let's just put it all on the next bill. The device, the activation, the first month of service. All of it."
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "Agent",
+      "text": "Sounds like a plan. That keeps everything simple and in one place. So, just to recap the order before I submit it for you."
+    },
+    {
+      "timestamp": "07:53",
+      "speaker": "User",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "07:55",
+      "speaker": "Agent",
+      "text": "We are adding one new Cymbal Telecom data line to your account. The plan is our 50 Gigabyte high-speed data plan for $40 per month. Is that correct?"
+    },
+    {
+      "timestamp": "08:09",
+      "speaker": "User",
+      "text": "Yes, $40 for 50 gigs. Correct."
+    },
+    {
+      "timestamp": "08:14",
+      "speaker": "Agent",
+      "text": "Perfect. And we are shipping you one new Cymbal Go 5G Hotspot. You are purchasing this device at the full retail price of $240."
+    },
+    {
+      "timestamp": "08:26",
+      "speaker": "User",
+      "text": "Yes, that's right."
+    },
+    {
+      "timestamp": "08:28",
+      "speaker": "Agent",
+      "text": "And finally, we are applying the standard one-time new line activation fee of $35."
+    },
+    {
+      "timestamp": "08:36",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "08:38",
+      "speaker": "Agent",
+      "text": "So, your next bill will be higher than usual. It will include your regular mobile plan, plus the $240 for the device, the $35 activation fee, and the first month's $40 service charge for the hotspot, plus taxes. Does that all sound correct to you?"
+    },
+    {
+      "timestamp": "09:00",
+      "speaker": "User",
+      "text": "Yes, it's a lot of numbers, but you've explained it clearly. That all sounds correct. Let's do it."
+    },
+    {
+      "timestamp": "09:08",
+      "speaker": "Agent",
+      "text": "Wonderful. I just need your verbal confirmation to proceed with placing this order and adding these charges to your account."
+    },
+    {
+      "timestamp": "09:16",
+      "speaker": "User",
+      "text": "I agree. Please proceed."
+    },
+    {
+      "timestamp": "09:19",
+      "speaker": "Agent",
+      "text": "Thank you. I am submitting the order now. Please give me about 60 to 90 seconds while the system processes everything."
+    },
+    {
+      "timestamp": "09:28",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "10:35",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience, Jennifer. I have great news. The order is confirmed!"
+    },
+    {
+      "timestamp": "10:42",
+      "speaker": "User",
+      "text": "Excellent!"
+    },
+    {
+      "timestamp": "10:44",
+      "speaker": "Agent",
+      "text": "I have an order confirmation number for you. Do you have a pen and paper handy?"
+    },
+    {
+      "timestamp": "10:50",
+      "speaker": "User",
+      "text": "Yes, I do. Go ahead."
+    },
+    {
+      "timestamp": "10:53",
+      "speaker": "Agent",
+      "text": "Your order number is D-T-C-8-8-1-5-9-0-2."
+    },
+    {
+      "timestamp": "11:04",
+      "speaker": "User",
+      "text": "Okay... D-T-C-8-8-1-5-9-0-2. Got it."
+    },
+    {
+      "timestamp": "11:12",
+      "speaker": "Agent",
+      "text": "You'll also receive an email confirmation with all these details at the email address we have on file, jennifer.wright@telecom-personal.com. Is that still correct?"
+    },
+    {
+      "timestamp": "11:24",
+      "speaker": "User",
+      "text": "Yes, that's my email. Perfect."
+    },
+    {
+      "timestamp": "11:27",
+      "speaker": "Agent",
+      "text": "Now, regarding the device shipment. Your new Cymbal Go 5G Hotspot will ship from our warehouse within one to two business days. You can expect to receive it via courier in about three to five business days."
+    },
+    {
+      "timestamp": "11:42",
+      "speaker": "User",
+      "text": "That's great, very quick. Will it be hard to set up?"
+    },
+    {
+      "timestamp": "11:47",
+      "speaker": "Agent",
+      "text": "Not at all. It's designed to be extremely user-friendly. The SIM card for your new data plan will already be installed in the device. All you'll need to do is turn it on, and it will automatically connect to the Cymbal Telecom network."
+    },
+    {
+      "timestamp": "12:02",
+      "speaker": "User",
+      "text": "Oh, that's a relief. So I just turn it on, and then search for the Wi-Fi on my laptop?"
+    },
+    {
+      "timestamp": "12:09",
+      "speaker": "Agent",
+      "text": "Precisely. The Wi-Fi network name and password will be displayed on the hotspot's screen when you first turn it on. It will also be on a sticker on the back of the device."
+    },
+    {
+      "timestamp": "12:22",
+      "speaker": "User",
+      "text": "What will the network name be? Will it say Cymbal?"
+    },
+    {
+      "timestamp": "12:26",
+      "speaker": "Agent",
+      "text": "Yes, the default name will be something like 'Cymbal Wi-Fi' followed by a few numbers. You can easily change both the network name and password to something you prefer right from the device's touchscreen menu."
+    },
+    {
+      "timestamp": "12:40",
+      "speaker": "User",
+      "text": "Okay, that sounds very straightforward. I think I can handle that."
+    },
+    {
+      "timestamp": "12:45",
+      "speaker": "Agent",
+      "text": "I'm confident you will. And of course, if you run into any trouble at all, our technical support team is available 24/7. The number is right in the little startup guide that comes in the box."
+    },
+    {
+      "timestamp": "12:58",
+      "speaker": "User",
+      "text": "Wonderful. This is going to make our travels so much easier."
+    },
+    {
+      "timestamp": "13:03",
+      "speaker": "Agent",
+      "text": "I'm so glad we could help get you set up for your trip. It's always exciting to help customers connect, wherever they are."
+    },
+    {
+      "timestamp": "13:12",
+      "speaker": "User",
+      "text": "I really appreciate how thorough you've been, Alex. You've made it very clear."
+    },
+    {
+      "timestamp": "13:18",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Ms. Wright. My goal is to make sure there are no surprises. Was there anything else at all I could assist you with today? Perhaps a question about your existing mobile plan?"
+    },
+    {
+      "timestamp": "13:30",
+      "speaker": "User",
+      "text": "No, I think that's everything for me. You've covered it all."
+    },
+    {
+      "timestamp": "13:35",
+      "speaker": "Agent",
+      "text": "Alright then. Well, thank you again for choosing Cymbal Telecom for your new hotspot service. We truly appreciate your business."
+    },
+    {
+      "timestamp": "13:45",
+      "speaker": "User",
+      "text": "Thank you, Alex. Have a good day."
+    },
+    {
+      "timestamp": "13:48",
+      "speaker": "Agent",
+      "text": "You too. Enjoy your travels, and thank you for calling Cymbal Telecom. Goodbye."
+    }
+  ]
+}

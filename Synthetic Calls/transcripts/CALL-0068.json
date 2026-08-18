@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "call_id": "CALL-0068",
+    "customer_id": "CUST-2007",
+    "customer_name": "Nova Retail Group",
+    "customer_type": "Corporate",
+    "phone": "800-887-8018",
+    "email": "mark.taylor@novaretailgroup.com",
+    "services": "Corporate Mobility: 25x Unlimited 5G Mobile Lines ($625/mo)",
+    "duration_minutes": 8,
+    "total_turns": 45
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom's corporate support line. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "User",
+      "text": "Hi Alex. My name is Mark Taylor. I'm calling from Nova Retail Group. I'm looking at our latest bill and there's a charge on here that is just... astronomical. I need someone to explain it."
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that, Mark. I understand that unexpected charges can be concerning. To access your account, could you please provide your Customer ID?"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "User",
+      "text": "Yes, it's CUST-2007."
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, could you please verify the 6-digit account security PIN?"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "User",
+      "text": "Sure, it's 5-0-7-4-9-8."
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "Agent",
+      "text": "Perfect, that's a match. Thank you for verifying your account, Mr. Taylor. I have the Nova Retail Group account pulled up now. You mentioned a specific charge that was higher than expected?"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "User",
+      "text": "Yes, much higher. It looks like one of our employees, Sarah Jenkins, was traveling in Europe last month, and the roaming data charges are over a thousand dollars. That can't be right."
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "Agent",
+      "text": "I see. Let me take a look at that specific line's usage. Can you confirm the last four digits of Sarah's phone number?"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "User",
+      "text": "It ends in 9-2-1-1."
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "Agent",
+      "text": "Thank you. Please give me one moment to pull up the detailed usage report for that line from the last billing cycle. It may take about 30 seconds."
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "User",
+      "text": "Fine."
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. Okay, I am seeing the charges you're referring to. It looks like the line ending in 9211 incurred $1,184.20 in international data roaming charges between the 10th and 18th of last month."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "User",
+      "text": "Right! How is that even possible? We have an unlimited plan with you guys. I assumed that covered everything."
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "Agent",
+      "text": "I understand the confusion. Your Corporate Mobility plan does include unlimited data, talk, and text within the United States, Canada, and Mexico. However, for travel outside of that North American zone, international roaming is billed at pay-per-use rates."
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "User",
+      "text": "Pay-per-use? No one told us that. We've been with Cymbal for years. Why wouldn't there be some kind of warning or a cap?"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "Agent",
+      "text": "Our system does automatically send a welcome text message when a device connects to a foreign partner network. That message outlines the specific rates for calls, texts, and data for that country. For France, where the usage occurred, the pay-per-use data rate is two dollars per megabyte."
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "User",
+      "text": "Two dollars a megabyte? That's insane. She probably used it for five minutes of Google Maps and racked up this bill. She said she never saw a text."
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "Agent",
+      "text": "It can definitely add up quickly with modern apps. I see the text was delivered successfully to the handset on the 10th at 8:15 AM local time, but of course, it's possible it was missed or dismissed."
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "User",
+      "text": "So what were we supposed to do? Just tell our employees they can't use their phones when traveling for business?"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "Agent",
+      "text": "Not at all. For future trips, we highly recommend one of our international travel packages. For example, our International Day Pass is ten dollars a day and lets you use your domestic plan's data allowance. We also have monthly international add-ons."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "That would have been great information to have beforehand. Now I'm stuck with a twelve-hundred-dollar bill for one employee for one week."
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "Agent",
+      "text": "I completely understand your frustration, and I want to help find a better outcome for you. You're a very valued corporate partner of Cymbal Telecom."
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "User",
+      "text": "Okay, so what can you do?"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "Agent",
+      "text": "Well, the charges are valid based on the terms of the plan, but given your long-standing relationship with us and that this is the first time this has occurred, let me see what options I have. Would you mind if I place you on a brief hold for about one to two minutes while I review this with my support lead?"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "User",
+      "text": "Yes, please. I'll hold."
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "Agent",
+      "text": "Thank you. Please hold."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "Agent",
+      "text": "Mr. Taylor? Thank you so much for holding."
+    },
+    {
+      "timestamp": "05:18",
+      "speaker": "User",
+      "text": "I'm here. Any luck?"
+    },
+    {
+      "timestamp": "05:21",
+      "speaker": "Agent",
+      "text": "Yes. I was able to get approval for a one-time courtesy adjustment. What we can do is retroactively apply our best international package to that line for the billing period."
+    },
+    {
+      "timestamp": "05:32",
+      "speaker": "User",
+      "text": "Okay... and what does that mean in terms of cost?"
+    },
+    {
+      "timestamp": "05:36",
+      "speaker": "Agent",
+      "text": "It means instead of the pay-per-use rates, we will charge you for our $100 International Monthly Pass. That pass provides a set amount of high-speed data. I see Sarah used about 850 megabytes, and the pass covers up to one gigabyte."
+    },
+    {
+      "timestamp": "05:52",
+      "speaker": "User",
+      "text": "So you're saying you can change the nearly twelve-hundred-dollar charge to just one hundred dollars?"
+    },
+    {
+      "timestamp": "05:59",
+      "speaker": "Agent",
+      "text": "Yes, exactly. We can add the $100 monthly pass to the bill and then issue a credit for the full $1,184.20 in pay-per-use charges. Your net cost for her international usage for that month will be just the $100 for the pass."
+    },
+    {
+      "timestamp": "06:15",
+      "speaker": "User",
+      "text": "Wow. Okay. Yes, that is... much, much better. That's a fantastic solution. Thank you."
+    },
+    {
+      "timestamp": "06:23",
+      "speaker": "Agent",
+      "text": "You're very welcome. I'm happy we could sort this out for you. I'm applying the credit now. Please give me just a moment to process it."
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "User",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "Agent",
+      "text": "Alright, the changes have been submitted. You will see a credit for $1,184.20 and a new charge for $100 on your next billing statement. The reference number for this adjustment is CR77014. "
+    },
+    {
+      "timestamp": "07:10",
+      "speaker": "User",
+      "text": "CR77014. Got it. I really appreciate your help with this, Alex. You've been extremely helpful."
+    },
+    {
+      "timestamp": "07:18",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Mr. Taylor. My goal is to make sure your services are working for you, not against you. And for the future, you can always add those international passes directly from the Cymbal Telecom corporate account portal before your employees travel."
+    },
+    {
+      "timestamp": "07:32",
+      "speaker": "User",
+      "text": "I will definitely be doing that from now on. That's a lesson learned. But thank you for making it a less painful one."
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "Agent",
+      "text": "Of course. Is there anything else I can assist you with today? Any other questions about your account or services?"
+    },
+    {
+      "timestamp": "07:47",
+      "speaker": "User",
+      "text": "No, that was the big one. You've solved my problem for the day."
+    },
+    {
+      "timestamp": "07:51",
+      "speaker": "Agent",
+      "text": "Wonderful to hear. Well, thank you for being a Cymbal Telecom customer. We appreciate your business. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "07:59",
+      "speaker": "User",
+      "text": "You too, Alex. Bye."
+    }
+  ]
+}

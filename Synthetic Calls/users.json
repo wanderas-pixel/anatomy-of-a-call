@@ -1,0 +1,517 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "customer_type": "Consumer",
+    "name": "Sandra Ramirez",
+    "email": "sandra.ramirez@telecom-personal.com",
+    "phone": "555-613-7381",
+    "pin": "9828",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1002",
+    "customer_type": "Consumer",
+    "name": "Lisa Perez",
+    "email": "lisa.perez@telecom-personal.com",
+    "phone": "555-207-8581",
+    "pin": "6724",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1003",
+    "customer_type": "Consumer",
+    "name": "Ashley Clark",
+    "email": "ashley.clark@telecom-personal.com",
+    "phone": "555-839-3334",
+    "pin": "3023",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1004",
+    "customer_type": "Consumer",
+    "name": "Michael Hernandez",
+    "email": "michael.hernandez@telecom-personal.com",
+    "phone": "555-127-5977",
+    "pin": "5281",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1005",
+    "customer_type": "Consumer",
+    "name": "Jennifer Wright",
+    "email": "jennifer.wright@telecom-personal.com",
+    "phone": "555-523-9960",
+    "pin": "3565",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1006",
+    "customer_type": "Consumer",
+    "name": "Margaret Harris",
+    "email": "margaret.harris@telecom-personal.com",
+    "phone": "555-744-6364",
+    "pin": "8963",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "standing": "Past Due"
+  },
+  {
+    "customer_id": "CUST-1007",
+    "customer_type": "Consumer",
+    "name": "Richard Wilson",
+    "email": "richard.wilson@telecom-personal.com",
+    "phone": "555-319-1091",
+    "pin": "1006",
+    "services": "Basic Prepaid Mobile Plan ($25/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1008",
+    "customer_type": "Consumer",
+    "name": "Barbara Moore",
+    "email": "barbara.moore@telecom-personal.com",
+    "phone": "555-441-1591",
+    "pin": "7192",
+    "services": "Basic Prepaid Mobile Plan ($25/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1009",
+    "customer_type": "Consumer",
+    "name": "Patricia Robinson",
+    "email": "patricia.robinson@telecom-personal.com",
+    "phone": "555-603-5869",
+    "pin": "5755",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1010",
+    "customer_type": "Consumer",
+    "name": "Charles Williams",
+    "email": "charles.williams@telecom-personal.com",
+    "phone": "555-156-9982",
+    "pin": "1098",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1011",
+    "customer_type": "Consumer",
+    "name": "Karen Thompson",
+    "email": "karen.thompson@telecom-personal.com",
+    "phone": "555-128-4562",
+    "pin": "8860",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1012",
+    "customer_type": "Consumer",
+    "name": "Kimberly Ramirez",
+    "email": "kimberly.ramirez@telecom-personal.com",
+    "phone": "555-627-4836",
+    "pin": "5344",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1013",
+    "customer_type": "Consumer",
+    "name": "Thomas Young",
+    "email": "thomas.young@telecom-personal.com",
+    "phone": "555-588-2228",
+    "pin": "6692",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1014",
+    "customer_type": "Consumer",
+    "name": "Daniel Jones",
+    "email": "daniel.jones@telecom-personal.com",
+    "phone": "555-787-9831",
+    "pin": "1914",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "standing": "Past Due"
+  },
+  {
+    "customer_id": "CUST-1015",
+    "customer_type": "Consumer",
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@telecom-personal.com",
+    "phone": "555-534-4146",
+    "pin": "5063",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1016",
+    "customer_type": "Consumer",
+    "name": "Sandra Wright",
+    "email": "sandra.wright@telecom-personal.com",
+    "phone": "555-735-3488",
+    "pin": "6534",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1017",
+    "customer_type": "Consumer",
+    "name": "Daniel Smith",
+    "email": "daniel.smith@telecom-personal.com",
+    "phone": "555-300-2384",
+    "pin": "5019",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1018",
+    "customer_type": "Consumer",
+    "name": "David Gonzalez",
+    "email": "david.gonzalez@telecom-personal.com",
+    "phone": "555-306-7405",
+    "pin": "5740",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1019",
+    "customer_type": "Consumer",
+    "name": "Michael Moore",
+    "email": "michael.moore@telecom-personal.com",
+    "phone": "555-891-3496",
+    "pin": "8271",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1020",
+    "customer_type": "Consumer",
+    "name": "Kimberly Smith",
+    "email": "kimberly.smith@telecom-personal.com",
+    "phone": "555-791-4076",
+    "pin": "1906",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1021",
+    "customer_type": "Consumer",
+    "name": "Matthew Wilson",
+    "email": "matthew.wilson@telecom-personal.com",
+    "phone": "555-251-8219",
+    "pin": "2947",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1022",
+    "customer_type": "Consumer",
+    "name": "David Hernandez",
+    "email": "david.hernandez@telecom-personal.com",
+    "phone": "555-653-5891",
+    "pin": "2877",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1023",
+    "customer_type": "Consumer",
+    "name": "Ashley King",
+    "email": "ashley.king@telecom-personal.com",
+    "phone": "555-841-4504",
+    "pin": "6400",
+    "services": "Basic Prepaid Mobile Plan ($25/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1024",
+    "customer_type": "Consumer",
+    "name": "Kimberly Taylor",
+    "email": "kimberly.taylor@telecom-personal.com",
+    "phone": "555-602-3565",
+    "pin": "3565",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1025",
+    "customer_type": "Consumer",
+    "name": "Christopher Ramirez",
+    "email": "christopher.ramirez@telecom-personal.com",
+    "phone": "555-567-3148",
+    "pin": "2301",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1026",
+    "customer_type": "Consumer",
+    "name": "Donald Jones",
+    "email": "donald.jones@telecom-personal.com",
+    "phone": "555-763-8343",
+    "pin": "2864",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1027",
+    "customer_type": "Consumer",
+    "name": "Jennifer Ramirez",
+    "email": "jennifer.ramirez@telecom-personal.com",
+    "phone": "555-611-6471",
+    "pin": "4360",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1028",
+    "customer_type": "Consumer",
+    "name": "David Lewis",
+    "email": "david.lewis@telecom-personal.com",
+    "phone": "555-597-5874",
+    "pin": "6395",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1029",
+    "customer_type": "Consumer",
+    "name": "Linda Smith",
+    "email": "linda.smith@telecom-personal.com",
+    "phone": "555-445-2408",
+    "pin": "1577",
+    "services": "Basic Prepaid Mobile Plan ($25/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1030",
+    "customer_type": "Consumer",
+    "name": "Mark Lopez",
+    "email": "mark.lopez@telecom-personal.com",
+    "phone": "555-637-1366",
+    "pin": "7031",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1031",
+    "customer_type": "Consumer",
+    "name": "Karen Davis",
+    "email": "karen.davis@telecom-personal.com",
+    "phone": "555-239-9494",
+    "pin": "9707",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1032",
+    "customer_type": "Consumer",
+    "name": "James Gonzalez",
+    "email": "james.gonzalez@telecom-personal.com",
+    "phone": "555-471-5411",
+    "pin": "8765",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1033",
+    "customer_type": "Consumer",
+    "name": "Sandra Gonzalez",
+    "email": "sandra.gonzalez@telecom-personal.com",
+    "phone": "555-950-7433",
+    "pin": "3227",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1034",
+    "customer_type": "Consumer",
+    "name": "Ashley Lee",
+    "email": "ashley.lee@telecom-personal.com",
+    "phone": "555-949-5925",
+    "pin": "2952",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-1035",
+    "customer_type": "Consumer",
+    "name": "Thomas Taylor",
+    "email": "thomas.taylor@telecom-personal.com",
+    "phone": "555-810-4930",
+    "pin": "5141",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2001",
+    "customer_type": "Corporate",
+    "name": "TechCorp Solutions",
+    "contact_person": "John Doe",
+    "email": "john.doe@techcorpsolutions.com",
+    "phone": "800-310-6259",
+    "pin": "211533",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2002",
+    "customer_type": "Corporate",
+    "name": "Apex Financials",
+    "contact_person": "Emily Vance",
+    "email": "emily.vance@apexfinancials.com",
+    "phone": "800-654-8291",
+    "pin": "351141",
+    "services": "Enterprise Dedicated Ethernet 10Gbps ($1499/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2003",
+    "customer_type": "Corporate",
+    "name": "Global Logistics LLC",
+    "contact_person": "Robert Chen",
+    "email": "robert.chen@globallogistics.com",
+    "phone": "800-938-4890",
+    "pin": "883498",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "standing": "Past Due"
+  },
+  {
+    "customer_id": "CUST-2004",
+    "customer_type": "Corporate",
+    "name": "Vanguard Creative",
+    "contact_person": "Sarah Jenkins",
+    "email": "sarah.jenkins@vanguardcreative.com",
+    "phone": "800-438-2854",
+    "pin": "991822",
+    "services": "Enterprise SIP Trunking - 30 Channels ($350/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2005",
+    "customer_type": "Corporate",
+    "name": "Summit Health Partners",
+    "contact_person": "David Miller",
+    "email": "david.miller@summithealthpartners.com",
+    "phone": "800-328-3821",
+    "pin": "909962",
+    "services": "Business Voice VoIP Suite - 10 Channels ($150/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2006",
+    "customer_type": "Corporate",
+    "name": "Beacon Consulting",
+    "contact_person": "Maria Rodriguez",
+    "email": "maria.rodriguez@beaconconsulting.com",
+    "phone": "800-811-3633",
+    "pin": "919534",
+    "services": "Enterprise SIP Trunking - 30 Channels ($350/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2007",
+    "customer_type": "Corporate",
+    "name": "Nova Retail Group",
+    "contact_person": "Mark Taylor",
+    "email": "mark.taylor@novaretailgroup.com",
+    "phone": "800-887-8018",
+    "pin": "507498",
+    "services": "Corporate Mobility: 25x Unlimited 5G Mobile Lines ($625/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2008",
+    "customer_type": "Corporate",
+    "name": "Blue Sky Aviation",
+    "contact_person": "Karen White",
+    "email": "karen.white@blueskyaviation.com",
+    "phone": "800-307-5968",
+    "pin": "717088",
+    "services": "Corporate Mobility: 50x Unlimited 5G Mobile Lines ($1150/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2009",
+    "customer_type": "Corporate",
+    "name": "Pinnacle Real Estate",
+    "contact_person": "Thomas Anderson",
+    "email": "thomas.anderson@pinnaclerealestate.com",
+    "phone": "800-510-2144",
+    "pin": "358872",
+    "services": "Business Fiber Gigabit Internet ($199/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2010",
+    "customer_type": "Corporate",
+    "name": "Ironwood Manufacturing",
+    "contact_person": "Lisa Garcia",
+    "email": "lisa.garcia@ironwoodmanufacturing.com",
+    "phone": "800-694-7525",
+    "pin": "896330",
+    "services": "Business Voice VoIP Suite - 10 Channels ($150/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2011",
+    "customer_type": "Corporate",
+    "name": "EcoSphere Energy",
+    "contact_person": "Andrew Wilson",
+    "email": "andrew.wilson@ecosphereenergy.com",
+    "phone": "800-467-7862",
+    "pin": "599389",
+    "services": "Corporate Mobility: 25x Unlimited 5G Mobile Lines ($625/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2012",
+    "customer_type": "Corporate",
+    "name": "Quantum Innovations",
+    "contact_person": "Nancy Moore",
+    "email": "nancy.moore@quantuminnovations.com",
+    "phone": "800-951-1838",
+    "pin": "293679",
+    "services": "Enterprise SIP Trunking - 30 Channels ($350/mo)",
+    "standing": "Past Due"
+  },
+  {
+    "customer_id": "CUST-2013",
+    "customer_type": "Corporate",
+    "name": "Delta Legal Services",
+    "contact_person": "Michael Brown",
+    "email": "michael.brown@deltalegalservices.com",
+    "phone": "800-726-4962",
+    "pin": "127274",
+    "services": "Business Dedicated Fiber 500Mbps - SLA Guarantees ($349/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2014",
+    "customer_type": "Corporate",
+    "name": "Velocity Transportation",
+    "contact_person": "Sandra Smith",
+    "email": "sandra.smith@velocitytransportation.com",
+    "phone": "800-661-8454",
+    "pin": "168985",
+    "services": "Enterprise Dedicated Ethernet 10Gbps ($1499/mo)",
+    "standing": "Good"
+  },
+  {
+    "customer_id": "CUST-2015",
+    "customer_type": "Corporate",
+    "name": "OmniMedia Group",
+    "contact_person": "Jessica Lopez",
+    "email": "jessica.lopez@omnimediagroup.com",
+    "phone": "800-149-6387",
+    "pin": "494985",
+    "services": "Business Fiber Gigabit Internet ($199/mo)",
+    "standing": "Good"
+  }
+]

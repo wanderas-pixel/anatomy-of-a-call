@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "call_id": "CALL-0086",
+    "customer_id": "CUST-2006",
+    "customer_name": "Beacon Consulting",
+    "customer_type": "Corporate",
+    "phone": "800-811-3633",
+    "email": "maria.rodriguez@beaconconsulting.com",
+    "services": "Enterprise SIP Trunking - 30 Channels ($350/mo)",
+    "duration_minutes": 14,
+    "total_turns": 82
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Enterprise Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Alex. I'm calling about our latest bill. It seems to be higher than usual and I'd like to understand why."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. To access your account, I'll need to verify some information first. Could you please provide me with your Customer ID?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Yes, it's CUST-2006."
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "Agent",
+      "text": "Thank you. That's C-U-S-T, dash, two-zero-zero-six. Let me just pull that up."
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "User",
+      "text": "That's correct."
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "Agent",
+      "text": "Okay, I see the account for Beacon Consulting. And for security, could you please verify the 6-digit account security PIN?"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "User",
+      "text": "Of course. The PIN is 9-1-9-5-3-4."
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. I have the account open now. And may I have your name, please?"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "User",
+      "text": "This is Maria Rodriguez. I'm the office manager."
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "Agent",
+      "text": "Great, thank you, Maria. It's nice to speak with you. So, you're calling about an increase on your most recent invoice. Let me open that up right now."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "User",
+      "text": "Yes. Our bills are usually around three hundred and fifty dollars, plus some small taxes. This one is... let me see... three hundred seventy dollars, before tax."
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "Agent",
+      "text": "I see. I have the invoice for the current billing cycle right here, and I do see the main service charge is listed at three hundred and seventy dollars. Let me compare this to your previous bill."
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "User",
+      "text": "Okay, thank you."
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "Agent",
+      "text": "Alright. Just one moment while I cross-reference the line items... yes, I see the difference now."
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "User",
+      "text": "What is it?"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "Agent",
+      "text": "It looks like a promotional credit that was on the account has expired. On your previous bills, there was a line item called 'New Business Onboarding Credit' which was for twenty dollars."
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "User",
+      "text": "A twenty dollar credit... I remember that from when we signed up."
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "Agent",
+      "text": "Yes, and on this new invoice, that credit is no longer applied. That would account for the twenty dollar difference you're seeing in the base service charge."
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "User",
+      "text": "So that was a temporary discount?"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "Agent",
+      "text": "That's correct. Let me check the original service agreement. It appears that credit was part of a 12-month sign-up promotion."
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "User",
+      "text": "Twelve months? Let's see... we did sign up with Cymbal about a year ago. I guess that makes sense."
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "Agent",
+      "text": "Yes, I'm showing your service activation date was 13 months ago. So this would be the first bill generated after that 12-month promotional period ended."
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "User",
+      "text": "I see. I wish there had been a notification or something. It's just a surprise to see the price jump without a heads-up."
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "Agent",
+      "text": "I completely understand, Maria. I apologize if that change wasn't clearly communicated ahead of time. The terms are usually outlined in the service agreement, but I know that was a long time ago."
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "User",
+      "text": "It was. So, is three hundred and seventy dollars the standard rate now for our Enterprise SIP Trunking plan?"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "Agent",
+      "text": "Yes, for the 30-channel package, $370 per month is the current standard list price."
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "User",
+      "text": "Okay. Well, we've been a good customer, always pay on time. Are there any other promotions or loyalty discounts you could apply to the account? We'd like to get the cost back down if possible."
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "Agent",
+      "text": "That's an excellent question, and I appreciate you asking. Let me check what offers are available for your account. I see you have a great payment history with us."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "We try."
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "Agent",
+      "text": "To check for those loyalty offers, I'll need to access our retention toolkit. Do you mind if I place you on a brief hold? It should take no more than two to three minutes."
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "User",
+      "text": "No, that's fine. I'll wait."
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "Agent",
+      "text": "Thank you so much. Please hold."
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "Agent",
+      "text": "(Music on hold)"
+    },
+    {
+      "timestamp": "06:15",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Maria. Are you still there?"
+    },
+    {
+      "timestamp": "06:18",
+      "speaker": "User",
+      "text": "Yes, I'm here."
+    },
+    {
+      "timestamp": "06:20",
+      "speaker": "Agent",
+      "text": "Great. So, I've reviewed the account and I was able to find a 'Business Loyalty' discount that we can apply."
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "User",
+      "text": "Okay, and what does that entail?"
+    },
+    {
+      "timestamp": "06:33",
+      "speaker": "Agent",
+      "text": "This offer is a fifteen dollar per month credit. It's not quite the twenty dollars you had before, but it's the best available loyalty offer for your plan type at this time."
+    },
+    {
+      "timestamp": "06:45",
+      "speaker": "User",
+      "text": "Fifteen dollars a month... and for how long?"
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "Agent",
+      "text": "This loyalty credit would be valid for the next 12 months."
+    },
+    {
+      "timestamp": "06:56",
+      "speaker": "User",
+      "text": "So that would bring our bill down to three hundred fifty-five dollars a month, correct?"
+    },
+    {
+      "timestamp": "07:04",
+      "speaker": "Agent",
+      "text": "Exactly. Three hundred and seventy, minus fifteen, would be three hundred fifty-five dollars per month, plus your usual taxes and fees."
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "User",
+      "text": "Hmm. And that's really the best you can offer?"
+    },
+    {
+      "timestamp": "07:20",
+      "speaker": "Agent",
+      "text": "Let me just do one final check... yes, for this specific SIP trunking plan, the fifteen dollar credit is the maximum loyalty discount I'm authorized to apply."
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "User",
+      "text": "Okay. It's better than nothing. Let's go ahead and do that."
+    },
+    {
+      "timestamp": "07:39",
+      "speaker": "Agent",
+      "text": "Wonderful. I'll add that to your account right now. The promotional code is 'LOYALTY15'. I'm just applying it now... one moment."
+    },
+    {
+      "timestamp": "07:55",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "07:57",
+      "speaker": "Agent",
+      "text": "Alright, the 'Business Loyalty' credit has been successfully added to your account for Beacon Consulting."
+    },
+    {
+      "timestamp": "08:06",
+      "speaker": "User",
+      "text": "Great. So my next bill will be for $355?"
+    },
+    {
+      "timestamp": "08:12",
+      "speaker": "Agent",
+      "text": "Yes, that's right. Your next billing cycle will reflect this new rate. Now, regarding your current invoice that was just generated for the $370..."
+    },
+    {
+      "timestamp": "08:22",
+      "speaker": "User",
+      "text": "What about it? Do I still have to pay the higher amount this month?"
+    },
+    {
+      "timestamp": "08:27",
+      "speaker": "Agent",
+      "text": "Since we're applying this change today, I can also apply a one-time credit of fifteen dollars to your current, outstanding bill to align it with the new rate we just agreed upon."
+    },
+    {
+      "timestamp": "08:39",
+      "speaker": "User",
+      "text": "Oh, that would be wonderful. Thank you."
+    },
+    {
+      "timestamp": "08:43",
+      "speaker": "Agent",
+      "text": "You're very welcome. It's the least we can do. Let me process that for you now. This will be a one-time manual account credit."
+    },
+    {
+      "timestamp": "08:55",
+      "speaker": "User",
+      "text": "I appreciate that, Alex."
+    },
+    {
+      "timestamp": "08:58",
+      "speaker": "Agent",
+      "text": "Just takes a moment to get the system to accept it... Okay, confirmation received. I've posted a fifteen dollar credit to your current balance."
+    },
+    {
+      "timestamp": "09:12",
+      "speaker": "User",
+      "text": "So when I go to pay this month's bill, the total due should be lower?"
+    },
+    {
+      "timestamp": "09:18",
+      "speaker": "Agent",
+      "text": "Correct. The invoice itself won't change, but the 'Amount Due' in your online portal or on your payment slip will be fifteen dollars less. It may take up to 24 hours for the credit to reflect in the online portal, just so you are aware."
+    },
+    {
+      "timestamp": "09:32",
+      "speaker": "User",
+      "text": "That's fine. I usually pay it about a week before the due date anyway. I'll check it then."
+    },
+    {
+      "timestamp": "09:39",
+      "speaker": "Agent",
+      "text": "Perfect. So, just to recap the changes we made today."
+    },
+    {
+      "timestamp": "09:44",
+      "speaker": "User",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "09:46",
+      "speaker": "Agent",
+      "text": "We've added the 'Business Loyalty' promotion to your account, which is a fifteen dollar monthly credit for the next twelve months. This makes your new base rate three hundred fifty-five dollars per month."
+    },
+    {
+      "timestamp": "10:00",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "10:02",
+      "speaker": "Agent",
+      "text": "And I've also applied a one-time, fifteen dollar credit to your current invoice to offset the price increase for this month."
+    },
+    {
+      "timestamp": "10:12",
+      "speaker": "User",
+      "text": "That sounds right. Thank you for taking care of that so efficiently."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Maria. I'm happy I could find a solution for you. I'll also add detailed notes to your account documenting our conversation and the changes made, so if you ever need to call back, any agent can see what we've done."
+    },
+    {
+      "timestamp": "10:32",
+      "speaker": "User",
+      "text": "That's very thorough. Thank you."
+    },
+    {
+      "timestamp": "10:36",
+      "speaker": "Agent",
+      "text": "We aim to be. Is there anything else I can assist you with today? Any questions about your other Cymbal services or features?"
+    },
+    {
+      "timestamp": "10:46",
+      "speaker": "User",
+      "text": "No, that was my only issue. Everything else has been working fine."
+    },
+    {
+      "timestamp": "10:52",
+      "speaker": "Agent",
+      "text": "I'm very glad to hear that. In that case, I will also send a confirmation email to the address on file, which is maria.rodriguez@beaconconsulting.com, summarizing the new promotion."
+    },
+    {
+      "timestamp": "11:05",
+      "speaker": "User",
+      "text": "Oh, perfect. That will be helpful for my records."
+    },
+    {
+      "timestamp": "11:10",
+      "speaker": "Agent",
+      "text": "You should receive that within the next hour. It will include a reference number for today's call as well."
+    },
+    {
+      "timestamp": "11:18",
+      "speaker": "User",
+      "text": "Excellent."
+    },
+    {
+      "timestamp": "11:20",
+      "speaker": "Agent",
+      "text": "Before we end the call, can I just confirm the new monthly rate one more time for you?"
+    },
+    {
+      "timestamp": "11:26",
+      "speaker": "User",
+      "text": "Sure."
+    },
+    {
+      "timestamp": "11:28",
+      "speaker": "Agent",
+      "text": "Your Enterprise SIP Trunking with 30 Channels will now be billed at $355 per month, plus applicable taxes and fees, for the next 12 billing cycles."
+    },
+    {
+      "timestamp": "11:40",
+      "speaker": "User",
+      "text": "Understood. Thank you again, Alex. You've been very helpful."
+    },
+    {
+      "timestamp": "11:45",
+      "speaker": "Agent",
+      "text": "You are most welcome, Maria. We appreciate your business and thank you for being a valued Cymbal Telecom customer."
+    },
+    {
+      "timestamp": "11:55",
+      "speaker": "User",
+      "text": "Have a good day."
+    },
+    {
+      "timestamp": "11:57",
+      "speaker": "Agent",
+      "text": "You too. Thank you for your call. Goodbye."
+    },
+    {
+      "timestamp": "12:02",
+      "speaker": "User",
+      "text": "Goodbye."
+    }
+  ]
+}

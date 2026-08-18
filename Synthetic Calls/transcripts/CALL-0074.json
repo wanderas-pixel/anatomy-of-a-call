@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "call_id": "CALL-0074",
+    "customer_id": "CUST-1017",
+    "customer_name": "Daniel Smith",
+    "customer_type": "Consumer",
+    "phone": "555-300-2384",
+    "email": "daniel.smith@telecom-personal.com",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "duration_minutes": 8,
+    "total_turns": 49
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Amanda. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Amanda. I have a question about my accounts. I seem to have two of them and I'd like to combine them."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. To get started and for security purposes, could you please provide me with your name and the customer ID for your primary account?"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "User",
+      "text": "Sure, the name is Daniel Smith. My customer ID for my internet is CUST-1017."
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Smith. And to fully verify the account, could you please provide the 4-digit security PIN you set up?"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "User",
+      "text": "Yes, it's 5-0-1-9."
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. I have your Fiber Gigabit Broadband account pulled up. Now, you mentioned a second account you'd like to merge with this one?"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "User",
+      "text": "That's right. I recently signed up for a mobile plan with Cymbal, and it was set up as a completely separate account. It's a bit confusing to have two different logins and bills."
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "Agent",
+      "text": "I completely understand. Having a single, unified account is much more convenient. Do you have the account number for your mobile service, or perhaps just the mobile phone number itself?"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "User",
+      "text": "The phone number is 555-300-2384."
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "Agent",
+      "text": "Great, thank you. Please give me just a moment to locate that mobile account in our system. I'll just be about 30 seconds."
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "User",
+      "text": "No problem, take your time."
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Smith. I've found it. I see the mobile account for the number 555-300-2384, also under your name. I can definitely merge these two for you."
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "User",
+      "text": "Excellent, that's what I was hoping for. What's involved in that process?"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "Agent",
+      "text": "It's a straightforward process on my end. I'll be creating a new master account ID which will house both your Fiber Gigabit and your mobile service. This means you'll have one bill, one online login, and one security PIN for everything."
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "User",
+      "text": "Okay, that sounds perfect. A single PIN would be great."
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "Agent",
+      "text": "Speaking of which, we will need to set a new 4-digit master PIN for the merged account. This new PIN will replace your current one, 5019, and any PIN associated with the mobile account. Do you have a new 4-digit number in mind?"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "User",
+      "text": "I do. Let's make it 8-2-8-5."
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "Agent",
+      "text": "Okay, 8-2-8-5. Thank you. I am now initiating the account merge process. I just need to confirm a few details with you while the system works."
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "User",
+      "text": "Go ahead."
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "Agent",
+      "text": "I am merging the Fiber Gigabit Broadband service currently under CUST-1017, and the mobile service associated with phone number 555-300-2384. Is that correct?"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "User",
+      "text": "Yes, that is all correct."
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "Agent",
+      "text": "Wonderful. And just to be fully transparent, this may affect your next billing statement. Your next bill will be a consolidated one and might show some pro-rated charges as we align the billing cycles of the two services. It will all be clearly itemized."
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "User",
+      "text": "That's fine, I expected something like that. As long as it's all on one bill going forward."
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "Agent",
+      "text": "Absolutely. The system is still processing the merge. It usually takes about two minutes. While we wait, I can tell you that you'll also be able to manage both services from the same Cymbal Telecom mobile app once this is done."
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "User",
+      "text": "Oh, that's good to know. I have the app but I could only ever see my internet service on it."
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "Agent",
+      "text": "Yes, after this you'll see a toggle or a menu to switch between viewing your internet and mobile details, all under the one login."
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "User",
+      "text": "Great."
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "Agent",
+      "text": "Okay, it looks like the initial linking is done. I'm now setting the master security PIN to 8-2-8-5 as you requested."
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "Agent",
+      "text": "And... it's all done! The accounts have been successfully merged. Your new master account ID is M-CUST-84421. I'd recommend writing that down for your records, although your email or phone number will also work for future support calls."
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "User",
+      "text": "Okay, let me grab a pen... M-CUST-84421. Got it. Thank you."
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "Agent",
+      "text": "You're welcome. Now, just to finalize the security update on my end, can you please verify for me the new master PIN we just set up?"
+    },
+    {
+      "timestamp": "05:09",
+      "speaker": "User",
+      "text": "Yes, it's 8-2-8-5."
+    },
+    {
+      "timestamp": "05:13",
+      "speaker": "Agent",
+      "text": "Excellent. That's confirmed in the system. From now on, whenever you call Cymbal Telecom support, that will be the PIN you use to verify your identity."
+    },
+    {
+      "timestamp": "05:23",
+      "speaker": "User",
+      "text": "Understood. And what about the online login? Do I need to do anything special?"
+    },
+    {
+      "timestamp": "05:29",
+      "speaker": "Agent",
+      "text": "Good question. You should now be able to log in to the Cymbal Telecom website or app using your primary email address, which I see here is daniel.smith@telecom-personal.com, and your existing password."
+    },
+    {
+      "timestamp": "05:43",
+      "speaker": "User",
+      "text": "Okay, so the same password I used for my internet account before?"
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "Agent",
+      "text": "That's correct. The system defaults to the password from the primary account, which in this case was your internet service. If you have any trouble, you can always use the 'Forgot Password' link, but it should work seamlessly."
+    },
+    {
+      "timestamp": "06:01",
+      "speaker": "User",
+      "text": "Sounds easy enough. I'll try it out later today."
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "Agent",
+      "text": "Perfect. You'll receive an email confirmation of these account changes within the next hour as well, just for your records. It will include your new master account ID."
+    },
+    {
+      "timestamp": "06:16",
+      "speaker": "User",
+      "text": "That's very helpful, thank you."
+    },
+    {
+      "timestamp": "06:19",
+      "speaker": "Agent",
+      "text": "You are most welcome. I'm glad I could get this all sorted out for you today, Mr. Smith. It will definitely make managing your services much simpler."
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "User",
+      "text": "Yes, it will. Thanks for making it so easy."
+    },
+    {
+      "timestamp": "06:33",
+      "speaker": "Agent",
+      "text": "Of course. Was there anything else I could assist you with today?"
+    },
+    {
+      "timestamp": "06:37",
+      "speaker": "User",
+      "text": "No, that was everything. You've been a great help."
+    },
+    {
+      "timestamp": "06:41",
+      "speaker": "Agent",
+      "text": "It was my pleasure. Thank you for being a valued Cymbal Telecom customer, and have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "06:48",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "07:50",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

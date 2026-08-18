@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "call_id": "CALL-0040",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "phone": "555-597-5874",
+    "email": "david.lewis@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 12,
+    "total_turns": 78
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Jessica. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Jessica. I need some information about my account. I'm trying to switch carriers and I need my account number and a porting PIN."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. I'm sorry to hear you're leaving us. For security purposes, I'll need to verify your account first. Can I get your full name, please?"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "User",
+      "text": "Sure, it's David Lewis."
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "Agent",
+      "text": "Thank you, David. And the phone number associated with the account?"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "User",
+      "text": "It's 555-597-5874."
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "Agent",
+      "text": "Great. Let me just pull that up... Okay, I see an account for David Lewis with that number. To fully access the account, could you please provide me with the four-digit security PIN you set up?"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "User",
+      "text": "Yes, it should be 6395."
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. That's correct. I have your account pulled up now. So, you're looking for your account number and a port-out PIN."
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "User",
+      "text": "That's right. I thought I had the account number, but the new carrier said it was incorrect. I need to make sure I have the exact one."
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "Agent",
+      "text": "I understand. That can be frustrating. Sometimes the number on the bill isn't the full account number needed for porting. Let me get the correct one for you."
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "User",
+      "text": "Okay, thanks."
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "Agent",
+      "text": "And before we proceed, if you don't mind me asking, was there a specific reason for your decision to switch? We always value feedback to improve our services."
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "User",
+      "text": "Oh, no, the service has been fine. It's just a family thing. We're consolidating everyone onto a single family plan with another provider to save some money. It's just a better deal for all of us."
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "Agent",
+      "text": "I completely understand that. It makes perfect sense to look for savings where you can. Thank you for sharing that with me."
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "Agent",
+      "text": "Alright, David. I can confirm your Cymbal Telecom account number. Do you have a pen and paper ready?"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "User",
+      "text": "Yep, go ahead."
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "Agent",
+      "text": "Your account number is 9-8-0-0-1-0-2-8-5-5-2-1. Let me repeat that for you."
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "User",
+      "text": "Hold on, one second... okay, go ahead."
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "Agent",
+      "text": "Of course. It's 9800, then 1028, and finally 5521."
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "User",
+      "text": "Got it. 9800-1028-5521. Thank you."
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "Agent",
+      "text": "You're welcome. Now, regarding the porting PIN. For your security, I can't see your existing PIN. Instead, I will generate a new, temporary Number Transfer PIN for you. This PIN is required by your new provider to authorize the transfer of your number from Cymbal Telecom."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Okay, that's what I need. How does that work?"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "Agent",
+      "text": "It's a straightforward process. First, as an additional security measure, I need to send a one-time verification code via SMS to the primary line on the account, which ends in 5874. Do you have that mobile phone with you right now?"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "User",
+      "text": "Yes, I'm talking on it."
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "Agent",
+      "text": "Oh, of course. My apologies. In that case, I'll read the code to you from my system, and then I will have the system send it so you have a record. This is a bit of a different process when you're on the line."
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "User",
+      "text": "Wait, what? How does that work?"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "Agent",
+      "text": "I apologize for the confusion. Let me re-explain. My system requires a two-factor authentication. Since you are on the line, I'll need to use an alternative method. Can you please confirm the email address on your account? It appears to be d-a-v-i-d dot l-e-w-i-s at telecom-personal dot com."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "Yes, that's my email address."
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "Agent",
+      "text": "Perfect. I am sending a verification code to that email address now. Can you please check your inbox and read the 6-digit code back to me?"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "User",
+      "text": "Okay, let me check. I'll have to put you on mute for a second while I open my email app."
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "Agent",
+      "text": "No problem at all, take your time."
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "User",
+      "text": "Okay, I'm back. I have the email from Cymbal Telecom. The code is 8-1-9-3-4-4."
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "Agent",
+      "text": "Thank you. Let me enter that... 8-1-9-3-4-4. Excellent, the system has accepted the code. Thank you for your patience with that security step."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "User",
+      "text": "No problem. Security is good."
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "Agent",
+      "text": "I agree. Now, please give me just one moment to access the porting tool and generate your Number Transfer PIN. I'll need to place you on a brief hold, it should be no more than two minutes. Is that okay?"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "User",
+      "text": "Sure, that's fine."
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "Agent",
+      "text": "Thank you. Please hold."
+    },
+    {
+      "timestamp": "06:35",
+      "speaker": "Agent",
+      "text": "Thank you for holding, David. I have your Number Transfer PIN ready."
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "User",
+      "text": "Okay, I'm ready."
+    },
+    {
+      "timestamp": "06:42",
+      "speaker": "Agent",
+      "text": "Your one-time Number Transfer PIN is 7-0-3-3-8-9. Again, that's 7-0-3-3-8-9."
+    },
+    {
+      "timestamp": "06:58",
+      "speaker": "User",
+      "text": "7-0-3-3-8-9. Got it. And how long is this PIN valid for?"
+    },
+    {
+      "timestamp": "07:05",
+      "speaker": "Agent",
+      "text": "That's a great question. The PIN is valid for seven calendar days starting today. If the port isn't completed within that time, you would just need to call us back to generate a new one."
+    },
+    {
+      "timestamp": "07:16",
+      "speaker": "User",
+      "text": "Okay, seven days. I should be able to get it done by then. So I just give the new company my account number and this new PIN?"
+    },
+    {
+      "timestamp": "07:24",
+      "speaker": "Agent",
+      "text": "That is correct. They will also need the billing zip code associated with your Cymbal Telecom account. Can I confirm that for you as well?"
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "User",
+      "text": "Oh, that would be helpful, yes please."
+    },
+    {
+      "timestamp": "07:36",
+      "speaker": "Agent",
+      "text": "The billing zip code on file is 90210."
+    },
+    {
+      "timestamp": "07:42",
+      "speaker": "User",
+      "text": "90210. Perfect. That's everything I should need then."
+    },
+    {
+      "timestamp": "07:47",
+      "speaker": "Agent",
+      "text": "It should be. Just so you are aware, once the port is successfully completed, your Cymbal Telecom account for this line will be automatically canceled. You don't need to call us back to cancel it."
+    },
+    {
+      "timestamp": "07:59",
+      "speaker": "User",
+      "text": "And what about the final bill?"
+    },
+    {
+      "timestamp": "08:02",
+      "speaker": "Agent",
+      "text": "You will receive a final, pro-rated bill from us within about 20 days of the cancellation. It will be for the days of service used in your current billing cycle up until the port was completed. Any remaining balance will be charged to the card on file, or if there's a credit, it will be refunded."
+    },
+    {
+      "timestamp": "08:20",
+      "speaker": "User",
+      "text": "Okay, that makes sense. So I don't need to do anything else on my end with Cymbal."
+    },
+    {
+      "timestamp": "08:26",
+      "speaker": "Agent",
+      "text": "Correct. The port-out process handles the cancellation. Do you have any other questions about the process or your account today?"
+    },
+    {
+      "timestamp": "08:34",
+      "speaker": "User",
+      "text": "No, I think that's it. You've been very helpful, Jessica. Thank you."
+    },
+    {
+      "timestamp": "08:39",
+      "speaker": "Agent",
+      "text": "You are most welcome, David. I've also added a note to your account documenting that we provided the account number and generated a Number Transfer PIN today."
+    },
+    {
+      "timestamp": "08:48",
+      "speaker": "User",
+      "text": "Great."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "Agent",
+      "text": "Is there anything else at all I can assist you with? Perhaps information on another line or any of our other services?"
+    },
+    {
+      "timestamp": "08:58",
+      "speaker": "User",
+      "text": "No, that's everything. Thanks again."
+    },
+    {
+      "timestamp": "09:01",
+      "speaker": "Agent",
+      "text": "Alright then. We're sorry to see you go, but we wish you the best with your new provider. Thank you for being a Cymbal Telecom customer."
+    },
+    {
+      "timestamp": "09:09",
+      "speaker": "User",
+      "text": "Thank you. Have a good day."
+    },
+    {
+      "timestamp": "09:11",
+      "speaker": "Agent",
+      "text": "You too, David. Goodbye."
+    },
+    {
+      "timestamp": "09:14",
+      "speaker": "User",
+      "text": "Wait, wait, actually, one more thing. Sorry."
+    },
+    {
+      "timestamp": "09:17",
+      "speaker": "Agent",
+      "text": "Of course, I'm still here. What's on your mind?"
+    },
+    {
+      "timestamp": "09:20",
+      "speaker": "User",
+      "text": "My wife also has a line with Cymbal. She's not on my account, it's a separate one. Does she need to do this same process?"
+    },
+    {
+      "timestamp": "09:28",
+      "speaker": "Agent",
+      "text": "Yes, she will. If her account is separate and under her own name, she will need to call in herself to verify her identity and get her own unique account number and Number Transfer PIN."
+    },
+    {
+      "timestamp": "09:39",
+      "speaker": "User",
+      "text": "Okay, that's what I figured. I can't do it for her, right? Even if I have her information?"
+    },
+    {
+      "timestamp": "09:45",
+      "speaker": "Agent",
+      "text": "That's correct. For the security of her account, she must be the one to call and authorize the generation of the PIN. We can't share her account details with anyone, even a spouse, unless they are listed as an authorized user on the account."
+    },
+    {
+      "timestamp": "10:00",
+      "speaker": "User",
+      "text": "Right, right, privacy and all that. Makes sense. I'll let her know she needs to call. Is this department open for a few more hours?"
+    },
+    {
+      "timestamp": "10:08",
+      "speaker": "Agent",
+      "text": "Yes, our Customer Care department is open 24 hours a day, 7 days a week. She can call at any time that is convenient for her."
+    },
+    {
+      "timestamp": "10:16",
+      "speaker": "User",
+      "text": "Oh, 24/7. That's great. I'll tell her. Thank you for clarifying."
+    },
+    {
+      "timestamp": "10:21",
+      "speaker": "Agent",
+      "text": "It was my pleasure. I'm glad you asked. It's always better to be sure."
+    },
+    {
+      "timestamp": "10:26",
+      "speaker": "User",
+      "text": "Definitely. Okay, now I'm really done. That was the last thing."
+    },
+    {
+      "timestamp": "10:31",
+      "speaker": "Agent",
+      "text": "Not a problem at all, David. I'm here to help. Is there anything else, for real this time?"
+    },
+    {
+      "timestamp": "10:38",
+      "speaker": "User",
+      "text": "(laughs) No, I promise. That's it."
+    },
+    {
+      "timestamp": "10:41",
+      "speaker": "Agent",
+      "text": "Alright then. Once again, thank you for calling Cymbal Telecom. We appreciate the time you've been with us. Have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "10:49",
+      "speaker": "User",
+      "text": "You too, Jessica. Bye."
+    },
+    {
+      "timestamp": "10:51",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

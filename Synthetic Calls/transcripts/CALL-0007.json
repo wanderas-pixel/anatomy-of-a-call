@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "call_id": "CALL-0007",
+    "customer_id": "CUST-1018",
+    "customer_name": "David Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-306-7405",
+    "email": "david.gonzalez@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 7,
+    "total_turns": 40
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Jessica. How may I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi, I need to get my account number and also a PIN to transfer my number to a different provider."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. To access your account securely, could I please start with your full name as it appears on the account?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "David Gonzalez."
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "Agent",
+      "text": "Thank you, David. And what is the mobile number you're calling about?"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "User",
+      "text": "It's 555-306-7405."
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "Agent",
+      "text": "Okay, one moment while I look that up... Yes, I see an account for David Gonzalez with that number. For the final security step, can you please verify the 4-digit security PIN you set up with us?"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "User",
+      "text": "Uh, the PIN... let me think. Is it 5470?"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "Agent",
+      "text": "I'm sorry, that's not quite right. We can try one more time, or I can send a one-time verification code to your phone via text message."
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "User",
+      "text": "Oh, wait, wait. I remember now. It's 5740. Sorry about that."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "Agent",
+      "text": "No problem at all! 5740... yes, that's correct. Thank you for verifying. I now have full access to your account."
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "Agent",
+      "text": "So, just to confirm, you're looking for your account number and a Number Transfer PIN to port your service out of Cymbal Telecom."
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "User",
+      "text": "Yes, that's exactly right."
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "Agent",
+      "text": "I see. I'm sorry to hear you're planning to leave us. Your account shows you've been a loyal customer for over three years. May I ask if there was a specific issue with our service or pricing that led to this decision?"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "User",
+      "text": "No, not at all. Your service has been great, honestly. I'm just joining a family plan with my siblings, and it's a bundle deal I can't pass up."
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "Agent",
+      "text": "I completely understand that. Saving money is always a good reason. Thank you for sharing. I'll go ahead and get that information for you now."
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "Agent",
+      "text": "Just so you're aware, I'll be generating a special, temporary Number Transfer PIN for you. This is different from the account PIN you just gave me. It's a security measure to ensure only you can authorize the transfer."
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "User",
+      "text": "Okay, a temporary PIN. Got it."
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "Agent",
+      "text": "It will take just a moment to generate this and confirm your account number. Do you mind holding for about 30 to 45 seconds?"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "User",
+      "text": "No, that's fine. I'll wait."
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "Agent",
+      "text": "Thank you so much for your patience, Mr. Gonzalez. I have everything ready for you. Do you have a pen and paper handy?"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "User",
+      "text": "Yep, go ahead."
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "Agent",
+      "text": "Okay. Your Cymbal Telecom account number is nine digits. It is 8-4-4-2-9-1-7-0-3."
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "User",
+      "text": "Let me read that back. 8-4-4-2-9-1-7-0-3."
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "Agent",
+      "text": "That is correct."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "Okay, I've got the account number."
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "Agent",
+      "text": "Perfect. And the temporary Number Transfer PIN I've generated for you is six digits. It is 6-2-8-1-5-9."
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "User",
+      "text": "6-2-8-1-5-9."
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "Agent",
+      "text": "Yes, that's correct. This PIN is valid for seven days. You'll need to provide both the account number and this specific PIN to your new carrier to initiate the port."
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "User",
+      "text": "Okay, and what happens after that? Does my account just close?"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "Agent",
+      "text": "That's a great question. Yes, once your number is successfully transferred, our system will automatically process the cancellation of your line. You will then receive a final, pro-rated bill."
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "User",
+      "text": "Pro-rated? What does that mean exactly?"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "Agent",
+      "text": "It means you'll only be charged for the days you had active service within your current billing cycle. For example, your cycle ends on the 22nd of the month. If you port out on the 10th, you'll only be billed for those first 10 days, not the full month."
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "User",
+      "text": "Ah, okay, that makes sense. That's fair."
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "Agent",
+      "text": "I'm glad I could clarify. Is there anything else at all I can help you with today regarding your account or the porting process?"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "User",
+      "text": "No, I think that's everything. You've been very helpful."
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "Agent",
+      "text": "It was my pleasure. We're certainly sad to lose you, but we wish you the best with your new plan. If you ever decide to come back to Cymbal, we'd be happy to have you."
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "User",
+      "text": "Thank you. I appreciate that."
+    },
+    {
+      "timestamp": "05:02",
+      "speaker": "Agent",
+      "text": "You're very welcome. Thank you for calling Cymbal Telecom, and have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "05:08",
+      "speaker": "User",
+      "text": "You too. Bye."
+    }
+  ]
+}

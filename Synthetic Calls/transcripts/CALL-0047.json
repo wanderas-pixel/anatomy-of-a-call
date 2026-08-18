@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "call_id": "CALL-0047",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-471-5411",
+    "email": "james.gonzalez@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 9,
+    "total_turns": 57
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi, my internet is completely down. I'm trying to work from home and I have nothing."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "Oh, I'm very sorry to hear that. I know how frustrating that can be, especially when you're working. I can definitely help you look into this."
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "Agent",
+      "text": "To start, could I please get your full name and the customer ID from your bill?"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "User",
+      "text": "Sure. My name is James Gonzalez. The customer ID is CUST-1032."
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "Agent",
+      "text": "Thank you, James. For security and to protect your account, could you please verify the 4-digit PIN you set up with us?"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "User",
+      "text": "Yeah, it's 8765."
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "Agent",
+      "text": "Perfect, thank you. I've successfully verified your account. Let me just pull up your details... Okay, I see you have our Fiber 300 plan."
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "User",
+      "text": "That's right. And it's been rock solid until this morning. Now, nothing."
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "Agent",
+      "text": "Okay. Could you walk me through what you're seeing on your equipment? Let's start with the main Cymbal Telecom box, the Optical Network Terminal or ONT, where the fiber cable comes in."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "User",
+      "text": "The... what? The white box in the basement?"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "Agent",
+      "text": "Yes, that's the one. What lights do you see on it?"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "User",
+      "text": "Okay, hold on, I'm right next to it. The 'Power' light is green. But there's a red light on that says 'Alarm'."
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "Agent",
+      "text": "A solid red 'Alarm' light, okay. And what about the light labeled 'PON' or 'Optical'?"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "User",
+      "text": "That one's completely off. It usually blinks green, right?"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "Agent",
+      "text": "Yes, it does. That combination of lights is very helpful, thank you. Before we go further, have you tried restarting any of the equipment?"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "User",
+      "text": "I unplugged my Wi-Fi router, the black one, for a minute and plugged it back in. Didn't do anything."
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "Agent",
+      "text": "Okay, that was a good first step. Let's try a full power cycle on the ONT itself, that white box. Could you please unplug the power cord from it?"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Okay. Unplugging it now."
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "Agent",
+      "text": "Great. Please leave it unplugged for a full 60 seconds. This allows the internal components to fully reset. I'll stay on the line with you."
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "User",
+      "text": "Alright, it's been a minute. Plugging it back in."
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "Agent",
+      "text": "Thank you. It will take about two to three minutes to attempt to reconnect to our network. While we wait for that, I'm going to run a diagnostic test from my side to see what our system shows."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "User",
+      "text": "Okay, go ahead."
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "Agent",
+      "text": "Just one moment while the test runs... Hmm."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "What is it?"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "Agent",
+      "text": "Well, my diagnostic tool is unable to communicate with your ONT at all. It's reporting a complete signal loss at a point before it even reaches your address."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "What does that mean in English?"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "Agent",
+      "text": "It strongly suggests there's a physical issue with the fiber optic line itself, somewhere outside your home. Can I ask, did you have any severe weather in your area last night?"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "User",
+      "text": "Yeah, actually. We had a massive thunderstorm. The wind was really howling."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "That's almost certainly the cause. It's very likely the storm damaged the fiber line that runs to your home. Let's just confirm... now that the ONT has had time to reboot, is that red 'Alarm' light still on?"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "User",
+      "text": "Let me check... Yep. Still solid red. The 'Optical' light is still off. It didn't fix it."
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "Agent",
+      "text": "Okay. Thank you for confirming, James. That combination of symptoms\u2014the red light on your end and my failed remote test\u2014confirms a physical line break. Unfortunately, this isn't something we can fix remotely. We'll need to dispatch a technician."
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "User",
+      "text": "Great. Just what I needed. I have a project deadline for noon. How soon can someone get out here?"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "Agent",
+      "text": "I completely understand the urgency, and I am very sorry for the inconvenience. Let me check the field technician schedule for your area right now... Okay, I see we have a number of outage reports in your neighborhood, all clustered together. It seems the storm caused widespread issues."
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "User",
+      "text": "So it's not just me."
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "Agent",
+      "text": "No, definitely not. Our crews are already working on the main lines in the area. I can schedule a technician to come to your home specifically to repair the service drop to your house. Looking at the schedule, the earliest available window I have is for tomorrow morning, between 8 AM and 12 PM."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "User",
+      "text": "Tomorrow morning? You don't have anything for today at all?"
+    },
+    {
+      "timestamp": "05:20",
+      "speaker": "Agent",
+      "text": "I'm so sorry, I really wish I did. All of our emergency slots for today were filled by 7 AM due to the storm damage. That tomorrow morning slot is the very first one available."
+    },
+    {
+      "timestamp": "05:31",
+      "speaker": "User",
+      "text": "Ugh. Fine. I guess I'll have to find a coffee shop to work from. Okay, book it. Tomorrow, 8 AM to 12 PM."
+    },
+    {
+      "timestamp": "05:42",
+      "speaker": "Agent",
+      "text": "Okay, I am scheduling that for you now. Will someone over the age of 18 be present at the home during that four-hour window?"
+    },
+    {
+      "timestamp": "05:50",
+      "speaker": "User",
+      "text": "Yes, I'll be here. Working from home, remember?"
+    },
+    {
+      "timestamp": "05:54",
+      "speaker": "Agent",
+      "text": "Of course. My apologies. Okay, the appointment is confirmed. Your reference number for this service order is 77B-4512."
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "User",
+      "text": "Okay, 77B-4512. Got it."
+    },
+    {
+      "timestamp": "06:09",
+      "speaker": "Agent",
+      "text": "You will receive a text and email confirmation within the hour. The technician will also call the number on your account, 555-471-5411, when they are on their way to your home."
+    },
+    {
+      "timestamp": "06:21",
+      "speaker": "User",
+      "text": "Alright."
+    },
+    {
+      "timestamp": "06:23",
+      "speaker": "Agent",
+      "text": "And Mr. Gonzalez, since this is a network outage confirmed by us, you will automatically receive a pro-rated credit on your next bill for the duration of the downtime. You don't need to call us back to request it."
+    },
+    {
+      "timestamp": "06:36",
+      "speaker": "User",
+      "text": "Oh. Well, that's something, I guess. Thank you for that."
+    },
+    {
+      "timestamp": "06:41",
+      "speaker": "Agent",
+      "text": "You're welcome. We want to make it right. To help the technician, I'll add a note that the ONT is located in your basement. Is that correct?"
+    },
+    {
+      "timestamp": "06:50",
+      "speaker": "User",
+      "text": "Yes, in the utility closet in the basement. That's helpful."
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "Agent",
+      "text": "Perfect, note added. So, to quickly recap: we've confirmed a physical line issue due to the storm and have a Cymbal Telecom technician scheduled to arrive tomorrow between 8 AM and 12 PM to perform the repair."
+    },
+    {
+      "timestamp": "07:09",
+      "speaker": "User",
+      "text": "Sounds right. Let's hope it all goes smoothly."
+    },
+    {
+      "timestamp": "07:13",
+      "speaker": "Agent",
+      "text": "I'm confident our team will get you back up and running. Was there anything else I could help you with today, James?"
+    },
+    {
+      "timestamp": "07:20",
+      "speaker": "User",
+      "text": "No, that's everything. Just stuck without internet until tomorrow."
+    },
+    {
+      "timestamp": "07:25",
+      "speaker": "Agent",
+      "text": "Again, I truly apologize for the disruption. We appreciate your patience and understanding as our crews work to repair the storm damage."
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "User",
+      "text": "Alright. Thanks for your help, Sarah."
+    },
+    {
+      "timestamp": "07:36",
+      "speaker": "Agent",
+      "text": "You are very welcome. Thank you for calling Cymbal Telecom, and I hope you have a better rest of your day."
+    },
+    {
+      "timestamp": "07:42",
+      "speaker": "User",
+      "text": "You too. Bye."
+    }
+  ]
+}

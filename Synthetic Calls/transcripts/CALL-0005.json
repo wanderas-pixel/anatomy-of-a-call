@@ -1,0 +1,570 @@
+{
+  "metadata": {
+    "call_id": "CALL-0005",
+    "customer_id": "CUST-1022",
+    "customer_name": "David Hernandez",
+    "customer_type": "Consumer",
+    "phone": "555-653-5891",
+    "email": "david.hernandez@telecom-personal.com",
+    "services": "Triple Play Bundle: Fiber 500 + Digital TV + Voice ($110/mo)",
+    "duration_minutes": 17,
+    "total_turns": 111
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Ben. How may I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi, yes. My name is David Hernandez. I'm calling because I just got an email saying my account is past due and my service is about to be suspended, but I paid the bill a week ago."
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "Agent",
+      "text": "Okay, Mr. Hernandez. I can certainly look into that for you. I understand how concerning an alert like that can be, especially when you've already made a payment. To pull up your account, could I please have your Customer ID?"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "User",
+      "text": "Sure, it's CUST-1022."
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "Agent",
+      "text": "Thank you. CUST-1022. Pulling that up now... one moment."
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "Agent",
+      "text": "Alright, I see the account for David Hernandez. For security purposes, before we discuss any billing details, can you please verify the 4-digit security PIN associated with the account?"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "User",
+      "text": "Yes, the PIN is 2-8-7-7."
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying that. You are fully authenticated. Now, let me take a look at your billing statement and recent payments."
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "User",
+      "text": "Thank you. I'm just worried because my internet seems to have stopped working about ten minutes ago. I assume it's related."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "Agent",
+      "text": "I'm sorry to hear that. Yes, it does look like the system automatically placed a temporary suspension on the services due to the overdue balance flag. I apologize for that inconvenience."
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "User",
+      "text": "But it's not overdue. I have my bank statement right here. I paid $110.00 last Wednesday."
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "Agent",
+      "text": "I understand. Let me check the payment history. I'm showing your last payment received was for the prior month. You said you paid this recent bill through your bank's online service, is that correct?"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "User",
+      "text": "Yes, I always use my bank's online bill pay. It's never been a problem before."
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "Agent",
+      "text": "Okay, that helps clarify things. Sometimes, when a payment is initiated through a bank's system, it's sent to us as an electronic transfer, or ACH payment. Unlike a credit card payment made directly on the Cymbal website, these can take a few business days to be processed by the banks and then post to our system."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "User",
+      "text": "But it's been a whole week since last Wednesday. That's five business days, isn't it?"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "Agent",
+      "text": "You are absolutely right. It typically shouldn't take this long. It's possible there's a delay in the transfer batch from the bank or a processing hiccup. I'm not seeing the payment reflected on our side just yet."
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "User",
+      "text": "So what does that mean for me? My internet is out, and I need it to work from home. This is a huge problem."
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "Agent",
+      "text": "I completely understand the urgency, and I assure you we will get this sorted out. Since you have confirmation of the payment on your end, we can definitely work with that. Do you have a transaction or confirmation number from your bank for that payment?"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "User",
+      "text": "Uh, let me look. My bank's app shows a 'Trace ID'. Is that what you need?"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "Agent",
+      "text": "Yes, that's exactly it. If you could provide me with that number, as well as the exact date and amount of the transaction, I can document it."
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "User",
+      "text": "Okay, hold on. I'm pulling it up now... Okay. The payment was for one hundred and ten dollars, exactly. It was sent on Wednesday, let's see... the 15th."
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "Agent",
+      "text": "Okay, Wednesday the 15th, for $110.00. And the trace ID?"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "User",
+      "text": "The number is... a bit long. It's B-K-T-R-F-R... 9-8-4-3-3-1-0-9-5."
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "Agent",
+      "text": "Got it. Let me repeat that back. B as in Bravo, K as in Kilo, T-R-F-R, followed by 984331095."
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "User",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "Agent",
+      "text": "Thank you. I'm adding this information as a note to your account right now. This is very helpful for our billing department to trace the payment if it doesn't post automatically in the next day or two."
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "User",
+      "text": "Okay, but what about my service? I can't wait a day or two."
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "Agent",
+      "text": "Of course not. We're going to fix that right now. What I am going to do is place a temporary 'Promise to Pay' hold on your account. This is a courtesy we extend in situations like this."
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "User",
+      "text": "What does that do?"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "Agent",
+      "text": "It essentially tells our automated system that a payment is on the way. This will immediately lift the service suspension and prevent any further late notices or fees for the next seven days, which should be more than enough time for the bank transfer to arrive and post."
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "User",
+      "text": "Okay, so you can turn my internet back on right now?"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "Agent",
+      "text": "Yes. I will process the reactivation request at the same time. I just need to get this set up in the system. Do you mind holding for about 60 to 90 seconds while I process these two actions?"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "User",
+      "text": "Not at all. Please, go ahead."
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "Agent",
+      "text": "Thank you. I'll be right back."
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Hernandez."
+    },
+    {
+      "timestamp": "05:51",
+      "speaker": "User",
+      "text": "I'm here."
+    },
+    {
+      "timestamp": "05:53",
+      "speaker": "Agent",
+      "text": "Okay, I have successfully applied the seven-day collections freeze to your account. I have also submitted the request to the system to restore your services. I have a confirmation number for that action if you'd like it for your records."
+    },
+    {
+      "timestamp": "06:06",
+      "speaker": "User",
+      "text": "Yes, please. I'd like to have that."
+    },
+    {
+      "timestamp": "06:09",
+      "speaker": "Agent",
+      "text": "Of course. The reference number is R-S-T-5-4-8-2-1."
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "User",
+      "text": "Got it. So... how long does it take? For the internet to come back on?"
+    },
+    {
+      "timestamp": "06:23",
+      "speaker": "Agent",
+      "text": "The signal should be restored within the next hour, but it's often much faster, usually within 15 to 20 minutes. What I recommend is that in about 15 minutes, you unplug the power from your Cymbal Telecom modem and your TV set-top box for about 30 seconds, then plug them back in. This forces them to re-register on the network and pick up the restored signal."
+    },
+    {
+      "timestamp": "06:45",
+      "speaker": "User",
+      "text": "Okay, unplug and plug back in. I can do that. And this won't happen again next month, right?"
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "Agent",
+      "text": "This type of delay is very rare. However, for future reference, the fastest way to ensure payment is posted instantly is by paying directly through your MyCymbal account portal on our website or by setting up automatic debit, which pulls on the due date."
+    },
+    {
+      "timestamp": "07:08",
+      "speaker": "User",
+      "text": "I see. I just like to manage all my bills from my bank's dashboard. It's easier to keep track of."
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "Agent",
+      "text": "I completely understand that. And in 99% of cases, it works perfectly fine. This seems to be an unfortunate exception, and I've documented it thoroughly so our billing team is aware."
+    },
+    {
+      "timestamp": "07:27",
+      "speaker": "User",
+      "text": "What about late fees? The email mentioned a late fee would be applied."
+    },
+    {
+      "timestamp": "07:32",
+      "speaker": "Agent",
+      "text": "That's a great question. Let me check... yes, the system did automatically apply a standard late fee. However, given the circumstances and the note I've placed with your payment trace ID, I am going to go ahead and manually waive that fee for you right now."
+    },
+    {
+      "timestamp": "07:48",
+      "speaker": "User",
+      "text": "Oh! Thank you, I appreciate that."
+    },
+    {
+      "timestamp": "07:51",
+      "speaker": "Agent",
+      "text": "You're welcome. It's the least we can do. I'm processing that credit now... one moment."
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "Agent",
+      "text": "Okay, that's done. You will see a charge for the late fee and then a corresponding credit for the same amount on your next invoice, so they will cancel each other out."
+    },
+    {
+      "timestamp": "08:25",
+      "speaker": "User",
+      "text": "That's perfect. Thank you for being so helpful."
+    },
+    {
+      "timestamp": "08:29",
+      "speaker": "Agent",
+      "text": "It's my pleasure, Mr. Hernandez. I'm glad we could get this straightened out for you."
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "User",
+      "text": "So just to be sure, I don't need to do anything else, right? I just wait for the service to come back on and the payment will eventually show up?"
+    },
+    {
+      "timestamp": "08:44",
+      "speaker": "Agent",
+      "text": "That is correct. Your part is done. The temporary hold protects your account, your services are being restored, and our billing team has the trace ID to locate the payment. You are all set."
+    },
+    {
+      "timestamp": "08:58",
+      "speaker": "User",
+      "text": "Okay, great. I was pretty worried there for a minute."
+    },
+    {
+      "timestamp": "09:03",
+      "speaker": "Agent",
+      "text": "I can imagine. It's a stressful situation. Just to recap, we've placed a 7-day hold on the account, restored your services, and waived the late fee."
+    },
+    {
+      "timestamp": "09:14",
+      "speaker": "User",
+      "text": "Excellent. This was much easier than I expected."
+    },
+    {
+      "timestamp": "09:18",
+      "speaker": "Agent",
+      "text": "We try our best. While I have you, is there anything else I can assist you with today? Perhaps any questions about your account or our other services?"
+    },
+    {
+      "timestamp": "09:28",
+      "speaker": "User",
+      "text": "No, I don't think so. That was the only thing."
+    },
+    {
+      "timestamp": "09:32",
+      "speaker": "Agent",
+      "text": "Alright then. Once again, my apologies for the inconvenience this issue caused."
+    },
+    {
+      "timestamp": "09:38",
+      "speaker": "User",
+      "text": "No problem. You've been a big help."
+    },
+    {
+      "timestamp": "09:41",
+      "speaker": "Agent",
+      "text": "Thank you. We appreciate your business. Thank you for calling Cymbal Telecom, and have a wonderful rest of your day."
+    },
+    {
+      "timestamp": "09:49",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "09:51",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "10:15",
+      "speaker": "User",
+      "text": "(Sound of phone being picked up again) Hello? Are you still there?"
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "Agent",
+      "text": "Yes, Mr. Hernandez, I'm still here. I hadn't disconnected the call yet. Did you need something else?"
+    },
+    {
+      "timestamp": "10:24",
+      "speaker": "User",
+      "text": "Oh, sorry! Yes, actually. I just thought of something. You mentioned setting up automatic debit. Is that hard to do?"
+    },
+    {
+      "timestamp": "10:32",
+      "speaker": "Agent",
+      "text": "Not at all, it's very straightforward. We can set it up right now over the phone if you'd like, or I can guide you on how to do it through your MyCymbal account online."
+    },
+    {
+      "timestamp": "10:43",
+      "speaker": "User",
+      "text": "Maybe... maybe we can just do it now, to avoid this kind of thing in the future. What do you need?"
+    },
+    {
+      "timestamp": "10:50",
+      "speaker": "Agent",
+      "text": "Certainly. We can link it to a credit or debit card, or directly to a bank account using a routing and account number. Which would you prefer?"
+    },
+    {
+      "timestamp": "10:59",
+      "speaker": "User",
+      "text": "I'd prefer to use my bank account, not a card."
+    },
+    {
+      "timestamp": "11:03",
+      "speaker": "Agent",
+      "text": "Okay. For that, I would need your bank's routing number and your checking account number. For your security, I must inform you that this line is recorded, and this information will be entered directly into our secure payment portal."
+    },
+    {
+      "timestamp": "11:16",
+      "speaker": "User",
+      "text": "That's fine. I have the numbers here. I have a checkbook right in front of me."
+    },
+    {
+      "timestamp": "11:22",
+      "speaker": "Agent",
+      "text": "Perfect. Whenever you're ready, please provide the 9-digit routing number first."
+    },
+    {
+      "timestamp": "11:28",
+      "speaker": "User",
+      "text": "It is 0-7-1-0-0-0-0-1-9."
+    },
+    {
+      "timestamp": "11:36",
+      "speaker": "Agent",
+      "text": "Okay, 071000019. And now, the account number?"
+    },
+    {
+      "timestamp": "11:42",
+      "speaker": "User",
+      "text": "The account number is 8-3-3-4-5-0-2-1-1-2."
+    },
+    {
+      "timestamp": "11:51",
+      "speaker": "Agent",
+      "text": "Let me read that back. 8334502112."
+    },
+    {
+      "timestamp": "11:58",
+      "speaker": "User",
+      "text": "That's it."
+    },
+    {
+      "timestamp": "12:00",
+      "speaker": "Agent",
+      "text": "And the name on the bank account is just David Hernandez?"
+    },
+    {
+      "timestamp": "12:05",
+      "speaker": "User",
+      "text": "Yes."
+    },
+    {
+      "timestamp": "12:06",
+      "speaker": "Agent",
+      "text": "Excellent. I'm entering this into the system now. Please give me one moment to save this as your primary AutoPay method."
+    },
+    {
+      "timestamp": "12:38",
+      "speaker": "Agent",
+      "text": "Alright, the information has been saved and verified by the system. I am now setting your account to be enrolled in automatic payments."
+    },
+    {
+      "timestamp": "12:47",
+      "speaker": "User",
+      "text": "So what happens now? Will it pay the bill that's due right now?"
+    },
+    {
+      "timestamp": "12:52",
+      "speaker": "Agent",
+      "text": "That's a very important question. No, it will not. Enrolling in AutoPay does not trigger an immediate payment. Your payment for this current cycle is the one we're waiting on from your bank transfer."
+    },
+    {
+      "timestamp": "13:05",
+      "speaker": "User",
+      "text": "Oh, okay. I see."
+    },
+    {
+      "timestamp": "13:07",
+      "speaker": "Agent",
+      "text": "The AutoPay will begin with your *next* billing cycle. You'll still receive an email notification when your new bill is generated, and it will state that your account is scheduled for automatic payment on the due date. No action will be needed from you."
+    },
+    {
+      "timestamp": "13:24",
+      "speaker": "User",
+      "text": "That sounds great, actually. Much less to worry about."
+    },
+    {
+      "timestamp": "13:29",
+      "speaker": "Agent",
+      "text": "It certainly simplifies things. Also, as a thank you for enrolling in AutoPay and paperless billing, Cymbal Telecom offers a five dollar monthly discount. I see you're already on paperless billing, so the AutoPay enrollment now makes you eligible."
+    },
+    {
+      "timestamp": "13:46",
+      "speaker": "User",
+      "text": "Wait, really? A five dollar discount?"
+    },
+    {
+      "timestamp": "13:50",
+      "speaker": "Agent",
+      "text": "Yes, sir. I'm applying that discount to your account now. It will also take effect starting with your next billing statement. So your Triple Play Bundle will be $105 plus taxes and fees, instead of $110."
+    },
+    {
+      "timestamp": "14:07",
+      "speaker": "User",
+      "text": "Wow. This call turned out to be very productive. I call in worried about a suspension and I end up with a discount. Thank you!"
+    },
+    {
+      "timestamp": "14:16",
+      "speaker": "Agent",
+      "text": "You are most welcome. It's a benefit we're happy to provide our customers. I've added the discount, it's all confirmed."
+    },
+    {
+      "timestamp": "14:25",
+      "speaker": "User",
+      "text": "So I should go ahead and do that reboot of my modem now? It's been about 15 minutes since you said."
+    },
+    {
+      "timestamp": "14:32",
+      "speaker": "Agent",
+      "text": "Yes, that's a great idea. If you'd like to do that while I'm on the line, I can wait and confirm with you that the internet is back online."
+    },
+    {
+      "timestamp": "14:41",
+      "speaker": "User",
+      "text": "Okay, that would be great. I'm walking over to it now. Unplugging the power... now."
+    },
+    {
+      "timestamp": "14:50",
+      "speaker": "Agent",
+      "text": "Perfect. Just give it about 30 seconds before you plug it back in. This allows the internal components to fully reset."
+    },
+    {
+      "timestamp": "15:22",
+      "speaker": "User",
+      "text": "Okay, it's been 30 seconds. Plugging it back in now."
+    },
+    {
+      "timestamp": "15:28",
+      "speaker": "Agent",
+      "text": "Excellent. It will now go through its startup sequence. You'll see several lights blinking. You'll want to wait until the 'Online' or globe-symbol light turns solid. This can take a minute or two."
+    },
+    {
+      "timestamp": "15:42",
+      "speaker": "User",
+      "text": "Okay, I see the lights flashing... Power is on, send and receive are blinking..."
+    },
+    {
+      "timestamp": "15:55",
+      "speaker": "User",
+      "text": "It's taking a little while... still blinking."
+    },
+    {
+      "timestamp": "16:01",
+      "speaker": "Agent",
+      "text": "That's normal. It's establishing a connection with our network servers."
+    },
+    {
+      "timestamp": "16:18",
+      "speaker": "User",
+      "text": "Okay... wait... yes! The online light just went solid blue. Does that mean it's working?"
+    },
+    {
+      "timestamp": "16:25",
+      "speaker": "Agent",
+      "text": "That's the one! It should be working now. Can you try to browse to a webpage on your computer or phone connected to your Cymbal Wi-Fi?"
+    },
+    {
+      "timestamp": "16:34",
+      "speaker": "User",
+      "text": "Let me check on my phone... yes! It's loading. I have internet again! Thank goodness."
+    },
+    {
+      "timestamp": "16:41",
+      "speaker": "Agent",
+      "text": "Fantastic. I'm so glad to hear that. I'll make a final note on the account that service was successfully restored during our call."
+    },
+    {
+      "timestamp": "16:50",
+      "speaker": "User",
+      "text": "Ben, you've been incredibly helpful. Thank you so much for everything."
+    },
+    {
+      "timestamp": "16:55",
+      "speaker": "Agent",
+      "text": "It was truly my pleasure, Mr. Hernandez. So, just to confirm, we've addressed the payment issue, restored your service, waived the late fee, and set you up for an AutoPay discount. Is there absolutely anything else I can do for you today?"
+    },
+    {
+      "timestamp": "17:06",
+      "speaker": "User",
+      "text": "No, that's everything. You've covered more than I even called for. I'm all set."
+    },
+    {
+      "timestamp": "17:12",
+      "speaker": "Agent",
+      "text": "Wonderful. Well, thank you again for being a valued Cymbal Telecom customer. We appreciate your patience. Have a great rest of your day."
+    },
+    {
+      "timestamp": "17:19",
+      "speaker": "User",
+      "text": "You too, Ben. Thanks again. Bye."
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "call_id": "CALL-0072",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "phone": "555-597-5874",
+    "email": "david.lewis@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 13,
+    "total_turns": 81
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi there. I'm hoping you can help me. I have a question about my most recent mobile bill."
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "Agent",
+      "text": "I can certainly look into that for you. I'll just need to pull up your account first. Could I please get your full name?"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "User",
+      "text": "Of course. It's David Lewis."
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "Agent",
+      "text": "Thank you, David. And can you confirm the 10-digit phone number on the account for me?"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "User",
+      "text": "Sure, it's 555-597-5874."
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "Agent",
+      "text": "Perfect. And for a final security check to protect your account information, could you please provide the 4-digit security PIN?"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "User",
+      "text": "Oh, the PIN. Hold on one second, I have it written down here somewhere... I always forget it. Ah, here we go. It should be 6395."
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "Agent",
+      "text": "That is correct. Thank you for your patience while we verified that, Mr. Lewis. I have your account details right here in front of me now."
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "User",
+      "text": "Great. Just call me David, please."
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "Agent",
+      "text": "Of course, David. So, you mentioned a question about your latest bill. Can you tell me what the issue is?"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "User",
+      "text": "Yeah, I got the email notification for my bill, and the total is about fifteen dollars higher than it normally is. I'm looking at it right now, it's eighty dollars. It's always been sixty-five."
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "Agent",
+      "text": "I see. An unexpected increase is definitely something we need to look into. I'm opening your billing statement now. Please allow me just a moment to review the details."
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "User",
+      "text": "Thank you. I just don't remember adding any services or going over any data limits or anything like that."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "Agent",
+      "text": "No, and your plan is the Unlimited 5G plan, so you wouldn't have data overage charges. That's a good thought, though."
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "User",
+      "text": "Right."
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "Agent",
+      "text": "Okay, I'm comparing your latest invoice dated today with your previous one... Yes, I see exactly what you're seeing. The previous twelve invoices were for $65 plus taxes, and this new one is for $80 plus taxes."
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "User",
+      "text": "So what happened? Is it a mistake?"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "Agent",
+      "text": "It's not a mistake in the system, but I can see why it was a surprise. It appears that a promotional discount you were receiving has expired."
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "User",
+      "text": "A promotional discount? What was that for?"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "Agent",
+      "text": "When you first signed up with Cymbal Telecom thirteen months ago, your account was set up with a 'New Customer Welcome' discount. It provided a $15 credit each month for your first 12 months of service."
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "User",
+      "text": "I see... I guess I vaguely remember the salesperson mentioning a special price, but I really thought that was the permanent price for the plan."
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "Agent",
+      "text": "I completely understand, and I do apologize if the temporary nature of that discount wasn't made perfectly clear. The standard, non-promotional rate for the Unlimited 5G Mobile Plan is indeed $80 per month."
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "User",
+      "text": "Wow. Okay. So I've just been paying less for a year and now it's jumping up. That's... disappointing. I have to stick to a budget, and a sudden $15 increase is not great."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "Agent",
+      "text": "I hear you, David, and I want to help. We value your business and definitely don't want you to be unhappy with our service or pricing."
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "User",
+      "text": "So what can we do? Am I just stuck paying eighty dollars now?"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "Agent",
+      "text": "Not necessarily. Often, once an initial promotion expires, we have other options available for our existing customers. Would you be open to me checking our system for any loyalty discounts or new promotions that could be applied to your account?"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "You have other discounts? Yes, please check. Anything to get it closer to what I was paying before."
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "Agent",
+      "text": "Absolutely. This will require me to look through a few different toolkits, so it might take me about two to three minutes. Is it alright if I place you on a brief hold?"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "User",
+      "text": "Yeah, that's fine. I'll wait."
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. I'll be as quick as I can."
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "User",
+      "text": "Thanks."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "Agent",
+      "text": "David? Thank you so much for holding."
+    },
+    {
+      "timestamp": "06:12",
+      "speaker": "User",
+      "text": "I'm here. Any luck?"
+    },
+    {
+      "timestamp": "06:15",
+      "speaker": "Agent",
+      "text": "Yes, I believe so. I've reviewed the available offers, and while we can't re-apply the original 'New Customer' discount, I did find a 'Valued Customer' loyalty credit that you are eligible for."
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "User",
+      "text": "Okay... and what does that do?"
+    },
+    {
+      "timestamp": "06:33",
+      "speaker": "Agent",
+      "text": "This loyalty credit is for $10 per month. If we apply it, it would reduce your monthly bill from the standard $80 down to $70 per month, before taxes."
+    },
+    {
+      "timestamp": "06:47",
+      "speaker": "User",
+      "text": "So, seventy dollars. That's five dollars more than I was paying, but ten dollars less than the new bill."
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "Agent",
+      "text": "That's correct."
+    },
+    {
+      "timestamp": "06:57",
+      "speaker": "User",
+      "text": "Is that the best you can do? There's no $15 discount available?"
+    },
+    {
+      "timestamp": "07:03",
+      "speaker": "Agent",
+      "text": "I understand the question. I did specifically look for an equivalent discount, but this $10 credit is the highest value loyalty offer available for your account and plan type at this time."
+    },
+    {
+      "timestamp": "07:18",
+      "speaker": "User",
+      "text": "And how long does this one last? Is it another one-year thing?"
+    },
+    {
+      "timestamp": "07:22",
+      "speaker": "Agent",
+      "text": "That's an excellent question to ask. Yes, this is also a 12-month credit. After 12 months, the rate would return to the standard price."
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "User",
+      "text": "So we'll be doing this all over again next year."
+    },
+    {
+      "timestamp": "07:36",
+      "speaker": "Agent",
+      "text": "That's a possibility, but my advice is to simply give us a call back as you approach the end of the 12 months. We can review whatever new offers are available then. Our goal is to keep you as a happy customer."
+    },
+    {
+      "timestamp": "07:50",
+      "speaker": "User",
+      "text": "Does this require a new contract or anything? I don't want to get locked into something."
+    },
+    {
+      "timestamp": "07:55",
+      "speaker": "Agent",
+      "text": "No, not at all. Cymbal Telecom mobile plans are all contract-free. This is simply a monthly credit we apply to your account. You can still make changes or cancel your plan at any time without penalty."
+    },
+    {
+      "timestamp": "08:08",
+      "speaker": "User",
+      "text": "Okay. That's good to know."
+    },
+    {
+      "timestamp": "08:12",
+      "speaker": "Agent",
+      "text": "So, shall I proceed with applying the $10 monthly loyalty credit for the next 12 months?"
+    },
+    {
+      "timestamp": "08:20",
+      "speaker": "User",
+      "text": "Hmm. Let me just think for a second."
+    },
+    {
+      "timestamp": "08:25",
+      "speaker": "Agent",
+      "text": "Of course, take your time."
+    },
+    {
+      "timestamp": "08:35",
+      "speaker": "User",
+      "text": "Alright. Yes, let's do it. Seventy is manageable. Eighty felt like a bait-and-switch."
+    },
+    {
+      "timestamp": "08:44",
+      "speaker": "Agent",
+      "text": "I understand, and I'm glad we could find a resolution. I am processing the change for you right now. It just takes a moment for the system to update and confirm..."
+    },
+    {
+      "timestamp": "08:58",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "09:15",
+      "speaker": "Agent",
+      "text": "And... there we are. Confirmation received. The $10 per month 'Valued Customer' loyalty credit has been successfully applied to your account, David."
+    },
+    {
+      "timestamp": "09:26",
+      "speaker": "User",
+      "text": "Great. So, when does that start? Will I get a new bill for this month?"
+    },
+    {
+      "timestamp": "09:31",
+      "speaker": "Agent",
+      "text": "Good question. The credit is effective immediately, as of today. Because your billing cycle has already started, your very next bill will look a little unusual. It will show the full $80 charge, but then it will have a separate line item for a pro-rated credit for the remaining days in this cycle."
+    },
+    {
+      "timestamp": "09:50",
+      "speaker": "User",
+      "text": "Pro-rated... so it won't be the full ten dollar credit on this next bill?"
+    },
+    {
+      "timestamp": "09:55",
+      "speaker": "Agent",
+      "text": "Correct. It will be a portion of it. However, the bill *after* that, and for the next 11 full months, will reflect the simple, new total of $70 plus your local taxes and fees."
+    },
+    {
+      "timestamp": "10:10",
+      "speaker": "User",
+      "text": "Okay, I think I follow. So the next bill will be a little weird, but the one after that will be the new normal price."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "Agent",
+      "text": "You've got it perfectly. To make sure you have it in writing, would you like me to send a confirmation email to the address we have on file, david.lewis@telecom-personal.com, outlining this change?"
+    },
+    {
+      "timestamp": "10:30",
+      "speaker": "User",
+      "text": "Oh, yes, that would be fantastic. Thank you."
+    },
+    {
+      "timestamp": "10:34",
+      "speaker": "Agent",
+      "text": "My pleasure. I'm sending that email now. You should receive it within the next 5-10 minutes. It will also include a reference number for today's call and the changes made."
+    },
+    {
+      "timestamp": "10:45",
+      "speaker": "User",
+      "text": "Perfect. That gives me peace of mind."
+    },
+    {
+      "timestamp": "10:48",
+      "speaker": "Agent",
+      "text": "I'm also adding a note to your account detailing our conversation and the promotional pricing adjustment, so if you ever need to call back, the next agent will see exactly what we discussed."
+    },
+    {
+      "timestamp": "11:00",
+      "speaker": "User",
+      "text": "That's very thorough. I appreciate that."
+    },
+    {
+      "timestamp": "11:03",
+      "speaker": "Agent",
+      "text": "We try our best to be transparent. Is there anything else at all I can help you with today? Perhaps a question about your data usage, or maybe international calling features?"
+    },
+    {
+      "timestamp": "11:15",
+      "speaker": "User",
+      "text": "No, no, the billing was my only concern. Everything else with the service has been great, actually. The 5G coverage is solid in my area."
+    },
+    {
+      "timestamp": "11:24",
+      "speaker": "Agent",
+      "text": "That's wonderful to hear! We're always expanding our network, so I'm happy it's serving you well."
+    },
+    {
+      "timestamp": "11:31",
+      "speaker": "User",
+      "text": "Yeah, it's good. Well, thank you again for your help, Sarah. You really helped clear this up."
+    },
+    {
+      "timestamp": "11:38",
+      "speaker": "Agent",
+      "text": "It was my absolute pleasure, David. I'm glad I could resolve this for you."
+    },
+    {
+      "timestamp": "11:44",
+      "speaker": "User",
+      "text": "Alright then, I'll let you go."
+    },
+    {
+      "timestamp": "11:46",
+      "speaker": "Agent",
+      "text": "Just before you do, let me give you that reference ID for your records over the phone as well. It is C-L-D-7-8-9-0-1."
+    },
+    {
+      "timestamp": "11:58",
+      "speaker": "User",
+      "text": "Got it. C-L-D-7-8-9-0-1. Perfect."
+    },
+    {
+      "timestamp": "12:03",
+      "speaker": "Agent",
+      "text": "Excellent. Is there anything else, absolutely anything, I can check for you while I have you on the line?"
+    },
+    {
+      "timestamp": "12:10",
+      "speaker": "User",
+      "text": "Nope, that was the only thing on my mind. You've solved my problem."
+    },
+    {
+      "timestamp": "12:15",
+      "speaker": "Agent",
+      "text": "Wonderful to hear. Well, thank you again for being a valued Cymbal Telecom customer, David."
+    },
+    {
+      "timestamp": "12:22",
+      "speaker": "User",
+      "text": "You're welcome. And thank you."
+    },
+    {
+      "timestamp": "12:25",
+      "speaker": "Agent",
+      "text": "It's my pleasure. Have a great afternoon."
+    },
+    {
+      "timestamp": "12:28",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "12:30",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "call_id": "CALL-0024",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "phone": "555-597-5874",
+    "email": "david.lewis@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 11,
+    "total_turns": 64
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Alex. I need to make a change to my corporate account, specifically regarding who is authorized to make changes."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "I can certainly help with that. To access your account, I'll need to verify your identity. Can I please start with your full name?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Yes, it's David Lewis."
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Lewis. And could you please provide the phone number or customer ID associated with the account?"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "User",
+      "text": "The phone number is 555-597-5874."
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "Agent",
+      "text": "Perfect, I've located your account. For the final security step, could you please provide the 4-digit security PIN for the account?"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "User",
+      "text": "Yes, the PIN is 6-3-9-5."
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "Agent",
+      "text": "Thank you. That matches perfectly. You're fully verified. Now, how can I assist you with your account's authorized contacts today?"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "User",
+      "text": "Great. So, I've just hired a new office and operations manager, and I need to add her to the account so she can call in to make changes or discuss billing without me having to be on the line every time."
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "Agent",
+      "text": "Absolutely. That's a very common and wise thing to set up. Adding an authorized contact will give her the ability to perform most account functions. Just to be clear, she'll be able to make plan changes, add or remove services, and discuss billing details."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "User",
+      "text": "That's exactly what I need. She'll be handling the day-to-day, so full access is best."
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "Agent",
+      "text": "Understood. As the primary account holder, your authorization is all that's required. I can process this change for you right now. Do you have a moment?"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "User",
+      "text": "Yes, I have time."
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "Agent",
+      "text": "Excellent. I'm now in the account management section. What is the full name of the person you'd like to add?"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Her name is Sarah Jenkins."
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "Agent",
+      "text": "Sarah Jenkins. Got it. Could you please spell that out for me just to ensure our records are perfectly accurate?"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "User",
+      "text": "Of course. Sarah is S-A-R-A-H. And Jenkins is J-E-N-K-I-N-S."
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "Agent",
+      "text": "Thank you. I have S-A-R-A-H J-E-N-K-I-N-S. Is that correct?"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "User",
+      "text": "Yes, that's her."
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "Agent",
+      "text": "Great. And do you have a contact phone number for her that we can add to the file? It helps with verification if she ever calls in."
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "User",
+      "text": "Yes, her direct line is 555-821-4409."
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "Agent",
+      "text": "Okay, reading that back: 5-5-5-8-2-1-4-4-0-9."
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "Agent",
+      "text": "Thank you. Now, we have a couple of levels for authorization. 'Full Access' allows plan changes, service modifications, and technical support. 'Billing Only' restricts the contact to discussing invoices and payments. You mentioned full access, is that still what you'd prefer?"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "User",
+      "text": "Yes, definitely full access. She'll need to be able to handle everything."
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "Agent",
+      "text": "Perfect. I'm setting Sarah Jenkins with Full Access authorization now. Please hold on for just a moment while I save this to the account profile."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "Agent",
+      "text": "Alright, thank you for your patience, Mr. Lewis. The system has been updated. Sarah Jenkins is now listed as an authorized contact with full access rights on your Cymbal Telecom account."
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "User",
+      "text": "That was fast. So what does she need to do when she calls? Does she use my PIN?"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "Agent",
+      "text": "That's an excellent question. For security purposes, she can use the main account PIN, which is 6395. However, we strongly recommend that she sets her own unique PIN for enhanced security and accountability."
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "User",
+      "text": "Oh, okay. Can we set one for her now?"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "Agent",
+      "text": "As the primary account holder, you could, but the most secure method is for her to set it herself. The next time she calls in, she can identify herself as a new authorized contact. The agent will verify her name and number, and then walk her through setting a private 4-digit PIN. It's a one-time process."
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "User",
+      "text": "That sounds better, actually. So for her first call, she just gives her name and says she needs to set her PIN?"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "Agent",
+      "text": "Precisely. She would call, state her name, say she's an authorized contact on David Lewis's account, and that she needs to establish her security PIN. I'm adding a note to the account right now detailing our conversation and authorizing this process for her first call, so any agent who picks up will know exactly what to do."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "User",
+      "text": "That's perfect. That makes it very clear and easy for her. Thank you."
+    },
+    {
+      "timestamp": "05:20",
+      "speaker": "Agent",
+      "text": "You're very welcome. It's the best way to keep your account secure. Just give me about 30 more seconds to finish typing up this note to make sure it's crystal clear."
+    },
+    {
+      "timestamp": "05:30",
+      "speaker": "User",
+      "text": "Sure thing."
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "Agent",
+      "text": "Okay, the note has been added and saved. It details that Sarah Jenkins should be prompted to create her own PIN on her first contact with us."
+    },
+    {
+      "timestamp": "06:14",
+      "speaker": "User",
+      "text": "Excellent. Does this change take effect immediately?"
+    },
+    {
+      "timestamp": "06:18",
+      "speaker": "Agent",
+      "text": "Yes, it does. The change is live in our system right now. If she were to call in the next five minutes, our agents would see her listed on the account."
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "User",
+      "text": "Wonderful. That's very efficient."
+    },
+    {
+      "timestamp": "06:31",
+      "speaker": "Agent",
+      "text": "We try our best. Is there an email address you'd like me to add for her as well? We can send her notifications about account changes she makes."
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "User",
+      "text": "Oh, that's a good idea. Yes, please. It's sarah.jenkins@telecom-personal.com."
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "Agent",
+      "text": "Okay, I have sarah dot jenkins at telecom dash personal dot com."
+    },
+    {
+      "timestamp": "07:01",
+      "speaker": "User",
+      "text": "That's the one."
+    },
+    {
+      "timestamp": "07:03",
+      "speaker": "Agent",
+      "text": "Alright, I'm adding that to her authorized contact profile now... and... done. She is now fully set up in our system."
+    },
+    {
+      "timestamp": "07:18",
+      "speaker": "User",
+      "text": "Will I get any kind of confirmation email that this change was made?"
+    },
+    {
+      "timestamp": "07:23",
+      "speaker": "Agent",
+      "text": "Yes, as the primary account holder, an email is automatically sent to the address we have on file for you, which is david.lewis@telecom-personal.com, confirming that a new authorized user has been added. It's a security measure."
+    },
+    {
+      "timestamp": "07:38",
+      "speaker": "User",
+      "text": "Good. I like that. I should see that soon then."
+    },
+    {
+      "timestamp": "07:42",
+      "speaker": "Agent",
+      "text": "You should. It's usually sent within 15 minutes of the change. For your records, the reference number for today's call and the change we made is 9-8-C-A-U-3-1."
+    },
+    {
+      "timestamp": "07:58",
+      "speaker": "User",
+      "text": "Okay... let me grab a pen... hold on."
+    },
+    {
+      "timestamp": "08:10",
+      "speaker": "User",
+      "text": "Alright, go ahead again."
+    },
+    {
+      "timestamp": "08:12",
+      "speaker": "Agent",
+      "text": "Certainly. The reference number is 9-8-C, as in Charlie, A, as in Alpha, U, as in Uniform, 3-1."
+    },
+    {
+      "timestamp": "08:25",
+      "speaker": "User",
+      "text": "Got it. 98CAU31. Thank you."
+    },
+    {
+      "timestamp": "08:30",
+      "speaker": "Agent",
+      "text": "You're welcome. So, just to recap, we've successfully added Sarah Jenkins as a full access authorized contact to your account. She can call in immediately and will be prompted to set up her own security PIN on her first call."
+    },
+    {
+      "timestamp": "08:45",
+      "speaker": "User",
+      "text": "That's everything. You've been very helpful, Alex."
+    },
+    {
+      "timestamp": "08:49",
+      "speaker": "Agent",
+      "text": "It was my pleasure, Mr. Lewis. Is there anything else at all I can assist you with today? Any questions about your billing, your current plan, or any other Cymbal services?"
+    },
+    {
+      "timestamp": "09:00",
+      "speaker": "User",
+      "text": "No, that was the only thing on my list for today. I appreciate your help."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "Agent",
+      "text": "Wonderful. We're glad we could get that sorted out for you quickly."
+    },
+    {
+      "timestamp": "09:10",
+      "speaker": "User",
+      "text": "Me too. It'll make things much easier going forward."
+    },
+    {
+      "timestamp": "09:14",
+      "speaker": "Agent",
+      "text": "That's what we aim for. Well, thank you for being a valued Cymbal Telecom corporate customer, Mr. Lewis. We appreciate your business."
+    },
+    {
+      "timestamp": "09:22",
+      "speaker": "User",
+      "text": "Thank you, Alex. Have a good day."
+    },
+    {
+      "timestamp": "09:25",
+      "speaker": "Agent",
+      "text": "You too. Thank you for your call. Goodbye."
+    }
+  ]
+}

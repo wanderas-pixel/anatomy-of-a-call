@@ -1,0 +1,560 @@
+{
+  "metadata": {
+    "call_id": "CALL-0089",
+    "customer_id": "CUST-1016",
+    "customer_name": "Sandra Wright",
+    "customer_type": "Consumer",
+    "phone": "555-735-3488",
+    "email": "sandra.wright@telecom-personal.com",
+    "services": "Double Play Bundle: Fiber 500 + Digital TV ($95/mo)",
+    "duration_minutes": 16,
+    "total_turns": 109
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is David. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hello David. My name is Sandra Wright. I need to set up internet and phone service for a new branch office my company is opening."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "Absolutely, Sandra. I can certainly help you with setting up a new business account. To get started, are you an existing Cymbal Telecom customer yourself?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Yes, I am. I have service at my home address. That's why I'm calling you guys first."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "That's great to hear, we appreciate your loyalty. To pull up your file and make this process a bit smoother, could you please provide me with your existing customer ID or phone number?"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "User",
+      "text": "Sure. My customer ID is CUST-1016."
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "Agent",
+      "text": "Thank you. And for security purposes, could you please verify the 4-digit security PIN on your account?"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "User",
+      "text": "Yes, it's 6-5-3-4."
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying that, Ms. Wright. I have your account information here. Now, since this is for a business, we will need to create a new, separate business account. Is that alright?"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "User",
+      "text": "Yes, that's what I assumed. This will be under the company's name, not mine personally."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "Agent",
+      "text": "Understood. Let's start with the service address for the new branch office. What is the full address?"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "User",
+      "text": "It's 1450 Industrial Park Drive, Suite 2B. The city is Northwood, and the zip code is 98052."
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "Agent",
+      "text": "Okay, 1450 Industrial Park Drive, Suite 2B in Northwood. Thank you. Please give me just a moment to check serviceability for that location."
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. I have good news! We offer our full range of Cymbal Business Fiber services at that address."
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "User",
+      "text": "Excellent. That's what I was hoping for."
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "Agent",
+      "text": "To help recommend the right package, could you tell me a bit about the business and what you'll be doing there? For example, how many employees will be on-site?"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "User",
+      "text": "It's a small satellite office. We'll start with about eight employees, probably growing to ten or twelve within a year. It's mostly sales and customer support staff."
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "Agent",
+      "text": "Okay, and what does their typical internet usage look like? Heavy data transfers, video conferencing, cloud applications?"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "User",
+      "text": "All of the above. Lots of video calls with clients, constant connection to our corporate cloud CRM, and we'll be using VoIP for phones. So, reliability and upload speed are very important."
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "Agent",
+      "text": "That's very helpful. Based on that, I would strongly recommend our Cymbal Business Fiber 1 Gig plan. It provides symmetrical speeds, meaning you get 1 gigabit per second for both download and upload, which is ideal for video conferencing and cloud-based work."
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "User",
+      "text": "Symmetrical speeds sound right. What does that plan cost per month?"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "Agent",
+      "text": "The Business Fiber 1 Gig plan is one hundred forty-nine ninety-nine per month. That includes the business-grade router and our 24/7 priority business support."
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "User",
+      "text": "Okay, one-forty-nine ninety-nine. Does that come with a static IP address, or is that extra?"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "Agent",
+      "text": "That's a great question. The plan comes with a dynamic IP by default. A static IP address is available as an add-on for an additional fifteen dollars per month."
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "User",
+      "text": "We'll need one for our VPN. So, add the static IP. What's the total for internet then?"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "Agent",
+      "text": "Certainly. So that would be one hundred sixty-four ninety-nine per month for the internet service with the static IP."
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "User",
+      "text": "Alright, that's within our budget. Let's move on to the phones."
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "Agent",
+      "text": "Perfect. For phone service, we offer our Cymbal Cloud Voice platform. It's a VoIP solution that's very flexible. The pricing is per-user, or 'seat'."
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "User",
+      "text": "Okay. I think we'll need five lines to start. One for the front desk/reception, and four for the initial support team members."
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "Agent",
+      "text": "We can definitely do five seats. Our standard Cloud Voice license is twenty-four ninety-nine per user per month. It includes unlimited nationwide calling, an auto-attendant, hunt groups, voicemail-to-email, and the mobile app."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "User",
+      "text": "Twenty-four ninety-nine per user. Okay. And does that include the physical phones themselves?"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "Agent",
+      "text": "It does not. The hardware is separate. You can either purchase compatible VoIP phones from us directly, or you can lease them for a small monthly fee. We can also provision certain existing VoIP phone models if you have them already."
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "User",
+      "text": "We don't have any. We'll need to get new hardware. What are the options for leasing?"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "Agent",
+      "text": "Our standard desk phone, which is a Polycom VVX 250, leases for five dollars per month per phone. It's a very reliable and popular model."
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "User",
+      "text": "Okay, so five dollars per phone. So the total for one person would be twenty-four ninety-nine plus five... about thirty dollars a month."
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "Agent",
+      "text": "Exactly. Twenty-nine ninety-nine per user, to be precise, if you lease the standard phone."
+    },
+    {
+      "timestamp": "05:21",
+      "speaker": "User",
+      "text": "Alright, let's do that. Five Cloud Voice seats, with five leased desk phones."
+    },
+    {
+      "timestamp": "05:27",
+      "speaker": "Agent",
+      "text": "Excellent. Let me add that to the order. And will you be needing new phone numbers, or are you looking to port existing numbers over to Cymbal?"
+    },
+    {
+      "timestamp": "05:36",
+      "speaker": "User",
+      "text": "This is a brand new office, so we'll need new numbers. We'd like a main number and then four direct lines."
+    },
+    {
+      "timestamp": "05:43",
+      "speaker": "Agent",
+      "text": "Not a problem. We can assign a new block of sequential numbers with the local area code for you."
+    },
+    {
+      "timestamp": "05:50",
+      "speaker": "User",
+      "text": "Perfect."
+    },
+    {
+      "timestamp": "05:52",
+      "speaker": "Agent",
+      "text": "So, to recap the order so far: we have the Business Fiber 1 Gig plan with a static IP, and five Cymbal Cloud Voice seats with five leased desk phones. Does that all sound correct?"
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "User",
+      "text": "Yes, that's exactly what we need."
+    },
+    {
+      "timestamp": "06:08",
+      "speaker": "Agent",
+      "text": "Great. Now let's talk about the installation process. For a business fiber installation, we do require a professional technician visit to run the fiber line into your suite and install the Optical Network Terminal, or ONT."
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "User",
+      "text": "Yes, I expected that. What are the costs associated with the installation?"
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "Agent",
+      "text": "There is a one-time professional installation fee of one hundred ninety-nine dollars. This covers the full setup for both the internet and the phones to ensure everything is working perfectly from day one."
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "User",
+      "text": "A hundred and ninety-nine dollars... Is there any promotion or way to waive that fee? We're signing up for your top-tier services."
+    },
+    {
+      "timestamp": "06:49",
+      "speaker": "Agent",
+      "text": "I understand completely. Let me check what's possible. Because this is a new business fiber build-out to the suite, the fee is generally mandatory to cover the technician's work. Please allow me just one moment."
+    },
+    {
+      "timestamp": "07:00",
+      "speaker": "User",
+      "text": "Okay, I'll wait."
+    },
+    {
+      "timestamp": "07:35",
+      "speaker": "Agent",
+      "text": "Thank you for holding, Ms. Wright. I've reviewed the account, and while I can't waive the entire installation fee, I am able to apply a fifty-dollar new business credit to your first bill, which will help offset that cost."
+    },
+    {
+      "timestamp": "07:50",
+      "speaker": "User",
+      "text": "Okay, a fifty-dollar credit is better than nothing. I appreciate you checking. I'll accept that."
+    },
+    {
+      "timestamp": "07:57",
+      "speaker": "Agent",
+      "text": "You're welcome. I've added that credit to the order. Now, we can schedule your installation appointment. Our technician will need access to the suite. Are you the primary contact who will be on-site?"
+    },
+    {
+      "timestamp": "08:09",
+      "speaker": "User",
+      "text": "I will be. We're getting the keys next Monday, so we can schedule the installation for any time after that."
+    },
+    {
+      "timestamp": "08:16",
+      "speaker": "Agent",
+      "text": "Excellent. Let me pull up the technician schedule for the Northwood area. What day of the week works best for you?"
+    },
+    {
+      "timestamp": "08:24",
+      "speaker": "User",
+      "text": "How about that Tuesday or Wednesday? Earlier in the week is better."
+    },
+    {
+      "timestamp": "08:30",
+      "speaker": "Agent",
+      "text": "Checking for you now... Okay, I have an opening on Tuesday morning, between 8 AM and 11 AM. Or I have Wednesday afternoon, between 1 PM and 4 PM."
+    },
+    {
+      "timestamp": "08:45",
+      "speaker": "User",
+      "text": "The Tuesday morning slot is perfect. Let's book that one."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "Agent",
+      "text": "Great. I've booked you for Tuesday, let me get the date... that would be the 16th, from 8 AM to 11 AM. The technician will call you when they are on their way."
+    },
+    {
+      "timestamp": "09:02",
+      "speaker": "User",
+      "text": "Perfect. Tuesday the 16th, 8 to 11 AM. Got it."
+    },
+    {
+      "timestamp": "09:07",
+      "speaker": "Agent",
+      "text": "Please note that someone over the age of 18 must be present for the entire duration of the appointment."
+    },
+    {
+      "timestamp": "09:14",
+      "speaker": "User",
+      "text": "Yes, I will be there myself."
+    },
+    {
+      "timestamp": "09:16",
+      "speaker": "Agent",
+      "text": "Okay, we're almost done. I just need to gather some information to create the new business account. Could you please provide the legal name of the business?"
+    },
+    {
+      "timestamp": "09:26",
+      "speaker": "User",
+      "text": "It's Apex Solutions LLC."
+    },
+    {
+      "timestamp": "09:30",
+      "speaker": "Agent",
+      "text": "Apex Solutions LLC. And do you have the federal tax ID number for the business?"
+    },
+    {
+      "timestamp": "09:37",
+      "speaker": "User",
+      "text": "Yes, let me pull it up... It's 8-6, dash, 7-5-3-0-9-9-9."
+    },
+    {
+      "timestamp": "09:50",
+      "speaker": "Agent",
+      "text": "Thank you. I'm entering that now. And what would be the best billing email address for this new account?"
+    },
+    {
+      "timestamp": "09:58",
+      "speaker": "User",
+      "text": "Please send it to ap.invoices@apexsolutions.corp."
+    },
+    {
+      "timestamp": "10:06",
+      "speaker": "Agent",
+      "text": "Got it. ap.invoices at apexsolutions dot corp. Lastly, I'll need a primary contact for the account, which I assume is you?"
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "Yes, that's correct. Sandra Wright."
+    },
+    {
+      "timestamp": "10:21",
+      "speaker": "Agent",
+      "text": "And the best contact number for you regarding this account?"
+    },
+    {
+      "timestamp": "10:26",
+      "speaker": "User",
+      "text": "You can use my mobile, 555-735-3488."
+    },
+    {
+      "timestamp": "10:33",
+      "speaker": "Agent",
+      "text": "Okay. I'm just creating the account now. It will just take another minute or so."
+    },
+    {
+      "timestamp": "10:40",
+      "speaker": "User",
+      "text": "Take your time."
+    },
+    {
+      "timestamp": "11:15",
+      "speaker": "Agent",
+      "text": "Alright, the new business account has been created. Your new Cymbal Telecom business account number is BIZ-884-3991. I'll also be sending a confirmation email with all these details to you."
+    },
+    {
+      "timestamp": "11:30",
+      "speaker": "User",
+      "text": "Okay, BIZ-884-3991. Got it."
+    },
+    {
+      "timestamp": "11:35",
+      "speaker": "Agent",
+      "text": "So, let's do one final review of the entire order to make sure everything is perfect."
+    },
+    {
+      "timestamp": "11:41",
+      "speaker": "User",
+      "text": "Please do."
+    },
+    {
+      "timestamp": "11:43",
+      "speaker": "Agent",
+      "text": "We are setting up a new business account for Apex Solutions LLC at 1450 Industrial Park Drive, Suite 2B."
+    },
+    {
+      "timestamp": "11:53",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "11:54",
+      "speaker": "Agent",
+      "text": "The service is the Cymbal Business Fiber 1 Gig plan with a static IP address, for a monthly total of one sixty-four ninety-nine plus taxes and fees."
+    },
+    {
+      "timestamp": "12:06",
+      "speaker": "User",
+      "text": "Yes."
+    },
+    {
+      "timestamp": "12:07",
+      "speaker": "Agent",
+      "text": "We are also adding five Cymbal Cloud Voice seats with five leased Polycom desk phones. The total for the voice service will be one hundred forty-nine ninety-five per month."
+    },
+    {
+      "timestamp": "12:20",
+      "speaker": "User",
+      "text": "Wait, can you break that down again?"
+    },
+    {
+      "timestamp": "12:23",
+      "speaker": "Agent",
+      "text": "Of course. It's five users. Each user is twenty-four ninety-nine for the service and five dollars for the phone lease. That's twenty-nine ninety-nine per user. Multiplied by five users, that comes to one hundred forty-nine dollars and ninety-five cents."
+    },
+    {
+      "timestamp": "12:40",
+      "speaker": "User",
+      "text": "Ah, right, my math was off. Okay, one forty-nine ninety-five. That's correct."
+    },
+    {
+      "timestamp": "12:46",
+      "speaker": "Agent",
+      "text": "So, your total monthly recurring charge for both internet and voice will be three hundred fourteen dollars and ninety-four cents, before taxes."
+    },
+    {
+      "timestamp": "12:58",
+      "speaker": "User",
+      "text": "Three-fourteen ninety-four. Understood."
+    },
+    {
+      "timestamp": "13:02",
+      "speaker": "Agent",
+      "text": "There is a one-time installation fee of one hundred ninety-nine dollars, which will appear on your first bill. We have also applied a fifty-dollar credit, which will also be reflected on that first bill."
+    },
+    {
+      "timestamp": "13:16",
+      "speaker": "User",
+      "text": "Okay, sounds good."
+    },
+    {
+      "timestamp": "13:18",
+      "speaker": "Agent",
+      "text": "And your professional installation is scheduled for Tuesday, the 16th, between 8 AM and 11 AM."
+    },
+    {
+      "timestamp": "13:26",
+      "speaker": "User",
+      "text": "Yes, that's all correct. Thank you."
+    },
+    {
+      "timestamp": "13:30",
+      "speaker": "Agent",
+      "text": "Wonderful. I am sending the confirmation email to you now... It should arrive within the next 5-10 minutes. It will contain all of this information, plus your order confirmation number, which is WO-785-219."
+    },
+    {
+      "timestamp": "13:45",
+      "speaker": "User",
+      "text": "WO-785-219. Thank you. I'll keep an eye out for the email."
+    },
+    {
+      "timestamp": "13:52",
+      "speaker": "Agent",
+      "text": "The technician will configure the main router, which will broadcast a secure Wi-Fi network named 'Cymbal Wi-Fi' by default. You'll be able to change the name and password once they've completed the setup."
+    },
+    {
+      "timestamp": "14:05",
+      "speaker": "User",
+      "text": "Okay, that's good to know. We'll probably rename it to something with our company name."
+    },
+    {
+      "timestamp": "14:11",
+      "speaker": "Agent",
+      "text": "Of course. The technician can show you how to do that. They'll also set up and test each of the five desk phones to make sure they can make and receive calls before they leave."
+    },
+    {
+      "timestamp": "14:22",
+      "speaker": "User",
+      "text": "That's great. It sounds like a very thorough process."
+    },
+    {
+      "timestamp": "14:26",
+      "speaker": "Agent",
+      "text": "We aim to make it as seamless as possible for our new business clients. Once the service is active, you'll also have a dedicated business account manager you can reach out to directly for any future needs."
+    },
+    {
+      "timestamp": "14:38",
+      "speaker": "User",
+      "text": "Oh, that's a nice perk. I appreciate that."
+    },
+    {
+      "timestamp": "14:42",
+      "speaker": "Agent",
+      "text": "You're very welcome. Is there anything else I can assist you with today, Ms. Wright? Any other questions about the new service or the installation?"
+    },
+    {
+      "timestamp": "14:52",
+      "speaker": "User",
+      "text": "No, I think that covers everything. You've been very helpful, David."
+    },
+    {
+      "timestamp": "14:57",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help you get everything set up for your new office."
+    },
+    {
+      "timestamp": "15:03",
+      "speaker": "User",
+      "text": "I'm looking forward to getting it all running."
+    },
+    {
+      "timestamp": "15:06",
+      "speaker": "Agent",
+      "text": "We look forward to serving you. On behalf of Cymbal Telecom, we appreciate your business, both personally and now commercially."
+    },
+    {
+      "timestamp": "15:15",
+      "speaker": "User",
+      "text": "Thank you very much."
+    },
+    {
+      "timestamp": "15:17",
+      "speaker": "Agent",
+      "text": "You're welcome. Thank you for calling Cymbal Telecom. Have a wonderful day!"
+    },
+    {
+      "timestamp": "15:23",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "15:25",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

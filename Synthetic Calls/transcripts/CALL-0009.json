@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "call_id": "CALL-0009",
+    "customer_id": "CUST-1028",
+    "customer_name": "David Lewis",
+    "customer_type": "Consumer",
+    "phone": "555-597-5874",
+    "email": "david.lewis@telecom-personal.com",
+    "services": "Unlimited 5G Mobile Plan ($65/mo)",
+    "duration_minutes": 8,
+    "total_turns": 45
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "User",
+      "text": "Hi Sarah. I have two separate accounts with you, one for my mobile phone and one for my home internet, and I'd like to merge them into a single account if possible."
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "Agent",
+      "text": "Absolutely, we can definitely help with that. It's a great way to simplify your billing. To get started, I'll need to verify your identity. Could you please provide me with the customer ID for one of the accounts?"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "User",
+      "text": "Sure thing. The mobile account ID is CUST-1028."
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "Agent",
+      "text": "Thank you. And for security, can you please tell me the 4-digit PIN associated with that account?"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "User",
+      "text": "Yes, it's 6395."
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "Agent",
+      "text": "Perfect, thank you, Mr. Lewis. I have your mobile account pulled up now. I see you're on the Unlimited 5G plan. Now, could you please provide the address or account number for the broadband service you'd like to merge?"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "User",
+      "text": "Yep, the address is 452 Oak Street. The account should be under the same name, David Lewis."
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "Agent",
+      "text": "Okay, one moment while I look that up in our system... Yes, I see it. A Cymbal Fiber 500 plan at 452 Oak Street. So, just to confirm, you want to merge the mobile account ending in 5874 with the fiber internet account at this address?"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "User",
+      "text": "That's exactly right."
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "Agent",
+      "text": "Great. The process is pretty straightforward. We'll designate one account as the primary, and then move the services from the secondary account onto it. This will create a single bill and a single account number going forward. Do you have a preference for which account becomes the primary?"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "User",
+      "text": "Hmm, I guess the mobile one? I've had that one longer. Does it make a difference?"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "Agent",
+      "text": "Not at all, it just determines which account number you'll keep. Using the mobile account, CUST-1028, as the primary is perfectly fine. I just need to read a quick disclosure before we proceed."
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "Agent",
+      "text": "By merging these accounts, you agree that the billing cycle will align with the primary account, which bills on the 15th of each month. Your first combined bill may have some pro-rated charges for the internet service to sync up the dates. Do you agree to proceed?"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "User",
+      "text": "Yes, that's fine with me. So I'll get one bill for both from now on?"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "Agent",
+      "text": "Correct. One single, consolidated bill from Cymbal Telecom covering both your mobile and internet services."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Excellent. What's next?"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "Agent",
+      "text": "Okay, I'm initiating the merge request in our system now. This can take about 60 to 90 seconds to fully process and confirm on my end. Do you mind holding for just a moment while this completes?"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "User",
+      "text": "No problem at all, I'll wait."
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Lewis. The system has successfully merged the accounts. Your broadband service is now officially linked to your primary account, CUST-1028."
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "User",
+      "text": "Great! That was easy."
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "Agent",
+      "text": "I'm glad to hear it. Now, the next step is to set up a new security PIN for this unified account. The old PIN, 6395, was for the mobile account only. For your security, we need to create a new master PIN for the combined account."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "User",
+      "text": "Okay, that makes sense. So I can choose a new one?"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "Agent",
+      "text": "Yes. Please think of a new 4-digit PIN. When you're ready, just let me know."
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "User",
+      "text": "Alright, I have one."
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "Agent",
+      "text": "Okay, for your security, please do not say it out loud. I'm going to activate our secure PIN entry system. You'll hear a tone, and then you can enter the 4 digits using your phone's keypad. Please go ahead when you hear the beep."
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "User",
+      "text": "Okay, I'm ready."
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "Agent",
+      "text": "Thank you. And to confirm, please re-enter the same 4-digit PIN one more time."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "Agent",
+      "text": "Perfect. I've received confirmation that the new PIN has been set successfully on your merged account. From now on, when you call Cymbal Telecom, this will be the PIN we ask for to verify your account."
+    },
+    {
+      "timestamp": "05:29",
+      "speaker": "User",
+      "text": "Fantastic. And what about my online login?"
+    },
+    {
+      "timestamp": "05:33",
+      "speaker": "Agent",
+      "text": "Great question. Since the accounts are merged, you'll now see both services when you log into the Cymbal Telecom website or app using your primary account credentials. The old login for the internet-only account will be deactivated."
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "User",
+      "text": "So I just use my existing mobile account login for everything now. Got it."
+    },
+    {
+      "timestamp": "05:54",
+      "speaker": "Agent",
+      "text": "That's correct. Your username associated with CUST-1028 is now your master login for all your Cymbal services."
+    },
+    {
+      "timestamp": "06:02",
+      "speaker": "User",
+      "text": "This is much more organized. One last question: what about automatic payments? I had that set up for both accounts separately."
+    },
+    {
+      "timestamp": "06:10",
+      "speaker": "Agent",
+      "text": "That's a very important question. Let me check that for you. One moment."
+    },
+    {
+      "timestamp": "06:25",
+      "speaker": "Agent",
+      "text": "Okay, I see the autopay for the primary mobile account was set up with a Visa card ending in 1234. The broadband account had a Mastercard ending in 5678. The system defaults to the primary account's payment method. Is the Visa ending in 1234 the one you'd like to use for the combined bill?"
+    },
+    {
+      "timestamp": "06:46",
+      "speaker": "User",
+      "text": "Yes, that's the one I want to use for everything. So the Mastercard will be removed automatically?"
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "Agent",
+      "text": "Correct. The payment profile from the secondary account has been archived, and only the Visa ending in 1234 is active for autopay on the merged account. Your next combined bill will be automatically charged to that card."
+    },
+    {
+      "timestamp": "07:08",
+      "speaker": "User",
+      "text": "Perfect. You've been very helpful, Sarah. That covers everything I wanted to do."
+    },
+    {
+      "timestamp": "07:14",
+      "speaker": "Agent",
+      "text": "I'm so glad I could help! Just to quickly recap: we've successfully merged your mobile and broadband accounts under the single ID CUST-1028, we've set a new secure master PIN for the account, and confirmed your autopay is correctly set up for the combined bill. Is there anything else at all I can assist you with today?"
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "User",
+      "text": "No, that's everything. Thank you very much for your help."
+    },
+    {
+      "timestamp": "07:44",
+      "speaker": "Agent",
+      "text": "You are very welcome, Mr. Lewis. We appreciate your business. Thank you for calling Cymbal Telecom, and have a wonderful day!"
+    },
+    {
+      "timestamp": "07:52",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "07:54",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "call_id": "CALL-0084",
+    "customer_id": "CUST-1013",
+    "customer_name": "Thomas Young",
+    "customer_type": "Consumer",
+    "phone": "555-588-2228",
+    "email": "thomas.young@telecom-personal.com",
+    "services": "Fiber Gigabit Broadband Internet ($85/mo)",
+    "duration_minutes": 12,
+    "total_turns": 71
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Jessica. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Jessica. I'm calling because I want to set up automatic payments from my bank account. I think I get a discount for that?"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "Yes, absolutely! We do offer a discount for setting up direct debit. I can certainly help you with that. First, for security, could I get your full name and the Customer ID from your bill?"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "User",
+      "text": "Sure. My name is Thomas Young. The customer ID is... let me find it... okay, it's CUST-1013."
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Young. I've located your account. To fully verify it, could you please provide the 4-digit security PIN you set up with us?"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "User",
+      "text": "Yes, the PIN is 6692."
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "Agent",
+      "text": "Perfect, that's correct. Thank you for verifying your information. So, you'd like to set up direct debit from a checking account for the autopay discount. Is that right?"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "User",
+      "text": "That's the one. I'm currently paying with my credit card, but I saw on the website that the $10 discount is only for using a bank account."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "Agent",
+      "text": "You are absolutely correct. The $10 monthly discount applies specifically to payments made via ACH transfer from a checking or savings account. I can get that set up for you right now."
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "User",
+      "text": "Great. What information do you need from me?"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "Agent",
+      "text": "I'll need your bank's name, the 9-digit routing number, and your bank account number. Do you have that information handy?"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "User",
+      "text": "I do. I have my checkbook right here. The bank is Capital Trust Bank."
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "Agent",
+      "text": "Capital Trust Bank. Got it. And whenever you're ready, please provide the 9-digit routing number."
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "User",
+      "text": "Okay, the routing number is 0 5 1 0 0 0 0 1 7."
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "Agent",
+      "text": "Thank you. Let me repeat that back to ensure accuracy. That's zero-five-one-zero-zero-zero-zero-one-seven."
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "User",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "Agent",
+      "text": "Excellent. And now the account number, please."
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "User",
+      "text": "The account number is 8 4 4 6 2 1 9 9 0 3."
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "Agent",
+      "text": "Okay, let me read that back as well. That's eight-four-four-six-two-one-nine-nine-zero-three."
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "User",
+      "text": "That is correct."
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "Agent",
+      "text": "Great. Just so you are aware, by providing this information, you are authorizing Cymbal Telecom to debit this account for the total amount due on your monthly bill. This authorization will remain in effect until you notify us to cancel it."
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "User",
+      "text": "Okay, that makes sense. And if I need to change it, I just call back?"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "Agent",
+      "text": "You can call us, or you can also manage your payment methods online through your MyCymbal account portal. It's quite easy to update there as well."
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "User",
+      "text": "Good to know. Alright, I consent to that."
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Young. I am now entering the information into our secure billing system. This will just take a moment. Please stay on the line."
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. The system is just validating the account details with the bank. Should be just another 30 seconds or so."
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "User",
+      "text": "Okay, take your time. Better to get it right."
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "Agent",
+      "text": "Alright, Mr. Young, thank you for holding. I have great news. The banking information has been validated and successfully added to your account as the primary autopay method."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "User",
+      "text": "Excellent! So, the discount will be applied now?"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "Agent",
+      "text": "Yes. I have also enrolled you in the $10 direct debit discount program. Now, your current bill has already been generated for this month, so the first automatic withdrawal and the discount will apply starting with your next billing cycle."
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "User",
+      "text": "Ah, okay. So I still need to pay this month's bill manually?"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "Agent",
+      "text": "Let me check the exact status of your current invoice... one moment."
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "Agent",
+      "text": "Okay, I see your latest bill was generated three days ago, and it's due on the 25th of this month. Since the autopay setup needs one full billing cycle to take effect, that payment will not be withdrawn automatically. You would need to make that payment as you normally would."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "User",
+      "text": "Okay, I can do that online with my card like I usually do. So when will the first automatic payment happen?"
+    },
+    {
+      "timestamp": "05:47",
+      "speaker": "Agent",
+      "text": "Your next bill will be generated around the 5th of next month. The automatic withdrawal will then occur on the 25th of next month, and it will reflect the discounted price."
+    },
+    {
+      "timestamp": "05:59",
+      "speaker": "User",
+      "text": "So my plan is $85 a month. That means next month's bill will be for $75?"
+    },
+    {
+      "timestamp": "06:06",
+      "speaker": "Agent",
+      "text": "That's exactly right. Your Fiber Gigabit Broadband plan is $85, and with the $10 autopay discount, your new monthly total will be $75 plus any applicable taxes and fees."
+    },
+    {
+      "timestamp": "06:18",
+      "speaker": "User",
+      "text": "And the money will come out of my checking account on the 25th of every month, starting next month?"
+    },
+    {
+      "timestamp": "06:24",
+      "speaker": "Agent",
+      "text": "Correct. The payment date is always the 25th. You will receive your e-bill via email about 20 days prior, so you'll always know the exact amount before it's withdrawn."
+    },
+    {
+      "timestamp": "06:35",
+      "speaker": "User",
+      "text": "That's perfect. That's exactly what I wanted. So the credit card I had on file is removed now?"
+    },
+    {
+      "timestamp": "06:42",
+      "speaker": "Agent",
+      "text": "The new bank account is now set as the default autopay method. Your credit card is still on file but is no longer marked for automatic payments. Would you like me to remove it completely from the account?"
+    },
+    {
+      "timestamp": "06:54",
+      "speaker": "User",
+      "text": "Hmm. Maybe leave it for now. Just in case I ever need to make a one-time payment for something else. Is that okay?"
+    },
+    {
+      "timestamp": "07:02",
+      "speaker": "Agent",
+      "text": "Of course. It can remain on your account as a secondary, manual payment option without any issue. It will not be charged automatically."
+    },
+    {
+      "timestamp": "07:11",
+      "speaker": "User",
+      "text": "Great. This is much easier than I thought it would be."
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "Agent",
+      "text": "We try to make it as simple as possible. I'm also sending a confirmation email to the address we have on file, thomas.young@telecom-personal.com. Is that still the best email for you?"
+    },
+    {
+      "timestamp": "07:28",
+      "speaker": "User",
+      "text": "Yes, that's my email. A confirmation would be great, thank you."
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "Agent",
+      "text": "You should receive it within the next 15 minutes. It will just summarize that your payment method was updated to direct debit and that you've been enrolled in the discount program."
+    },
+    {
+      "timestamp": "07:43",
+      "speaker": "User",
+      "text": "Perfect. What happens if, for some reason, a payment doesn't go through? Like if I forget to have enough money in the account on that day?"
+    },
+    {
+      "timestamp": "07:52",
+      "speaker": "Agent",
+      "text": "That's a great question. If an ACH payment fails due to insufficient funds, our system will automatically notify you via email and text message. We would then attempt the withdrawal one more time three business days later."
+    },
+    {
+      "timestamp": "08:05",
+      "speaker": "User",
+      "text": "Okay, so there's a bit of a grace period."
+    },
+    {
+      "timestamp": "08:08",
+      "speaker": "Agent",
+      "text": "Yes, and it's important to note that your bank may charge you an insufficient funds fee. If the second attempt also fails, autopay would be suspended for that month, and a late fee could be applied to your account. You would then need to make a manual payment."
+    },
+    {
+      "timestamp": "08:24",
+      "speaker": "User",
+      "text": "And would I lose the discount?"
+    },
+    {
+      "timestamp": "08:27",
+      "speaker": "Agent",
+      "text": "If the autopay fails, the discount for that month would be reversed on your next bill. But as long as the payment is successful the following month, the discount would apply again."
+    },
+    {
+      "timestamp": "08:38",
+      "speaker": "User",
+      "text": "Okay, that's very clear. Thank you for explaining all the details. I'll be sure to mark my calendar for the 25th."
+    },
+    {
+      "timestamp": "08:46",
+      "speaker": "Agent",
+      "text": "You're very welcome. It's always good to be informed. I've added a note to your account documenting our conversation today, confirming the setup of direct debit and the explanation of the billing cycle."
+    },
+    {
+      "timestamp": "08:58",
+      "speaker": "User",
+      "text": "I appreciate that. It's good service."
+    },
+    {
+      "timestamp": "09:01",
+      "speaker": "Agent",
+      "text": "We do our best. Saving $120 a year is always a nice bonus for our customers."
+    },
+    {
+      "timestamp": "09:08",
+      "speaker": "User",
+      "text": "It really is. That's almost two free months of internet when you think about it."
+    },
+    {
+      "timestamp": "09:14",
+      "speaker": "Agent",
+      "text": "That's a great way to look at it! I'm glad I could get this all sorted out for you today, Mr. Young."
+    },
+    {
+      "timestamp": "09:21",
+      "speaker": "User",
+      "text": "Me too."
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "Agent",
+      "text": "Before we end the call, was there anything else at all I could assist you with? Any questions about your Cymbal Wi-Fi, your plan, or anything else?"
+    },
+    {
+      "timestamp": "09:32",
+      "speaker": "User",
+      "text": "No, the internet service has been great, no complaints there. Just wanted to get the payment sorted. That was everything."
+    },
+    {
+      "timestamp": "09:40",
+      "speaker": "Agent",
+      "text": "I'm so happy to hear that your service is working well for you."
+    },
+    {
+      "timestamp": "09:44",
+      "speaker": "User",
+      "text": "Yep, it's been solid."
+    },
+    {
+      "timestamp": "09:46",
+      "speaker": "Agent",
+      "text": "Wonderful. Well, in that case, thank you for being a valued Cymbal Telecom customer."
+    },
+    {
+      "timestamp": "09:52",
+      "speaker": "User",
+      "text": "Thank you, Jessica. You've been very helpful."
+    },
+    {
+      "timestamp": "09:56",
+      "speaker": "Agent",
+      "text": "It was my pleasure, Mr. Young. Thank you for calling Cymbal Telecom. Have a wonderful day!"
+    },
+    {
+      "timestamp": "10:02",
+      "speaker": "User",
+      "text": "You too. Bye."
+    },
+    {
+      "timestamp": "10:04",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

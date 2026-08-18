@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "call_id": "CALL-0016",
+    "customer_id": "CUST-2015",
+    "customer_name": "OmniMedia Group",
+    "customer_type": "Corporate",
+    "phone": "800-149-6387",
+    "email": "jessica.lopez@omnimediagroup.com",
+    "services": "Business Fiber Gigabit Internet ($199/mo)",
+    "duration_minutes": 10,
+    "total_turns": 53
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom Business Support. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Alex. My name is Jessica Lopez, calling from OmniMedia Group. I'm looking at our latest bill and it seems to be higher than usual."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that, Ms. Lopez. To access your account details securely, could you please provide me with your Customer ID?"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "User",
+      "text": "Yes, of course. The customer ID is CUST-2015."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "Thank you. I have CUST-2015. And for security verification, could you please provide the 6-digit account security PIN?"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "User",
+      "text": "The PIN is 4-9-4-9-8-5."
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying. I've successfully accessed the OmniMedia Group account. I see you're on our Business Fiber Gigabit plan. Now, you mentioned the bill was higher this month?"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "User",
+      "text": "That's right. Our bill is normally a flat $199 plus taxes, but this latest invoice is for $219. It's a $20 increase."
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "Agent",
+      "text": "Okay, I am pulling up your most recent invoice now. Please allow me just a moment to review the line items."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "User",
+      "text": "No problem."
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "Agent",
+      "text": "Thank you for your patience. Yes, I see the invoice total of $219 before taxes. It looks like the base rate for the Business Fiber Gigabit service has returned to its standard price."
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "User",
+      "text": "Standard price? What does that mean? I thought our rate was fixed."
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "Agent",
+      "text": "I understand the confusion. Let me check your service agreement history. It appears that when the account was set up, it included a $20 per month promotional discount for the first 12 months of service."
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "User",
+      "text": "Oh. I think I remember that now. But that was a year ago, I wasn't expecting it to just jump up."
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "Agent",
+      "text": "Yes, I can confirm that the 12-month promotional period concluded with your last billing cycle. The service has now reverted to the standard monthly rate of $219 for the gigabit plan."
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "User",
+      "text": "I see. Well, we've been a good customer and always pay on time. Is there any other promotion or a loyalty discount you can apply to bring the price back down?"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "Agent",
+      "text": "That's an excellent question, and I appreciate your loyalty to Cymbal Telecom. I can definitely check our system for any available offers for your account. May I place you on a brief hold for one to two minutes while I check?"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "User",
+      "text": "Yes, that's fine. I'll wait."
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "Agent",
+      "text": "Thank you. Please hold."
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "Agent",
+      "text": "Ms. Lopez? Thank you so much for holding."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "I'm here. Did you find anything?"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "Agent",
+      "text": "I did. I've reviewed the available loyalty offers. While the original sign-up promotion isn't available, I can offer you a 'Business Loyalty' discount of $15 per month for the next 12 months."
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "User",
+      "text": "So, fifteen dollars off instead of twenty? That would make the new bill... $204 a month?"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "Agent",
+      "text": "That is correct. Your monthly rate would be $204, plus any applicable taxes and fees, for the next year."
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "User",
+      "text": "Hmm. Is that really the best you can do? We rely on this internet for our business, but every dollar counts."
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "Agent",
+      "text": "I completely understand. Let me just double check the system for any other stackable credits... one moment."
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "Agent",
+      "text": "Alright, thank you for waiting again. The $15 per month discount is the best recurring offer available for this plan at the moment. It's designed specifically for our valued long-term business clients."
+    },
+    {
+      "timestamp": "05:08",
+      "speaker": "User",
+      "text": "I suppose that's better than nothing. It's just frustrating to see prices go up."
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "Agent",
+      "text": "I understand completely. How about this: I can apply that new $15 loyalty discount starting today. And as a gesture of goodwill for the confusion on this month's bill, I can also apply a one-time credit of $10 to your current invoice."
+    },
+    {
+      "timestamp": "05:30",
+      "speaker": "User",
+      "text": "A one-time ten dollar credit? For this current bill?"
+    },
+    {
+      "timestamp": "05:35",
+      "speaker": "Agent",
+      "text": "Yes. That would bring this month's bill down from $219 to $209. Then, starting with your next invoice, the new monthly rate of $204 would take effect for the following 12 months."
+    },
+    {
+      "timestamp": "05:48",
+      "speaker": "User",
+      "text": "Okay... a $10 credit now and the rate becomes $204 going forward. Yes, that sounds fair. Let's do that."
+    },
+    {
+      "timestamp": "05:58",
+      "speaker": "Agent",
+      "text": "Excellent. I'm glad we could find a solution that works for you. Please stay on the line while I apply these changes to your account. It will just take me a minute."
+    },
+    {
+      "timestamp": "06:08",
+      "speaker": "User",
+      "text": "Alright, thank you, Alex."
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "Agent",
+      "text": "Okay, Ms. Lopez, everything is processed. I have successfully added the 'Business Loyalty Discount' of $15 per month. The system confirms this is active for 12 billing cycles."
+    },
+    {
+      "timestamp": "07:08",
+      "speaker": "User",
+      "text": "Great. And the credit for this month?"
+    },
+    {
+      "timestamp": "07:11",
+      "speaker": "Agent",
+      "text": "Yes, the one-time $10 credit has also been applied to your current outstanding balance. Your new total due for this billing period is $209 plus tax. You should be able to see this reflected if you log into your Cymbal online portal within the next hour."
+    },
+    {
+      "timestamp": "07:27",
+      "speaker": "User",
+      "text": "Perfect. That's very helpful."
+    },
+    {
+      "timestamp": "07:30",
+      "speaker": "Agent",
+      "text": "I'm happy I could assist. Just to confirm and summarize for you: we've adjusted this month's bill to $209, and your ongoing monthly rate for the Business Fiber Gigabit service will be $204 for the next 12 months. Is that all correct on your end?"
+    },
+    {
+      "timestamp": "07:48",
+      "speaker": "User",
+      "text": "Yes, that all sounds correct. I've made a note of it."
+    },
+    {
+      "timestamp": "07:53",
+      "speaker": "Agent",
+      "text": "Wonderful. And I've also added a note to the account detailing our conversation and the new promotional rate we've applied today. The reference number for this interaction, should you need it, is 774-B-91."
+    },
+    {
+      "timestamp": "08:10",
+      "speaker": "User",
+      "text": "Okay, 774-B-91. Got it."
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "Agent",
+      "text": "We do value your business with Cymbal Telecom, and I'm glad we could resolve this for you today."
+    },
+    {
+      "timestamp": "08:22",
+      "speaker": "User",
+      "text": "Me too. Thank you for your help, Alex. You've been very efficient."
+    },
+    {
+      "timestamp": "08:27",
+      "speaker": "Agent",
+      "text": "You're very welcome, Ms. Lopez. Was there anything else I could assist you with today? Any questions about your account or other Cymbal services?"
+    },
+    {
+      "timestamp": "08:36",
+      "speaker": "User",
+      "text": "No, that was the only thing. I'm all set."
+    },
+    {
+      "timestamp": "08:40",
+      "speaker": "Agent",
+      "text": "Alright then. I would recommend setting a calendar reminder for about 11 months from now to give us a call and review your account for new promotions before this one expires."
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "User",
+      "text": "That is a very good idea. I will do that. Thank you for the tip."
+    },
+    {
+      "timestamp": "08:55",
+      "speaker": "Agent",
+      "text": "Of course. We're always here to help."
+    },
+    {
+      "timestamp": "09:00",
+      "speaker": "User",
+      "text": "Okay, well have a good rest of your day."
+    },
+    {
+      "timestamp": "09:04",
+      "speaker": "Agent",
+      "text": "You as well. Thank you for being a Cymbal Telecom customer, and have a wonderful day."
+    },
+    {
+      "timestamp": "09:10",
+      "speaker": "User",
+      "text": "Thanks, bye."
+    }
+  ]
+}

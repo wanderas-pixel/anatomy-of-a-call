@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "call_id": "CALL-0066",
+    "customer_id": "CUST-1032",
+    "customer_name": "James Gonzalez",
+    "customer_type": "Consumer",
+    "phone": "555-471-5411",
+    "email": "james.gonzalez@telecom-personal.com",
+    "services": "Fiber 300 Broadband Internet ($55/mo)",
+    "duration_minutes": 14,
+    "total_turns": 84
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Sarah. How can I help you today?"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "User",
+      "text": "Hi Sarah. I'm an existing customer and I'd like to add a mobile phone line to my account."
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "Agent",
+      "text": "Absolutely, I can certainly help you with that. To get started, could I please have your full name?"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "User",
+      "text": "James Gonzalez."
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Gonzalez. And do you have your Cymbal Telecom account number or customer ID handy?"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "User",
+      "text": "Yes, I do. It's CUST-1032."
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "Agent",
+      "text": "Great. Thank you. For security purposes and to protect your account, could you please verify the four-digit security PIN you set up?"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "User",
+      "text": "Sure, it's 8765."
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "Agent",
+      "text": "Perfect, that's a match. Thank you for verifying. Let me just pull up your account here... one moment."
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "Agent",
+      "text": "Okay, I see you have our Fiber 300 internet plan. We appreciate you being a Cymbal customer."
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "User",
+      "text": "That's right. The internet service has been great. Now my daughter needs a phone, so I figured I'd check with you guys first."
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "Agent",
+      "text": "That's wonderful to hear, and a very smart move! Because you're an existing internet customer, you qualify for a significant bundling discount on our mobile plans."
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "User",
+      "text": "Oh, excellent. What are the options?"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "Agent",
+      "text": "We have two fantastic unlimited plans. Our standard 'Cymbal Unlimited' plan includes unlimited talk, text, and data. The data is premium for the first 50 gigabytes each month."
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "User",
+      "text": "And the price for that?"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "Agent",
+      "text": "Normally it's $45 per month for a single line, but with your internet bundle discount, it drops to just $30 per month."
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "User",
+      "text": "Wow, okay. And what's the other plan?"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "Agent",
+      "text": "Our other option is the 'Cymbal Unlimited Plus' plan. That one gives you 100 gigabytes of premium data, plus 15 gigabytes of high-speed mobile hotspot data. That's normally $55, and would be $40 for you."
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "User",
+      "text": "Hmm. She'll mostly be on our home Wi-Fi, the Cymbal Wi-Fi, or at school. I think 50 gigabytes is more than enough. The first option sounds better."
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "Agent",
+      "text": "I agree, the Cymbal Unlimited plan at $30 is a very popular choice for exactly that reason. It offers great value. Now, you also mentioned needing a phone?"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "User",
+      "text": "Yes. She has her heart set on the new iPhone 15 Pro."
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "Agent",
+      "text": "An excellent choice, a very powerful phone. We can definitely get that ordered for you. We offer convenient monthly installment plans for new devices. Were you thinking of a specific color or storage size?"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "User",
+      "text": "I'm not sure... what's the standard storage? And for color, maybe that new blue one I've seen in commercials?"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "Agent",
+      "text": "Yes, the Blue Titanium. It's very popular. Let me check our inventory... Yes, it's in stock. The base model comes with 128 gigabytes of storage, which is quite a lot for most users."
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "User",
+      "text": "128 should be fine for her. So how does the financing work? I don't want to pay for it all at once."
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "Agent",
+      "text": "Of course. The full retail price for the iPhone 15 Pro with 128 gigabytes is $999. We offer a 36-month installment plan which makes it much more manageable. Let me just run a quick check to confirm your eligibility for the 0% interest offer."
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "Agent",
+      "text": "Thank you for your patience... And yes, great news. You are fully qualified for the 36-month plan at 0% APR."
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "User",
+      "text": "Great. So what does that come out to per month?"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "Agent",
+      "text": "Let me calculate that for you. It would be $999 divided by 36 months, which comes to $27.75 per month for the phone itself."
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "User",
+      "text": "Okay... so $30 for the service and about $28 for the phone. That's around $58 per month total?"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "Agent",
+      "text": "That's exactly right. Your total for the new line and device would be $57.75 plus any applicable state and local taxes."
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "User",
+      "text": "Are there any other fees? Like a setup fee or something?"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "Agent",
+      "text": "That's a great question. There is a standard, one-time activation fee of $35 for any new line of service. That fee will appear on your next bill."
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "User",
+      "text": "Ah, okay. A $35 fee. Is there any way to get that waived since I'm a long-time internet customer?"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "Agent",
+      "text": "I can certainly check on that for you, Mr. Gonzalez. One moment please while I look into any available promotions."
+    },
+    {
+      "timestamp": "05:05",
+      "speaker": "User",
+      "text": "Thank you."
+    },
+    {
+      "timestamp": "05:35",
+      "speaker": "Agent",
+      "text": "Thank you for waiting. I've reviewed the account and promotions, and while the $35 activation fee is a standard part of the new line setup that I can't override, I do want to highlight that the bundle discount you're receiving saves you $15 every single month. Over the year, that's a saving of $180."
+    },
+    {
+      "timestamp": "05:55",
+      "speaker": "User",
+      "text": "Right. Okay, that's a good point. The monthly savings definitely make up for it. Let's go ahead with it then."
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "Agent",
+      "text": "Wonderful. Let's finalize the order for you. Just to confirm one more time: we are adding one new line of Cymbal Unlimited mobile service for $30 per month."
+    },
+    {
+      "timestamp": "06:16",
+      "speaker": "User",
+      "text": "Yes."
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "Agent",
+      "text": "And we are ordering one Apple iPhone 15 Pro, 128 gigabytes, in Blue Titanium."
+    },
+    {
+      "timestamp": "06:26",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "06:27",
+      "speaker": "Agent",
+      "text": "This will be on a 36-month, 0% interest installment plan at a cost of $27.75 per month."
+    },
+    {
+      "timestamp": "06:36",
+      "speaker": "User",
+      "text": "Yes, that all sounds correct."
+    },
+    {
+      "timestamp": "06:40",
+      "speaker": "Agent",
+      "text": "Excellent. Before I place the order, I am required to read a few terms and conditions regarding the device installment plan. Is now a good time?"
+    },
+    {
+      "timestamp": "06:49",
+      "speaker": "User",
+      "text": "Yes, go ahead."
+    },
+    {
+      "timestamp": "06:51",
+      "speaker": "Agent",
+      "text": "Okay. This agreement states that you agree to pay 36 monthly installments of $27.75 for the device. If you cancel your Cymbal mobile service on this line before the 36 months are complete, the remaining unpaid balance for the phone will become due on your final bill. Do you understand and agree to these terms?"
+    },
+    {
+      "timestamp": "07:12",
+      "speaker": "User",
+      "text": "Yes, that makes sense. I understand."
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "Agent",
+      "text": "Thank you. I am now processing the order in our system. It will just take a moment."
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "User",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "08:05",
+      "speaker": "Agent",
+      "text": "Alright, the order is going through. Now, for the delivery. Can I confirm the shipping address is the same as the service address I have on file for your internet?"
+    },
+    {
+      "timestamp": "08:15",
+      "speaker": "User",
+      "text": "Yes, that's the correct address."
+    },
+    {
+      "timestamp": "08:18",
+      "speaker": "Agent",
+      "text": "Perfect. The phone will ship via 3-5 business day ground shipping, and it will come with a new Cymbal Telecom 5G SIM card pre-installed for easy setup."
+    },
+    {
+      "timestamp": "08:29",
+      "speaker": "User",
+      "text": "Okay, sounds good."
+    },
+    {
+      "timestamp": "08:31",
+      "speaker": "Agent",
+      "text": "One last question on the setup. Will you be transferring, or 'porting', an existing phone number for your daughter, or would you like us to assign a brand new number?"
+    },
+    {
+      "timestamp": "08:42",
+      "speaker": "User",
+      "text": "She doesn't have a number yet, so a new one would be perfect."
+    },
+    {
+      "timestamp": "08:46",
+      "speaker": "Agent",
+      "text": "No problem at all. The system will automatically assign a new number with your local area code. I am adding that to the order now."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "User",
+      "text": "Great."
+    },
+    {
+      "timestamp": "09:20",
+      "speaker": "Agent",
+      "text": "Okay, Mr. Gonzalez, the order is officially confirmed. Your order confirmation number is 789-C-M-54321. I am also sending a confirmation email to the address on file, james.gonzalez@telecom-personal.com. Is that correct?"
+    },
+    {
+      "timestamp": "09:38",
+      "speaker": "User",
+      "text": "Yes, that's my email. Thank you."
+    },
+    {
+      "timestamp": "09:41",
+      "speaker": "Agent",
+      "text": "You're welcome. That email will contain the order summary, the new phone number that has been assigned, and a link to track the shipment once it leaves our warehouse."
+    },
+    {
+      "timestamp": "09:52",
+      "speaker": "User",
+      "text": "Perfect. So, just so I'm clear on the billing, how will this work with my current bill?"
+    },
+    {
+      "timestamp": "09:59",
+      "speaker": "Agent",
+      "text": "An excellent question. Your billing cycle closes on the 22nd of each month. Your next bill will show a one-time charge for the $35 activation fee. It will also show the first pro-rated charge for the mobile service and the phone installment, depending on when you activate it."
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "User",
+      "text": "Pro-rated? What does that mean?"
+    },
+    {
+      "timestamp": "10:21",
+      "speaker": "Agent",
+      "text": "It just means you'll only be charged for the days within the billing cycle that the service is active. Then, the following bill will show the full, combined monthly charges."
+    },
+    {
+      "timestamp": "10:33",
+      "speaker": "User",
+      "text": "Okay, so my total monthly bill will be my internet plus this new amount?"
+    },
+    {
+      "timestamp": "10:39",
+      "speaker": "Agent",
+      "text": "That's exactly right. Your Fiber 300 plan is $55, and this new mobile service with the phone is $57.75. So your new combined monthly total from Cymbal Telecom will be approximately $112.75 before taxes."
+    },
+    {
+      "timestamp": "10:58",
+      "speaker": "User",
+      "text": "Got it. $112.75 plus tax. That makes sense. Thank you for clarifying."
+    },
+    {
+      "timestamp": "11:05",
+      "speaker": "Agent",
+      "text": "Of course. We believe in being transparent with our billing. And your payments will continue to be processed through the automatic debit you already have set up, so no action is needed there."
+    },
+    {
+      "timestamp": "11:16",
+      "speaker": "User",
+      "text": "Even better. So what happens when the phone arrives?"
+    },
+    {
+      "timestamp": "11:20",
+      "speaker": "Agent",
+      "text": "The activation process is very simple. You'll just have your daughter power on the new iPhone. It will guide her through the setup, and since the Cymbal SIM card is already inside, it will automatically connect to our network and activate."
+    },
+    {
+      "timestamp": "11:35",
+      "speaker": "User",
+      "text": "That does sound easy. I was worried it would be complicated."
+    },
+    {
+      "timestamp": "11:40",
+      "speaker": "Agent",
+      "text": "Not at all, we try to make it as seamless as possible. If for any reason you run into any trouble, you can always call us back and our technical support team can walk you through it."
+    },
+    {
+      "timestamp": "11:51",
+      "speaker": "User",
+      "text": "Okay, that's good to know."
+    },
+    {
+      "timestamp": "11:54",
+      "speaker": "Agent",
+      "text": "I'm very excited for your daughter to get her new phone and service! I've put all the notes in your account detailing our conversation and the order we placed today."
+    },
+    {
+      "timestamp": "12:06",
+      "speaker": "User",
+      "text": "Thank you, Sarah. You've been really thorough and helpful."
+    },
+    {
+      "timestamp": "12:11",
+      "speaker": "Agent",
+      "text": "It has been my absolute pleasure, Mr. Gonzalez. Is there anything else at all I can assist you with today? I can also review your internet plan to make sure you're on the best speed for your needs, or answer any other questions."
+    },
+    {
+      "timestamp": "12:25",
+      "speaker": "User",
+      "text": "No, the internet is fine and I think that's all for today. You've covered everything."
+    },
+    {
+      "timestamp": "12:31",
+      "speaker": "Agent",
+      "text": "Alright then. Well, thank you again for being a loyal Cymbal Telecom customer and for expanding your services with us today. We truly appreciate your business."
+    },
+    {
+      "timestamp": "12:42",
+      "speaker": "User",
+      "text": "No problem. Thank you."
+    },
+    {
+      "timestamp": "12:45",
+      "speaker": "Agent",
+      "text": "Have a wonderful rest of your day, Mr. Gonzalez."
+    },
+    {
+      "timestamp": "12:49",
+      "speaker": "User",
+      "text": "You too. Goodbye."
+    },
+    {
+      "timestamp": "12:51",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

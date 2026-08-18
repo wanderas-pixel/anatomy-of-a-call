@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "call_id": "CALL-0014",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "phone": "555-445-2408",
+    "email": "linda.smith@telecom-personal.com",
+    "services": "Basic Prepaid Mobile Plan ($25/mo)",
+    "duration_minutes": 11,
+    "total_turns": 60
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is David. How can I help you today?"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "User",
+      "text": "Hi David, yes, I'm calling about my bill. I think I have a problem with my payment."
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "Agent",
+      "text": "I can certainly help you with that. For security, I'll need to verify your account first. Could I please get your full name?"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "User",
+      "text": "Of course. It's Linda Smith."
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "Agent",
+      "text": "Thank you, Ms. Smith. And do you have your Customer ID handy?"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "User",
+      "text": "Uhm, let me see... I wrote it down here somewhere... ah, yes. It's CUST-1029."
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "Agent",
+      "text": "Got it. CUST-1029. And as a final verification step, can you please provide the 4-digit security PIN associated with your account?"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "User",
+      "text": "Yes, my PIN is 1-5-7-7."
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying that information. I'm pulling up your account now... One moment."
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "Agent",
+      "text": "Okay, I see you're on our Basic Prepaid Mobile plan. You mentioned you were calling about a payment problem. How can I assist?"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "User",
+      "text": "Well, this is... it's a bit difficult to say. I'm having a really tough month financially. My car broke down and the repair bill was... a lot more than I expected."
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "Agent",
+      "text": "I'm very sorry to hear that, Ms. Smith. That sounds incredibly stressful. Please know that we understand these things happen."
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "User",
+      "text": "Thank you. I... I saw that my last payment didn't go through, and now this month's is due, and I just... I don't have the full amount right now. I was worried my service would be cut off."
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "Agent",
+      "text": "I appreciate you calling us to sort this out. Let's look at the details together. I see the $25 payment for last month was returned, and the new $25 charge for the current cycle has been added, bringing the total balance to $50. Is that what you see on your end?"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "User",
+      "text": "Yes, that's it. Fifty dollars. I can probably pay about half of that today, but not the whole thing."
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "Agent",
+      "text": "Okay. Thank you for being upfront. Let me check what we can do. I see you've been a loyal Cymbal customer for over three years with a perfect payment history until this point. We definitely want to help you."
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "User",
+      "text": "Oh, really? That means a lot. I really do like my service with you guys."
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "Agent",
+      "text": "We value you as a customer. We have a hardship program for these exact situations. We can set up a split payment agreement. Would you be open to that?"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "User",
+      "text": "A split payment? Yes, absolutely. How would that work?"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "Agent",
+      "text": "It's quite straightforward. You mentioned you could pay about half today. If you make a payment of $25 today, that will cover your current month's service and keep your line active without any interruption."
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "User",
+      "text": "Okay, I can do that. And what about the other $25 that's past due?"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "Agent",
+      "text": "That's the best part of the arrangement. We can take that remaining $25 and split it over your next two bills. So, we'd add an installment of $12.50 to your bill next month, and another $12.50 the month after."
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "User",
+      "text": "So... next month's bill would be my usual $25 plus $12.50, so $37.50?"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "Agent",
+      "text": "Exactly. Your bill would be $37.50 for the next two months, and then in the third month, it would return to your normal $25."
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "User",
+      "text": "Wow. That... that would be a lifesaver. I can definitely manage that. Are you sure that's okay?"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "Agent",
+      "text": "I am positive. It's a standard procedure for customers in good standing facing a temporary hardship. Now, I do see the system has automatically added a $5 late payment penalty to the account."
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "User",
+      "text": "Oh, right. I figured that would happen."
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "Agent",
+      "text": "As a courtesy, given the circumstances and your call today, I'm going to waive that fee for you. It will just take me a moment to process. Do you mind holding for about 30 to 45 seconds while I do that?"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "User",
+      "text": "Oh my goodness. Yes, of course. Take your time. Thank you so much!"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "Agent",
+      "text": "You're welcome. Please hold."
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Ms. Smith. I've successfully removed that $5 late fee. Your total outstanding balance is now confirmed back at $50."
+    },
+    {
+      "timestamp": "05:36",
+      "speaker": "User",
+      "text": "You are just wonderful, David. Thank you."
+    },
+    {
+      "timestamp": "05:40",
+      "speaker": "Agent",
+      "text": "It's my pleasure. Now, to finalize this payment arrangement, I need to read a brief disclosure and get your verbal agreement on the recording. Is now a good time for that?"
+    },
+    {
+      "timestamp": "05:52",
+      "speaker": "User",
+      "text": "Yes, I'm ready."
+    },
+    {
+      "timestamp": "05:55",
+      "speaker": "Agent",
+      "text": "Okay. This is to confirm that you, Linda Smith, are entering into a payment arrangement with Cymbal Telecom for account CUST-1029. You agree to make an immediate payment of twenty-five dollars. The remaining balance of twenty-five dollars will be divided into two equal installments of twelve dollars and fifty cents. These installments will be added to your regular monthly service charges for your next two consecutive billing cycles. Do you understand and agree to these terms?"
+    },
+    {
+      "timestamp": "06:35",
+      "speaker": "User",
+      "text": "Yes, I understand and I agree."
+    },
+    {
+      "timestamp": "06:39",
+      "speaker": "Agent",
+      "text": "Thank you. The arrangement is now officially active on your account. I've made all the necessary notes. Would you like to make the $25 payment now with me over the phone?"
+    },
+    {
+      "timestamp": "06:51",
+      "speaker": "User",
+      "text": "Yes, please. I can use my Visa debit card."
+    },
+    {
+      "timestamp": "06:56",
+      "speaker": "Agent",
+      "text": "Great. I am now opening our secure payment portal. For your security, I will not be repeating the full card number back to you. First, can you confirm the name exactly as it appears on the card?"
+    },
+    {
+      "timestamp": "07:10",
+      "speaker": "User",
+      "text": "Yes, it's Linda J. Smith."
+    },
+    {
+      "timestamp": "07:15",
+      "speaker": "Agent",
+      "text": "Thank you. Now, whenever you are ready, please provide the card number."
+    },
+    {
+      "timestamp": "07:22",
+      "speaker": "User",
+      "text": "It is 4567... 1234... 8765... 4321."
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "Agent",
+      "text": "Got it. And what is the expiration date, month and year?"
+    },
+    {
+      "timestamp": "07:46",
+      "speaker": "User",
+      "text": "It's August of 2026. So, 08/26."
+    },
+    {
+      "timestamp": "07:54",
+      "speaker": "Agent",
+      "text": "Okay. And the 3-digit CVV code from the back of the card?"
+    },
+    {
+      "timestamp": "08:00",
+      "speaker": "User",
+      "text": "That is 9-8-7."
+    },
+    {
+      "timestamp": "08:04",
+      "speaker": "Agent",
+      "text": "And lastly, the billing zip code for this card?"
+    },
+    {
+      "timestamp": "08:09",
+      "speaker": "User",
+      "text": "5-4-3-2-1."
+    },
+    {
+      "timestamp": "08:14",
+      "speaker": "Agent",
+      "text": "Thank you. I have all the information. I am submitting the payment for $25.00 now. Please give the system a moment to process."
+    },
+    {
+      "timestamp": "08:40",
+      "speaker": "Agent",
+      "text": "Okay, great news. The payment was approved and has been successfully posted to your account. Your current balance is now $25, which is scheduled to be paid over the next two months as we discussed."
+    },
+    {
+      "timestamp": "08:55",
+      "speaker": "User",
+      "text": "Oh, what a relief. Thank you. Do I get a confirmation number?"
+    },
+    {
+      "timestamp": "09:01",
+      "speaker": "Agent",
+      "text": "Yes, you do. The confirmation number for today's payment is A-B-C-1-2-3-4-5. I've also just sent a receipt to the email address on file, which is linda.smith@telecom-personal.com. Is that correct?"
+    },
+    {
+      "timestamp": "09:20",
+      "speaker": "User",
+      "text": "Yes, that's the right email. Let me write that down... A-B-C-1-2-3-4-5. Got it."
+    },
+    {
+      "timestamp": "09:31",
+      "speaker": "Agent",
+      "text": "Perfect. So, just to recap: your service is active, today's payment of $25 is complete, the late fee has been waived, and your remaining balance is set to be paid in two installments of $12.50. You are all set."
+    },
+    {
+      "timestamp": "09:50",
+      "speaker": "User",
+      "text": "I feel so much better. I can't thank you enough, David. You've been incredibly kind and helpful."
+    },
+    {
+      "timestamp": "09:58",
+      "speaker": "Agent",
+      "text": "You are most welcome, Ms. Smith. It was my pleasure to assist you and I'm glad we found a solution that works for you. Is there anything else at all I can help you with today?"
+    },
+    {
+      "timestamp": "10:10",
+      "speaker": "User",
+      "text": "No, that was everything. You've solved my biggest worry for the week."
+    },
+    {
+      "timestamp": "10:16",
+      "speaker": "Agent",
+      "text": "I'm very happy to hear that. Well, thank you again for calling Cymbal Telecom and for being a valued customer. We appreciate your business. I hope you have a much better rest of your week."
+    },
+    {
+      "timestamp": "10:30",
+      "speaker": "User",
+      "text": "You too, David. Thank you again. Goodbye."
+    },
+    {
+      "timestamp": "10:35",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    }
+  ]
+}

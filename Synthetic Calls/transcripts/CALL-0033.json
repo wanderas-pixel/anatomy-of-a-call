@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "call_id": "CALL-0033",
+    "customer_id": "CUST-1029",
+    "customer_name": "Linda Smith",
+    "customer_type": "Consumer",
+    "phone": "555-445-2408",
+    "email": "linda.smith@telecom-personal.com",
+    "services": "Basic Prepaid Mobile Plan ($25/mo)",
+    "duration_minutes": 19,
+    "total_turns": 119
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "User",
+      "text": "Hi Alex. My name is Linda Smith. I'm calling because I'd like to add a new mobile line to my account for my son."
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "Agent",
+      "text": "Absolutely, Linda. I can certainly help you with that. To get started and for the security of your account, could you please provide your customer ID number?"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "User",
+      "text": "Oh, sure. Let me find it... Okay, it's CUST-1029."
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "Agent",
+      "text": "Thank you. And to fully verify the account, could you please provide the 4-digit security PIN you set up?"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "User",
+      "text": "Yes, it's 1-5-7-7."
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "Agent",
+      "text": "Perfect, thank you for verifying, Ms. Smith. I have your account pulled up now. I see you're currently on our Basic Prepaid Mobile Plan. Is that correct?"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "User",
+      "text": "Yes, that's the one. The $25 a month plan."
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "Agent",
+      "text": "Great. So, you'd like to add a new line. Are you planning to bring a phone for that line, or will you be looking to purchase a new device from us as well?"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "User",
+      "text": "We'll need a new phone. My son has been saving up for his share of an iPhone 15 Pro, so that's what we'd like to get."
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "Agent",
+      "text": "An excellent choice. The iPhone 15 Pro is a fantastic device. Now, since you're currently on a prepaid plan, and device financing is typically done on our postpaid accounts, we have a couple of options."
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "User",
+      "text": "Oh, okay. What are the options?"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "Agent",
+      "text": "We can convert your existing line and number to a new postpaid account, and then add your son's line to that same account. This would likely give you access to multi-line discounts and our best unlimited data plans."
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "User",
+      "text": "That sounds like what I'd want to do. I want everything on one bill. What kind of unlimited plans do you have?"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "Agent",
+      "text": "We have two main unlimited plans. Our most popular is the 'Cymbal Unlimited Welcome' plan. It includes unlimited talk, text, and data. The second is our 'Cymbal Unlimited Plus' plan, which offers a few more premium features."
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "User",
+      "text": "Okay, what's the difference in the data? Is it really unlimited?"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "Agent",
+      "text": "Great question. On the Welcome plan, you get unlimited data, but speeds may be temporarily slowed during times of network congestion. With the Plus plan, you get 100 gigabytes of premium, high-speed data each month before you'd see any potential slowing. It also includes 50 gigabytes of high-speed mobile hotspot data."
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "User",
+      "text": "My son talks a lot about hotspots. How much hotspot data does the cheaper plan have?"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "Agent",
+      "text": "The Unlimited Welcome plan includes 5 gigabytes of high-speed hotspot data, after which the hotspot speed is reduced."
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "User",
+      "text": "Okay, that's a big difference. And what about the prices?"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "Agent",
+      "text": "With two lines and our autopay and paperless billing discount, the Unlimited Welcome plan is $60 per line. The Unlimited Plus plan is $70 per line."
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "User",
+      "text": "So, that's $120 for the Welcome or $140 for the Plus, for both of us?"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "Agent",
+      "text": "That's exactly right. Before taxes and fees, and not including the new phone."
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "User",
+      "text": "I think for my son, the Plus plan makes sense. He's always on his phone. For me... I don't use that much data. Can we mix and match?"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "Agent",
+      "text": "Yes, you absolutely can! That's a very popular option. So we can put your line on the Unlimited Welcome and your son's new line on the Unlimited Plus."
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "User",
+      "text": "Perfect! Let's do that. So that would be... sixty plus seventy... $130 a month for the service?"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "Agent",
+      "text": "Correct. $130 per month for the two lines with the autopay discount. Now, let's look at that iPhone 15 Pro. What color and storage size were you interested in?"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "User",
+      "text": "He said he liked the Natural Titanium color. For storage... I'm not sure. What are the options?"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "Agent",
+      "text": "The iPhone 15 Pro starts at 128 gigabytes of storage. We also have 256, 512, and 1 terabyte models. The 256 gigabyte option is the most popular."
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "User",
+      "text": "Okay, 256 sounds like a safe bet. He takes a lot of videos. How much is that one?"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "Agent",
+      "text": "The full retail price for the iPhone 15 Pro with 256 gigabytes is $1099. We can finance that over 36 months, which works out to $30.53 per month."
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "User",
+      "text": "Thirty dollars and fifty-three cents. Okay. And that's just added to the bill?"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "Agent",
+      "text": "Yes, it would appear as a monthly device payment on your bill. So your total would be the $130 for the service, plus the $30.53 for the phone."
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "User",
+      "text": "So, about $160.53 a month, plus tax. That seems manageable."
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "Agent",
+      "text": "That's correct. Now, to set up a postpaid account and the device financing, I do need to run a quick credit check. It's a standard part of the process. I would just need your permission to proceed."
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "User",
+      "text": "Okay, that's fine. What do you need from me?"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "Agent",
+      "text": "I just need your verbal consent. Do I have your permission to run a standard credit inquiry for a new Cymbal Telecom postpaid account?"
+    },
+    {
+      "timestamp": "05:00",
+      "speaker": "User",
+      "text": "Yes, you have my permission."
+    },
+    {
+      "timestamp": "05:03",
+      "speaker": "Agent",
+      "text": "Thank you, Linda. I will need to place you on a brief hold while the system processes this. It should take about 60 to 90 seconds. Is that okay?"
+    },
+    {
+      "timestamp": "05:12",
+      "speaker": "User",
+      "text": "Yes, that's fine. I'll wait."
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "Agent",
+      "text": "Great. Please hold."
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "Agent",
+      "text": "Thank you for holding, Linda. I appreciate your patience."
+    },
+    {
+      "timestamp": "06:31",
+      "speaker": "User",
+      "text": "No problem. Did everything go through?"
+    },
+    {
+      "timestamp": "06:34",
+      "speaker": "Agent",
+      "text": "Yes, it did. Everything looks great. You've been approved for the financing with no down payment required. So we are all set to proceed with the order."
+    },
+    {
+      "timestamp": "06:45",
+      "speaker": "User",
+      "text": "Wonderful! That's great news."
+    },
+    {
+      "timestamp": "06:48",
+      "speaker": "Agent",
+      "text": "So, to recap the order before I submit it. We are converting your number to a new postpaid account on the Cymbal Unlimited Welcome plan."
+    },
+    {
+      "timestamp": "06:58",
+      "speaker": "User",
+      "text": "Yes."
+    },
+    {
+      "timestamp": "06:59",
+      "speaker": "Agent",
+      "text": "We are adding a new line of service for your son on the Cymbal Unlimited Plus plan."
+    },
+    {
+      "timestamp": "07:06",
+      "speaker": "User",
+      "text": "Correct."
+    },
+    {
+      "timestamp": "07:07",
+      "speaker": "Agent",
+      "text": "And we are ordering one Apple iPhone 15 Pro, 256 gigabytes, in Natural Titanium, to be financed over 36 months at $30.53 per month."
+    },
+    {
+      "timestamp": "07:21",
+      "speaker": "User",
+      "text": "That is all correct. It sounds perfect."
+    },
+    {
+      "timestamp": "07:25",
+      "speaker": "Agent",
+      "text": "Excellent. Now, I do need to make you aware of a couple of one-time charges that will appear on your first bill."
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "User",
+      "text": "Okay, what are those?"
+    },
+    {
+      "timestamp": "07:35",
+      "speaker": "Agent",
+      "text": "There is a one-time activation fee of $35 for the new line we are adding. We will waive the fee for converting your existing line, so you'll only be charged for the new one."
+    },
+    {
+      "timestamp": "07:47",
+      "speaker": "User",
+      "text": "A $35 activation fee. Okay, I understand."
+    },
+    {
+      "timestamp": "07:51",
+      "speaker": "Agent",
+      "text": "Also, while the phone itself is financed, state and local sales tax on the full retail price of the device is due today. Let me calculate that for you... based on your address, the sales tax comes to $85.17."
+    },
+    {
+      "timestamp": "08:08",
+      "speaker": "User",
+      "text": "So I have to pay eighty-five dollars today? I thought there was no down payment."
+    },
+    {
+      "timestamp": "08:14",
+      "speaker": "Agent",
+      "text": "I understand the confusion. The phone's cost is financed, so there's no down payment towards the phone's price. But unfortunately, we're required by law to collect the sales tax on the full value upfront. This isn't a Cymbal Telecom fee, but a government tax."
+    },
+    {
+      "timestamp": "08:30",
+      "speaker": "User",
+      "text": "Oh, I see. That makes sense. It's always the taxes, isn't it? Okay, so $85.17 today. How do I pay that?"
+    },
+    {
+      "timestamp": "08:40",
+      "speaker": "Agent",
+      "text": "I can take a credit or debit card payment over the phone right now to cover that charge and finalize the order."
+    },
+    {
+      "timestamp": "08:47",
+      "speaker": "User",
+      "text": "Okay, I have my Visa card right here. Are you ready?"
+    },
+    {
+      "timestamp": "08:51",
+      "speaker": "Agent",
+      "text": "Yes, whenever you're ready."
+    },
+    {
+      "timestamp": "08:53",
+      "speaker": "User",
+      "text": "The number is 4242... 5555... 1234... 5678."
+    },
+    {
+      "timestamp": "09:05",
+      "speaker": "Agent",
+      "text": "Thank you. And the expiration date?"
+    },
+    {
+      "timestamp": "09:08",
+      "speaker": "User",
+      "text": "It is 08 / 26."
+    },
+    {
+      "timestamp": "09:12",
+      "speaker": "Agent",
+      "text": "And the three-digit security code on the back?"
+    },
+    {
+      "timestamp": "09:15",
+      "speaker": "User",
+      "text": "That is 321."
+    },
+    {
+      "timestamp": "09:18",
+      "speaker": "Agent",
+      "text": "Thank you. And the name on the card is Linda Smith?"
+    },
+    {
+      "timestamp": "09:22",
+      "speaker": "User",
+      "text": "Yes, it is."
+    },
+    {
+      "timestamp": "09:24",
+      "speaker": "Agent",
+      "text": "Okay, one moment while I process the payment of $85.17."
+    },
+    {
+      "timestamp": "09:40",
+      "speaker": "Agent",
+      "text": "Alright, the payment has been approved. Your confirmation number for that transaction is T781-90B. I'm submitting the full order now."
+    },
+    {
+      "timestamp": "09:52",
+      "speaker": "User",
+      "text": "Okay, T781-90B. Got it."
+    },
+    {
+      "timestamp": "09:56",
+      "speaker": "Agent",
+      "text": "The order is in the system. Now, let's confirm the shipping address. I have it on file as 123 Maple Street, Anytown, State, 12345. Is that where you'd like the new phone sent?"
+    },
+    {
+      "timestamp": "10:10",
+      "speaker": "User",
+      "text": "Yes, 123 Maple Street is correct."
+    },
+    {
+      "timestamp": "10:14",
+      "speaker": "Agent",
+      "text": "Perfect. We offer free 2-business day shipping. You can expect the phone to arrive by Wednesday if we're shipping it today. You'll receive an email with tracking information once it leaves the warehouse, which is usually within 24 hours."
+    },
+    {
+      "timestamp": "10:29",
+      "speaker": "User",
+      "text": "That's great. And how do we activate it when it arrives? Do I need to call back?"
+    },
+    {
+      "timestamp": "10:35",
+      "speaker": "Agent",
+      "text": "The new phone will come with the Cymbal Telecom SIM card already installed. Once you turn it on, it should guide you through the activation process right on the screen. It's very straightforward. If you run into any trouble, you can certainly call us back, or visit the activation page on our website."
+    },
+    {
+      "timestamp": "10:52",
+      "speaker": "User",
+      "text": "And what about his new phone number?"
+    },
+    {
+      "timestamp": "10:55",
+      "speaker": "Agent",
+      "text": "Ah, yes. The new number will be assigned during activation. It will be a number with your local area code. The number will be displayed on the phone's screen and included in the confirmation details once activation is complete."
+    },
+    {
+      "timestamp": "11:10",
+      "speaker": "User",
+      "text": "Can I pick the number?"
+    },
+    {
+      "timestamp": "11:12",
+      "speaker": "Agent",
+      "text": "Unfortunately, the system assigns the next available number automatically. We can't choose a specific one, I'm sorry about that."
+    },
+    {
+      "timestamp": "11:20",
+      "speaker": "User",
+      "text": "Oh, that's okay. Not a big deal. He'll just be happy to have the phone."
+    },
+    {
+      "timestamp": "11:25",
+      "speaker": "Agent",
+      "text": "I'm sure he will be! Now, regarding the billing. Since we're moving you from prepaid to postpaid, your billing cycle will be new. Your first bill will be generated in about 3-5 days and will be available online."
+    },
+    {
+      "timestamp": "11:40",
+      "speaker": "User",
+      "text": "Okay. And that will have the $35 activation fee on it?"
+    },
+    {
+      "timestamp": "11:44",
+      "speaker": "Agent",
+      "text": "Yes. Your first bill can look a little confusing, so let me quickly explain it. It will have the $35 activation fee, plus a pro-rated charge for the services for the remainder of the current billing cycle, and then the first full month of service in advance. So it will be a bit higher than your normal $160.53 will be."
+    },
+    {
+      "timestamp": "12:05",
+      "speaker": "User",
+      "text": "Oh, right. I've heard about that. You pay for the part of this month, and all of next month. It makes sense."
+    },
+    {
+      "timestamp": "12:12",
+      "speaker": "Agent",
+      "text": "Exactly. After that first bill, it will normalize to the regular amount we discussed. And to get that multi-line discount and the plan pricing we talked about, you'll need to set up autopay from a bank account or debit card. You can do that right from your new online Cymbal account portal once you get your welcome email."
+    },
+    {
+      "timestamp": "12:30",
+      "speaker": "User",
+      "text": "Okay, I'll make sure to do that. I don't want to miss out on the discount."
+    },
+    {
+      "timestamp": "12:35",
+      "speaker": "Agent",
+      "text": "It's a good one to get, for sure. You'll receive a welcome email within the next hour that explains how to set up your online profile and manage your new account. It will have all the links you need."
+    },
+    {
+      "timestamp": "12:48",
+      "speaker": "User",
+      "text": "And what happens to my current prepaid plan? I just paid it last week."
+    },
+    {
+      "timestamp": "12:54",
+      "speaker": "Agent",
+      "text": "That's a fantastic question. I see you have a remaining balance of about $18 on your prepaid account. We will automatically apply that as a credit to your first postpaid bill, so you won't lose that money."
+    },
+    {
+      "timestamp": "13:08",
+      "speaker": "User",
+      "text": "Oh, good! I was worried about that. Thank you for checking."
+    },
+    {
+      "timestamp": "13:12",
+      "speaker": "Agent",
+      "text": "Of course. We want to make the transition as smooth as possible for you. Your current phone will continue to work on the Cymbal network. The switch to the postpaid plan on our side is seamless, you shouldn't notice any interruption in your service."
+    },
+    {
+      "timestamp": "13:28",
+      "speaker": "User",
+      "text": "So I don't have to do anything with my phone? It just keeps working?"
+    },
+    {
+      "timestamp": "13:32",
+      "speaker": "Agent",
+      "text": "That's right. Your number and service are now officially part of your new postpaid account. The only thing changing is the plan features and how you're billed."
+    },
+    {
+      "timestamp": "13:42",
+      "speaker": "User",
+      "text": "This has been much easier than I thought it would be."
+    },
+    {
+      "timestamp": "13:46",
+      "speaker": "Agent",
+      "text": "I'm very glad to hear that, Linda. We try our best. So, just to do one final check, I've confirmed the order for the iPhone 15 Pro, 256GB in Natural Titanium, the new line is set up on the Unlimited Plus, your line is on Unlimited Welcome, and the shipping address is correct."
+    },
+    {
+      "timestamp": "14:05",
+      "speaker": "User",
+      "text": "Yes, everything sounds right."
+    },
+    {
+      "timestamp": "14:07",
+      "speaker": "Agent",
+      "text": "You'll be getting a summary of this order via email shortly, along with the welcome email for setting up your online account. Is there a good email address I can confirm for you?"
+    },
+    {
+      "timestamp": "14:18",
+      "speaker": "User",
+      "text": "Yes, it's linda.smith@telecom-personal.com."
+    },
+    {
+      "timestamp": "14:25",
+      "speaker": "Agent",
+      "text": "Got it. L-I-N-D-A dot S-M-I-T-H at telecom-personal dot com."
+    },
+    {
+      "timestamp": "14:33",
+      "speaker": "User",
+      "text": "That's the one."
+    },
+    {
+      "timestamp": "14:35",
+      "speaker": "Agent",
+      "text": "Perfect. I've noted that on the account and linked it to all the confirmation emails. You should see the first one from Cymbal Telecom within the next 15 minutes."
+    },
+    {
+      "timestamp": "14:45",
+      "speaker": "User",
+      "text": "Okay, I'll keep an eye out for it."
+    },
+    {
+      "timestamp": "14:48",
+      "speaker": "Agent",
+      "text": "Do you have any other questions for me today, Linda? Anything at all about the new plans, the phone, or your new account?"
+    },
+    {
+      "timestamp": "14:56",
+      "speaker": "User",
+      "text": "No, I think you've covered everything. You were very thorough."
+    },
+    {
+      "timestamp": "15:00",
+      "speaker": "Agent",
+      "text": "It was my pleasure to help. We're excited to have you on our postpaid service. I'm also going to provide you with a reference number for today's call and order. It is 985-2441."
+    },
+    {
+      "timestamp": "15:15",
+      "speaker": "User",
+      "text": "Okay, 985-2441. Thank you, Alex."
+    },
+    {
+      "timestamp": "15:20",
+      "speaker": "Agent",
+      "text": "You're very welcome. Is there anything else I can assist you with?"
+    },
+    {
+      "timestamp": "15:24",
+      "speaker": "User",
+      "text": "No, that's everything for me. You've been a great help."
+    },
+    {
+      "timestamp": "15:28",
+      "speaker": "Agent",
+      "text": "Thank you for the kind words, Linda. We appreciate your business. Thank you for choosing Cymbal Telecom, and I hope you and your son enjoy the new service and phone. Have a wonderful day!"
+    },
+    {
+      "timestamp": "15:39",
+      "speaker": "User",
+      "text": "You too! Bye bye."
+    },
+    {
+      "timestamp": "15:41",
+      "speaker": "Agent",
+      "text": "Goodbye."
+    },
+    {
+      "timestamp": "15:43",
+      "speaker": "Agent",
+      "text": "Okay, just adding the final notes to the account... Call reason: new line and device order. Customer Linda Smith, CUST-1029. Converted prepaid line to postpaid Unlimited Welcome. Added one new line with Unlimited Plus. Financed iPhone 15 Pro 256GB Natural Titanium."
+    },
+    {
+      "timestamp": "16:15",
+      "speaker": "Agent",
+      "text": "Order number... let's find that... Order number is ORD-7745-9182. Device IMEI will be populated upon shipment. Sales tax of $85.17 collected via Visa card ending in 5678. Transaction ID T781-90B. Activation fee of $35 to be billed on first invoice. Waived second activation fee as courtesy."
+    },
+    {
+      "timestamp": "16:48",
+      "speaker": "Agent",
+      "text": "Noted remaining prepaid balance of $18 will be credited to first postpaid bill. Advised customer on first bill pro-ration, autopay setup for discount, and activation process for new device. Confirmed shipping address and email for notifications. Call reference number 985-2441 provided to customer."
+    },
+    {
+      "timestamp": "17:22",
+      "speaker": "Agent",
+      "text": "Customer was happy with the resolution. No further follow-up required from my end. The automated system will handle the email confirmations and shipping notifications. Okay, notes are complete. Submitting and closing the case."
+    },
+    {
+      "timestamp": "17:45",
+      "speaker": "Agent",
+      "text": "Next call in queue... let's see. A billing inquiry. Okay, here we go."
+    },
+    {
+      "timestamp": "18:55",
+      "speaker": "Agent",
+      "text": "Thank you for calling Cymbal Telecom. My name is Alex. How can I help you today?"
+    }
+  ]
+}
