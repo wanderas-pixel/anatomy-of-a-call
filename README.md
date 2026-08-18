@@ -230,8 +230,8 @@ Before running the project, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-org>/transcript-analyzer.git
-cd transcript-analyzer
+git clone https://github.com/wanderas-pixel/anatomy-of-a-call.git
+cd anatomy-of-a-call
 
 # Install dependencies using uv
 agents-cli install
